@@ -1,3 +1,11 @@
+# Guias
+Guia Lei Do Bem da Embrapa (https://github.com/PriRomano/Lei_do_bem/blob/main/LEIDOBEM.pdf)
+
+Guia Prático Lei do Bem MCTI 2020 (https://github.com/PriRomano/Lei_do_bem/blob/main/GuiaPraticodaLeidoBem2020MCTI.pdf)
+
+Guia da Lei do Bem ANPEI (https://github.com/PriRomano/Lei_do_bem/blob/main/Guia-da-lei-do-Bem-Outubro-de-2017.pdf)
+
+
 # Lei do Bem
 
 LEI Nº 11.196, DE 21 DE NOVEMBRO DE 2005
