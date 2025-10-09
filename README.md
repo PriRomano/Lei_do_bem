@@ -1,5 +1,9 @@
 # Índice
-
+- [Guias](#guias)
+- Lei do bem
+- [LEI Nº 11.196, DE 21 DE NOVEMBRO DE 2005](#lei-do-bem)
+- [MEDIDA PROVISÓRIA Nº 1.318, DE 17 DE SETEMBRO DE 2025](#medida-provisoria-n-1.318,-de-17-de-setembro-de-2025)
+- 
 
 # Guias
 Guia Lei Do Bem da Embrapa (https://github.com/PriRomano/Lei_do_bem/blob/main/LEIDOBEM.pdf)
@@ -1829,7 +1833,7 @@ Brasília, 21 de novembro de 2005; 184º da Independência e 117º da República
 
 
 
-# MEDIDA PROVISÓRIA Nº 1.318, DE 17 DE SETEMBRO DE 2025
+# MEDIDA PROVISÓRIA N 1.318, DE 17 DE SETEMBRO DE 2025
 
 Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.
 
@@ -2846,3 +2850,1529 @@ Detalhar tecnicamente o porquê o projeto deve ser enquadrado como P&D e não co
 Reestruturar a linguagem do projeto com base nas exigências da legislação;
 Apresentar evidências e documentos que demonstrem o mérito do projeto como P&D;
 Apontar os equívocos técnicos ou omissões no parecer;
+
+
+
+
+
+
+
+
+
+
+# OCDE Manual Frascati 2015
+
+2.1. Introdução
+2.1. Há mais de meio século que o Manual de Frascati apresenta as definições de pesquisa e desenvolvimento experimental (P&D) assim como as suas 
+componentes, as quais são: a pesquisa fundamental, a pesquisa aplicada e o 
+desenvolvimento experimental. Essas definições conseguiram resistir a prova 
+do tempo. Na sua essência, as definições aqui enunciadas são idênticas às das 
+edições precedentes, mas a definição de P&D evoluiu refletindo uma mudança 
+de tipo cultural e a do desenvolvimento experimental evoluiu dentro da sua 
+formulação.
+2.2. Depois da edição precedente do Manual, as despesas de P&D no contexto do Sistema de Contabilidade Nacional (SCN) deixaram de ser consideradas 
+como uma despesa, passando a ser consideradas como um investimento o qual 
+leva a um stock de capital de conhecimentos relativos à P&D. O SCN de 2008 
+(CE et al., 2009) apoia-se de fato na definição de P&D enunciada nesse Manual. 
+Levando em conta essa relação com o SCN, algumas das suas formulações são 
+retomadas literalmente nessa obra, o que se dará nota sistematicamente.
+2.3. A P&D abrange as ciências sociais, as ciências humanas e as artes, da 
+mesma maneira que as ciências naturais e a engenharia. Na presente edição 
+do Manual, as ciências sociais, as ciências humanas e as artes são colocadas 
+em maior evidência. Se isso não levou a rever as definições e convenções, convém por outro lado dar uma maior atenção à delimitação do que constitui e 
+não constitui a P&D. Além disso, como os países os quais adotam o Manual se 
+encontram em diferentes estados de desenvolvimento econômico, esse capítulo 
+procura acomodar as suas diferentes necessidades.
+2.4. Esse capítulo apresenta as definições de P&D e das suas componentes 
+integrado com um conjunto de critérios para identificar a P&D. Exemplos de 
+atividades de P&D, de delimitações e exclusões são também apresentados, 
+ilustrando como as definições são aplicadas. Esse é um manual de vocação estatística, sendo seu propósito fundamental o de formular orientações sobre como 
+quantificar as atividades de P&D a partir de sondagens, entrevistas e fontes 
+administrativas. O Manual é também usado para interpretar dados de P&D no 
+quadro da elaboração, aplicação e avaliação de políticas. Porém, os seus usuários não podem perder de vista que o objetivo desse capítulo é o de apresentar 
+as definições para a quantificação da P&D
+
+
+2.2. Definição da pesquisa e do desenvolvimento experimental (P&D)
+2.5. A pesquisa e o desenvolvimento experimental (P&D) incluem o trabalho criativo desenvolvido de forma sistemática, aumentando o campo dos conhecimentos, incluindo o conhecimento do homem, da cultura e da sociedade 
+e a utilização desses conhecimentos com o intuito de criar novas aplicações.
+2.6. Mesmo quando são executadas por atores diferentes, as atividades de 
+P&D são identificadas por um conjunto de características comuns. As atividades de P&D podem ser orientadas tanto para objetivos específicos como gerais. 
+A P&D é sempre dirigida a novas descobertas, baseada em conceitos originais 
+(e sua interpretação) ou hipóteses de caráter original. É sempre razoavelmente 
+incerta relativamente ao resultado final (ou pelo menos relativamente à quantidade de tempo e recursos necessários para chegar a esse resultado); a sua 
+execução é planejada e as modalidades de financiamento são estabelecidas 
+(mesmo quando são executadas por indivíduos), e os seus resultados são supostos a serem livremente transferidos ou negociados em um mercado. Para que 
+uma dada atividade possa ser considerada uma atividade de P&D, é necessário 
+satisfazer os cinco critérios de base.
+2.7. A atividade deve ser
+• inovadora
+• criativa
+• incerta
+• sistemática
+• transferível e/ou reprodutível.
+2.8. Os cinco critérios têm que ser cumpridos, pelo menos em princípio, 
+cada vez que uma atividade de P&D é executada quer de uma forma contínua, 
+quer de forma ocasional. A definição de P&D apresentada acima é consistente com a noção de P&D utilizada em edições anteriores do Manual de Frascati,
+abrangendo uma gama de atividades idêntica.
+2.9. O termo P&D engloba três tipos de atividade: pesquisa fundamental, 
+pesquisa aplicada e desenvolvimento experimental. A pesquisa fundamental
+consiste em trabalhos experimentais ou teóricos iniciados principalmente 
+para obter novos conhecimentos sobre os fundamentos dos fenômenos e fatos 
+observáveis, não tendo em vista qualquer aplicação ou utilização em particular. A pesquisa aplicada também consiste em trabalhos originais realizados 
+com o objetivo de adquirir novos conhecimentos; no entanto, dirige-se fundamentalmente para um objetivo ou fim prático específico. O desenvolvimento 
+experimental consiste em trabalhos sistemáticos baseados nos conhecimentos 
+existentes obtidos pela pesquisa e/ou pela experiência prática e na produção 
+de conhecimento adicional a qual se dirige à produção de novos produtos ou 
+processos, ou a melhoria substancial dos já existentes. Esses três tipos de P&D 
+são discutidos em mais detalhe na Seção 2.5.
+2.10. Esse Manual segue a convenção do SCN no qual “produto” se refere a 
+um bem ou a um serviço (EC et al, 2009, para. 2.36). Nesse Manual, “processo” 
+designa a transformação de inputs em outputs e a sua entrega, ou designa estruturas ou práticas organizacionais.
+2.11. A ordem em que os três tipos de atividade de P&D aparecem não 
+pretende sugerir que a pesquisa fundamental leve a pesquisa aplicada e subse-quentemente ao desenvolvimento experimental. Há muitas vias de informação 
+e conhecimento no sistema de P&D. O desenvolvimento experimental pode 
+esclarecer a pesquisa fundamental, e não há nenhuma razão para a pesquisa 
+fundamental não levar diretamente a novos produtos ou processos.
+
+
+
+
+2.3. Atividades e projetos de P&D
+2.12. Uma “atividade de P&D” é a soma de ações deliberadamente executadas pelos atores da P&D produzindo novos conhecimentos. Na maior parte dos 
+casos, as atividades de P&D podem ser agrupadas em “projetos de P&D”. Cada 
+projeto de P&D consiste em um conjunto de atividades de P&D, organizadas 
+e geradas para um fim específico, tendo seus próprios objetivos e realizações 
+específicas, mesmo em um patamar mais elementar de atividade formal. O 
+conceito de um projeto de P&D útil para compreender como a P&D é executada, 
+não é utilizado uniformemente em todos os setores estudados nesse Manual.
+
+
+
+2.4. Os cinco critérios para identificar a P&D
+2.13. A fim de que uma atividade seja classificada como uma atividade de 
+P&D, cinco critérios fundamentais devem ser verificados em conjunto. Uma 
+série de exemplos, que de forma nenhuma é exaustiva, é utilizada para ilustrar 
+como os cinco critérios podem ser efetivamente aplicados para identificar as 
+atividades de P&D bem como projetos específicos de P&D.
+Ser dirigido à novas descobertas (inovação)
+2.14. A aquisição de novos conhecimentos é um objetivo esperado de um 
+projeto de P&D, mas deve ser adaptado de acordo com os contextos. Por exemplo, 
+dos projetos de pesquisa em universidades esperam-se avanços de conhecimento inteiramente inovadores, e o mesmo se pode dizer relativamente a projetos 
+desenhados e gerados por institutos de pesquisa.
+2.15. No setor empresarial (os setores do Manual de Frascati encontram-se 
+definidos no Capítulo 3) o grau de novidade dos projetos de P&D precisa ser 
+aferido por comparação ao conjunto de conhecimento existente na indústria. 
+A atividade de P&D em um projeto deve originar descobertas as quais são novas para a empresa e que ainda não estejam sendo exploradas pela indústria. 
+Excluem-se da P&D as atividades realizadas para copiar, imitar ou fazer engenharia reversa para adquirir conhecimento, pois esse conhecimento não é novo.
+2.16. Uma novidade pode resultar de um projeto destinado a reproduzir um 
+resultado conhecido o qual revela potenciais discrepâncias. Deve ser incluído 
+em P&D um projeto de desenvolvimento experimental destinado a criar conhecimento apoiando o desenvolvimento de novos conceitos e ideias relacionadas 
+com o desenho de novos produtos e processos. Na medida em que a P&D designa 
+a criação estruturada de conhecimento, incluindo conhecimento integrado em 
+produtos e processos, são esses novos conhecimentos, e não os produtos ou 
+processos novos ou significativamente melhorados resultantes da aplicação do 
+conhecimento, o que é importante quantificar. Um exemplo de P&D pode ser 
+a integração de um “manual de manutenção” de um sistema muito complexo 
+(como uma aeronave de transporte de passageiros) com um material adicional 
+resultante da experiência prática da manutenção de rotina devidamente codificada, desde que isso tenha sido feito dentro de um projeto de P&D. Um outro exemplo pode ser o de experiências sistemáticas documentando o uso potencial 
+de uma reação química a qual já foi adotada em processo de produção (uma tecnologia já existente) para obter uma nova molécula que tinha sido considerada 
+como um produto improvável segundo a literatura científica.
+
+Ser baseado em conceitos e hipóteses originais e não evidentes 
+(criatividade)
+2.17. Um projeto de P&D deve ter como objetivo chegar a conceitos ou ideias 
+novas as quais melhorem o conhecimento existente. Isso exclui da P&D todas as 
+alterações de rotina em produtos e processos, consequentemente, determinando que o fator humano é parte integrante da criatividade em P&D. Assim, um 
+projeto de P&D requer a contribuição de um pesquisador (definido no Capítulo 5). 
+Uma área a qual requer algum cuidado na avaliação é a das artes (Seção 2.6): há 
+criatividade, mas os outros critérios têm que ser verificados para que a atividade 
+seja qualificada como P&D. Embora a atividade de rotina seja excluída de P&D, 
+estão incluídos novos métodos na realização de tarefas comuns. Por exemplo, 
+o processamento de dados não é uma atividade de P&D a não ser que seja parte 
+de um projeto para desenvolver novos métodos de processamento de dados. O 
+treino vocacional é excluído de P&D, mas o desenvolvimento de novos métodos 
+a fim de realizar treino vocacional pode ser considerado P&D. Um novo método 
+para resolver um problema desenvolvido dentro de um projeto, pode ser P&D 
+se o resultado é original e os outros critérios são verificados.
+
+
+
+Ser incerto quanto aos resultados finais (incerteza)
+2.18. A P&D envolve incerteza, o qual tem implicações variadas. Na origem 
+de um projeto de P&D, o resultado final e o custo (incluindo o tempo de execução) não podem ser determinados com precisão relativamente aos objetivos 
+propostos. No caso da pesquisa fundamental, a qual se destina a alargar as 
+fronteiras do conhecimento formal, se reconhece a possibilidade de não se 
+atingir os objetivos propostos. Por exemplo, um projeto de pesquisa pode ter 
+sucesso na eliminação de um número de hipóteses alternativas, mas pode não 
+eliminar todas as alternativas. Na P&D em geral, há alguma incerteza nos custos 
+ou tempo necessários para atingir os resultados esperados, e até mesmo para 
+avaliar se os resultados serão efetivamente atingidos. Por exemplo, a incerteza 
+é um critério chave para distinguir entre modelos de P&D (modelos utilizados 
+para testar conceitos técnicos e tecnologias com um elevado risco de insucesso em termos de aplicação) e modelos de não-P&D (unidades de pré-produção 
+utilizadas para obter certificação técnica ou legal)
+
+
+Ser planejado e orçamentado (sistematização)
+2.19. A P&D é uma atividade formal a qual é executada sistematicamente. 
+Nesse contexto, “sistemático” significa que a P&D é conduzida de forma planejada, com registros sobre o processo seguido e o resultado. Para verificar esse 
+critério, o objetivo do projeto de P&D e as fontes de financiamento da P&D executada devem ser identificados. A disponibilização desses registros é consistente 
+com um projeto de P&D destinando-se a responder as necessidades específicas, 
+tendo seus próprios recursos humanos e financeiros. Embora as estruturas de 
+gestão e registro descritas acima sejam mais prováveis de encontrar em projetos maiores, também se devem aplicar à atividades em escala reduzida, sendo 
+suficiente contar com um ou mais empregados ou consultores (desde que um 
+pesquisador esteja incluído) encarregados de encontrar uma solução específica 
+para um problema prático
+
+
+Levar a resultados os quais possam ser reproduzidos (transferência e/
+ou reprodutibilidade)
+2.20. Um projeto de P&D deve ter o potencial de transferir novo conhecimento, garantindo a sua utilização e permitindo a outros pesquisadores a reprodução dos resultados como parte das suas próprias atividades de P&D. Isso 
+inclui P&D com resultados negativos, no caso da hipótese inicial não ser confirmada ou na impossibilidade de um produto ser desenvolvido como inicialmente 
+previsto. Como o objetivo da P&D é aumentar o conjunto de conhecimento existente, os resultados não podem permanecer tácitos (i.e., permanecer apenas na 
+posse dos pesquisadores), pois estes, e o conhecimento associado, correriam o 
+risco de ser perdidos. A codificação do conhecimento e a sua disseminação são 
+partes integrantes das práticas habituais das universidades e dos institutos de 
+pesquisa, embora possa haver restrições relativas ao conhecimento resultante de prestação de serviços ou de colaborações. No ambiente empresarial, os 
+resultados são protegidos por confidencialidade e outros meios de proteção da 
+propriedade intelectual, mas espera-se que os processos e os resultados sejam 
+registrados para uso de outros pesquisadores na empresa
+
+
+Exemplos
+2.21. Para compreender o objetivo de um projeto é essencial identificar a 
+sua componente de P&D e o contexto institucional em que a P&D é realizada, 
+como é mostrado nos exemplos seguintes:
+• No campo da medicina, uma autópsia de rotina para conhecer as causas 
+de morte corresponde a uma prática médica corrente não sendo P&D; por 
+outro lado, se a autópsia for efetuada para estudar a mortalidade em um 
+caso particular com a finalidade de entender os efeitos colaterais de um 
+dado tratamento contra o câncer, então é considerada P&D (aplicam-se 
+aqui os critérios de novidade, de incerteza quanto aos resultados do estudo e de transferência dos resultados tendo em vista uma utilização mais 
+abrangente).
+• Do mesmo modo, exames de rotina tais como as análises de sangue ou 
+bacteriológicas, não são consideradas P&D; mas se um programa especial 
+de análise de sangue for realizado motivado pela introdução de um novo 
+fármaco, então é P&D.
+• O registro diário da temperatura ou da pressão atmosférica não é P&D, 
+já que corresponde a operações de rotina. Contudo, a pesquisa de novos 
+métodos de medida das temperaturas é P&D, assim como o estudo e desenvolvimento de novos modelos de previsão meteorológica.
+• As atividades de P&D executadas na indústria da engenharia mecânica 
+estão frequentemente associadas ao trabalho de desenho. Geralmente, as 
+pequenas e médias empresas (PME) desse setor industrial não têm um departamento específico de P&D, sendo as atividades efetuadas muitas vezes 
+sob a denominação de “estudos e projetos”. Quando os cálculos, projetos, planos e instruções de funcionamento são executados para a construção e 
+lançamento de instalações piloto e de protótipos, devem ser incluídos em 
+P&D. Porém, se forem feitos para a preparação, execução e manutenção 
+de produção normalizada (por exemplo, padrões, máquinas-ferramenta) 
+ou para a promoção da venda de produtos (por exemplo, brindes, folhetos 
+e catálogos de peças sobresselentes) devem ser excluídos da P&D. Nesse 
+exemplo podem ser identificadas várias características de P&D: a novidade 
+resultando do estudo de oportunidades oferecidas por novos dispositivos 
+(por meio do funcionamento de protótipos), a incerteza associada ao teste 
+de protótipos podendo dar resultados inesperados, a criatividade no desenho de novos dispositivos que serão produzidos, a transferência na produção de documentação técnica a qual traduz os resultados dos testes em 
+informação para ser usada na etapa de desenvolvimento do produto, e uma 
+abordagem sistemática quando se identifica uma organização detalhada do 
+projeto como suporte das atividades técnicas acima descritas.
+
+2.22. A Tabela 2.1 mostra alguns exemplos práticos de como a P&D pode  ser identificada por meio dos cinco critérios base.
+Tabela 2.1. Exemplos de questões que permitem  identificar projetos de P&D.
+
+Questão Comentário
+a. Quais são os objetivos do  projeto?
+O estabelecimento de objetivos originais e ambiciosos implementáveis por meio de  “conhecimento novo” (por exemplo, descobrir fenômenos, estruturas ou relações ainda  desconhecidas) é uma característica essencial da P&D. A utilização de conhecimento  existente (adaptação, personalização, etc.) sem intenção de aumentar o campo de  conhecimentos deve ser excluído da P&D (critério de novidade). 
+b. Existe um elemento novo ou  inovador nesse projeto?
+Além do “conhecimento novo”, um projeto de P&D deve seguir uma abordagem criativa,  como por exemplo: procurar novas aplicações para o conhecimento científico existente  ou novas utilidades de técnicas ou tecnologias disponíveis (critério de criatividade).
+c. Quais são os métodos  utilizados para executar o  projeto?
+Os métodos seguidos na pesquisa científica ou tecnológica, bem como a pesquisa nas 
+ciências sociais, humanidades e artes, são aceitáveis desde que estejam relacionadas 
+com a incerteza associada ao resultado final do projeto. A incerteza pode estar na 
+quantidade de tempo e de recursos necessários para atingir o objetivo esperado. A 
+escolha do método pode ser parte da criatividade do projeto e uma forma de lidar com a 
+incerteza (critérios de criatividade e de incerteza).
+d. Em que medida as  conclusões ou os resultados  do projeto podem ter um  caráter geral?
+Para serem aplicadas com generalidade, as descobertas de um projeto de P&D devem 
+cumprir o critério de transferência/reprodutibilidade, além dos outros 4 critérios. A 
+transferência dos resultados pode ser demonstrada, por exemplo, pela publicação na 
+literatura científica e pelo uso de instrumentos de proteção da propriedade intelectual.
+e. Que categorias de pessoal  trabalham no projeto?
+A execução de um projeto de P&D normalmente requer a mobilização de várias 
+competências (as questões relacionadas com o pessoal de P&D são discutidas 
+no Capítulo 5 do Manual). Os recursos humanos da pesquisa são constituídos por 
+pesquisadores, técnicos e pessoal de apoio, mas apenas os pesquisadores enquanto 
+tal devem ser identificados, a fim de que se possa qualificar como P&D uma atividade 
+que implicitamente satisfaça os cinco critérios base.
+f. Em que categoria é possível  classificar os projetos de  pesquisa dos institutos de  pesquisa?
+Em alguns casos pode ser utilizada uma “abordagem institucional” para distinguir entre 
+projeto de P&D e projetos os quais não são de P&D. Por exemplo, a maioria dos projetos 
+executados por institutos de pesquisa ou por grupos de pesquisa nas universidades podem 
+ser classificados como projetos de P&D. Projetos lançados por outros atores (empresas ou 
+instituições que não se dedicam exclusivamente à P&D) devem ser avaliados com base nos 
+cinco critérios de P&D (ver a descrição dos setores no Capítulo 3).
+
+
+
+2.5. Classificação por modalidade de P&D
+2.23. A classificação por modalidade de P&D é normalmente recomendada 
+para ser utilizada nos quatro setores nacionais nos quais executam P&D considerados nesse Manual e definidos no Capítulo 3: as empresas, o ensino superior, 
+o Estado e o setor privado sem fins lucrativos. Tendo em vista a comparação 
+internacional, essa classificação deve incidir sobre o total de despesas em P&D 
+ou apenas sobre as despesas correntes (ver Capítulo 4). Essa classificação pode 
+ser feita aplicadando-se à escala do projeto, mas em alguns projetos de P&D 
+pode ser subdividida.
+2.24. Podem-se distinguir três modalidades de P&D:
+• Pesquisa fundamental
+• Pesquisa aplicada
+• Desenvolvimento experimental.
+Pesquisa fundamental
+2.25. A pesquisa fundamental consiste em trabalhos experimentais ou 
+teóricos desenvolvidos essencialmente para obter novos conhecimentos 
+acerca dos fundamentos de fenômenos e fatos observáveis, sem considerar 
+uma determinada aplicação ou utilização.
+2.26. A pesquisa fundamental analisa propriedades, estruturas e relações 
+com o objetivo de formular e testar hipóteses, teorias ou leis. A referência a “sem 
+considerar uma determinada aplicação ou utilização” na definição da pesquisa 
+fundamental é crucial, pois o agente executor pode não conhecer aplicações 
+reais quando realiza a pesquisa ou responde às sondagens. Os resultados da 
+pesquisa fundamental são geralmente publicados em revistas científicas ou 
+divulgados diretamente a colegas interessados. Ocasionalmente, a divulgação 
+dos resultados da pesquisa fundamental pode ser considerada “confidencial” 
+por razões de segurança nacional.
+2.27. Na pesquisa fundamental os cientistas têm normalmente alguma 
+liberdade para fixar os seus próprios objetivos. Essa modalidade de pesquisa 
+é geralmente realizada no setor do ensino superior, mas também, em certa 
+medida, se realiza no setor do Estado. A pesquisa fundamental pode estar 
+orientada ou dirigida para grandes áreas de interesse geral, tendo como objetivo explícito uma gama de aplicações no futuro. As empresas do setor privado 
+também podem realizar pesquisas fundamentais, mesmo não se antecipando 
+aplicações comerciais a curto prazo. A pesquisa sobre algumas tecnologias as 
+quais permitem poupar energia pode ser considerada como fundamental de 
+acordo com a definição acima apresentada se ainda não têm uma utilização 
+específica à vista. Nesse Manual define-se esse tipo de pesquisa como “pesquisa 
+fundamental orientada”.
+2.28. A pesquisa fundamental orientada pode-se distinguir da “pesquisa 
+fundamental pura” do seguinte modo:
+• A pesquisa fundamental pura é realizada fazendo progredir os conhecimentos, sem a intenção de obter vantagens econômicas ou sociais a longo 
+prazo, ou de fazer um esforço deliberado para aplicar os resultados a problemas práticos, ou transferir esses resultados para os setores responsáveis 
+pela sua aplicação.
+• A pesquisa fundamental orientada é motivada pela expectativa de produzir uma base de conhecimentos ampla, constituindo um ponto de partida 
+para a resolução de problemas já formulados ou que possam ser colocados 
+no futuro.
+
+
+Pesquisa Aplicada
+2.29. A pesquisa aplicada consiste em trabalhos originais realizados para 
+adquirir novos conhecimentos; no entanto, está dirigida fundamentalmente 
+para um objetivo prático específico.
+2.30. A pesquisa aplicada é realizada para determinar possíveis aplicações 
+dos resultados da pesquisa fundamental, ou para desenvolver novos métodos 
+ou formas de alcançar objetivos específicos pré-determinados. Esse tipo de 
+pesquisa implica a consideração de todos os conhecimentos existentes e o seu 
+aprofundamento, tendo em vista a resolução de problemas específicos. No setor empresarial, a separação entre pesquisa fundamental e pesquisa aplicada 
+é frequentemente marcada pela criação de um novo projeto explorarando um 
+resultado prometedor obtido em um programa de pesquisa fundamental (o que 
+implica passar de perspectivas a longo prazo para médio prazo na exploração 
+dos resultados da P&D internos ([ver Glossário]).
+2.31. Os resultados da pesquisa aplicada destinam-se prioritariamente a 
+poderem ser aplicados a produtos, operações, métodos ou sistemas. A pesquisa 
+aplicada dá uma forma operacional às ideias. As aplicações dos conhecimentos 
+obtidos na pesquisa aplicada podem ser protegidas por meio de instrumentos 
+de propriedade intelectual incluindo: segredo de negócio.
+
+
+
+Desenvolvimento Experimental
+2.32. O desenvolvimento experimental consiste em trabalhos sistemáticos 
+fundamentados nos conhecimentos obtidos por intermédio da pesquisa e da 
+experiência prática, produzindo novos conhecimentos técnicos e se dirigindo 
+a novos produtos ou processos, ou a melhoria de produtos e processos já existentes.
+2.33. O desenvolvimento de novos produtos ou processos classifica-se como 
+desenvolvimento experimental quando cumpre os critérios de identificação de 
+uma atividade de P&D. Como exemplo, pode referir-se a incerteza quanto aos 
+recursos necessários para atingir os objetivos do projeto de P&D no contexto 
+da execução da sua atividade de desenvolvimento. Nesse Manual, a letra “D” 
+da sigla P&D significa “desenvolvimento experimental”.
+
+
+
+“Desenvolvimento experimental” não significa 
+“desenvolvimento de produtos”
+2.34. Não se deve confundir o “desenvolvimento experimental” com o 
+“desenvolvimento de produtos”, o qual designa o processo global – desde a 
+formulação das ideias e conceitos até a comercialização – destinado a levar 
+um produto novo (bem ou serviço) até ao mercado. O desenvolvimento experimental é apenas uma etapa possível no processo de desenvolvimento de um produto: a etapa em que o conhecimento geral é de fato testado na aplicação 
+específica necessária para que esse processo atinja o seu sucesso final. Novos 
+conhecimentos são gerados durante o desenvolvimento experimental, terminando essa etapa quando os critérios de P&D (novidade, incerteza, perfil 
+sistemático e transferência e/ou reprodutibilidade) se deixam de aplicar. Por 
+exemplo, em um processo destinado ao desenvolvimento de um novo automóvel, pode ser considerada a opção de adotar novas tecnologias testando a sua 
+utilização no novo automóvel: essa é a etapa em que se conduz o desenvolvimento experimental. Essa etapa levará a novos resultados induzindo novas 
+aplicações a partir de um conhecimento geral. Será incerta, pois os testes 
+podem conduzir a resultados negativos. Ela deve ser criativa, já que a atividade 
+centra-se na adaptação de uma tecnologia a uma nova utilização. Terá que 
+ser formalizada, uma vez que necessita do empenho de recursos humanos 
+especializados. Envolverá uma codificação para transferir os resultados dos 
+testes em termos de recomendações técnicas para as etapas posteriores do 
+processo de desenvolvimento do produto. Porém, há casos de desenvolvimento 
+de produto sem P&D discutidos em obras e artigos de economia, especialmente 
+no caso de PMEs.
+
+
+“Desenvolvimento experimental” não significa “desenvolvimento prévio 
+à produção”
+2.35. O conceito de desenvolvimento experimental não pode ser confundido com “desenvolvimento prévio à produção”, o qual é o termo utilizado para descrever trabalho não-experimental de um produto ou sistema 
+das indústrias da defesa e da aeronáutica antes de entrar em produção. 
+Encontram-se casos semelhantes em outras indústrias. É difícil definir 
+com precisão o limite no qual separa o desenvolvimento experimental do 
+desenvolvimento prévio à produção. A distinção entre essas duas categorias 
+requer a “apreciação de um especialista” sobre o momento em que termina 
+o elemento de novidade, transformando o trabalho em desenvolvimento de 
+rotina de um sistema integrado.
+2.36. Por exemplo, quando um caça-bombardeiro passa com sucesso as 
+etapas de pesquisa, demonstração tecnológica, desenho de projeto e desenvolvimento inicial, e chega a fase de testes de voo antes de ir para a produção, 
+podem ser necessários mais dez estruturas de voo para garantir a sua total 
+integração operacional. Esse processo pode ter duas etapas. A primeira etapa 
+é o desenvolvimento de um sistema integrado de defesa/ataque aéreo, envolvendo a conjunção de componentes e subsistemas desenvolvidos os quais não 
+tinham sido previamente integrados nesse contexto. Isso requer um programa 
+alargado de teste de voo para a aeronave, o qual é potencialmente muito caro, 
+podendo ser o maior componente do custo antes da produção. Embora muito 
+do trabalho encomendado nessa etapa seja o desenvolvimento experimental 
+(P&D), algum desse trabalho não tem o elemento de novidade necessário para 
+a sua classificação como P&D e é mais adequadamente considerado como desenvolvimento prévio à produção (não-P&D). A segunda etapa inclui ensaios 
+do sistema integrado de defesa/ataque aéreo. Quando o sistema dá provas que 
+funciona na primeira etapa, o desenvolvimento do projeto pode evoluir para 
+uma série de produção para ensaios (baixo nível de produção inicial). A produção de rotina depende do sucesso desta etapa. De acordo com esse manual, 
+esse trabalho não é P&D, mas sim desenvolvimento prévio à produção. Porém, 
+podem surgir problemas durantes os ensaios podendo ser necessário um novo desenvolvimento experimental para os resolver. Esse trabalho é descrito nesse 
+manual como “P&D retroativo” e deve ser considerado como P&D.
+
+
+Como distinguir os diferentes tipos de P&D
+2.37. Um critério fundamental permite classificar as atividades de P&D 
+quanto ao seu tipo: o uso esperado dos seus resultados. Adicionalmente, duas 
+questões ajudam a identificar o tipo de projeto de P&D:
+• Dentro de quanto tempo é que o projeto deverá permitir chegar a resultados 
+aplicáveis?
+• Qual é a amplitude dos campos de aplicação potencial dos resultados do 
+projeto de P&D (quanto mais fundamental for a pesquisa, mais abrangente 
+o potencial campo de aplicação).
+2.38. A relação entre a pesquisa fundamental, a pesquisa aplicada e o desenvolvimento experimental deve ser vista em uma perspectiva dinâmica. É 
+possível que a pesquisa aplicada e o desenvolvimento experimental consigam 
+adaptar conhecimentos fundamentais oriundos de uma pesquisa fundamental 
+obtendo diretamente uma aplicação geral. Porém, a linearidade desse processo 
+é afetada pela retroação gerada na aplicação do conhecimento. Essa interação 
+dinâmica entre a geração de conhecimento e a solução de problemas cria ligações entre a pesquisa fundamental, a pesquisa aplicada e o desenvolvimento 
+experimental.
+2.39. Esses três tipos de P&D raramente se encontram separados dentro 
+das organizações as quais realizam projetos de P&D. Os três tipos podem ser 
+executados pela mesma unidade e pela mesma equipe, mas também se podem 
+encontrar estratificados em categorias. Por exemplo, a pesquisa sobre um tratamento médico inovador para pessoas afetadas por uma doença epidêmica 
+pode envolver tanto a pesquisa fundamental como a aplicada. Recomenda-se 
+que a avaliação do tipo de projeto seja feita no âmbito do projeto, classificando 
+os resultados esperados para o projeto de acordo com os dois “indicadores” 
+acima descritos. Alguns exemplos são apresentados nos parágrafos seguintes.
+
+
+
+Exemplos de como distinguir os diferentes tipos de P&D nas ciências 
+naturais e da engenharia
+2.40. Os exemplos seguintes ilustram as diferenças gerais entre pesquisa 
+fundamental, pesquisaaplicada e desenvolvimento experimental nas ciências 
+naturais e engenharia.
+• O estudo de uma determinada classe de reações de polimerização em 
+diversas condições, da gama dos produtos resultantes e das suas propriedades físicas e químicas, é pesquisa fundamental. A tentativa de otimizar 
+uma dessas reações para a obtenção de um polímero com determinadas 
+propriedades físicas ou mecânicas (lhe conferindo uma utilização especial), 
+é pesquisa aplicada. O desenvolvimento experimental consiste na repetição a “escala piloto” do processo otimizado no laboratório, assim como na 
+pesquisa e avaliação dos métodos possíveis de produção do polímero e, 
+eventualmente, de bens que possam ser fabricados com ele.
+• O estudo da absorção de radiação eletromagnética por um cristal para obter informação sobre a sua estrutura eletrônica é pesquisa fundamental.
+O mesmo estudo de absorção de radiação eletromagnética em condições 
+variadas (por exemplo: temperatura, presença de impurezas, concentração, 
+etc.), com o objetivo de conseguir determinadas propriedades de detecção 
+da radiação (sensibilidade, rapidez, etc.) é pesquisa aplicada. O teste de um 
+dispositivo empregando esse material a fim de obter melhores detectores 
+de radiação do que os atualmente existentes (na região espectral considerada), é desenvolvimento experimental.
+• O desenvolvimento de um novo método para a classificação de sequências de imunoglobulinas é pesquisa fundamental. Pesquisas conduzidas 
+visando a distinção entre anticorpos de várias doenças é pesquisa aplicada. O desenvolvimento experimental seria, por exemplo, a procura de 
+um método para sintetizar um anticorpo para uma determinada doença 
+baseando-se no conhecimento da sua estrutura, assim como o conjunto de 
+ensaios clínicos correspondentes com o intuito de determinar a eficácia do 
+anticorpo sintetizado em pacientes os quais tenham aceitado submeter-se 
+a esse tratamento avançado a título experimental.
+• Um estudo sobre como as propriedades das fibras de carbono podem mudar 
+de acordo com a sua posição e orientação relativa dentro de uma estrutura 
+é considerado pesquisa fundamental. A concretização de um método o qual 
+permita o processamento de fibras de carbono em escala industrial com um 
+grau de precisão na ordem dos nanômetros pode ser o resultado de uma 
+pesquisa aplicada. O teste da utilização de novos materiais compósitos em 
+diferentes aplicações é classificado como desenvolvimento experimental.
+• Controlar os processos de materiais no nível em que ocorrem efeitos quânticos é um objetivo da pesquisa fundamental. Desenvolver materiais e componentes para diodos emissores de luz orgânicos e inorgânicos melhorando 
+a eficiência e o custo de produção é considerado pesquisa aplicada. O desenvolvimento experimental poderia ser dirigido à identificação de aplicações 
+para diodos avançados e a sua incorporação em equipamentos comerciais.
+• A procura de métodos alternativos de computação como o cálculo quântico 
+e a teoria quântica da informação, é pesquisa fundamental. A pesquisa 
+sobre a aplicação do processamento de informação em novos campos ou 
+segundo novos processos (por exemplo: desenvolvimento de uma nova 
+linguagem de programação, de novos sistemas operacionais, de geradores 
+de programas, etc.) e a pesquisa sobre a aplicação do processamento de 
+informação no desenvolvimento de ferramentas tais como a informação 
+geográfica e sistemas especializados, é pesquisa aplicada. O desenvolvimento de novas aplicações de software, melhorias importantes em sistemas operacionais e em aplicações, etc., é desenvolvimento experimental.
+• O estudo de todas as fontes (manuscritos, documentos, monumentos, obras 
+de arte, edifícios, etc.) para compreender melhor os fenômenos históricos 
+(a evolução política, social e cultural de um país, biografia de um indivíduo, etc.) constitui uma atividade de pesquisa fundamental. Fazer uma 
+análise comparativa de locais arqueológicos e/ou monumentos com certas 
+semelhanças ou características comuns (por exemplo: geografia, arquitetura, etc.) para compreender interligações eventualmente relevantes para 
+materiais de ensino e museus, é pesquisa aplicada. O desenvolvimento de 
+novos instrumentos e métodos para estudar artefatos e objetos naturais 
+recuperados em explorações arqueológicas (por exemplo: datação de ossadas ou resíduos vegetais) é desenvolvimento experimental.
+• Nas ciências agrícolas e silvicultura:
+❖ Pesquisa fundamental: estudar as modificações genéticas e fatores 
+mutagênicos em plantas para entender os efeitos sobre o fenótipo; 
+proceder uma análise genética de espécies vegetais da floresta para 
+compreender os mecanismos naturais de controle das doenças ou 
+resistência aos parasitas.
+❖ Pesquisa aplicada: estudar os genomas da batata selvagem para 
+localizar os genes responsáveis pela resistência ao míldio da batata 
+e reforçar essa resistência na batata cultivada; plantar florestas 
+experimentais no qual se altera o espaçamento e alinhamento entre 
+as árvores para reduzir a propagação de doenças determinando o 
+arranjo ótimo para um rendimento máximo.
+❖ Desenvolvimento experimental: criar uma ferramenta para editar 
+genes utilizando o conhecimento da edição de ADN pelas enzimas; 
+usar o conhecimento existente sobre uma espécie específica de planta 
+estabelecendo um plano de melhoria da plantação de florestas por 
+uma empresa de forma a atingir um objetivo específico.
+Na nanotecnologia:
+❖ Pesquisa fundamental: estudar as propriedades elétricas do grafeno 
+por meio da microscopia de varrimento por efeito de túnel, visando 
+estudar a mobilidade dos elétrons em função de diferenças de tensão.
+❖ Pesquisa aplicada: estudar as micro-ondas e o acoplamento 
+térmico com nanopartículas com o objetivo de alinhar e posicionar 
+adequadamente os nanotubos de carbono.
+❖ Desenvolvimento experimental: usar a pesquisa em micro-fabricação 
+com o intuito de desenvolver um sistema portátil e modular com 
+componentes, sendo cada um deles um elemento essencial da linha 
+de montagem.
+• Nas ciências da computação e da informação
+❖ Pesquisa fundamental: pesquisar as propriedades de algoritmos gerais 
+a fim de tratar grandes quantidades de dados em tempo real.
+❖ Pesquisa aplicada: procurar formas de reduzir a quantidade de spam
+por meio da compreensão da estrutura geral ou do modelo de negócio 
+do spam, o que fazem aqueles que produzem spam e as suas motivações 
+para fazerem spam.
+❖ Desenvolvimento experimental: uma start-up a qual utiliza o código 
+desenvolvido por pesquisadores desenvolvendo um modelo de negócio 
+para o produto informático de maneira a melhorar o marketing digital.
+
+
+Exemplos de como distinguir os diferentes tipos de P&D nas ciências 
+sociais, ciências humanas e artes
+2.41. As ciências sociais, ciências humanas e as artes são domínios, como já 
+foi referido, a fronteira entre a pesquisa fundamental e a pesquisa aplicada é por 
+vezes imprecisa, levando a uma fonte distinta de exemplos. Nesses domínios, 
+também pode ser difícil identificar exemplos de desenvolvimento experimental devido ao papel de outros domínios como ciências naturais e engenharia. 
+Deve-se salientar que esses exemplos também têm que cumprir os critérios de 
+base identificados nesse capítulo para serem considerados P&D.
+• Na economia e negócios
+❖ Pesquisa fundamental: rever as teorias sobre os fatores os quais determinam as disparidades regionais do crescimento econômico; 
+fazer pesquisa abstrata sobre teoria econômica a fim de determinar a 
+existência, ou inexistência de um equilíbrio natural na economia de 
+mercado; desenvolver novas teorias do risco.
+❖ Pesquisa aplicada: análise de um determinado caso regional tendo 
+em vista o desenvolvimento de políticas governamentais; pesquisa 
+das propriedades do mecanismo de licitação do espectro de 
+radiofrequências; pesquisa de novos tipos de contratos de seguro o 
+qual cobrem novos riscos de mercado ou novos tipos de instrumentos 
+de poupança.
+❖ Desenvolvimento experimental: desenvolvimento de modelos 
+operacionais, baseados em evidência estatística, com o objetivo 
+de desenhar instrumentos de política econômica o qual permitam 
+uma região recuperar em termos de crescimento econômico; 
+desenvolvimento pela autoridade nacional de telecomunicações 
+de um método de licitação do espectro de radiofrequências; o 
+desenvolvimento de um novo método para gerir um fundo de 
+investimento é desenvolvimento experimental desde que haja 
+suficientemente evidências de que há inovação
+Na educação
+❖ Pesquisa fundamental: análise de determinantes ambientais da 
+capacidade de aprendizagem; pesquisa do efeito de diferentes tipos 
+de materiais manuseáveis na forma como os alunos da instrução 
+primária aprendem matemática, fazendo alterações nos materiais 
+manipuláveis e avaliando a aprendizagem usando instrumentos 
+padrões.
+❖ Pesquisa aplicada: avaliação comparativa de programas nacionais 
+de educação de maneira a reduzir o atraso de aprendizagem de 
+grupos desfavorecidos; estudo da implementação de um currículo de 
+matemática específico para determinar o que os professores precisam 
+aprender para implementar o currículo com sucesso.
+❖ Desenvolvimento experimental: desenvolvimento de testes para 
+selecionar que o programa educativo deve ser utilizado para crianças 
+com necessidades específicas; desenvolvimento e teste (em sala de 
+aula) de instrumentos informáticos e de suporte, baseados em trabalho 
+de campo, a fim de melhorar os conhecimentos em matemática de 
+alunos com necessidades educativas especiais
+Na geografia social e econômica
+❖ Pesquisa fundamental: os pesquisadores procuram compreender a 
+dinâmica fundamental das interações espaciais.
+❖ Pesquisa aplicada: um estudo o qual analisa padrões espaço-temporais 
+na transmissão e difusão de um surto de uma doença infecciosa.
+• Na história
+❖ Pesquisa fundamental: historiadores estudam a história e o impacto 
+humano de vagas de degelo glacial num país.
+❖ Pesquisa aplicada: historiadores examinam as respostas das sociedades 
+antigas a catástrofes naturais (inundações, secas, epidemias) com o 
+intuito de compreender como as sociedades contemporâneas podem 
+responder melhor a mudanças climáticas globais.
+❖ Desenvolvimento experimental: com base nos trabalhos anteriores, historiadores desenham uma nova exposição museológica sobre as 
+adaptações das sociedades antigas às mudanças ambientais, o qual 
+serve de protótipo para outros museus e estruturas educativas
+
+
+Nas línguas/linguística
+❖ Pesquisa fundamental: linguistas estudam como várias línguas 
+interagem quando entram em contato umas com as outras.
+❖ Pesquisa aplicada: terapeutas da fala examinam os princípios 
+neurológicos das línguas e como os humanos adquirem as 
+competências linguísticas.
+❖ Desenvolvimento experimental: linguistas desenvolvem um 
+instrumento para diagnosticar o autismo em crianças com base na 
+sua aquisição da linguagem, retenção e uso de símbolos.
+• Na música
+❖ Pesquisa fundamental: pesquisadores desenvolvem uma teoria de 
+transformação a qual permite compreender os eventos musicais não 
+como uma coleção de objetos com relações particulares entre si, mas 
+como uma série de operações de transformação do material de base.
+❖ Pesquisa aplicada: os pesquisadores usam registros históricos e técnicas 
+da arqueologia experimental para reconstituir um instrumento 
+musical antigo e desaparecido há muito tempo, determinando como 
+poderia ter sido construído, como era tocado e que tipos de som este 
+poderia ter produzido.
+❖ Desenvolvimento experimental: professores de música e teóricos 
+trabalham juntos para produzir novos materiais pedagógicos 
+baseados em descobertas das neurociências as quais mudam a 
+nossa compreensão de como os seres humanos processam o som e 
+a informação
+
+
+
+
+2.6. Classificação e distribuição por domínios de pesquisa e de 
+desenvolvimento
+2.42. Por várias razões, na realização de sondagens os especialistas e 
+os usuários dos dados acham frequentemente útil e relevante classificar as 
+unidades as quais realizam P&D distribuindo os seus recursos, para esse fim, 
+de acordo com o domínio de conhecimento em que operam. Esse manual propõe a utilização dos Domínios de pesquisa e Desenvolvimento da OCDE. Essa 
+classificação, desenvolvida com o objetivo de quantificar a P&D, baseia-se 
+principalmente na noção do conteúdo. Quando os conteúdos das áreas de P&D 
+estão fortemente relacionados, os conteúdos são agrupados de maneira a ter 
+um campo de classificação mais abrangente (um dígito) e um mais específico 
+(dois dígitos). Embora essa classificação possa ser aplicada a uma gama mais 
+abrangente de atividades de ciência e tecnologia e atividades baseadas no conhecimento, a sua formulação pela OCDE está focada na P&D tal como esta é 
+definida nesse manual.
+2.43. O objetivo é distribuir as atividades de P&D e classificar as unidades as 
+quais realizam essas atividades. Dois projetos de P&D podem ser classificados 
+no mesmo domínio de P&D se o seu conteúdo é equivalenteou suficientemente 
+próximo. A aplicação da classificação OCDE baseia-se nos critérios abaixo indicados, permitindo avaliar o grau de semelhança das atividades do ponto de 
+vista do seu conteúdo
+• Fontes de conhecimento utilizadas para a execução das atividades de 
+P&D. A aplicação de desenvolvimentos de certos domínios tecnológicos 
+frequentemente motiva novos esforços científicos, da mesma maneira que 
+o conhecimento científico proporciona a base de novos desenvolvimentos 
+tecnológicos.
+• Objetos de interesse, ou seja, o fenômeno o qual se quer compreender ou 
+os problemas a resolver pela P&D.
+• Métodos, técnicas e perfis profissionais de cientistas e de outro pessoal 
+de P&D. Domínios diferentes podem às vezes ser distinguidos com base 
+na abordagem metodológica utilizada no estudo de um dado fenômeno 
+ou questão.
+• Áreas de aplicação. Por exemplo, na classificação da OCDE dos domínios 
+de pesquisa e desenvolvimento as ciências médicas e ciências agrárias são 
+especificamente definidas pelas suas aplicações na saúde humana e nas 
+atividades agrícolas.
+
+
+2.44. Essa classificação está fortemente relacionada, sendo consistente 
+com a Recomendação da UNESCO relativa à normalização internacional de 
+estatísticas de ciência e tecnologia (UNESCO, 1978), o qual proporcionou a base 
+inicial para a classificação de P&D pela OCDE, por domínio de ciência e tecnologia em versões anteriores desse manual. Há também uma certa relação com o 
+documento Domínios de estudo e formação da CITE (CITE-F), o qual se destina 
+a classificar programas de estudo e formação refletindo em grande medida a 
+maneira como escolas, departamentos, etc., organizam as suas atividades e atribuem diplomas a estudantes os quais completam com sucesso esses programas. 
+Reconhece-se que a classificação OCDE dos domínios de pesquisa e desenvolvimento e a CITE-F têm objetivos diferentes, e que não é possível garantir uma 
+correspondência direta entre as duas classificações (UNESCO-UIS, 2014, p.17).
+2.45. Ante a evolução na condução da P&D e ao surgimento continuado de 
+novos domínios, a classificação OCDE dos domínios de pesquisa e desenvolvimento serão continuamente revistos após a publicação dessa edição do manual. 
+Para versões mais atualizadas, o leitor deve consultar os anexos desse manual 
+disponíveis na Internet, em que se podem encontrar mais detalhes sobre a 
+classificação e sua utilização.
+
+
+Tabela 2.2. Classificação dos domínios de P&D
+
+Categoria Geral Subcategoria 
+1. Ciências exatas e naturais 1.1 Matemática
+1.2 Ciências da computação e da informação
+1.3 Física
+1.4 Química 
+1.5 Ciências da terra e ciências do ambiente
+1.6 Ciências biológicas 
+1.7 Outras ciências naturais
+2. Ciências da engenharia e tecnologias 2.1 Engenharia civil
+2.2 Engenharia eletrotécnica, eletrónica e informática
+2.3 Engenharia mecânica
+2.4 Engenharia química
+2.5 Engenharia dos materiais
+2.6 Engenharia biomédica
+2.7 Engenharia do ambiente
+2.8 Biotecnologia ambiental
+2.9 Biotecnologia industrial 
+2.10. Nanotecnologia
+2.11. Outras ciências da engenharia e tecnologias 
+3. Ciências médicas e da saúde 3.1 Medicina básica
+3.2 Medicina clínica
+3.3 Ciências da saúde
+3.4 Biotecnologia médica 
+3.5 Outras ciências médicas 
+4. Ciências agrárias e veterinárias 4.1 Agricultura, silvicultura e pescas
+4.2 Ciência animal e dos lacticínios
+4.3 Ciências veterinárias
+4.4 Biotecnologia agrária
+4.5 Outras ciências agrárias 
+5. Ciências sociais 5.1 Psicologia e ciência cognitiva
+5.2 Economia e gestão
+5.3 Ciências da educação
+5.3 Sociologia
+5.5 Direito
+5.6 Ciências políticas
+5.7 Geografia econômica e social
+5.8 Ciências da comunicação
+5.9 Outras ciências sociais
+6. Humanidades e artes 6.1 História e arqueologia 
+6.2 Línguas e literaturas
+6.3 Filosofia, ética e religião 
+6.4 Artes (artes, história das artes, artes performativas, música)
+6.5 Outras humanidades
+
+
+
+2.7. Exemplos de P&D, limites e exclusões em diferentes áreas
+Atividades de P&D e de inovação, e casos limites
+2.46. A inovação é atualmente definida, para o propósito da sua medida, 
+na terceira edição do Manual de Oslo (OCDE/Eurostat, 2005) apenas para o setor 
+empresarial (ver o Capítulo 3 para a definição desse setor). Em resumo, tem a 
+ver com a colocação no mercado de produtos novos ou significativamente melhorados, ou com a utilização de métodos mais eficazes (por meio de processos 
+ou métodos novos ou significativamente melhorados) de colocar produtos no 
+mercado. A P&D pode ou não ser parte da atividade de inovação, mas faz parte 
+de uma variedade de atividades de inovação. Entre essas atividades também se 
+incluem: a aquisição de conhecimentos existentes, maquinaria, equipamento e 
+outros bens de investimento, formação, marketing, design e desenvolvimento 
+de software. Essas atividades de inovação podem ser conduzidas internamente 
+ou podem ser executadas por terceiros.
+2.47. É preciso ter cuidado para excluir atividades no qual fazendo parte do 
+processo de inovação, não satisfazem os critérios exigidos para a classificação 
+como P&D. Por exemplo, pedidos de patente e atividades de licenciamento, 
+estudos de mercado, início de fabricação, preparação de ferramentas e reconfiguração do processo de fabricação não são inerentemente atividades de P&D, 
+não podendo assumir fazerem parte de um projeto de P&D. Algumas atividades 
+como: preparação de ferramentas, desenvolvimento de processos, desenho e 
+construção de protótipos, podem conter um grau apreciável de P&D, tornando-se difícil identificar com precisão o que deve e o que não deve ser definido 
+como P&D. Isso é verdade em particular para o setor da Defesa e para indústrias 
+de grandes dimensões como a aeroespacial. Dificuldades semelhantes podem 
+ocorrer quando se procura distinguir entre serviços públicos tecnológicos como 
+a inspeção e controle de alimentos e medicamentos, e a P&D relacionada com 
+alimentos e medicamentos
+
+
+Exemplos do que é e do que não é P&D no processo de inovação
+2.48. A Tabela 2.3 e os exemplos que se seguem esclarecem o que deve e o 
+que não deve ser considerado como P&D
+
+Protótipos
+2.49. Um protótipo é um modelo original construído para incluir todas as 
+características técnicas e funcionais de um novo produto. Por exemplo, no desenvolvimento de uma bomba para líquidos corrosivos podem ser necessários 
+vários protótipos a fim de realizar testes de envelhecimento acelerado com 
+diferentes produtos químicos. Um elo de retroatividade permite utilizar os 
+resultados de testes insatisfatórios para introduzir novos desenvolvimentos 
+nessa bomba.
+2.50. O desenho, a construção e teste de protótipos é normalmente incluído 
+dentro da definição de P&D. Isso é assim se for fabricado somente um protótipo 
+ou vários, independentemente de serem construídos consecutiva ou simultaneamente. Porém, uma vez realizadas todas as modificações necessárias no(s) 
+protótipo(s) e efetuados todos os ensaios pertinentes de forma satisfatória a P&D termina. A construção de várias cópias de um protótipo para fazer vista às 
+necessidades comerciais, militares ou médicas temporárias, uma vez ensaiado 
+com êxito o protótipo original, não é parte da P&D, mesmo quando essas atividades são executadas por pessoal de P&D. A virtualização da prototipagem pode 
+seguir as mesmas regras e ser incluída na P&D na medida em que os testes são 
+parte de um projeto de P&D e se destinam a recolher evidências essenciais para 
+atingir os objetivos do projeto.
+
+
+Tabela 2.3. Limites da P&D, da inovação e de outras atividades comerciais
+
+
+Item Tratamento necessário Observações
+Protótipos Incluir na P&D Desde que o objetivo principal seja o de realizar 
+melhorias.
+Plantas piloto Incluir na P&D Desde que o propósito principal seja P&D.
+Desenhos industriais Dividir Incluir o desenho necessário durante o processo de 
+P&D. Excluir o desenho para os processos de produção.
+Engenharia industrial e preparação 
+de ferramentas
+Dividir Incluir a P&D “retroativa” de maquinaria e ferramentas 
+associadas ao desenvolvimento de novos produtos ou 
+novos processos. Excluir o que se relaciona com os 
+processos de produção.
+Produção a título experimental Dividir Incluir se a produção requer testes a escala natural 
+e subsequentes estudos de desenho e engenharia. 
+Excluir as restantes atividades associadas.
+Desenvolvimento pré-produção Excluir
+Serviço pós-vendas e deteção de 
+avarias
+Excluir Exceto a P&D “retroativa”, que deve ser incluída.
+Patentes e licenças Excluir Excluir todos os trabalhos administrativos e jurídicos 
+relacionados com pedidos de patentes e licenciamento 
+(a documentação resultante de projetos de P&D é P&D). 
+O trabalho de patentes diretamente relacionado com 
+projetos de P&D é P&D.
+Ensaios de rotina Excluir Excluem-se mesmo quando são realizados por equipes 
+de P&D.
+Compilação de dados Excluir Excluir exceto quando sejam parte integrante da P&D.
+Inspeção e controle público, 
+cumprimento de normas e 
+regulamentos
+Excluir
+
+
+
+
+
+Plantas piloto
+2.51. A construção e a utilização de uma planta piloto fazem parte da P&D 
+desde que o objetivo principal seja adquirir experiência e obter dados técnicos 
+ou de outro tipo o qual se possa utilizar com o intuito de:
+• a avaliação de hipóteses.
+• a elaboração de novas fórmulas de produtos.
+• o estabelecimento de novas especificações do produto acabado.
+• o desenho de estruturas e equipamentos especiais necessários para um 
+novo processo.
+• a redação de instruções de funcionamento ou manuais sobre o processo.
+2.52. Se uma vez terminada a fase experimental, a planta piloto passa a 
+funcionar como unidade normal de produção comercial. A partir desse momento não se pode considerar que a sua atividade seja P&D, ainda que a planta 
+continue a chamar-se “planta piloto”. Se o objetivo fundamental de uma planta 
+piloto não é de caráter comercial, em princípio é irrelevante que uma parte ou 
+a totalidade da sua produção possa ser vendida. Os resultados assim obtidos 
+não devem ser deduzidos do custo da P&D (Capítulo 4).
+
+
+Projetos em larga escala
+2.53. Os projetos em larga escala (em áreas como a defesa, a aeroespacial 
+e a ciência em larga escala) cobrem em geral uma variedade de atividades a 
+qual vai desde o desenvolvimento experimental ao desenvolvimento pré-produção. Nessas condições, o organismo o qual financia ou executa os projetos 
+normalmente não pode estabelecer uma distinção entre P&D e outras despesas. 
+A distinção entre as despesas de P&D e as despesas alheias a P&D é especialmente importante nos países os quais destinam à defesa uma grande parte da 
+despesa pública em P&D.
+2.54. É muito importante examinar com detalhe a natureza das plantas 
+piloto ou dos protótipos cujos custos são muito elevados, como por exemplo a 
+primeira de uma série de centrais nucleares ou o primeiro exemplar de uma 
+nova gama de quebra-gelos. Esses protótipos são construídos quase exclusivamente a partir de materiais existentes com autilização de tecnologia existente, 
+e muitas vezes são construídos a fim de serem utilizados simultaneamente em 
+P&D, oferecendo o serviço primário ao qual se destinam (produzir energia elétrica ou quebrar o gelo). A construção dessas plantas e protótipos não se deve 
+considerar na sua totalidade como P&D. Só devem ser atribuídos à P&D os custos 
+adicionais derivados da natureza experimental desses produtos.
+
+Produção experimental
+2.55. Depois de um protótipo ter sido testado satisfatoriamente e de se terem introduzido as modificações necessárias, começa a fase de produção. Essa 
+fase está ligada à produção em escala industrial e pode implicar a modificação 
+do produto ou do processo, a formação de pessoal nas novas técnicas ou a utilização de novas máquinas. A menos que se exija novos trabalhos de desenho 
+e de engenharia, o início do processo de produção não deve ser considerado 
+P&D, pois o seu objetivo principal já não é a melhoria do produto mas sim a 
+entrada em funcionamento do processo de produção. As primeiras unidades 
+experimentais obtidas em uma produção massiva em série não devem ser consideradas protótipos de P&D, ainda que, de forma pouco rigorosa, se possam 
+designar dessa maneira.
+2.56. Por exemplo, quando um novo produto deve ser montado utilizando 
+solda automática, o processo de otimização do equipamento de solda para conseguir a eficácia e velocidade de produção máxima não deve ser considerado 
+como P&D.
+
+
+
+Danos e imprevistos
+2.57. Os danos e imprevistos às vezes demonstram a necessidade de realizar atividades complementares de P&D, mas o mais frequente é detectarem 
+defeitos de funcionamento, dando lugar a modificações menores de equipamentos e processos correntes. Por conseguinte, essas atividades não se devem 
+incluir em P&D.
+
+
+P&D “retroativa”
+2.58. Depois de um novo produto ou processo ser transferido para as unidades de produção, podem ainda aparecer problemas técnicos o qual é necessário 
+resolver, sendo que alguns deles podem requerer mais P&D. Esta P&D “retroativa” deve ser incluída como P&D.
+Preparação de ferramentas e engenharia industrial
+2.59. Na maioria dos casos, as fases de preparação de maquinaria e ferramentas e de engenharia industrial de um projeto consideram-se parte do processo de produção e não são P&D. A preparação da maquinaria e ferramentas 
+pode subdividir-se em três fases:
+• a utilização pela primeira vez dos componentes (incluindo a utilização dos 
+componentes obtidos em atividades de P&D).
+• a preparação inicial do equipamento para produção em larga escala.
+• a instalação do equipamento ligado ao início da produção em larga escala.
+2.60. Se o processo de preparação da maquinaria e ferramentas gera novas 
+atividades de P&D, tais como melhorias na produção de máquinas e ferramentas, ou modificações dos procedimentos de produção e controle da qualidade, 
+ou desenvolvimento de novos métodos e normas, tais atividades classificam-se 
+como P&D. A P&D “retroativa” originada na fase de preparação de maquinaria 
+e ferramentas deve incluir-se na P&D
+
+
+
+Ensaios clínicos
+2.61. Antes de introduzir no mercado novos fármacos, vacinas, dispositivos 
+médicos ou tratamentos, estes devem ser submetidos a ensaios sistemáticos 
+em humanos voluntários a fim de garantir que são seguros e eficazes. Esses 
+ensaios clínicos dividem-se em quatro fases normalizadas, três das quais são 
+realizadas antes de obter a autorização para a fabricação. Tendo por objetivo 
+poder realizar comparações internacionais, convencionou-se que as fases 1, 2 
+e 3 podem ser incluídas na P&D. A fase 4 dos ensaios clínicos em que se continua a testar o fármaco ou o tratamento já posteriormente à sua aprovação 
+e fabricação, só deve ser incluída como P&D se originar novos avanços científicos ou tecnológicos. Além disso, nem todas as atividades realizadas antes 
+da obtenção da autorização de fabricação se consideram P&D, especialmente 
+quando decorre um tempo de espera significativo depois do término da fase 3 
+dos ensaios, durante o qual podem começar atividades de comercialização e de 
+desenvolvimento de processos.
+
+
+P&D e design
+2.62. É difícil de separar o design das atividades de P&D. Algumas atividades de design são partes integrantes dos projetos de P&D, podendo desencadear 
+novas linhas de design. Porém, nem todo o design reúne a novidade funcional 
+e os testes de incerteza os quais nesse capítulo são reunidos nos cinco critérios 
+fundamentais da P&D. O design tem um papel fundamental no desenvolvimento 
+e implementação de inovações. Como ainda não existe uma definição consensual de design para fins estatísticos, pode-se descrever o design como uma 
+atividade inovadora potencialmente multifacetada a qual visa planejar e definir 
+procedimentos, especificações técnicas e outras características funcionais ou 
+de utilização de novos produtos e processos. Entre essas atividades incluem-se 
+preparações iniciais para o planejamento de novos produtos e processos, e trabalho no seu design e implementação, incluindo ajustes e outras modificações. 
+Essa descrição enfatiza o papel criativo do design em um processo inovador, 
+sendo uma característica potencialmente partilhada com a P&D realizada no 
+mesmo contexto. Algumas atividades relacionados com o design podem ser 
+consideradas P&D na medida em que têm um papel no processo de desenvolvimento de um produto o qual se dirige a algo “novo” (mas não necessariamente 
+a novo conhecimento), é criativo e original, pode ser formalizado (executado por 
+uma equipe dedicada), e conduz a um resultado codificado que é transmitido à 
+equipe de desenvolvimento. A diferença principal com a P&D é que não é provável que surja o critério da incerteza quando designers competentes contribuem 
+para um projeto inovador. Isso leva à dedução que o design não é P&D, tendo 
+que ser mantido separado da P&D para efeitos estatísticos.
+2.63. Enquanto um projeto de P&D comporta uma incerteza relativamente 
+à entrega do resultado esperado em um tempo acordado, a incerteza de um projeto de design é diretamente influenciada pela clareza e exequibilidade dos seus 
+objetivos iniciais. Por exemplo, se o design de um edifício normal não envolve 
+uma grande incerteza sobre o resultado final, quanto maior for o desafio relativamente ao conceito do edifício e a inclusão de novas características, maior será 
+a incerteza quanto ao tempo e custos para a conclusão do projeto. Podem ser 
+necessárias atividades de P&D complementando a utilização de instrumentos 
+de design existentes para lidar com a incerteza
+
+
+P&D e criação artística
+2.64. O design é com frequência, caraterizado pela utilização de métodos 
+artísticos. Essa é outra área em que potencialmente se encontram sobreposições. Com o intuito de abordar a discussão da P&D relativamente à criação 
+artística, pode ser útil fazer uma distinção entre a pesquisa para as artes, a 
+pesquisa sobre as artes e a expressão artística.
+Pesquisa para as artes
+2.65. A pesquisa para as artes consiste em desenvolver bens e serviços 
+que vão ao encontro das necessidades expressas por artistas e criadores. Há 
+empresas nessa área de negócio que dedicam uma parte significativa dos seus 
+recursos à P&D. Por exemplo, estão envolvidas no desenvolvimento experimental para produzir novos instrumentos musicais eletrônicos os quais satisfazem 
+as necessidades de um grupo de artistas. Outros tipos de organizações de P&D (principalmente universidades e institutos técnicos) também participam no 
+estudo de novas tecnologias para as artes performativas (por exemplo, melhorando a qualidade de áudio/vídeo). A atividade dirigida ao apoio da introdução, 
+em instituições artísticas de novos métodos organizacionais ou de marketing 
+(publicidade, gestão financeira, etc.) pode classificar-se como P&D, mas é uma 
+decisão a ser tomada com circunspecção. Esse domínio de execução da P&D é 
+já levado em conta na recolhimento de dados estatísticos.
+
+
+
+
+Pesquisa sobre as artes (estudos sobre a expressão artística)
+2.66. A pesquisa fundamental ou aplicada contribui para a maioria dos estudos sobre as artes (musicologia, história das artes, estudos de teatro, estudos 
+de mídia, literatura, etc.). As instituições públicas de pesquisa podem ter um 
+papel especial em domínios de pesquisa selecionados (pois algumas infraestruturas de pesquisa relevantes – tais como bibliotecas, arquivos, etc. – estão 
+frequentemente ligadas à instituições artísticas tais como museus, teatros, etc.). 
+No que concerne à atividades de conservação e restauro (no caso de não terem 
+sido incluídas no grupo acima mencionado) recomenda-se a identificação dos 
+prestadores desses serviços técnicos como executores de P&D (empregando 
+pesquisadores, publicando trabalhos científicos, etc.). Esse domínio de execução 
+da P&D é largamente coberto na recolhimento de dados estatísticos.
+Expressão artística versus pesquisa
+2.67. As expressões artísticas são normalmente excluídas da P&D. As expressões artísticas não cumprem o critério de novidade, pois respondem a uma 
+busca de novas formas de expressão e não a procura de um novo conhecimento. 
+Além disso, o critério de reprodutibilidade (como transferir o conhecimento 
+adicional potencialmente produzido) também não é cumprido. O resultado é 
+que não se pode presumir que as escolas de artes e os departamentos artísticos 
+das universidades executam P&D sem haver evidência adicional. A frequência 
+de curso dessas instituições por artistas não é relevante para a medida de P&D. 
+Porém, as instituições de ensino superior têm que ser avaliadas casoacaso, dado 
+que podem conferir o grau de doutor a um artista como resultado da expressão 
+artística. A recomendação é a adoção de uma abordagem institucional, apenas 
+podendo considerar como P&D a prática artística em instituições de ensino superior que potencialmente é P&D. Esse domínio deve ser mais levado em conta 
+na recolhimento de dados estatísticos
+
+
+
+P&D e desenvolvimento de software
+2.68. As tecnologias da informação estão presentes em quase todas as atividades de inovação e são tributárias de atividades de P&D. Além disso, essas 
+tecnologias influenciam a capacidade das empresas e instituições executarem 
+a P&D adequadamente. O desenvolvimento de software é uma atividade relacionada com a inovação, a qual às vezes está associada à P&D, e incorpora em 
+condições específicas, alguma P&D. Para que um projeto de desenvolvimento 
+de software seja considerado como P&D, a sua realização deve depender de progressos científicos ou tecnológicos e o objetivo do projeto deve ser a resolução 
+sistemática de uma incerteza científica ou tecnológica.
+P&D e desenvolvimento de software
+2.68. As tecnologias da informação estão presentes em quase todas as atividades de inovação e são tributárias de atividades de P&D. Além disso, essas 
+tecnologias influenciam a capacidade das empresas e instituições executarem 
+a P&D adequadamente. O desenvolvimento de software é uma atividade relacionada com a inovação, a qual às vezes está associada à P&D, e incorpora em 
+condições específicas, alguma P&D. Para que um projeto de desenvolvimento 
+de software seja considerado como P&D, a sua realização deve depender de progressos científicos ou tecnológicos e o objetivo do projeto deve ser a resolução 
+sistemática de uma incerteza científica ou tecnológica.
+2.69. Além do software o qual é parte de um projeto global de P&D (por 
+exemplo: para o registrar e monitorar em diversas etapas), a P&D associada ao 
+software como produto final ou ao software incorporado em um produto final 
+pode também ser classificada como P&D se os critérios de P&D se aplicam.
+2.70. Dada a natureza do desenvolvimento de software, é difícil identificar 
+a sua componente de P&D quando esta existe. O desenvolvimento de software 
+é parte integrante de muitos projetos os quais em si não contêm nenhum elemento de P&D. Porém, a componente de desenvolvimento de software desses 
+projetos pode ser classificada de P&D se esta leva a avanços na área do software 
+de computadores. Tais avanços são geralmente incrementais e não revolucionários. Assim, uma atualização, adição ou modificação de um programa ou 
+sistema existente pode ser classificado de P&D se eleincorpora avanços científicos e tecnológicos os quais levam a um aumento do corpo de conhecimentos. 
+A utilização de software para uma nova aplicação ou objetivo não constitui 
+intrinsecamente um progresso.
+2.71. Os exemplos seguintes ilustram o conceito de P&D em software e 
+devem ser incluídos em P&D: 
+
+
+• O desenvolvimento de novos sistemas operacionais ou de novas linguagens.
+• O desenho e implementação de novos motores de pesquisa baseados em 
+tecnologias originais.
+• Os esforços para resolver conflitos dentro do hardware ou do software baseados no processo de re-engenharia de sistemas ou redes.
+• A criação de algoritmos novos ou mais eficientes baseados em novas técnicas.
+• A criação de técnicas novas e originais de encriptação e segurança.
+2.72. As atividades relacionadas com software as quais são de natureza 
+rotineira não são consideradas como P&D. Essas atividades incluem trabalhos 
+de aperfeiçoamento de sistemas ou programas os quais eram de acesso livre 
+antes do início dos trabalhos. Também são excluídos problemas técnicos que 
+foram resolvidos em projetos anteriores nos mesmos sistemas operacionais 
+da arquitetura de computadores. Também se exclui a manutenção de rotina de 
+computadores e de software.
+Exemplos de outras atividades relacionadas com software que devem ser 
+excluídas da P&D:
+• Desenvolvimento de aplicações em áreas de negócio de software e outros 
+sistemas de informação usando métodos conhecidos e instrumentos de 
+software existentes.
+• Aumento de funcionalidades a programas já existentes (incluindo funcionalidades de recolhimento de dados).
+• Criação de páginas na Internet ou de software usando instrumentos conhecidos.
+• Utilização de métodos conhecidos de encriptação, verificação de segurança 
+e teste da integridade de dados.
+• Adaptação de produtos a uma utilização em particular, a não ser que nesse 
+processo se acrescente conhecimento o qual melhore significativamente 
+o programa de base.
+• Tarefas de rotina de resolução de problemas de programas e sistemas 
+existentes, salvo quando isso é feito antes do fim do processo de desenvolvimento experimental.
+
+2.73. Os projetos individuais na área do software de sistemas podem não 
+ser considerados como P&D mas a sua união em um projeto mais abrangente 
+pode gerar alguma incerteza tecnológica cuja resolução precise de P&D. Alternativamente, um grande projeto pode ter como objetivo o desenvolvimento de 
+um produto comercial usando tecnologias existentes e não incluir P&D no seu 
+planejamento, mas pode haver alguns elementos no projeto os quais necessitem de alguma atividade de P&D adicional, garantindo a integração paulatina 
+de tecnologias diferentes.
+2.74. A partir do SCN de 1993 (EC et al., 1994) a despesa total em software 
+(incluindo P&D para desenvolvimento de software) passou a ser vista como despesa de investimento. Posteriormente, o SCN de 2008 (CE et al., 2009) integrou 
+nas despesas de investimento a despesa total em P&D. De acordo com o manual 
+da OCDE intitulado “Handbook on deriving capital measures of intelectual 
+property products” (OCDE, 2009), o qual desenvolveu mais o SCN de 2008 em 
+que respeita aos produtos intangíveis, a P&D ligada ao software imobilizado 
+permaneceu no investimento em software. É importante saber identificar explicitamente a despesa de P&D atribuída ao software, a fim de que os usuários 
+e fornecedores de dados estatísticos de P&D e de SCN estejam informados sobre 
+a sobreposição entre software e P&D. Essa questão será discutida em maiores 
+detalhes no Capítulo 4.
+
+
+P&D, educação e formação
+2.75. Os estabelecimentos de ensino e formação de nível inferior ao nível 
+terciário centram os seus recursos no ensino e consequentemente, é pouco 
+provável que estejam envolvidos em projetos de P&D. Por outro lado, nas instituições de ensino superior há sempre uma ligação próxima entre a pesquisa e 
+o ensino, pois a maioria dos acadêmicos estão envolvidos em ambos, e muitos 
+edifícios, bem como muitos equipamentos, servem os propósitos do ensino e 
+da pesquisa.
+2.76. Dado que os resultados da pesquisa são utilizados no ensino e que a 
+informação e a experiência adquiridas no ensino podem ser utilizadas na pesquisa, é difícil determinar com precisão onde terminam as atividades de ensino 
+e formação dos professores e estudantes universitários, e onde começam as 
+atividades de P&D, e vice-versa. São os elementos de inovação que diferenciam 
+a P&D da docência de rotina e das atividades restantes. A adoção dos critérios 
+fundamentais da P&D pode ser complementada, nesse setor, levando em consideração o papel institucional de alguns dos seus atores:
+• Estudantes de doutorado e de mestrado dentro de certas condições (Capítulos 5 e 9).
+• Orientação de estudantes (incluída nos professores universitários).
+• Prestadores de cuidados médicos especializados em hospitais universitários.
+2.77. Na medida em que é conveniente incluir as atividades de pesquisa 
+executadas por estudantes de doutorado na P&D atribuída ao setor do ensino superior, esses estudantes e o pessoal universitário o qual dirige ou supervisiona os seus trabalhos deve ser incluído no pessoal dedicado à P&D (ver Capítulo 5). 
+Evidentemente que o tempo despendido pelo pessoal universitário em tarefas 
+as quais não estão relacionadas com a pesquisa deve ser excluído dos cálculos 
+do esforço de P&D. Esses princípios aplicam-se a todas as disciplinas científicas.
+2.78. Nos hospitais universitários em que a formação médica dos estudantes ocupa um lugar destacado com a sua atividade principal de assistência 
+médica, o ensino, a P&D e a assistência médica de rotina e avançada estão 
+frequentemente inter-relacionados. O pessoal e os estudantes dedicados à assistência médica especializada em hospitais universitários, quando se podem 
+associar com segurança a um esforço global de P&D, devem ser incluídos como 
+pessoal de P&D. Todas as atividades de rotina realizadas no mesmo contexto 
+para assegurar assistência médica devem ser excluídas de P&D.
+
+
+
+P&D na atividade dos serviços
+2.79. De acordo com o SCN 2008, os serviços são o resultado de uma atividade produtiva a qual muda as condições das unidades de consumo, ou que 
+facilita a troca de produtos ou de ativos financeiros. No primeiro caso, os prestadores de serviços podem produzir mudanças no estado dos bens de consumo 
+(por exemplo, por meio da saúde ou transporte, ou por meio da informação, 
+educação, etc.). O SCN também define separadamente uma categoria híbrida 
+de produtos os quais tem características tanto de bens como de serviços: os 
+“produtos baseados na captura de conhecimento”. Essa categoria diz respeito 
+ao abastecimento, armazenamento, comunicação e difusão de informações, 
+conselhos e diversão, permitindo à unidade que os consome o acesso repetido ao conhecimento. As indústrias que prestam esses serviços são as que se 
+interessam pelo abastecimento, armazenamento, comunicação e difusão de 
+informação, aconselhamento e divertimento no sentido mais lato desses termos 
+(EC et al., 2009).
+2.80. O fornecimento de serviços requer um grau elevado de proximidade 
+e de interação com os clientes. Além disso, as indústrias especializadas na 
+produção de bens podem estar ativamente envolvidas na prestação de serviços. 
+Por outro lado, empresas do setor dos serviços podem controlar vários aspectos 
+da produção de bens, incluindo, por exemplo, o desenvolvimento experimental 
+de novos bens os quais são parte da sua prestação de serviços.
+2.81. Assim, é difícil definir as fronteiras da P&D na atividade dos serviços 
+por duas razões: primeiro, porque é difícil identificar projetos de P&D específica 
+a um serviço sem envolver bens ou produtos baseados na captura de conhecimento; segundo, porque a separação entre P&D e outras atividades de inovação 
+não é sempre clara.
+2.82. Dentre os muitos projetos em serviços, os que constituem P&D resultam em novos conhecimentos ou no uso de novos conhecimentos com o intuito 
+de conceber novas aplicações, conforme a definição de P&D.
+2.83. A identificação da P&D é mais difícil nas atividades dos serviços do 
+que nas indústrias as quais produzem bens, uma vez que a P&D não é necessariamente especializada em um campo de pesquisa, embora possa ser especializada no mercado a qual serve. A P&D abrange várias áreas: P&D relacionada 
+com a tecnologia, P&D nas ciências sociais, humanidades e artes, incluindo P&D 
+relacionada com o conhecimento do comportamento e das organizações. Esse 
+último domínio está já incluído no critério “conhecimento do homem, da cultura e da sociedade”, mas é particularmente importante no caso das atividades dos serviços. Como esses diferentes tipos de P&D podem ser combinados em 
+um projeto, é importante definir claramente as várias formas de P&D presentes. 
+Se, por exemplo, a análise se limita à P&D relacionada com a tecnologia pode 
+subestimar-se o esforço de P&D. Em muitos casos, os resultados de P&D obtidos 
+no setor dos serviços devem-se a atividades de prestação de serviços.
+2.84. Além disso, a P&D nas empresas de serviços não está sempre organizada de forma tão formal como nas empresas produtoras de bens (ou seja, 
+com um departamento de P&D, pesquisadores ou engenheiros identificados 
+com P&D na lista de pessoal da empresa, etc.). O conceito de P&D em serviços 
+é ainda menos preciso e pode às vezes passar despercebido dentro das empresas. A medida que se vai adquirindo experiência no recolhimento de dados de 
+P&D em serviços, os critérios para identificar a P&D e os exemplos de serviços 
+relacionados com a P&D podem ser refinados
+
+
+Critérios para identificação da P&D nos serviços
+2.85. Complementarmente aos 5 critérios de base, os indicadores seguintes 
+podem ajudar a identificar a presença de P&D nas atividade dos serviços:
+• Relações com laboratórios públicos de pesquisa;
+• Envolvimento de pessoal com doutorado ou de estudantes de doutorado;
+• Publicação de resultados de pesquisa em revistas científicas, organização 
+de conferências científicas ou envolvimento em revisões científicas.
+Exemplos de P&D em atividades de serviços selecionados
+2.86. As atividades de P&D abaixo indicadas podem servir como exemplos 
+de P&D em atividades dos serviços. Os critérios gerais e suplementares para 
+distinguir a P&D apresentados na Seção 2.4 foram levados em conta.
+2.87. Os limites gerais da P&D acima definidos aplicam-se em geral às 
+atividades de serviços. O elemento de novidade é o critério fundamental para 
+distinguir a P&D de atividades relacionadas.
+Exemplos de P&D no sistema bancário e nos seguros
+• Pesquisa matemática relacionada com a análise de risco financeiro.
+• Desenvolvimento de modelos de risco para uma política de créditos.
+• Desenvolvimento experimental de um software novo para operações bancárias a domicílio.
+• Desenvolvimento de técnicas a fim de pesquisar o comportamento de consumidores tendo por objetivo a criação de novos tipos de contas e serviços 
+bancários.
+• Pesquisa para identificar novos riscos ou novas características de risco as 
+quais devem ser levadas em conta em contratos de seguros.
+• Pesquisa sobre fenômenos sociais com um impacto em novos tipos de 
+seguros (saúde, aposentadoria, etc.), como por exemplo: uma cobertura de 
+seguro para não-fumantes.
+• P&D relacionada com serviços bancários e de seguros pela Internet, serviços prestados pela Internet e aplicações de comércio eletrônico
+• P&D relacionada com serviços financeiros novos ou significativamente 
+melhorados (novos conceitos para contas bancárias, empréstimos, seguros 
+e instrumentos de poupança).
+
+
+Exemplos de P&D em outras atividades de serviços
+• Análise dos efeitos de mudanças econômicas e sociais nas atividades de 
+consumo e diversão.
+• Desenvolvimento de novos métodos para medir as expectativas e as preferências dos consumidores.
+• Desenvolvimento de novos métodos para prestar e medir resultados de 
+serviços sociais os quais podem ser adaptados a uma variedade de circunstâncias socioeconômicas e culturais.
+• Desenvolvimento de novos métodos e instrumentos de sondagem.
+• Desenvolvimento de procedimentos de localização e segmento (logística).
+• Pesquisa sobre novos conceitos de viagem e férias
+
+P&D e atividades científicas e tecnológicas relacionadas
+2.88. A dificuldade em distinguir a P&D de outras atividades científicas e 
+técnicas surge quando em uma mesma instituição se executam várias atividades. Quando se realizam as sondagens, os critérios são normalmente aplicados 
+com base em um conhecimento direto das instituições consideradas. Regra 
+geral:
+• As instituições ou departamentos de organismos e empresas cuja atividade principal consiste em fazer P&D frequentemente realizam também 
+atividades secundárias as quais não são da P&D (por exemplo: informação 
+científica e técnica, ensaios, controles da qualidade, análises). Nos casos em 
+que a atividade secundária se realiza principalmente no interesse da P&D, 
+deve-se classificar essa atividade como P&D; se a atividade secundária se 
+realiza principalmente satisfazendo necessidades distintas da P&D, deve 
+ser excluída.
+• Os organismos no qual o objetivo principal é a realização de uma atividade 
+científica relacionada com P&D frequentemente realizam alguma pesquisa 
+relacionada com essa atividade. Essa pesquisa deve ser isolada do resto das 
+atividades, sendo considerada na medição da P&D.
+
+2.89. Em alguns casos, os critérios teóricos para distinguir a P&D das atividades científicas e tecnológicas (ACT) afins são particularmente difíceis de 
+aplicar. O recolhimento de dados com propósitos gerais, ensaios e normalização, 
+projetos sobre grandes bases de dados, a exploração do espaço, as atividades de 
+mineração e de prospecção são áreas em que são exigidas grandes quantidades 
+de recursos, pelo que qualquer variação no seu tratamento produzirá efeitos 
+importantes na comparação internacional dos dados de P&D. Os projetos em 
+larga escala também colocam problemas na definição de qual é a componente de 
+P&D que lhes corresponde. Ainda durante a redação final dessa edição, a UNESCO está atualizando as suas definições de ACT para fins estatísticos (UNESCO, 
+1978; UNESCO, 1984), e o resultado desse processo deve esclarecer a fronteira 
+entre a P&D e outras atividades ACT. As orientações que daí resultarão serão comunicadas em tempo útil como parte de um anexo desse manual disponível 
+na Internet.
+
+
+
+
+Compilação e registro de dados de interesse geral
+2.90. A compilação de dados de interesse geral é geralmente efetuada por 
+organismos públicos, os quais recolhem dados de fenômenos naturais, biológicos ou sociais que são de interesse público geral, ou que apenas a administração 
+tem os meios necessários para recolher. Alguns exemplos são: mapas topográficos, levantamentos geológicos, hidrológicos, oceanográficos e meteorológicos e 
+as observações astronômicas de rotina. Inclui-se em P&D a compilação de dados 
+realizada exclusiva ou principalmente como parte dos processos de P&D (por 
+exemplo, os dados recolhidos por um detetor como parte de uma experiência 
+sobre dispersão de partículas no CERN). Aplica-se o mesmo raciocínio ao tratamento e interpretação dos dados. As ciências sociais, em particular, estão muito 
+dependentes do recolhimento preciso de informação relativa à sociedade, como 
+por exemplo de censos, sondagens por amostragem, etc. Se o recolhimento ou 
+tratamento dos dados é feito com o fim da realização de pesquisa científica, o 
+seu custo deve ser imputado a pesquisa e deve cobrir o planejamento, sistematização, etc. Também considera-se P&D quando um projeto específico se destina 
+ao desenvolvimento de métodos estatísticos inteiramente novos (por exemplo: 
+trabalho conceitual e metodológico relacionado com o desenvolvimento de 
+sondagens e sistemas estatísticos inteiramente novos ou substancialmente modificados, trabalho sobre metodologias de amostragem, ou técnicas avançadas 
+de recolhimento de dados) ou técnicas e metodologias de compilação de dados. 
+Porém, quando os dados são recolhidos com outros objetivos ou com objetivos 
+gerais, como no caso de sondagens trimestrais sobre o desemprego, então devem ser excluídos da P&D mesmo quando são aproveitados para a pesquisa, (a 
+não ser que o pesquisador tenha que pagar pelo direito de utilizar esses dados 
+na pesquisa). As sondagens de mercado também devem ser excluídas.
+2.91. Devem ser incluídas em P&D as atividades dos serviços de informação 
+científica e técnica e das bibliotecas integradas nos laboratórios de pesquisa 
+quando são destinadas predominantemente aos pesquisadores desses laboratórios. Devem ser excluídas da P&D as atividades dos centros de documentação das empresas quando sejam de uso geral para todo o pessoal da empresa, 
+mesmo se esses centros se encontram situados nos locais equivalentes que os 
+departamentos de pesquisa da empresa (aplica-se aqui a necessidade de evitar uma sobrevalorização das atividades relacionadas com a P&D). Devem ser 
+igualmente excluídas da P&D as atividades das bibliotecas centrais das universidades. Esses critérios, os quais também têm que ser aplicados à bibliotecas 
+digitais e a repositórios de dados, aplicam-se unicamente quando é necessário 
+lidar com a totalidade das atividades de um organismo ou de um departamento. 
+Nos casos em que se utilizam métodos de contabilidade mais detalhados, pode 
+tornar-se possível a imputação de parte dos custos das atividades excluídas 
+como despesas gerais de P&D. Embora a preparação de publicações científicas 
+e técnicas seja geralmente excluída, deve incluir-se na P&D a preparação de 
+relatórios originais os quais apresentem resultados de pesquisa.
+Ensaios e normalização
+2.92. Os organismos públicos e as organizações de consumidores operam 
+frequentemente laboratórios em que o objetivo principal é testar produtos e verificar se estes cumprem determinadas normas. Além dos ensaios normalizados e de ensaios comparativos – os quais não são P&D – o pessoal 
+desses laboratórios também dedica tempo desenvolvendo novos métodos 
+de ensaio ou substancialmente melhorados. Essas atividades devem ser 
+incluídas em P&D.
+
+Projetos relativos a megadados
+2.93. O surgimento de novos métodos e instrumentos permitindo explorar 
+grandes volumes de dados facilita o processo da descoberta científica e inovação 
+fundada sobre dados. Essas atividades são P&D somente se cumpram os cinco 
+critérios de base, em particular no que diz respeito ao caráter sistemático da 
+atividade ou projeto considerado, ou seja, quando se identifica claramente a 
+lacuna no conhecimento inicial e se dirigem recursos específicos para resolver essa lacuna. Um exemplo é o projeto “Genoma Humano”, o qual reuniu 
+pesquisadores e instituições de 18 países em um esforço de pesquisa no qual 
+durou 13 anos no sequenciamento e mapeamento do DNA humano. Graças às 
+tecnologias digitais, o critério de codificação da P&D tem um papel importante 
+nos projetos os quais envolvem megadados, pois a possibilidade de utilizar os 
+dados desses projetos científicos depende da capacidade de retirar conhecimento sobre fenômenos específicos a partir dos dados obtidos. Esses dados podem 
+ou não ser disponibilizados em geral, ou serem usados para fins de pesquisa. O 
+conceito de comunidade científica aberta refere-se aos esforços para tornar os 
+resultados da pesquisa financiada por organismos públicos facilmente acessível 
+em formato digital a comunidade científica, ao setor empresarial e a sociedade 
+em geral (OCDE, 2015). Em alguns casos, os esforços para tornar os dados de 
+pesquisa livremente disponíveis a comunidade científica em geral, incluindo o 
+desenvolvimento de instrumentos os quais facilitam a reprodução da pesquisa, podem ser parte integral de um projeto de P&D desde que isso tenha sido 
+explicitamente formulado nos objetivos do projeto e orçamentado. Em outros 
+casos, esses esforços devem ser tratados separadamente como esforços de disseminação e não como P&D.
+
+
+
+Exploração do espaço
+2.94. A dificuldade na exploração espacial deve-se porque em alguns aspectos, uma boa parte da sua atividade possa ser hoje em dia considerada como 
+de rotina; é evidente que a maior parte dos custos corresponde à compra de 
+bens e de serviços os quais não se ajustam no perfil de P&D. Pode ser necessário distinguir as atividades relacionadas com a exploração espacial, incluindo 
+o desenvolvimento de veículos, equipamentos, software e técnicas, de outras 
+relacionadas com a colocação rotineira de satélites em órbita espacial ou a 
+criação de estações de monitoramento e de comunicação.
+Exploração mineral e de prospecção
+2.95. De acordo com o SCN 2008, a exploração mineral e prospecção constituem uma categoria de atividade a qual conduz à criação de um ativo de propriedade intelectual distinto da P&D (CE et al., 2009; OCDE, 2009). Esses ativos 
+vêm enriquecer o conhecimento do subsolo em determinados locais com o 
+propósito da exploração econômica de jazigos. Incluem a aquisição de direitos de exploração bem como estudos topográficos, geológicos, geoquímicos e geofísicos, e atividades de escavação, amostragem e avaliação.
+2.96. Esse manual faz também uma separação estrita entre P&D e mineração. Porém, podem ser encontradas algumas ligações com a P&D. Por exemplo, 
+testes geológicos realizados no contexto de projetos de P&D podem oferecer a 
+evidência inicial que empresas de exploração mineral podem querer prosseguir com esforços de prospecção dirigidos à exploração, o que não são P&D. 
+A P&D pode também ser necessária para desenvolver novos testes e técnicas 
+de prospecção os quais a indústria de mineração pode aproveitar para as suas 
+atividades de exploração e rotina. As atividades de mineração e de prospecção 
+podem ocasionalmente dar lugar a uma confusão de linguagem entre a pesquisa de novos recursos ou substancialmente melhorados (alimentos, energia, 
+etc.) e a pesquisa no sentido da prospecção de reservas de recursos naturais, 
+dificultando a distinção entre a P&D, por um lado, e os levantamentos geológicos e a prospecção, por outro. Em tese, para estabelecer dados precisos de P&D 
+deveriam identificar-se, medir-se e somar-se as seguintes atividades:
+
+• o desenvolvimento de novos métodos e técnicas de levantamentos geológicos;
+• os levantamentos geológicos empreendidos como parte essencial de um 
+projeto de pesquisa relativo aos fenômenos geológicos;
+• a pesquisa sobre fenômenos geológicos per se empreendida como parte 
+subsidiária dos programas de prospecção e levantamentos geológicos.
+2.97. Na prática, o último desses três pontos levanta diversos problemas. É 
+difícil formular uma definição precisa a qual tenha significado para quem deve 
+preencher as sondagens nacionais. Por isso, só devem ser incluídas em P&D as 
+seguintes atividades:
+• O desenvolvimento de métodos e equipamentos novos ou substancialmente melhorados para a obtenção de dados e para o tratamento, estudo 
+e interpretação destes.
+• Os levantamentos geológicos empreendidos como parte integrante de um 
+projeto de pesquisa sobre fenômenos geológicos em si, incluindo o recolhimento, o tratamento e a interpretação de dados realizados com objetivos 
+fundamentalmente científicos.
+2.98. Do que foi dito, deve-se concluir que as atividades de levantamentos 
+geológicos e de prospecção efetuadas por empresas devem ser praticamente 
+todas excluídas da P&D. Por exemplo, a abertura de poços de exploração para 
+avaliar os recursos de um jazigo deve ser considerada como um serviço científico e técnico, não sendo P&D.
+
+
+
+P&D e a gestão das atividades de ciência e tecnologia (ACT)
+Nível de maturidade tecnológica
+2.99. A classificação dos grandes projetos de P&D é examinada no Capítulo 8, em particular sob o ângulo dos setores da defesa e aeroespacial. Alguns 
+países utilizam classificações por nível de maturidade tecnológica na procura 
+de tecnologias e na descrição de projetos. Como há várias classificações, a 
+recomendação é que se há apenas uma na jurisdição de interesse, pode ser avaliada para determinar se pode contribuir para melhorar o recolhimento de 
+estatísticas de P&D.
+Projetos de demonstração
+2.100. Dois conceitos de demonstração foram já adotados nas estatísticas 
+de P&D: “demonstração dirigida a usuários”, que corresponde à utilização de um 
+protótipo a escala real ou quase real em um ambiente realista a fim de auxiliar 
+na formulação de uma iniciativa ou na promoção da sua utilização, que não é 
+P&D; e “demonstração tecnológica” (incluindo o desenvolvimento de projetos e 
+modelos de demonstração) o qual sendo parte integral de um projeto de P&D, 
+é uma atividade de P&D.
+2.101. Sendo frequentemente utilizada na gestão de grandes projetos de 
+pesquisa, a “demonstração tecnológica” é vista como um passo no processo de 
+avaliação ex-ante ou ex-post, a implementação de novas tecnologias. Esse significado foi inicialmente adotado no setor da informação e comunicação, evoluindo 
+para significar a atividade executada com o intuito de mostrar à investidores 
+potenciais ou a clientes as potencialidades da tecnologia em desenvolvimento. 
+Não se recomenda a utilização desse conceito em relação com o conceito de P&D, 
+a não ser que se identifique um papel claro de uma atividade de demonstração 
+em um projeto de P&D
+
+
+
+P&D nas ciências sociais, nas ciências humanas e nas artes
+ 2.102. Na definição de P&D enunciada nesse manual, a expressão “conhecimento do homem, da cultura e da sociedade” designa as ciências sociais, as 
+ciências humanas e as artes. Também nesses domínios, é extremamente útil 
+basear-se em critérios claros, como por exemplo haver um elemento apreciável de novidade ou lidar com a incerteza, identificando a P&D e separando 
+atividades científicas de rotina ou pesquisas não-científicas. As componentes 
+conceituais, metodológicas e empíricas do projeto em causa devem ser levadas 
+em consideração para identificar uma atividade de P&D.
+2.103. Em ciências sociais (por exemplo, sociologia, economia ou ciência 
+política), as atividades de recolhimento de dados como a condução de sondagens estatísticas em populações específicas, pode ser incluída em P&D se esta 
+estiver integrada em um projeto de pesquisa específico ou for realizada para o 
+benefício de um projeto de pesquisa específico. Assim, um projeto de natureza 
+rotineira, no qual o cientista social utiliza metodologias, princípios e modelos 
+correntes nas ciências sociais para lidar com uma questão particular, não pode 
+ser classificado como pesquisa. Por exemplo, um projeto utilizando sondagens 
+sobre a força de trabalho para identificar tendências no desemprego de longa 
+duração deve excluir a atividade de recolhimento de dados das atividades de 
+P&D (pois esses dados são normalmente recolhidos usando uma metodologia 
+conhecida). Por outro lado, o estudo casuístico do desemprego em uma dada 
+região, se utilizar técnicas originais nas entrevistas da sondagem pode incluir 
+o recolhimento de dados no seu esforço de P&D. Em uma perspectiva mais ampliada, na medida em que as ciências sociais utilizam dados empíricos, devem 
+ser utilizadas as mesmas diretivas as quais se aplicam nas ciências naturais 
+(ainda que excluindo a verificação de resultados por via experimental).
+2.104. Pode-se proceder da mesma maneira para as humanidades e para 
+as artes (estudos sobre literatura, música, artes visuais, teatro, dança e outras artes performativas). A sua natureza histórica e comparativa pode ser realçada, 
+bem como o papel relevante das universidades e outras instituições especializadas no desenvolvimento de diretivas científicas as quaisdevem ser seguidas 
+pelos acadêmicos dessas áreas.
+2.105. A gama abrangente de fontes utilizadas na história, arqueologia, 
+línguas e estudos de direito, e os métodos diferentes utilizados pelos pesquisadores, são áreas possíveis de P&D. A adoção dos cinco critérios de base da 
+P&D é recomendada, em particular no que se refere à novidade, criatividade e 
+transferência ou reprodutibilidade.
+2.106. Nos domínios da filosofia e estudos religiosos, por exemplo, estudos 
+históricos e comparativos conduzidos de acordo com as normas acadêmicas 
+correntes, são incluídos em P&D. Como não se pode estabelecer uma regra 
+geral, além da aplicação estrita dos critérios de P&D, recomenda-se também a 
+utilização da abordagem institucional (ou seja, possivelmente excluir atividades 
+de pesquisa em filosofia e religião realizadas fora de instituições de pesquisa 
+reconhecidas).
+2.107. Em conclusão, a pesquisa nas humanidades e artes pode ser incluída 
+na P&D desde que os seus próprios requisitos para identificar a natureza “científica” da sua pesquisa sejam cumpridos. Abaixo são apresentadas diretrizes 
+adicionais:
+• Contexto no qual se efetuam os trabalhos (critério institucional), pesquisa 
+realizada dentro do contexto universitário ou de uma instituição de pesquisa oficialmente reconhecida (incluindo museus, bibliotecas, etc.) pode 
+ser incluída em P&D.
+• Adoção de procedimentos reconhecidos. A pesquisa requer a formalização, e 
+isso também se aplica às humanidades. As atividades de pesquisa podem ser 
+identificadas e os seus resultados disponibilizados à comunidade científica 
+por meio da sua publicação em revistas científicas. Desde que essas condições se verifiquem e que uma comunidade científica esteja ativamente a 
+desenvolver algumas regras as quais permitam identificar os seus membros, 
+as mesmas regras podem ser utilizadas para identificar os resultados de P&D.
+• A pesquisa nas humanidades pode lidar com o desenvolvimento sistemático de teorias ou interpretações de textos, acontecimentos, vestígios materiais ou outro tipo de evidência disponível. Por convenção, as atividades de 
+pesquisas realizadas fora dos campos de P&D listados no Capítulo 3 devem 
+ser excluídas da P&D.
+
+P&D e saber tradicional
+2.108. O “saber tradicional” é um domínio de pesquisa transversal às humanidades e a medicina a qual designa, em grande medida de forma tácita, “a 
+acumulação de conhecimentos, saber-fazer, práticas e representações mantidas 
+e desenvolvidas pelos povos com uma extensa história de interações com o 
+ambiente natural [...] um conjunto cultural complexo que engloba a linguagem, 
+sistemas de nomenclatura e classificação, práticas de utilização de recursos, 
+rituais, espiritualidade e visão do mundo (ICSU e UNESCO, 2002:9). A relação 
+entre o saber tradicional e a P&D é particularmente relevante nos países em 
+desenvolvimento, no qual a existência de uma preciosa reserva de saber tradicional pode incitar fortemente as organizações nacionais e estrangeiras a 
+iniciar atividades de P&D.
+2.109. Como regra geral, quando as atividades associadas ao saber tradicional fazem parte de um projeto de P&D, o esforço (financeiro e em termos de 
+recursos humanos) deve ser contabilizado como P&D. Caso contrário, devem 
+ser excluídas.
+
+
+
+Exemplos de atividades relacionadas com o saber tradicional que devem 
+ser compatibilizadas com a P&D:
+• Um projeto de P&D pode incluir uma abordagem científica a fim de estabelecer o conteúdo de um saber tradicional em disciplinas como as etno-
+-ciências (etno-botânica, etno-pedologia, etno-silvicultura, etno-medicina 
+veterinária e etno-ecologia) ou a antropologia cognitiva. Nesse caso, os 
+métodos de P&D das disciplinas estabelecidas são utilizados para estudar 
+o saber tradicional.
+• A aplicação de métodos científicos com o objetivo de identificar ingredientes ativos de remédios locais ou a sua eficácia relativamente a certas 
+patologias. Nesse caso, os métodos da P&D são aplicados diretamente aos 
+produtos do saber tradicional para alargar o conjunto do conhecimento 
+científico.
+• Atividades realizadas por usuários do saber tradicional a fim de expandir 
+o conjunto do saber tradicional por intermédio do uso combinado de métodos tradicionais e de métodos científicos. Essas atividades devem cumprir 
+os critérios de referência para poderem ser contabilizadas como P&D ou 
+devem ser realizadas por universidades.
+2.110. Exemplos de atividades de saber tradicional as quais devem ser 
+excluídas da P&D:
+• O uso regular e continuado do saber tradicional por usuários, por exemplo: 
+no tratamento de maleitas ou na gestão de culturas agrícolas.
+• Desenvolvimento de rotina de produtos baseados no saber tradicional.
+• A conservação e comunicação de saber tradicional usando métodos clássicos (teste de novidade)
+• A transmissão tradicional de crenças ou práticas religiosas ou culturais
+
+
+
+2.8. Atividades para excluir da P&D
+2.111. Para efeitos de sondagens, a P&D deve ser distinguida de uma diversidade de atividades conexas as quais também têm uma base científica ou tecnológica. Essas outras atividades estão estreitamente relacionadas com a P&D quer 
+por meio de fluxos de informação quer em termos de operações instituições e 
+pessoal, mas dentro do possível devem ser excluídas das medidas de P&D.
+Serviços de informação científica e técnica
+2.112. As atividades especializadas de:
+• Recolhimento
+• Codificação 
+• Registro
+Classificação
+• Difusão
+• Tradução
+• Análise
+• Avaliação
+por:
+• pessoal científico ou técnico
+• serviços bibliográficos
+• serviços de patentes
+• serviços de informação científica e técnica, de extensão e de aconselhamento
+• conferências científicas
+Devem ser excluídos, exceto quando conduzidos exclusivamente ou principalmente com o objetivo de apoio à P&D (por exemplo, deve incluir-se como 
+atividade de P&D a preparação de um relatório original sobre os resultados 
+de P&D), ou no contexto de projetos de P&D, tal como definido anteriormente 
+nessa seção
+
+
+
+Ensaios e normalização
+2.113. Este seção diz respeito à manutenção das normas nacionais, calibração de normas secundárias e aos ensaios e análises de rotina de materiais, 
+componentes, produtos, processos, solos, atmosfera, etc. Não são classificadas 
+como atividades de P&D.
+Estudos de viabilidade
+2.114. A pesquisa de projetos de engenharia utilizando técnicas existentes 
+a fim de obter informação adicional antes de decidir sobre a sua implementação, 
+não é P&D. Nas ciências sociais, os estudos de viabilidade consistem em examinar as características socioeconômicas e as consequências de determinadas situações (por exemplo, um estudo de viabilidade de um complexo petroquímico 
+em uma determinada região). No entanto, os estudos de viabilidade de projetos 
+de pesquisa são parte da P&D.
+Assistência médica especializada
+2.115. Esta seção abarca os estudos de rotina e a aplicação normal de conhecimentos médicos especializados. Normalmente não é P&D, mas pode haver 
+um elemento de P&D no que habitualmente se designa por “assistência médica 
+especializada” quando se realiza, por exemplo, em hospitais universitários.
+Estudos relacionados com a política
+2.116. Neste contexto, a palavra “política” refere-se não apenas à política 
+nacional como também à política regional e local e assim como à política das empresas na concretização da sua atividade econômica. Os estudos de natureza 
+política abarcam atividades tais como: a análise e a avaliação dos programas 
+existentes, políticas e atividade de departamentos ministeriais e de outras 
+instituições, o trabalho das unidades as quais fazem a análise e monitorização 
+permanente de fenômenos externos (por exemplo: análise da defesa e da segurança nacional) e o trabalho das comissões parlamentares de sondagens relativo 
+ao governo em geral ou à política departamental e suas operações.
+2.117. Todas as atividades destinadas a apoiar as ações políticas, tais como: 
+atividade legislativa, devem ser excluídas da P&D. Isso inclui assessoria política e relações com os meios de comunicação, consultoria jurídica, relações 
+públicas e, inclusive, apoio técnico e atividades administrativas (por exemplo: 
+contabilidade).
+2.118. Por outro lado, deve ser salientado que atividades de pesquisa tendo 
+como objetivo informar os decisores sobre fenômenos sociais, econômicos ou 
+naturais devem ser incluídas em P&D. Essas atividades de P&D são normalmente executadas por pessoal qualificado – pesquisadores – em pequenas equipes 
+de especialista ou consultores os quais cumprem os critérios acadêmicos normais para a execução de trabalhos científicos (além dos critério de P&D)
+
+
+Avaliações programáticas
+2.119. Os esforços de P&D podem apoiar o processo de tomada de decisão 
+por governos ou outras instituições. Ainda que alguns desses esforços possam 
+ser prestados por organizações externas, algumas instituições têm equipes 
+dedicadas ativamente envolvidas na condução de análises ex ante e ex post, ou 
+avaliações, de forma ad hoc ou formal. Essas análises podem em alguns casos, 
+preencher os critérios de um projeto de P&D. Porém, não é sempre esse o caso, 
+e nem toda a informação ou o recolimento de evidências associadas ao aconselhamento político ou programático pode ser adequadamente descrita como 
+P&D. É importante levar detalhadamente em consideração as competências 
+técnicas do pessoal envolvido na atividade, como o conhecimento é codificado 
+dentro da organização, e como são garantidos os padrões de qualidade relativos 
+aos temas da pesquisa e às metodologias aplicadas. Há um risco significativo 
+de apresentar inadequadamente como P&D atividades (internas ou externas) 
+de consultoria sócio-econômica.
+2.120. Os conselheiros científicos têm um papel importante no seio da administração pública. No entanto, a aplicação de critérios de decisão precisos na 
+elaboração de políticas não é P&D. Os esforços dirigidos ao desenvolvimento de 
+metodologias melhoradas para tomar decisões fundadas sobre dados científicos 
+podem ser considerados P&D.
+Atividades limitadas ao financiamento da P&D
+2.121. O levantamento, gestão e distribuição de fundos por ministros, agências de financiamento, fundações ou organizações caritativas para o benefício 
+de executantes da P&D não se considera serem P&D.
+Atividades de apoio indiretas
+2.121. Esta seção cobre um conjunto de atividades as quais não são P&D 
+por si próprias, mas estas dão apoio à P&D. Foi convencionado que os dados 
+de pessoal de P&D englobam a P&D propriamente dita, entretanto excluem 
+as atividades de apoio indiretas, embora uma parte delas se possa incluir nas 
+despesas gerais de P&D dos executantes. Exemplos típicos são: o transporte, 
+armazenamento, limpeza, reparação, manutenção e segurança. Também se 
+classificam nessa seção as atividades administrativas e de secretariado as quais 
+não são realizadas exclusivamente para a P&D, como é o caso da s atividades 
+dos serviços centrais encarregados do orçamento e do pessoal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
