@@ -4343,6 +4343,1465 @@ dos serviços centrais encarregados do orçamento e do pessoal.
 
 
 
+Capítulo 4
+Quantificação das despesas de P&D: 
+Execução e fontes de financiamento
+
+4.1 Introdução
+Por que medir as despesas de P&D?
+4.1 O volume dos fundos dedicados à pesquisa e ao desenvolvimento experimental (despesas em P&D) é alvo de interesse dos responsáveis pela elaboração de políticas nacionais e internacionais. Esses números servem, designadamente, para determinar quem executa e financia as atividades de P&D ou em 
+que nível e para que fins estes ocorrem, e que relações de interdependência e de 
+colaboração existem entre as unidades institucionais e setores. As estatísticas 
+referentes às despesas servem como base para a elaboração de medidas fiscais 
+e financeiras as quais procuram estimular as atividades de P&D e compreender 
+a incidência da P&D no crescimento econômico, defesa e bem-estar social.
+4.2 Como indicado no Capítulo 1, o Sistema de Contabilidade Nacional (SCN) 
+de 2008 inclui como grande novidade a P&D sendo explicitamente reconhecida 
+como uma atividade de formação de capital ou, por outras palavras, como um 
+“investimento” (CE et al., 2009). Devido a esta mudança, tornou-se necessário 
+aperfeiçoar a decomposição das despesas em P&D, o que é evidenciado por 
+meio desse capítulo, fornecendo outras orientações sobre como proceder para 
+o recolhimento de dados detalhados sobre as fontes e o fluxo de financiamento 
+da P&D, assim como os tipos de operações ligadas à P&D. É particularmente 
+importante dispor de informações complementares mais aprofundadas a fim 
+de quantificar as vendas e aquisições de produtos de P&D.
+4.3 Apesar desse capítulo estar centrado nas condições necessárias com o intuito de produzir estatísticas com diferentes níveis de agregação os quais possam 
+ser comparadas em uma escala internacional, é igualmente relevante assegurar 
+que os dados referentes às diferentes unidades estatísticas possam ser utilizados 
+para análises detalhadas. As diretrizes fornecidas nesse capítulo procuram responder a uma multiplicidade de necessidades e de nuances no plano estatístico.
+Apresentação geral do recolhimento e compilação de dados
+Conceitos básicos
+4.4 Poderá ser útil apresentar inicialmente os conceitos básicos do recolhimento de dados estatísticos de P&D. Para efeitos desse manual:
+• as despesas de P&D internas correspondem à soma dos fundos dedicados 
+às atividades de P&D executadas no âmbito de uma unidade declarante; 
+enquanto as despesas de P&D externas, ou por outras palavras, os recursos 
+financeiros dedicados ao seu financiamento, correspondem à soma dos 
+fundos dedicados às atividades de P&D executadas no exterior da unidade 
+declarante.
+• os financiamentos externos de P&D correspondem à soma dos fundos dedicados à P&D provenientes diretamente dos recursos internos da unidade 
+declarante, enquanto os financiamentos externos de P&D correspondem 
+à soma dos fundos dedicados à P&D provenientes de fontes exteriores à 
+unidade declarante
+• os fundos de troca para a P&D correspondem aos fundos os quais uma 
+unidade estatística fornece a outra unidade em troca pela execução das 
+atividades de P&D; enquanto os fundos de transferência para a P&D correspondem aos meios financeiros que circulam entre as unidades estatísticas 
+sem que uma contrapartida seja exigida em termos de resultados de P&D.
+4.5 Esses conceitos, as suas ligações e as dificuldades de quantificação são 
+definidos e examinados detalhadamente no decorrer desse capítulo.
+
+Métodos de recolhimento básicos
+4.6 As despesas de uma unidade estatística podem ser dedicadas à execução ou ao financiamento de trabalhos de P&D. Uma unidade pode financiar 
+atividades de P&D sem esta efetuar tais atividades (como é por vezes o caso de 
+empresas as quais têm uma necessidade ocasional de comprar P&D). Uma unidade pode também executar trabalhos de P&D sem as financiar (que é frequentemente o caso o qual pode ser observado quando uma pequena empresa tem 
+a sua P&D financiada integralmente por uma subvenção pública). Por fim, uma 
+unidade estatística pode simultaneamente financiar e executar trabalhos de 
+P&D. O financiamento pode incidir nas atividades de P&D realizadas no âmbito 
+da unidade declarante (P&D interna) e no exterior (P&D externa). O método de 
+medição das despesas envolve as seguintes etapas:
+• Determinar as verbas atribuídas à P&D internas executadas no âmbito de 
+cada unidade estatística (ver seção 4.2).
+• Determinar a origem dos fundos utilizados para essas despesas de P&D 
+internas declaradas pelo executante (ver seção 4.3).
+• Determinar o financiamento para a P&D externa por cada unidade estatística (ver secção 4.3). Sendo que, quer unidades na qual executem ou não 
+atividades de P&D, possam financiar a P&D executada por outras unidades.
+• Determinar a quantia dos fluxos de financiamento existentes entre as 
+unidades estatísticas com e sem contrapartida em termos de resultados 
+de P&D da parte do executante (ver seção 4.3)
+• Agregar os dados, por setor de execução e fonte de financiamento, a fim 
+de obter os totais para a totalidade da economia. Outras qualificações e 
+repartições são então elaboradas neste quadro (ver seções 4.3 e 4.5).
+
+Despesas internas brutas de P&D (GERD): principal indicador da P&D 
+à escala de um país
+4.7 As GERD correspondem à totalidade das despesas internas da P&D 
+executada no território nacional durante um determinado período de tempo.
+4.8 Trata-se do principal agregado estatístico utilizado para descrever as 
+atividades de P&D de um país; incorpora o conjunto de despesas implicadas 
+para a P&D executadas no âmbito econômico. As GERD, consequentemente, 
+incluem a P&D executada no território nacional, mas financiada por fundos 
+do estrangeiro (por outras palavras, o « restante do mundo »), mas exclui os 
+financiamentos dedicados à P&D executados no estrangeiro. Ver no Capítulo 3 
+a seção 3.3 dedicada ao conceito de « residência » e, nesse capítulo, a seção 4.2 
+referente às convenções de contabilização da P&D internas executadas fora do 
+território nacional. As GERD representam o primeiro indicador de comparação 
+internacional das atividades de P&D.
+4.9 As unidades estatísticas de um determinado país podem realizar trabalhos de P&D dentro de cada um dos grandes setores estudados nesse manual, 
+designadamente, o setor das empresas, o setor de Estado, o setor do ensino superior e o setor privado sem fins lucrativos. As definições gerais desses setores 
+são fornecidas no capítulo 3, enquanto as definições e características de cada 
+um são objeto, respectivamente, dos capítulos 7, 8, 9 e 10. Os totais das despesas 
+de P&D internas deveriam ser estabelecidos para cada um desses setores. As 
+GERD correspondem à soma dos totais de cada setor. Adicionalmente, convém 
+determinar as fontes de financiamento de cada setor executante de atividades 
+de P&D (empresas, Estado, ensino superior, setor privado sem fins lucrativos e 
+restante do mundo). As definições e características do restante do mundo são 
+abordadas no Capítulo 11. Sempre que possível, no âmbito de reduzir o risco de 
+uma dupla contabilização, o cálculo das GERD deverá apoiar-se nas declarações 
+dos executantes e não nas informações provenientes das fontes de financiamento da P&D. O executante é a entidade mais adequada para indicar:
+• a maneira como os fundos foram efetivamente utilizados (por exemplo: a 
+alocação de certas despesas para uma atividade fazendo parte ou não da 
+P&D, a natureza da P&D, os elementos de custo que a P&D abrange, etc.)
+• o ano durante o qual os trabalhos de P&D foram efetuados
+• a fonte de financiamento imediata utilizada para a P&D.
+
+4.2 Despesas de P&D internas (execução de trabalhos de P&D)
+Definição
+4.10 As despesas de P&D internas abrangem o conjunto de despesas correntes e de despesas brutas de capital fixo correspondentes à P&D executada 
+no âmbito de uma unidade estatística ou no decorrer de um dado período de 
+tempo, independentemente da fonte de financiamento.
+4.11 Essas despesas correspondem à P&D executada no âmbito de uma 
+unidade estatística. O total das despesas de P&D internas das unidades as quais 
+constituem um setor da economia corresponde à P&D executada no interior 
+desse setor; por outro lado, a soma das despesas de P&D internas da totalidade
+dos setores corresponde à P&D executada no âmbito da economia na sua totalidade (GERD).
+4.12 Os recursos financeiros – por outras palavras, as despesas – dedicados 
+à P&D externa (a P&D executada fora da unidade estatística) não são incluídos 
+no total dos trabalhos de P&D interna. Esse financiamento da P&D executado no 
+exterior deverá ser contabilizado separadamente podendo ser obtidas informações exaustivas sobre o acesso de cada unidade à P&D. Dado que esses fundos 
+serão igualmente contabilizados na P&D interna das unidades favorecidas, as 
+despesas de P&D externas devem ser excluídas procurando evitar uma dupla 
+contabilização. A distinção entre as despesas associadas à P&D interna e as associadas à P&D externa não é sempre evidente; vários exemplos são propostos 
+no decorrer desse capítulo para ajudar na classificação.
+4.13 As despesas correspondentes à compras que não estando relacionadas 
+com atividades de P&D, são efetuadas fora da unidade estatística ou do setor, 
+mas no âmbito de apoiar a P&D interna (por exemplo: compra de materiais ou de 
+serviços gerais para trabalhos de P&D), são incluídas no total da P&D internas.
+4.14 As despesas correntes e as despesas em capital são ambas contabilizadas no total da P&D internas, em rubricas distintas.
+
+
+Despesas correntes de P&D
+4.15 As despesas correntes incluem os custos de mão-de-obra e outras 
+despesas correntes imputáveis à P&D. Os serviços e artigos (incluindo equipamentos) utilizados e consumidos no decorrer de um ano são incluídos nestas 
+despesas, assim como as taxas ou aluguéis anuais implicados na utilização de 
+ativos fixos.
+Custos da mão-de-obra ligados ao pessoal de P&D
+4.16 Os custos da mão-de-obra incluem as remunerações do pessoal empregue para a atividade de P&D (o chamado « pessoal interno de P&D » nesse 
+manual), tais como salários e os vencimentos anuais e o conjunto de custos 
+correspondentes aos benefícios adicionais, tais como pagamentos de bônus, 
+opções sobre ações e subsídios de férias, assim como contribuições para fundos 
+de pensões e outros pagamentos de segurança social, etc. É importante apenas 
+incluir custos de mão-de-obra das pessoas empregadas as quais contribuem 
+diretamente para a P&D internas, especialmente quando essas pessoas não 
+trabalham a tempo integral em um serviço de P&D. Por exemplo, o simples fato 
+de uma pessoa estar trabalhando em um serviço de P&D não significa que todos 
+os custos de mão-de-obra que lhe são associados correspondam às atividades 
+de P&D. Para obter mais informações sobre esse tópico, ver Capítulo 5.
+4.17 Os custos da mão-de-obra geralmente representam a maior das despesas correntes de P&D. Os países podem achar útil o recolhimento de dados sobre 
+esses custos ou avaliá-los fazendo a distinção entre as diferentes categorias de 
+pessoal de P&D (pesquisadores, técnicos e pessoal equiparado, outras categorias 
+de pessoal de suporte, por exemplo). Essas repartições adicionais podem ser 
+úteis para estabelecer índices de custos para as despesas de P&D.
+4.18 Os custos da mão-de-obra associados ao pessoal em funções em 
+uma unidade estatística a qual não faz parte do pessoal de P&D, visto que esse 
+pessoal fornece serviços auxiliares (segurança, limpeza, manutenção e alimen-tação; pessoal de serviços de informática centrais e de bibliotecas; serviços 
+centrais das finanças e pessoal os quais contribuam diretamente ao trabalho 
+de P&D) que deverão ser contabilizados em outras despesas correntes.
+4.19 Os custos associados às pessoas as quais não são empregados da unidade estatística mas que fornecem serviços diretos no qual constituem uma 
+parte integral dos projetos ou atividades de P&D dessa unidade não deverão ser 
+incluídos nos custos da mão-de-obra, mas sim nas outras despesas correntes 
+(ver definição à). Em certos casos, as delimitações entre o pessoal interno de 
+P&D da unidade estatística (custo da mão-de-obra) e dos trabalhadores autônomos os quais participam em trabalhos de P&D dessa unidade (outras despesas 
+correntes) podem ser pouco definidas. De forma geral, a unidade estatística paga 
+os trabalhadores autônomos para uma totalidade de serviços especificados em 
+um contrato, em vez de pagar um salário e benefícios. Ver o Capítulo 5 para 
+mais esclarecimentos sobre o pessoal de P&D.
+4.20 O cálculo do salário dos estudantes de doutorado ou mestrado pode ser 
+problemático. Como indicado no Capítulo 5, apenas os estudantes empregados 
+pela unidade estatística e os quais participem nos projetos ou atividades de P&D 
+dessa unidade (com funções de pesquisadores ou de assistentes de pesquisa, 
+por exemplo) deverão ser incluídos nos custos totais. A remuneração desses 
+estudantes é por vezes inferior ao « valor do mercado ». No entanto, apenas 
+os salários e custos da mão-de-obra realmente associados a esses estudantes 
+deverão ser considerados na elaboração das estatísticas de P&D. Nenhum valor 
+inflacionado deverá ser utilizado.
+4.21 Os custos da mão-de-obra incluem as quotas – imputadas ou efetivas 
+– para fundos de pensão e outros encargos sociais decorrentes do pessoal de 
+P&D. Esses custos não aparecem necessariamente na contabilidade da unidade 
+estatística e pode frequentemente envolver operações dentro dos setores ou entre 
+estes. Uma tentativa da estimativa dos custos deverá ser efetuada mesmo quando 
+não existirem transações. Para evitar uma dupla contabilização, as pensões pagas 
+ao pessoal da P&D para a aposentadoria não entram nos custos da mão-de-obra.
+4.22 Os custos da mão-de-obra do pessoal da P&D deverão incluir as quotas 
+sociais e outros encargos pagos pelo empregador, tendo em conta a dedução 
+efetuada devido à subvenções/reduções aplicáveis ao pessoal em questão. 
+No entanto, para promover o recrutamento de pessoal de P&D, certos países 
+estabelecem sistemas de incentivos automáticos que se manifestam por meio 
+da implementação de vários instrumentos relacionados com as contribuições 
+sociais. Para ter certeza de que a escolha do instrumento em questão não tem 
+incidência nas despesas de P&D as quais são declaradas, é recomendado não 
+ter em consideração esses incentivos no momento da estimativa dos custos da 
+mão-de-obra.
+
+• Exemplo: o país A estabelece um incentivo fiscal para o recrutamento sob a 
+forma de uma redução das contribuições para a segurança social (um pesquisador custa 100 unidades monetária, incluindo contribuições sociais, 
+menos uma redução de 10 unidades correspondendo a uma isenção das 
+contribuições sociais); o país B instaura outro incentivo equivalente, nesse 
+caso uma isenção de 10 unidades monetárias recuperadas separadamente 
+por meio do sistema de tributação das empresas. Sem a recomendação 
+supracitada, a medida da P&D do primeiro ano de contratação do pesquisador resultaria, incorretamente, em um resultado inferior para o país A 
+(90) do que para o país B (100). No entanto, em ambos os casos, os custos 
+da mão-de-obra contabilizados deveriam ser 100.
+
+Outras despesas correntes de P&D
+4.23 As outras despesas correntes incluem o custo de compra de materiais, 
+provisões, equipamentos e serviços envolvidos no apoio das atividades de P&D 
+realizadas pela unidade estatística no decorrer do ano de referência não fazendo 
+parte das despesas em capital. Entre outros exemplos figuram as despesas da 
+água e de combustível (incluindo gás e eletricidade); compras de obras, revistas 
+e documentos de referência, subscrições em bibliotecas, quotas de sociedades 
+científicas, etc.; os custos imputados ou reais dos protótipos ou modelos de dimensão reduzida fabricados no exterior da unidade estatística; e os custos do 
+equipamento dos laboratórios (por exemplo, produtos químicos, animais, etc.). 
+Entram igualmente nas despesas correntes as taxas e licenças de exploração de 
+patentes e outros direitos de propriedade intelectual, o aluguel de equipamentos 
+(máquinas, ferramentas elétricas, etc.) e de edifícios utilizados na execução de 
+P&D pela unidade estatística no decorrer do ano de referência.
+4.24 Em certos casos pode ser difícil fazer a distinção entre a compra de 
+P&D (ou seja, de trabalhos de P&D externa os quais não são contabilizados nas 
+despesas de P&D interna) e na compra de serviços de apoio para P&D internas 
+executada dentro da unidade estatística. Para mais detalhes, ver a subseção 
+adiante intitulada « Exclusão das aquisições de P&D ».
+4.25 A rubrica de outras despesas correntes de P&D envolve os custos logísticos os quais servem na execução de atividades de P&D no decorrer de um 
+ano ou menos. Trata-se designadamente das licenças ou softwares adquiridos 
+e separadamente identificáveis, incluindo os manuais dos softwares e a documentação a qual acompanha. Os custos de produção (por exemplo: a mão-de-
+-obra e os materiais) dos softwares desenvolvidos internamente deverão ser 
+declarados. Os softwares podem ser adquiridos de vendedores externos por 
+intermédio da compra definitiva de direitos ou licenças para a sua utilização. Os 
+softwares utilizados ou adquiridos sob uma licença de duração superior a um 
+ano deverão ser declarados como despesas em capital (ver a subseção intitulada 
+« Softwares capitalizados »).
+4.26 Os custos associados às pessoas na qual não são empregados da unidade estatística mas que fornecem serviços diretos os quais constituem uma 
+parte integrante das atividades de P&D dessa unidade deverão ser incluídos 
+em outras despesas correntes. Essas pessoas são principalmente consultores e 
+pesquisadores ao qual intervêm no local e são provenientes de organizações, estabelecimentos de pesquisa, empresas e outras entidades exteriores à unidade 
+estatística, assim como trabalhadores autônomos. Também é possível encontrar técnicos e pessoal equiparado os quais são empregados e recrutados por 
+unidades estatísticas externas e que contribuem diretamente nos trabalhos de 
+P&D interna da unidade estatística. Por convenção, essas pessoas são referidas 
+nesse manual sob a designação de « pessoal externo de P&D » - ou seja, pessoas 
+as quais não recebem vencimentos ou salários da parte da unidade estatística a 
+qual executa trabalhos de P&D, em contraste com o pessoal interno da unidade 
+estatística que recebe salários e vencimentos. Esses custos deverão ser contabilizados separadamente como «Outras despesas correntes – pessoal externo 
+de P&D». Em algumas circunstâncias, pode ser difícil fazer a distinção entre a 
+compra de P&D (por outras palavras, a P&D interna) e a compra de serviços de 
+consultoria para apoiar a P&D internas executada dentro da unidade estatística 
+(imputada às outras despesas correntes). Para ajudar o processo de classificação, 
+ver adiante a subseção intitulada «Distinção entre os custos da mão-de-obra 
+ligados à P&D interna e externa».
+
+4.27 A distinção entre a compra de serviços fornecidos pelo pessoal externo para o apoio da P&D internas executada dentro da unidade estatística 
+(sub-rubrica «Outras despesas correntes – pessoal externo de P&D») e a compra 
+de serviços gerais para o apoio da P&D internas executada na unidade estatística (imputada a outras despesas correntes, mas não na sub-rubrica do pessoal 
+externo) pode ser difícil de estabelecer. A imputação dessas despesas correntes 
+dependerá principalmente do grau do detalhamento das informações na qual 
+aparecem nas contas financeiras da P&D internas da unidade estatística; de 
+qualquer forma, a contabilização das despesas de P&D deverá ser coerente com 
+a do pessoal de P&D. Consulte a seção 5.2 do Capítulo 5 para ver o tratamento 
+dos custos segundo as categorias do pessoal de P&D.
+4.28 Como indicado no Capítulo 5, os custos associados aos estudantes 
+em mestrado ou doutorado que participem em projetos ou atividades de P&D 
+da unidade estatística, mas que não sejam empregues por esta deverão ser incluídos na sub-rubrica «Outras despesas correntes – pessoal externo de P&D». 
+Esses custos incluem as subvenções de pesquisas ou bolsas de estudo as quais 
+são geradas pela unidade estatística ou por meio dela.
+4.29 Os custos administrativos e outros custos gerais (tais como as despesas de escritório, de informação e telecomunicações, de serviços coletivos e de 
+seguros) deverão também ser incluídos nas outras despesas correntes, de forma 
+proporcional caso necessário, para excluir as atividades que não envolvem P&D 
+mas que são realizadas no interior da mesma unidade estatística. Os custos – 
+de forma proporcional – dos serviços indiretos ou auxiliares também deverão 
+ser incluídos nessa rubrica, quer esses serviços tenham sidos executados no 
+interior da unidade estatística ou alugados/comprados no exterior, como por 
+exemplo no caso da segurança, armazenamento, utilização, limpeza, reparação 
+e manutenção de edifícios ou de equipamentos, ou serviços informáticos ou a 
+impressão de relatórios de P&D. Os custos ajustados do pessoal dos serviços 
+informáticos centrais e das bibliotecas, assim como o pessoal dos serviços 
+centrais financeiros deverão ser incluídos. Os encargos com juros deverão ser 
+excluídos.
+4.30 As unidades estatísticas na qual efetuam trabalhos de P&D interna 
+e que financiam a P&D externa podem contabilizar os custos administrativos 
+associados à preparação e à execução dos contratos de P&D externa como fazendo parte de outras despesas correntes e não como custos de mão-de-obra. 
+A angariação, gestão e distribuição de fundos fornecidos por ministérios, organismos de pesquisa, fundações ou organizações de caridade aos executantes de 
+P&D não deverão ser contabilizados como atividades de P&D.
+4.31 Para a medição da P&D no quadro do SCN, as despesas que correspondem à compra de equipamentos deverão ser dissociadas das que correspondem 
+à compra de serviços. No entanto, é importante assegurar a qualidade dos dados 
+e evitar que a carga de trabalho se torne demasiado pesada para os inquiridos.
+Imputação dos custos da P&D no âmbito de um grupo de empresas
+4.32 Em conformidade com as normas de contabilidade internacionais, 
+as empresas as quais fazem parte de um grupo (particularmente as multinacionais) pagam aos outros membros do grupo (particularmente as empresas 
+controladoras instaladas no estrangeiro) montantes significativos para financiar 
+trabalhos de P&D realizados no âmbito do grupo, sem no entanto receber prestações de P&D. Esses “montantes” não deverão ser incluídos nos totais das despesas de P&D interna da empresa pagante, mas deverão ser contabilizados como 
+fazendo parte do financiamento de P&D externa. Quando se trata da empresa a 
+qual efetua os trabalhos de P&D e recebe os montantes dos outros membros do 
+grupo (por exemplo: da empresa controladora instalada no estrangeiro), se esta 
+receber fundos sem fornecer prestações de P&D, esses montantes fazem parte 
+das suas despesas de P&D internas e deverão então ser integradas nas fontes 
+de financiamento externas. No entanto, devido a razões práticas, a unidade beneficiária dos fundos não os considera necessariamente como fontes externas 
+de financiamento de P&D internas no plano da contabilidade, mas como fontes 
+internas (como se esta utilizasse lucros reinvestidos para financiar a sua P&D). 
+Ver o Capítulo 11 dedicado à globalização da P&D.
+
+
+
+Despesas correntes pagas por um financiamento indireto
+4.33 As atividades de P&D podem gerar despesas as quais frequentemente não são pagas pelo próprio setor mas sim por unidades institucionais que 
+pertencem a outros setores da economia, geralmente o setor do Estado. Dois 
+exemplos são apresentados abaixo.
+• Exemplo n ° 1. Aluguel de instalações de pesquisa
+4.34 Em vários países, a responsabilidade pelo “alojamento” dos organismos públicos (incluindo o das universidades) é da incumbência de um organismo central o qual não efetua necessariamente trabalhos de P&D e portanto 
+poderá não ser sujeito a uma sondagem. No entanto, na eventualidade em que 
+seria objeto de uma entrevista como uma unidade institucional do setor do 
+Estado, é possível que a sua contabilidade não reflita a repartição funcional 
+entre a P&D e outras atividades. Essa observação também é aplicável ao setor 
+do ensino superior.
+4.35 Em certos casos, as instalações são disponibilizadas gratuitamente aos 
+organismos e não são contabilizados nos seus registros de contabilidade. Em 
+outros casos, os organismos pagam um aluguel ao proprietário das instalações. 
+Se o objetivo for a avaliação do custo real da P&D, a totalidade dos encargos 
+e aluguéis associados à P&D deverão, em princípio, ser incluídos nos dados 
+referentes às despesas. Quando os encargos ou aluguéis são imputados a uma 
+unidade, essa operação é fácil. No entanto, na ausência de tal imputação, poderá 
+ser vantajoso calcular uma quantia representativa do custo das instalações para 
+o usuário ou o seu “valor comercial”. Essa quantia pode ser incluída nas outras 
+despesas correntes. É importante evitar a dupla contabilidade dos custos entre 
+os prestadores e beneficiários desses serviços.
+• Exemplo n ° 2. Funcionamento e manutenção das instalações de pesquisa
+4.36 É possível que o Estado seja o proprietário de instalações especiais 
+reservadas para atividades de P&D, e que este assegure a sua manutenção. 
+Essas instalações são utilizadas por executantes do setor público (incluindo 
+pelo organismo a quem estas pertencem e por outros organismos públicos) e do 
+setor privado (geralmente empresas) no quadro dos projetos de P&D aprovados. 
+Quando são utilizadas por outros executantes de trabalhos de P&D (públicos 
+ou privados), a taxa de utilização correspondente – podendo incluir custos de 
+funcionamento e de manutenção – a qual é paga ao proprietário das instalações é contabilizada nas despesas correntes do executante dos trabalhos de 
+P&D. Para evitar uma dupla contabilidade, esses custos de funcionamento e de manutenção incluídos na taxa de utilização não deverão ser declarados pelo 
+organismo público a quem essas instalações pertencem.
+4.37 Por outro lado, se essas instalações apenas são utilizadas algumas 
+vezes por ano, o seu proprietário poderá ter que assumir custos de funcionamento e de manutenção de forma contínua para manter as instalações de P&D 
+em condições aceitáveis. Se não efetuar essas despesas, as instalações correm 
+o risco de não serem utilizáveis para um projeto de P&D por qualquer entidade. Se as despesas recorrentes não forem repercutidas na taxa de utilização 
+(ou qualquer outro cargo indireto) pago pelos executantes públicos e privados, 
+estas poderão ser contabilizadas pela administração pública que possui as instalações enquanto despesas internas, na rubrica de outras despesas correntes.
+Custos de amortização e de depreciação (excluindo o total das despesas 
+de P&D interna)
+4.38 A depreciação dos bens físicos utilizados na P&D não deverá ser incluída no total das despesas de P&D internas; o mesmo se aplica à amortização. 
+Contudo, esses custos de ativos fixos utilizados para a P&D são frequentemente 
+integrados no plano de contabilidade na P&D interna da unidade declarante, 
+geralmente sob a rubrica de outras despesas correntes.
+4.39 A fim de evitar erros de declaração nas sondagens de P&D, recomenda-
+-se que as informações referentes aos custos de amortização e de depreciação 
+sejam recolhidas separadamente dos custos de P&D, ou que pelo menos sejam 
+claramente indicados que esses custos não deverão ser integrados no total das 
+despesas de P&D internas.
+Princípios de estimativa das despesas de P&D: o preço da aquisição
+4.40 O recolhimento e a contabilidade das despesas de P&D deverão ser 
+feitas tendo por base os preços de aquisição que correspondem às quantias 
+pagas pelos compradores, excluindo a parte dedutível do imposto sobre o 
+valor acrescentado e impostos semelhantes. Os preços de aquisição representam os custos reais dos usuários. Isso significa que o valor das despesas 
+em bens e serviços adquiridos para a P&D é o preço total pago pela unidade 
+declarante, incluindo as taxas sobre os produtos os quais contribuem a fim 
+de aumentar o preço, e as subvenções, que reduzem os preços dos produtos 
+adquiridos.
+• Exemplo: Uma empresa compra materiais com o o intuito de serem utilizados em atividades de P&D por 100 unidades monetárias. 60 são para o 
+material A taxado a 10% e 40 são para o material B que é subsidiado a 4%. 
+Adicionalmente, existe uma taxa de imposto de 15%. Neste caso, a medida 
+relevante do custo de P&D é 100 mais (60*10%) menos (40*4%) ou ((100+6) - 
+1.6) = 104.4. Os 15% de taxa recuperável não contribui para a quantificação 
+de custos de P&D.
+Imposto sobre o valor acrescentado dedutível (excluindo o total das 
+despesas de P&D internas)
+4.41 As estatísticas oficiais deverão assegurar que os impostos dedutíveis 
+aplicados aos produtos (como certas formas de impostos) não sejam tidas em conta na declaração dos custos. Uma empresa privada pode recuperar o imposto 
+dedutível pago nas suas compras ao deduzir o montante de imposto cobrado 
+aos seus clientes. Em conformidade com os SCN e para efeitos de comparação 
+internacional, será mais conveniente aplicar um sistema de registro líquido do 
+imposto. Nesse sistema, o imposto é registrado devendo ser pago pelos compradores e não pelos vendedores, e somente pelos compradores os quais não 
+têm a possibilidade de o deduzir.
+4.42 No setor das empresas, em conformidade com as regras de contabilidade normalizadas, o imposto aplicado aos inputs é registrado separadamente 
+e é recuperável em função do imposto aplicado sobre os outputs. Essa regra 
+deverá também ser aplicada a empresas cujo volume de negócios é temporariamente insuficiente para recuperar o imposto pago. As unidades estatísticas 
+deverão ser informadas sobre essas instruções a serem seguidas no momento 
+da declaração das despesas em P&D. No que diz respeito ao setor do Estado, o 
+imposto aplicado aos inputs é frequentemente dedutível sendo, portanto, registrado separadamente.
+4.43 O setor privado do ensino superior e o setor privado sem fins lucrativos 
+deparam-se com mais complicações, pois o imposto incluído nos preços dos 
+bens e serviços comprados no quadro de um projeto de P&D não é sempre recuperável e será considerado pelos inquiridos como uma componente legítima 
+das suas despesas. Recomenda-se a exclusão do imposto dedutível dos valores 
+comunicados para efeito de comparações internacionais.
+
+
+Despesas de capital dedicadas à P&D
+4.44 As despesas de capital dedicadas à P&D correspondem ao montante 
+bruto anual pago pela aquisição de ativos fixos os quais são utilizados repetidamente ou continuamente no decorrer da execução de trabalhos de P&D durante 
+mais de um ano. Essas despesas deverão ser declaradas na sua totalidade no 
+período de tempo durante a qual estas decorreram, quer se tratem de ativos 
+adquiridos ou desenvolvidos internamente, e não deverão ser registradas como 
+um elemento de amortização.
+4.45 Essas despesas, as quais incluem compras e outros custos associados 
+à aquisição ou a formação de ativos fixos, são denominadas “despesas de capital”. Geralmente, os ativos fixos incluem simultaneamente ativos materiais – ou 
+corporais – (tais como: edifícios e estruturas, materiais de transporte, máquinas 
+e equipamentos diversos, etc.) e ativos imateriais (como softwares ou direitos 
+de prospecção mineira).
+4.46 A quantificação das despesas de capital dedicadas à P&D centra-se nas 
+transações de capital rastreáveis utilizadas na P&D em vez de estar centrado no 
+custo econômico associado à posse e utilização de ativos no quadro da P&D. O 
+custo de utilização de ativos pertencentes a terceiros no quadro da P&D interna 
+deve ser contabilizado como parte das “outras despesas correntes”. No entanto, 
+as despesas de capital dedicadas à P&D devem ser registradas separadamente 
+e individualmente. Para evitar a dupla contabilidade de despesas de capital, 
+todas as concessões para as amortizações e depreciações de edifícios, instalações e equipamento e outros bens imateriais, quer sejam reais ou imputados, 
+deverão ser excluídos das medições de despesas em P&D internas (ver acima a 
+subseção intitulada “Custos de amortização e de depreciação (excluindo o total 
+das despesas de P&D internas”)
+
+
+
+Tipos de ativos utilizados para a P&D
+4.47 Os tipos de ativos utilizados na P&D cujos dados de despesas de capital 
+dedicados à P&D deverão ser recolhidos são os seguintes:
+• terrenos e edifícios
+• máquinas e equipamentos
+• softwares capitalizados
+• outros produtos de propriedade intelectual
+Terrenos e edifícios
+4.48 Esta categoria inclui os terrenos adquiridos para atividades de P&D 
+(por exemplo, realização de ensaios, planejamento de laboratórios e de fábricas-piloto) assim como os edifícios construídos ou adquiridos para atividades 
+de P&D, incluindo grandes melhorias, modificações e reparações. Dado que os 
+edifícios são ativos produzidos e que os terrenos são ativos não produzidos, 
+no contexto do Sistema de Contabilidade Nacional, é importante identificar as 
+despesas de P&D de modo a serem distinguíveis.
+4.49 Quando um novo edifício é adquirido ou construído para uma utilização mista, a parte das despesas de capital dedicadas à P&D torna-se amiúde 
+difícil de determinar, e sob essas circunstâncias o elemento de partilha é frequentemente ignorado no recolhimento de estatísticas de despesas em P&D. Ver 
+abaixo a subseção intitulada “Determinação da parte das despesas de capital 
+dedicadas à P&D” para saber como proceder para avaliar a percentagem da 
+utilização das despesas de capital para efeitos de P&D.
+4.50 Frequentemente, a compra de novos equipamentos de pesquisa são 
+incluídos no custo dos novos edifícios, e não aparecem separadamente nos 
+registros contábeis da unidade declarante. Isso poderá levar a que a rubrica 
+das “máquinas e equipamentos” seja subestimada no total das despesas de 
+capital dedicadas à P&D. As unidades declarantes deverão ser explicitamente 
+encorajadas a identificar e contabilizar separadamente essas aquisições de 
+equipamentos na categoria de ativos fixos adequada.
+Máquinas e equipamentos
+4.51 Esta categoria inclui as máquinas e equipamentos capitalizados os 
+quais foram adquiridos para a execução de atividades de P&D. No contexto da 
+quantificação das despesas em P&D no Sistema de Contabilidade Nacional, as 
+despesas em máquinas e equipamentos deverão ser identificadas com um maior 
+grau de detalhamento, incluindo o “material de informação e de comunicação” 
+e “materiais de transporte”. No entanto, é importante garantir a qualidade dos 
+dados assegurando que a carga de trabalho não seja demasiado grande para 
+os inquiridos.
+Softwares capitalizados
+4.52 Esta categoria inclui softwares utilizados na execução de atividades de 
+P&D durante mais de um ano. Trata-se designadamente de licenças ou softwares adquiridos para um longo período de tempo e separadamente identificáveis, incluindo o manual dos softwares e a documentação o qual os acompanha e a 
+documentão dos sistemas informáticos. Os custos de produção (por exemplo, 
+a mão-de-obra e materiais) de softwares desenvolvidos internamente deverão 
+ser declarados. Os softwares poderão ser adquiridos a partir de fornecedores 
+externos por meio da compra definitiva de licenças ou direitos de utilização. 
+Os softwares utilizados ou adquiridos sob uma licença de duração inferior a 
+um ano deverão ser declarados como despesas correntes (ver acima a subseção 
+intitulada “Outras despesas correntes de P&D”);
+Outros produtos de propriedade intelectual
+4.53 Esta categoria inclui as patentes adquiridas, as licenças de utilização 
+a longo prazo e outros ativos imateriais para atividades de P&D com o objetivo 
+de serem utilizados durante um prazo superior a um ano. Os elementos imateriais suscetíveis de serem declarados nas contas financeiras internas de uma 
+unidade não fazem parte dessa categoria, como é o caso de capitais empresariais e outros ativos comerciais (ver a subseção intitulada “Comparação com as 
+despesas de capital declaradas no SCN”).
+Convenções sobre a distinção entre as despesas correntes e as despesas de 
+capital
+4.54 A avaliação das despesas de capital realmente efetuadas geralmente 
+não incluem os pequenos materiais, ferramentas e pequenas reparações/melhorias efetuados em edifícios existentes sendo que, na maioria dos sistemas 
+contábeis, essas despesas são geralmente consideradas como parte das despesas correntes. A delimitação entre as despesas “menores” e as despesas “significantes” varia ligeiramente entre países diferentes em função das suas práticas fiscais, ou entre empresas ou organismos diferentes em função das suas 
+práticas contábeis. Dado que essas diferenças são raramente consideráveis, não 
+é necessário e nem recomendado aplicar uma norma estrita. A imputação de 
+despesas sendo correntes ou de capital dependerá das práticas estabelecidas em 
+cada país. No entanto, nos países em que as despesas referentes ao desenvolvimento de protótipos muito dispendiosos (por exemplo, aviões) ou de materiais 
+de curta longevidade (por exemplo, foguetes de lançamento) são consideradas 
+como despesas correntes, é importante indicar claramente essas convenções.
+4.55 Apesar das compras correntes de livros, publicações periódicas e 
+revistas anuais serem imputadas às despesas correntes, as despesas correspondentes à compra de bibliotecas completas ou grandes coleções de livros, 
+publicações periódicas, amostras, etc., deverão ser assinaladas como parte de 
+despesas de grandes equipamentos, particularmente se a compra é feita para 
+equipar um novo estabelecimento.
+Determinação da parte das despesas de capital dedicadas à P&D
+4.56 É por vezes possível saber, a partir do momento da compra que parte 
+de um ativo fixo será utilizado para trabalhos de P&D. Nesse caso, apenas a 
+fração correspondente aos custos deverá ser imputada às despesas de capital de 
+P&D. Na maioria das vezes, quando não se sabe em que parte do ativo fixo será 
+dedicado à P&D e quando esse ativo destina-se à várias
+atividades sem saber 
+se será utilizado predominantemente para a P&D (por exemplo: computadores
+
+
+e respectivas instalações, ou laboratórios utilizados simultaneamente para a 
+P&D e para ensaios e controle de qualidade), em princípio convém distribuir as 
+despesas proporcionalmente entre a P&D e outras atividades. A percentagem 
+atribuída à P&D pode ser definida em função do número de pessoas contratadas para a P&D ao qual utilizam a instalação comparativamente ao número do 
+efetivo total, ou com base nos cálculos administrativos efetuados previamente 
+(uma fração das despesas de capital poderá, por exemplo, ser imputada ao orçamento de P&D ou uma certa proporção do tempo de trabalho ou dos locais 
+poderão ser atribuídos à P&D).
+4.57 É possível que uma unidade estatística (geralmente um organismo 
+público ou uma grande empresa) realize um grande investimento em ativos 
+fixos de grande dimensão, considerados como “os melhores da sua categoria” 
+ou como oferecendo capacidades previamente inexistentes. Devido à sua eventual contribuição para atividades inovadoras, as unidades declarantes podem 
+estar inclinadas a contabilizar todas essas despesas de construção como parte 
+das despesas em P&D. No entanto, no âmbito das comparações internacionais, 
+apenas as despesas especificamente identificadas desempenhando um papel 
+fundamental para a P&D deverão ser incluídos nas despesas de P&D internas. 
+Geralmente essas despesas não deverão ser contabilizadas como despesas em 
+P&D correntes, mas como despesas de capital dedicadas à P&D.
+Venda de bens de capital utilizadas para a P&D
+4.58 A venda ou a transferência de ativos fixos originalmente adquiridos 
+para atividades de P&D é um caso problemático. A cessação de ativos pode ser 
+considerada como um desinvestimento em P&D. No entanto, nenhuma modificação deverá ser feita ao registro de despesas de capital: as despesas de capital 
+dedicadas à P&D pela unidade estatística não devem, consequentemente, ser 
+reduzidas, quer para atividades correntes ou retrospectivamente (ou seja, para 
+atividades prévias em que as despesas de capital foram registradas). As revisões de atividades correntes podem criar anomalias tais como despesas em 
+P&D internas negativas. As modificações retrospectivas são difíceis de realizar 
+podendo originar enganos. Idealmente, a compra e bens de equipamento em 
+segunda mão por outro executante de P&D instalado no território nacional não 
+deve ser considerada na quantificação de despesas de P&D de modo a evitar uma 
+dupla contabilização de bens em ocasiões diferentes. É possível que os ativos 
+vendidos sejam atribuídos a outras utilizações ou transferidas a um executante de P&D no estrangeiro, caso no qual não haverá uma dupla contabilização.
+4.59 A Tabela 4.1 representa as diferentes categorias de despesas descritas 
+previamente. As circunstâncias próprias de cada país determinarão o nível de 
+detalhamento dos dados que serão eventualmente recolhidos.
+Tópicos de reflexão e problemas referentes ao cálculo total das despesas 
+de P&D internas
+Não-contabilização de compras de P&D
+4.60 Os custos de aquisição de P&D de outras unidades ou setores não deverão ser incluídos nas despesas de P&D internas da unidade estatística ou do setor 
+declarante. Quando se trata da compra de serviços estritamente ligados à atividades de P&D, pode ser conceitualmente difícil de distinguir entre os custos da P&D 
+internas e os da P&D externas. Se esses serviços forem fornecidos para projetos 
+de P&D distintos especificados por meio de um contrato, caso estejam faltando 
+especificações detalhadas emitidas pelo administrador do projeto da entidade 
+financiada, as despesas podem geralmente ser consideradas como financiamento 
+de atividades externas de P&D. Caso se trate de tarefas (não necessariamente de 
+P&D) as quais são indispensáveis para a P&D internas da unidade, mas sendo 
+que estas foram subcontratadas, os custos correspondentes podem geralmente 
+ser contabilizados nas despesas de P&D internas (outras despesas correntes).
+4.61 No caso das grandes empresas, é por vezes difícil de fazer a distinção 
+entre os custos de P&D internas e externas. Em conformidade com as normas 
+contábeis internacionais, os relatórios financeiros anuais das empresas frequentemente incluem as despesas internas dedicas simultaneamente à P&D 
+internas e externas, desde que os trabalhos de P&D executados “beneficiem” a 
+empresa declarante. Cabe aos países fornecer orientações claras às unidades 
+declarantes para minimizar o risco das despesas em P&D interna e externa 
+serem inconsistentemente diferenciadas.
+
+
+Tabela 4.1. Síntese das categorias das despesas de P&D internas
+Total das despesas internas
+ Despesas correntes1
+ Custos da mão-de-obra interna de P&D
+ Outras despesas correntes
+ Pessoal externo de P&D
+ Contratação de serviços, incluindo pessoal de P&D externa (decomposição opcional)
+ Compra de material (decomposição opcional)
+ Outros, não classificáveis em outras seções (por exemplo, custos gerais de administração)
+ Despesas em capital
+ Terrenos e edifícios
+ Terrenos (decomposição opcional)
+ Edifícios (decomposição opcional)
+ Máquinas e equipamentos
+ Material de informação e comunicação (decomposição opcional)
+ Material de transporte (decomposição opcional)
+ Outras máquinas e equipamentos (decomposição opcional)
+ Softwares capitalizados
+ Outros produtos de propriedade intelectual
+1. A depreciação não deverá ser incluída nas despesas de P&D internas, mas deverá ser relatada 
+separadamente.
+
+
+
+Distinção entre o custo da mão-de-obra ligado à P&D internas e externas
+4.62 Quando o pessoal externo (trabalhadores independentes ou pessoas 
+empregadas por outras unidades estatísticas) está totalmente integrado nas atividades de P&D da unidade declarante e as tarefas são geridas pela unidade em 
+questão, os custos da mão-de-obra correspondentes deverão ser incluídos nas 
+despesas em P&D internas como parte de outras despesas correntes, de preferência em uma subseção referente ao pessoal externo de P&D. A recomendação 
+é de contabilizar separadamente o número de pessoas físicas e o equivalente 
+de tempo integral (ETI) desses “não-assalariados” e de não adicionar esses valores aos efetivos da unidade executante (ver Capítulo 5). Para evitar uma dupla 
+contabilidade, não se podem registrar esses valores nas despesas em P&D da 
+unidade estatística executante no qual esse pessoal externo está empregado.
+4.63 Os custos associados aos consultores que fornecem serviços de P&D 
+no quadro de um pedido específico (aquisição) - e não no quadro dos projetos de 
+P&D da unidade declarante – devem ser contabilizados pela unidade declarante 
+que beneficia desses serviços nas despesas de P&D externas. Por outro lado, a 
+unidade estatística que emprega esses consultores deverá declarar esses custos 
+nas despesas em P&D internas.
+4.64 As pessoas as quais trabalham remotamente a partir do estrangeiro 
+durante um longo período de tempo constituem um caso particular. Os custos 
+correspondentes deverão geralmente ser contabilizados pela unidade declarante instalada no território nacional na rubrica das despesas de P&D externas 
+(para trabalhos efetuados no restante do mundo). Do lado da unidade instalada 
+no estrangeiro, esses custos deverão ser contabilizados nas despesas em P&D 
+internas. Nenhuma definição a qual explicite o que constitui um compromisso 
+durante um “longo período de tempo” pode ser dada por esse manual, pois essa 
+definição pode depender dos acordos administrativos e contratuais os quais 
+foram acertados com a instituição receptora.
+
+
+
+Identificação de P&D internas realizadas fora do território nacional
+4.65 As despesas em P&D internas fornecem uma medida das atividades de 
+P&D as quais são realizadas nas unidades estatísticas que residem no território 
+do país declarante. No entanto, certas despesas podem estar associadas à na 
+qual ocorreram externamente, como por exemplo, no estrangeiro. As despesas 
+em P&D internas podem, portanto, incluir:
+• os custos associados à utilização de um navio oceanográfico o qual efetua 
+estudos sobre a vida aquática
+• as despesas associadas à disponibilização pela empresa controladora de 
+uma multinacional do seu pessoal técnico para uma missão de curta duração no local de uma das suas filiais no estrangeiro, com a empresa controladora pagando pelos salários e outros custos de mão-de-obra
+• o custo da manutenção e funcionamento de uma presença permanente de 
+pesquisadores na Antártida
+• as despesas associadas ao envio de um pesquisador do ensino superior fora 
+do país declarante para a realização de trabalhos práticos.
+4.66 Para classificar a P&D “interna” executada fora do território do país declarante a prioridade é dada não literalmente a localização geográfica da atividade em questão, mas a sua estrutura organizacional. Apesar de ser difícil fornecer 
+diretrizes precisas para essas decisões de classificação, a recomendação básica 
+é que a P&D interna efetuada no estrangeiro deverá apenas incluir os trabalhos 
+realizados por uma unidade estatística a fim de realizar os seus próprios objetivos 
+e tendo investido os seus próprios recursos financeiros e alocado o seu próprio pessoal de P&D. Os trabalhos devem ser realizados sob a responsabilidade da 
+unidade declarante, sendo que esta deverá responder aos critérios de residência 
+econômica descritos no Capítulo 3 (Setores institucionais e classificações).
+
+
+Contabilidade incompleta ou incorreta da P&D internas
+4.67 Todas as atividades de P&D realizadas no interior de uma unidade 
+estatística deverão sempre ser declaradas. No entanto, existem várias razões 
+devido às quais isso não é sempre verificado. As mais correntes são as seguintes:
+• A P&D foi executada no interior da unidade estatística, mas fora de departamentos específicos de P&D, como no caso de ensaios ou da preparação da fase inicial 
+de produção, ou durante atividades de desenvolvimento de tecnologias gerais
+• A P&D faz parte integrante do contrato de desenvolvimento de um produto 
+específico (por exemplo: uma quantidade relativamente reduzida de P&D 
+faz parte de um grande contrato de aviões de combate).
+• A P&D é financiada por clientes (trabalhos sob contrato) mas não é reconhecida como P&D nas contas financeiras das unidades executantes (por 
+exemplo, no caso da venda de serviços técnicos).
+4.68 Esses problemas de falta de contabilização podem ser difíceis de resolver eficazmente. Uma das soluções a qual os serviços estatísticos frequentemente 
+recorrem consiste em assegurar um acompanhamento ativo com os seus inquiridos no momento do recolhimento e validação dos dados. A falta de informações 
+detalhadas na contabilidade de unidades estatísticas de P&D ou a dificuldade na 
+atribuição dos recursos necessários para fornecer informações detalhadas, são 
+dificuldades as quais os inquiridos e os serviços estatísticos têm que enfrentar.
+4.69 Por outro lado, poderá haver uma sobreavaliação das despesas em 
+P&D devido a vários fatores. É possível que as unidades estatísticas registrem 
+na sua contabilidade despesas em inovação fora do âmbito da P&D; poderiam, 
+por exemplo, declarar despesas em tecnologias da informação ou em formação 
+como fazendo parte da P&D quando estas não estão necessariamente relacionadas com trabalhos de P&D.
+4.70 No que diz respeito a grupos de empresas, particularmente no caso das 
+multinacionais, as razões das declarações incorretas das despesas em P&D podem ser numerosas. As transferências entre empresas e as regras de imputação 
+dos custos associados a cada empresa complicam o recolhimento de dados precisos sobre as despesas em P&D (para aprender mais sobre a quantificação das 
+despesas em P&D nas multinacionais, ver o Capítulo 11 sobre a globalização).
+Declaração de despesas de capital como serviços
+4.71 A P&D é uma atividade na área dos serviços e o resultado que esta produz é um serviço. Como indicado previamente, a P&D quantifica-se ao efetuar a 
+soma dos custos de P&D (despesas internas) de uma unidade estatística. Essas 
+despesas correspondem às quantias dedicadas em um determinado período 
+de tempo à mão-de-obra e outros encargos nos quais não constituam imobilizações, as quais se adicionam o valor bruto pago durante o mesmo período de 
+tempo para a compra de ativos fixos utilizados repetidamente para trabalhos 
+de P&D. Em casos pouco comuns em que a única atividade tendo uma ligação à 
+P&D conduzida pela unidade estatística no decorrer de um determinado período de tempo corresponde à compra de um novo edifício para atividades futuras de 
+P&D, essas imobilizações são efetivamente declaradas sendo uma atividade de 
+prestação de serviços (refere-se aqui às obras). A utilização futura do edifício 
+para fins de P&D não será registrada, em períodos futuros, como P&D interna. A 
+compreensão dessas convenções de divulgação ajudará a interpretar os valores 
+totais das despesas em P&D e a estabelecer comparações com outras fontes de 
+dados agregados sobre as despesas de P&D compiladas diferentemente, como, 
+por exemplo, da P&D efetuada no âmbito das multinacionais e registrada na 
+contabilidade nacional (ver Capítulo 11 sobre a globalização).
+
+
+Comparação com as despesas de capital declaradas no SCN
+4.72 Esse manual não propõe a mesma contabilização das despesas de capital 
+dedicadas à P&D que o Sistema de Contabilidade Nacional. Na edição de 2008 do 
+SCN, a categoria de “ativos fixos imateriais” mudou o nome para “direitos de propriedade intelectual” e o campo dos ativos fixos foi expandido para incluir a P&D. A 
+P&D é, portanto, considerada como um bem de capital no SCN cujas quantificações 
+da produção e do investimento na P&D correspondem à adaptações dos dados de 
+P&D interna do Manual de Frascati. Comparativamente, a noção de “despesas em 
+capital dedicadas à P&D” empregue nesse manual refere-se ao montante anual 
+bruto concedido para a aquisição de bens materiais e imateriais os quais são utilizados na execução de trabalhos de P&D. A noção de trabalhos de P&D utilizada 
+nesse manual aproxima-se, teoricamente, do conceito de produção bruta de P&D 
+empregue no SCN, mas as duas quantificações diferem – entre outros aspectos – 
+no tratamento reservado ao custo do capital utilizado para a P&D (OCDE, 2009).
+4.73 As despesas de capital são, nesse manual, integradas no total das despesas internas (as despesas de depreciação são excluídas). No entanto, o SCN 
+contabiliza separadamente as despesas em capital (uma conta de capital para cada 
+ativo), mas integra as quantificações dos custos de utilização do capital existente. O 
+custo de utilização do capital existente inclui a depreciação devido à obsolescência 
+e desgaste, assim como a quantificação do custo de oportunidade do financiamento 
+do bem de capital. Os serviços estatísticos os quais quantificam os trabalhos de 
+P&D (despesas em P&D interna) não executam tais ajustamentos. Informações 
+adicionais sobre as ligações entre os dois quadros de contabilização encontram-se 
+disponíveis online em complemento desse manual no link http://oe.cd/frascati.
+
+
+4.3 Financiamento da P&D
+4.74 A P&D e os recursos financeiros necessários para a financiar dão origem 
+a fluxos importantes entre as unidades, setores e países. Para responder às necessidades dos responsáveis pela formulação de políticas, analistas e contabilistas 
+nacionais encarregues de financiar a P&D, deverão ser feitos todos os esforços 
+para assegurar o acompanhamento dos diferentes fluxos de financiamento e das 
+categorias de fundos dedicados à P&D, desde a sua origem até ao seu destino final.
+4.75 Tratando-se de trabalhos de P&D, são efetuados pela unidade estatística com fundos provenientes de fontes ora internas dessa unidade, ora de 
+fontes externas. Essas noções são subsequentemente esclarecidas na subseção 
+intitulada “Fontes de financiamento internas e externas”.
+4.76 Tratando-se do financiamento, as quantias utilizadas para a P&D permitem financiar os custos dos trabalhos os quais são executados ora no interior 
+da unidade estatística (P&D interna) ora externamente (P&D externa).
+4.77 Os meios financeiros podem circular entre as unidades estatísticas com 
+(fundos de troca) ou sem (fundos de transferência) compensação em termos de 
+resultados de P&D da parte do executante. Essas noções são subsequentemente esclarecidas na subseção intitulada “Fundos de transferência e de troca para a P&D”.
+4.78 As atividades de execução e de financiamento de trabalhos de P&D sobrepõem-se frequentemente pelo que pode ser difícil distinguir os executantes 
+e as fontes de financiamento da P&D. Por exemplo, um laboratório de pesquisa 
+público fornece os fundos para a P&D no quadro de um contrato com uma empresa aeroespacial. Esta pode utilizar uma parte dos fundos para adquirir a P&D 
+com a outra empresa especializada nos serviços de pesquisa. A empresa aeroespacial também pode utilizar uma parte dos seus próprios recursos para comprar 
+a P&D personalizada à empresa de serviços de pesquisa com a finalidade de a 
+integrar em outro projeto de P&D interna. A identificação dos financiadores e 
+dos executantes não é uma tarefa fácil. Outra dificuldade é devido ao fato que 
+a P&D externa da unidade a qual fornece o financiamento possa corresponder 
+à P&D interna da unidade executante. É, consequentemente, importante definir 
+claramente o que cada rubrica da declaração inclui para evitar a dupla ou tripla 
+contabilização das despesas em P&D ou ainda a sua falta de contabilização.
+
+Métodos de quantificação do fluxo de financiamento da P&D
+4.79 Os fluxos de financiamento da P&D podem ser quantificados de duas 
+formas. O primeiro método consiste em utilizar dados comunicados do ponto 
+de vista dos executantes, utilizando os montantes recebidos por uma unidade 
+estatística ou setor da parte de outra unidade ou de outro setor para executar 
+P&D internas durante um determinado período de tempo. Os fundos recebidos 
+para trabalhos de P&D os quais foram executados durante um período de tempo 
+prévio ou que ainda não começaram, não deverão ser contabilizados para o período em consideração. O segundo método apoia-se na declaração a qual é feita 
+pelo financiador das quantias que uma unidade estatística ou setor indicam ter 
+pago – ou comprometem-se a pagar – a outra unidade ou setor para a execução 
+de P&D durante um determinado período de tempo.
+4.80 É altamente recomendado recolher dados sobre a P&D a partir do ponto 
+de vista do executante. Este encontra-se melhor situado para saber se os fundos 
+foram efetivamente utilizados para trabalhos de P&D; além disso, conhece o seu 
+total, as fontes de financiamento utilizadas e o ano durante o qual a atividade 
+ocorreu. Por outro lado, os dados comunicados pelos financiadores permitem 
+saber mais sobre as intenções das unidades as quais financiam a P&D.
+4.81 A Tabela 4.2 sintetiza a interseção entre as unidades executantes de 
+trabalhos de P&D e as fontes de financiamento de P&D. Os montantes indicados 
+nas células (i) e (ii) representam o total das despesas em P&D interna e a fonte 
+desses fundos (tais como declarados pelo executante). A célula (iii) representa as 
+quantias pagas/transferidas a outras unidades para trabalhos de P&D externas 
+(declaradas pelos financiadores).
+
+
+
+Tabela 4.2. Interseção entre a execução e financiamento de trabalhos de P&D
+Execução de trabalhos de P&D no 
+interior da unidade
+Execução de trabalhos de P&D no exterior da 
+unidade
+Fundos de origem interna (i) P&D interna financiada com fundos de 
+origem interna
+(iii) financiamento da P&D externa com fundos 
+de origem interna
+Fundos de origem externa (ii) P&D interna financiada com fundos 
+de origem externa
+(iv) Financiamento da P&D externa com fundos 
+de origem externa
+
+
+4.82 A célula (iv) representa as quantias a qual uma unidade recebe (a 
+beneficiária) da parte de outra unidade (a financiadora) e que são, na sequência, pagos/transferidos (isso é, subcontratados/subatribuídos) a uma terceira 
+unidade para efetuar trabalhos de P&D externas. Para evitar uma dupla contabilidade, a terceira unidade deve declarar as quantias (iv) como P&D internas 
+financiada com fundos de origem externa, provenientes da segunda unidade. 
+O beneficiário inicial dos financiamentos externos não deverão, em princípio, 
+contabilizar essas quantias nas suas despesas em P&D. Os serviços nacionais 
+estatísticos podem precisar incluir nas suas sondagens de P&D perguntas visando detectar e eliminar especificamente esses montantes os quais não devem 
+figurar nas despesas totais.
+
+
+Apresentação esquemática do fluxo de P&D e dos fundos utilizados para o seu 
+financiamento
+4.83 A Figura 4.1 representa os diferentes fluxos possíveis no que diz respeito à P&D e aos seus meios de financiamento do ponto de vista do executante 
+de P&D. Se forem generalizados, esses fluxos permitem quantificar a atividade 
+de P&D de uma unidade estatística, setor ou país. É importante especificar que 
+os fluxos de P&D não devem ser confundidos com o fluxo de financiamento da 
+P&D. Os fundos de transferência não são indicativos de uma compensação em 
+termos de resultados de P&D.
+4.84 Do ponto de vista da unidade estatística a qual executa trabalhos de 
+P&D, a sondagem foca-se nas células 1 e 2 da Figura 4.1. Uma vez determinado 
+o volume de P&D executado por uma unidade, a questão principal que surge 
+recai sobre a origem dos meios de financiamento. As fontes de financiamento 
+de P&D são de dois tipos: internos (célula 1 da Figura) ou externos (célula 2 da 
+Figura). Os financiamentos externos – isso é, provenientes de entidades outras 
+que a unidade estatística – devem ser contabilizados pelo setor que financia 
+a P&D (ver a Tabela 4.3 e as fontes de financiamento pelo setor institucional).
+4.85 Do ponto de vista da unidade estatística a qual financia os trabalhos de 
+P&D, a sondagem centra-se nas células 1 e 3 da Figura 4.1. A questão principal 
+colocada envolve o destino dos fundos. Os beneficiários dos fundos dedicados 
+à P&D são de dois tipos: a própria unidade (célula 1 da tabela) ou benificiários 
+externos (célula 3). Os fundos destinados a beneficiários externos – isto é, que 
+servem para financiar a P&D externa – devem ser contabilizados pelo setor ao 
+qual executa a P&D. Ver na secção 4.3 as subseções “Quantificação das quantias 
+dedicadas à P&D externa” e “Compra e venda de P&D”.
+4.86 A interpretação dos elementos do gráfico é a seguinte:
+P&D executada pela unidade (total das despesas de P&D interna corresponde aos trabalhos de P&D executados):
+(1)= P&D executada pela unidade e financiada pela própria (com fundos de 
+origem interna)
+(2)= P&D executada pela unidade com fundos externos
+(1)= Troca (por exemplo: execução de P&D para efeitos de venda)
+(1)= Transferência (por exemplo: a unidade recebe subvenções)
+P&D financiada pela unidade:
+(1)= Financiamento pela unidade de trabalhos de P&D interna (isto é, efetuados pela unidade)
+(1)= Financiamento pela unidade de trabalhos de P&D externa (isto é, efetuados por outras unidades)
+(5) = Troca (por exemplo: compra de P&D)
+(6) = Venda (por exemplo: a unidade transfere subvenções)
+4.87 Para evitar uma dupla contabilidade (quer de trabalhos de P&D ou de 
+montantes totais implicados), é importante determinar se o financiamento por 
+uma unidade de trabalhos de P&D executados por outros (P&D externa) baseia-
+-se unicamente em fundos provenientes dessa unidade. Os financiamentos 
+externos recebidos pela unidade e transmitidos ou subcontratados a outras 
+não deverão ser incluídas nos montantes dedicados à P&D internas por essa 
+unidade. Essa determinação pode ser complicada.
+4.88 Para completar, é necessário especificar que um executante de P&D 
+pode fornecer serviços de P&D para outras unidades sem compensações financeiras. Isto ocorre, por exemplo, quando um executante disponibiliza gratuitamente e livremente os seus trabalhos de P&D ao público.
+
+
+
+Fontes de financiamento internas e externas
+4.89 Os fundos utilizados para financiar os trabalhos de P&D podem ter 
+como origem a unidade estatística (financiamentos internos) ou o exterior (financiamentos externos).
+Financiamentos internos
+4.90 Os financiamentos internos de P&D podem ser definidos de modos diferentes dependendo do setor ao qual a unidade declarante pertence e até certo 
+ponto, segundo as circunstâncias do próprio país. Os financiamentos internos 
+de P&D correspondem à soma dos fundos dedicados à P&D os quais provêm 
+diretamente dos recursos internos de uma unidade declarante que esta utiliza, 
+a seu próprio critério, em atividades de P&D. Não incluem financiamentos no 
+qual a unidade estatística em questão recebe de outras unidades estatísticas 
+dirigidos especificamente para atividades de P&D executados no seu interior. 
+A expressão “financiamentos internos” é preferível a “fundos próprios”, o que 
+pode ser interpretada de diversas maneiras por certos inquiridos. Por exemplo, 
+os beneficiários de um subsídio de pesquisa podem considerar, equivocadamente (no contexto das convenções estipuladas nesse manual), que os fundos 
+públicos são “fundos próprios” após receber o seu subsídio.
+4.91 No setor das empresas, os financiamentos internos incluem, por exemplo, as provisões ou benefícios reinvestidos (isto é, os benefícios os quais não foram distribuídos como dividendos), as vendas de produtos normais da unidade 
+(fora da P&D), a angariação de fundos sob a forma de tomadas de participação 
+ou outros instrumentos híbridos (por exemplo: a angariação de fundos nos mercados financeiros, empréstimos bancários, capital de risco, etc.). As deduções 
+dos impostos sobre o rendimento resultante dos incentivos governamentais 
+para a P&D correspondendo a trabalhos anteriores são igualmente considerados 
+como financiamentos internos, não sendo necessários para financiar trabalhos 
+durante o período em curso (ver nessa seção a subseção intitulada “Incentivos 
+fiscais para a P&D”).
+4.92 No setor do ensino superior, os financiamentos internos incluem, 
+designadamente, os pagamentos de custos de inscrição dos estudantes, as 
+dotações e os rendimentos provenientes da formação ao longo da vida e do 
+fornecimento de outros serviços. A convenção para as comparações internacionais é que os fundos gerais das universidades (FGU) de origem pública – os 
+quais são uma forma de dotação pública para os estabelecimentos de ensino 
+superior – não são classificados como financiamentos internos (ver Capítulo 9).
+4.93 Outro exemplo: um estabelecimento de pesquisa pode financiar uma 
+parte dos seus trabalhos por meio das royalties que recebe e dos benefícios 
+obtidos por meio da venda de bens e de serviços. Independentemente desses 
+fundos serem provenientes de outras unidades e setores, não deverão ser considerados como transferências para efeitos de P&D, mas como “receitas retidas” 
+e, portanto, como fontes internas de financiamento da própria unidade executante, considerando que os compradores dos bens e serviços fornecidos pelo 
+estabelecimento não tinham a intenção de fornecer financiamento para a P&D.
+4.94 É importante salientar que a referência “P&D interna” não é sinônimo 
+da palavra “interno”. A dicotomia compreende-se melhor quando se indica 
+que todos os trabalhos referidos como P&D interna não são necessariamente 
+financiados com fundos de origem interna (ver Figura 4.1).
+
+
+Financiamentos externos
+4.95 Os financiamentos externos de P&D correspondem à soma dos fundos 
+dedicados à P&D provenientes de fontes exteriores a unidade declarante.
+4.96 Os fundos recebidos de outras unidades estatísticas para financiar 
+trabalhos de P&D executados no decorrer de um período de tempo prévio ou 
+que ainda não começou não deverão ser contabilizados para o período em curso, 
+mas sim para o período durante o qual a P&D foi ou será considerada ter sido 
+executada.
+4.97 Os fundos fornecidos por meio de subvenções, ofertas e doações no 
+âmbito de financiar atividades de P&D são financiamentos externos. Apesar da 
+unidade estatística ter ocasionalmente um papel de grande importância para 
+decidir como e quando utilizar esse dinheiro para atividades de P&D internas, 
+a origem desses fundos é sempre exterior à unidade que os recebe. Esses fundos deverão ser contabilizados para o período de tempo durante o qual a P&D 
+será efetuada (pelo que é possível ter uma declaração em vários períodos de 
+tempo diferentes) e não para o período de tempo durante o qual as subvenções/ofertas/doações foram recebidas. As doações para a P&D provenientes 
+de particulares – designadamente visando desenvolver pesquisa para uma 
+doença em particular – constitui uma prática em expansão. Como indicado 
+nos Capítulos 3 e 10, a origem declarada dos financiamentos externos é o setor 
+privado sem fins lucrativos, no qual se classificam os particulares. As ofertas 
+e as doações efetuadas sem a exigência ou a expectativa que os fundos sejam 
+necessariamente utilizados para trabalhos de P&D são classificadas como parte 
+dos financiamentos internos caso sejam utilizados para a P&D, dependendo do 
+arbítrio da unidade que as recebe.
+4.98 No que diz respeito às comparações internacionais, a convenção é que 
+os fundos gerais das universidades são contabilizados como fazendo parte dos 
+fundos públicos externos (ver o Capítulo 9).
+4.99 A convenção no que diz respeito aos fundos recebidos para a P&D por 
+um membro de um grupo de empresas da parte de outros membros do mesmo 
+grupo determina que estes deverão ser registrados como fazendo parte dos 
+financiamentos externos (ver a seção 7.7 do Capítulo 7)
+
+
+Incentivos fiscais para a P&D
+4.100 Em um dado país, a administração – principalmente central/federal, 
+mas ocasionalmente a regional/local – disponibiliza medidas especiais de reduções fiscais para encorajar o financiamento ou execução de trabalhos de P&D, 
+particularmente nas empresas. Apesar desse tipo de redução fiscal ser uma 
+forma de apoio público à P&D, não deverá ser contabilizado como fazendo parte 
+das fontes públicas de financiamento das atividades de P&D. Encontram-se no 
+Capítulo 13 conselhos que dizem respeito à contabilidade separada desse tipo 
+de ajuda financeira; a eventual incidência dos incentivos fiscais para a P&D na 
+declaração dos custos da mão-de-obra do pessoal de P&D é abordada na secção 
+4.2 desse capítulo.
+4.101 Há maior dificuldade dado que as reduções fiscais ou eventuais transferências diretas de fundos para empresas ou instituições as quais solicitem 
+uma ajuda incidem sobre um período de tempo geralmente correspondente a 
+uma atividade de P&D que já decorreu. Quando a decisão de investir em P&D é tomada, a quantia de eventuais reduções fiscais não é geralmente conhecida em 
+detalhe. Dadas as dificuldades práticas de estabelecer uma ligação clara entre 
+a ajuda fiscal e a execução de trabalhos de P&D, é recomendado que os custos 
+dos trabalhos de P&D que são “financiados” com base nas receitas futuras ou 
+reduções fiscais futuras – ou os pedidos de reduções efetuados durante o período em curso devido aos trabalhos executados no passado – sejam assimilados 
+aos financiamentos internos.
+4.102 Além do total das despesas de P&D internas declaradas para o ano em 
+questão, pode ser útil conhecer: i) o montante da redução fiscal ou da compensação futura prevista do sistema de incentivos fiscais para a P&D; e ii) a quantia do reembolso da parte dos impostos ou isenções fiscais durante o período 
+abrangido pela sondagem. Os países os quais desejem incluir questões sobre os 
+incentivos fiscais nas suas sondagens deverão assegurar-se que estas questões 
+não irão distorcer as declarações referentes à P&D internas nem a desagregação 
+das fontes de financiamento.
+4.103 Nos países em que os incentivos fiscais fazem claramente parte da 
+política orçamental estabelecida pelo Estado para apoiar a P&D e em que estes 
+correspondem a estruturas previsíveis de financiamento de trabalhos de P&D, 
+as sondagens poderão incluir uma seção para recolher informações sobre o nível 
+de ajuda fiscal recebida pelos trabalhos de P&D executados no período em causa. Para efeitos de contabilidade nacional, certos países podem registrar essas 
+quantias como fazendo parte dos fundos públicos. No entanto, para efeitos de 
+comparações internacionais, a convenção estabelecida é de excluir essas quantias do total dos financiamentos públicos e de os assimilar aos financiamentos 
+externos. Quando essas vantagens fiscais são registradas nos fundos públicos, 
+as quantias correspondentes terão que ser registradas separadamente para 
+garantir a coerência das declarações em um âmbito internacional evitando a 
+dupla contabilidade das despesas fiscais (ver o Capítulo 13).
+
+Fontes de financiamento da P&D
+4.104 Na Tabela 4.3 estão listadas as fontes de financiamentos sobre as 
+quais informações devem ser recolhidas – caso seja relevante e possível de o 
+fazer – quando sondagens sobre a P&D forem realizadas a entidades dos quatro 
+grandes setores executantes de trabalhos de P&D, sendo estes: as empresas, o 
+Estado, os estabelecimentos de ensino superior e o setor privado sem fins lucrativos. Geralmente, existem cinco grandes fontes de financiamento da P&D: 
+as empresas, o Estado, o ensino superior, o setor privado sem fins lucrativos e 
+o restante do mundo. Dentro de cada setor, podem ser recolhidas informações 
+mais detalhadas sobre o financiamento. A importância relativa das diversas 
+fontes de financiamento (e, consequentemente, do grau de detalhamento das 
+informações recolhidas) difere segundo cada setor podendo variar em função 
+das circunstâncias de cada país.
+4.105 É importante classificar os financiamentos internos utilizados para os 
+trabalhos de P&D interna segundo o setor ao qual pertence a unidade estatística 
+executante dos trabalhos de P&D.
+
+4.106 Os fundos gerais das universidades (FGU) utilizados para financiar 
+a P&D internas deverão ser diferenciados das outras fontes públicas as quais 
+servem para o financiamento direto de trabalhos de P&D do ensino superior 
+(ver no Capítulo 9 a secção 9.4).
+4.107 Relativamente ao setor do Estado, poderá ser útil criar sondagens 
+personalizadas distintas para os executantes de trabalhos de P&D de administrações centrais / federais e os executantes de trabalhos de P&D das administrações provinciais / do Estado.
+4.108 O financiamento proveniente do restante do mundo inclui a categoria 
+de “organizações internacionais”, o que inclui as organizações supranacionais. 
+Diferentes organizações internacionais serão identificadas segundo o país inquirido. Por exemplo, no caso dos países membros da União Europeia, a categoria adequada poderá ser “instituições e diversos organismos da União Europeia”
+
+
+Fundos de transferência e de troca para a P&D
+4.109 Podem existir fluxos financeiros entre as unidades estatísticas para 
+financiar a P&D, com ou sem compensação – real ou prevista – em termos de 
+resultados de P&D da parte do executante; fala-se então, respectivamente, de 
+fundos de troca e de fundos de transferência. Para fornecer uma melhor resposta aos pedidos dos usuários institucionais e às necessidades estatísticas da 
+contabilidade nacional, recomenda-se que os trabalhos de P&D interna financiados por fontes externas sejam classificados nessas duas categorias de fundos. 
+Subcategorias podem ser criadas para cada fonte de financiamento externo 
+caso seja possível do ponto de vista do volume de trabalho para os inquiridos 
+e da qualidade dos dados.
+4.110 Tratando-se de sondagens submetidas a executantes de P&D, ocorrerão menos erros de interpretação e de compreensão caso os fundos de transferência e de troca forem ilustrados com exemplos (respectivamente subvenções 
+e contratos) caso os termos “transferência” e “troca” forem utilizados.
+
+
+
+Fundos de transferência para a P&D
+4.111 Os fundos de transferência para a P&D são fundos que uma unidade 
+estatística fornece a outra unidade para que esta execute trabalhos de P&D. 
+A unidade a qual fornece os recursos financeiros não exige bens ou serviços 
+como compensação, não obtendo direitos importantes sobre os resultados das 
+atividades de P&D que financia. Esta pode impor certas condições ao executante, 
+como estabelecer relatórios em intervalos regulares, conduzir as atividades ou 
+projetos descritos no acordo celebrado, ou mesmo publicar os resultados do 
+trabalho de pesquisa. Entre outros exemplos de fundos de transferência constam subsídios, remissão das dívidas, filantropia, financiamento coletivo (exceto 
+quando este implica um desconto sobre o preço no caso de um novo produto), 
+transferências efetuadas a título pessoal como as doações e os fundos gerais 
+das universidades (por convenção para facilitar as comparações internacionais). 
+Para que a operação seja classificada como uma “transferência de fundos para 
+a P&D”, os fundos em questão deverão ser destinados para atividades de P&D 
+pela entidade que os fornece originalmente. Essa forma de financiamento de 
+P&D classifica-se como transferência, dado que geralmente o executante de 
+P&D irá preservar a maioria dos direitos ligados aos resultados dos trabalhos.
+4.112 Existem casos nos quais o equipamento ou o material de laboratório 
+utilizado é transferido de um unidade institucional para outra, independentemente de ser dentro do mesmo setor ou para outro setor ou ainda no país declarante ou para outro país. Um exemplo recorrente é o de uma administração 
+ou de uma instituição privada sem fins lucrativos que forneça equipamento de P&D no quadro das iniciativas de assistência internacional. Estss transferências 
+“em espécie” não envolvem um fluxo monetário e, consequentemente, não deverão ser contabilizadas no total das despesas em P&D (internas ou externas). 
+No entanto, para efeitos de contabilidade nacional e de análise, os países poderão achar útil classificar e declarar separadamente o “valor monetário” dessas 
+doações em espécie; por outro lado, como previamente indicado, no âmbito 
+das declarações internacionais, essas doações não podem ser contabilizadas 
+no total das despesas em P&D.
+
+
+Fundos de troca para a P&D
+4.113 Os fundos de troca para a P&D são fundos os quais uma unidade 
+estatística fornece à outra unidade para a execução de atividade de P&D e a obtenção de resultados de P&D pertinentes. A unidade financiadora dos trabalhos 
+incorre em risco de não cumprimento associado à natureza incerta do projeto. 
+Entre outros exemplos constam as compras de P&D (vendas do ponto de vista 
+do executante), a externalização dos trabalhos de P&D e as contribuições fornecidas para cumprir acordos de colaboração de trabalhos de P&D.
+4.114 A compra de P&D é uma das formas mais recorrentes de fornecer 
+fundos de troca para a P&D. Esta inclui fundos pagos a prestadores de serviços 
+de pesquisa ou a outros estabelecimentos nos quais efetuem trabalhos de P&D 
+por meio de contratos. Para a unidade que recebe os fundos, estes são contabilizados nos trabalhos internos financiados por fundos de origem externa. É 
+possível que no quadro de um contrato ou de um processo de compra, a unidade 
+a qual financia a P&D renuncie a certos direitos no que diz respeito aos resultados do trabalho de P&D. Um organismo público pode, por exemplo, conceder ao 
+executante direitos de propriedade intelectual exclusivos sobre os resultados da 
+pesquisa na condição do Estado reter o direito de utilização desses resultados 
+internamente. Apesar do elemento implícito de transferência, esse exemplo é 
+classificado como uma troca de fundos para a P&D.
+4.115 Um organismo público o qual financie um projeto de P&D no quadro 
+de um contrato de compra pode decidir renunciar a todos os direitos sobre os 
+resultados dos trabalhos de P&D aos quais foram contratados a um executante. 
+Dado que essa decisão é feita pelo financiador, a operação de financiamento 
+da atividade de P&D ainda deverá ser considerada como uma troca de fundos 
+para a P&D. A transferência de conhecimentos provenientes da P&D para a 
+sociedade é um processo distinto o qual não entra no quadro da classificação 
+da P&D interna.
+4.116 O segmento do fluxo dos fundos de troca pode permitir aos analistas 
+e economistas obterem informação sobre as atividades de subcontratação da 
+P&D. A subcontratação é o processo por meio do qual as funções básicas, ou de 
+suporte, atualmente desempenhadas internamente são subcontratadas – parcialmente ou na sua totalidade – a fornecedores externos independentes ou a 
+empresas afiliadas estabelecidas no território nacional ou no estrangeiro. A 
+subcontratação internacional é por vezes chamada “deslocalização”.
+4.117 Em princípio, os fundos de origem interna os quais servem para 
+financiar a participação ativa de uma unidade em projetos de P&D em colaboração devem ser contabilizados como fazendo parte dos trabalhos de P&D interna 
+da unidade. Cada participante declara os fundos que foram atribuídos para o 
+projeto comum. Quando uma das unidades desempenha um papel preponderante no projeto, as quantias totais dedicadas à P&D podem ser imputadas na sua totalidade a despesas em P&D internas dessa unidade; quanto aos fundos 
+trazidos pelos outros participantes (como, por exemplo, pagamentos intermediários e prestações efetuadas no quadro de um acordo de partilha dos custos), 
+estes são registrados como suporte fornecido para a unidade preponderante 
+para a P&D externa. No entanto, caso o consórcio ou a parceria responsável 
+pelo projeto em colaboração for uma pessoa jurídica distinta e independente, 
+a unidade estatística será uma entidade separada e as contribuições efetuadas 
+pelo conjunto dos parceiros deverão ser considerados como fontes de financiamento para a P&D externas.
+
+
+Determinação das quantias dedicadas à P&D externas
+Importância da quantificação de P&D externas
+4.118 Para melhor compreender os fluxos financeiros os quais operam entres as unidades que financiam e executam trabalhos de P&D, é recomendado 
+que os países recolham informações de todas as unidades as quais efetuem P&D 
+internas sobre as quantias dedicadas para a P&D externas. Os países deverão, 
+igualmente, quando possível, obter a repartição entre os fundos de troca e os 
+fundos de transferência, assim como os setores beneficiários desses fundos. 
+Essas informações podem ser obtidas incluindo nas sondagens para os executantes de P&D uma ou mais questões sobre o tipo de financiamento utilizado. 
+As respostas a essas questões corresponderão ao campo 3 da Figura 4.1.
+4.119 As somas das despesas de P&D internas da unidade estatística e do 
+financiamento atribuído à P&D externa (campos 1 + 2 + 3 da Figura 4.1) permitem 
+obter uma visão mais completa do conjunto das atividades de P&D executadas 
+por uma unidade. Por outro lado, devido à dupla contabilidade, não é pertinente 
+fazer a soma total dos fundos dedicados à P&D internas para um dado setor ou 
+país. A P&D externa de uma unidade estatística corresponde, em princípio, à 
+P&D interna de outra unidade estatística.
+Problemas ligados à quantificação de P&D externa
+4.120 Tal como para os fundos de troca e de transferência, o risco de equívocos na compreensão e na interpretação da parte dos inquiridos é menor se 
+for utilizada uma terminologia mais familiar para esses conceitos.
+• Do ponto de vista da unidade que compra a P&D, os fundos de troca são 
+geralmente considerados como “despesas de P&D externas”.
+• Do ponto de vista da unidade a qual financia a P&D, os fundos de transferência são geralmente considerados como o “financiamento de trabalhos 
+de P&D externa”.
+4.121 Para o setor das empresas, a maioria dos fundos dedicados à P&D 
+externa é suposto serem fundos de troca, isto é, os quais permitem a compra 
+e venda de P&D. Para o setor do Estado, a importância relativa de uma categoria de P&D comparativamente a outra dependerá da missão da administração 
+pública / organismo público em consideração e do tipo de instrumento político 
+que esta dispõe.
+4.122 A delimitação entre os fundos atribuídos à P&D interna e a P&D externa não é sempre evidente; as quantias dedicadas à P&D externa são por vezes imputadas equivocadamente à P&D interna. As sondagens deverão indicar de 
+forma clara e explícita aos inquiridos a necessidade de excluir o financiamento 
+de trabalhos de P&D externa das quantias declaradas para a P&D interna, evitando dupla contabilidade.
+4.123 A unidade a qual financia a P&D tem conhecimento, presumivelmente, indicando se essas quantias que esta fornece destinam-se a uma troca ou a 
+uma transferência (nenhuma compensação é esperada em termos de P&D). Esta, 
+sem dúvida, também conhece a unidade ou o setor (executante externo) para o 
+qual são pagos diretamente os fundos. Por outro lado, esta provavelmente não 
+conhece que tipos de custos esses fundos irão permitir financiar (por exemplo: 
+mão-de-obra, materiais), nem que percentagem desses fundos poderão ser utilizados para subcontratar ou poderão ser atribuídos a outras unidades / setores.
+4.124 No caso da compra de P&D, não deverá ser necessário especificar com 
+que fundos foi financiada a operação (no quadro de uma troca) pois geralmente 
+são os fundos de origem interna que são utilizados. Todavia, a utilização frequente – e crescente – da subcontratação, particularmente no setor das empresas, causa algumas dificuldades. Quando os fundos pagos por uma empresa a 
+um subcontratante são, originalmente, fundos públicos, o subcontratante não 
+saberá necessariamente que esses fundos são provenientes de uma fonte pública. Este pode, portanto, declarar os fundos como provenientes do responsável 
+do projeto. Da mesma forma, o responsável do projeto poderá ter dificuldades 
+em indicar se foram utilizados financiamentos internos ou externos para pagar 
+o subcontratante.
+4.125 Os financiamentos externos atribuídos à compra de resultados de 
+P&D com outra unidade estatística não deverão ser incluídos na P&D interna.
+4.126 A compra de P&D não deve ser confundida com a aquisição de licenças ou direitos de propriedade intelectual ligadas a trabalhos prévios de P&D, 
+pois tal aquisição não é equivalente ao financiamento de uma atividade de P&D.
+4.127 A contabilização do fluxo de P&D e dos meios de financiamento da 
+P&D entre as unidades incluídas em um grupo de empresas é uma tarefa particularmente difícil. A contabilização rigorosa é complicada pois o custo da P&D 
+não reflete necessariamente o “preço do mercado”, isto é, os custos de P&D interna reais. Não podem ser dados conselhos específicos para atenuar os equívocos 
+de contabilização além de encorajar os inquiridos a declarar os custos reais.
+Quantificação do financiamento da P&D externa proveniente de unidades que não efetuem P&D
+4.128 Um problema de subestimação é evidenciado quando questões sobre 
+os fluxos de financiamento para outras unidades são apenas apresentados a unidades conhecidas ou supostas executantes de atividades de P&D. As sondagens 
+concebidas para os executantes de P&D geralmente visam apenas as unidades as 
+quais executam atividades de P&D. Contudo, existem unidades que financiam a 
+P&D externa em cada setor sem que estas executem trabalhos de pesquisa. Na 
+ausência de sondagens específicas, essas unidades são pouco passíveis de serem 
+entrevistadas, o que significa que as informações sobre o financiamento de P&D 
+externa recolhidas com os executantes de P&D serão incompletas.
+4.129 Antes de tirar conclusões sobre a importância de um setor como financiador para a P&D e, eventualmente, de submeter sondagens às unidades relevantes, 
+recomenda-se proceder a um processo de pesquisa preliminar. É, portanto, desejável que os serviços estatísticos nacionais comecem avaliar (começando potencialmente a partir de uma amostra específica) o número de unidades estatísticas que, 
+para um dado setor, financiam a P&D externa sem ativamente executarem tais 
+atividades. Esses serviços deverão igualmente avaliar o volume relativo desse financiamento. Caso o número de unidades e as quantias totais investidas sejam relativamente pequenas, a adição às sondagens existentes destinadas aos executantes 
+de P&D de perguntas sobre o financiamento (sem modificação da sondagem e da 
+amostra) deverá produzir resultados aceitáveis, pois os financiamentos “perdidos” 
+provenientes de unidades as quais não efetuam P&D serão pouco elevados. Caso 
+contrário, para obter uma estimativa exaustiva do financiamento da P&D externa, 
+as unidades que não executem atividades de P&D deverão ser incluídas na amostra.
+Compra e venda de P&D
+4.130 O objetivo deste capítulo é de fornecer conselhos sobre o recolhimento de estatísticas de atividades de P&D e dos fundos utilizados a fim de financiar 
+essas atividades. No entanto, como indicado no início do capítulo (“Quantificação de fundos dedicados à P&D externa”), também poderá ser útil recolher 
+informações complementares sobre a compra a venda de P&D, particularmente 
+quando efetuado por unidades estatísticas pertencentes ao setor das empresas.
+4.131 Esse manual não pode fornecer recomendações particulares relativamente à definição exata de “venda” e de “compra” de P&D, além de observar que 
+o primeiro representa as receitas provenientes da prestação de P&D a outras unidades, e o segundo representa os pagamentos efetuados para a P&D efetuada por 
+outras unidades. No momento do recolhimento dessas estatísticas é importante 
+especificar nitidamente que o total da compra e venda de P&D declarado não é necessariamente igual às despesas em P&D internas correspondente. Por exemplo, 
+as despesas internas implicadas para a P&D em que serão vendidas incluem os 
+custos da mão-de-obra e de “outras despesas correntes”. Por outro lado, quando 
+a unidade executante vende a P&D, o preço de venda tende a ter incluído o custo 
+da depreciação do capital fixo e uma certa margem de benefícios. O custo para 
+o comprador inclui, portanto, o custo total da P&D; incluindo o custo da depreciação, a margem de benefícios do executante, as despesas de fornecimento, etc.
+4.132 Adicionalmente, o período de tempo utilizado como referência para a 
+execução de trabalhos de P&D não é necessariamente o mesmo que o da P&D a 
+qual é comprada e vendida. A fonte de financiamento aparente da P&D também 
+poderá variar se tiver ou não em consideração as atividades de P&D ou a sua 
+compra / venda. Por exemplo, uma unidade pode executar uma atividade de 
+P&D financiada por meio de fundos internos, e em seguida vender os resultados 
+– apesar de esta não ser a intenção inicial – a outra unidade. No que se refere à 
+declaração de trabalhos de P&D interna, a fonte de financiamento provém da 
+primeira unidade; por outro lado, quando se trata da troca de P&D externa, a 
+fonte de financiamento provirá da segunda unidade.
+
+
+Distribuição de fundos externos segundo os fornecedores e os seus 
+beneficiários
+
+4.133 Para repartir os fundos de troca da P&D (assim como os financiamentos de compra e de venda de P&D), a classificação setorial recomendada é 
+como apresentada abaixo. Essa classificação pode igualmente ser utilizada para 
+repartir os fundos de troca para a P&D.
+
+Território nacional:
+• Setor das empresas:
+❖ Empresas do mesmo grupo
+❖ Empresas não afiliadas
+• Setor do Estado
+• Setor do ensino superior
+• Setor privado sem fins lucrativos
+Restante do mundo:
+• Setor das empresas:
+❖ Empresas do mesmo grupo
+❖ Empresas não afiliadas
+• Setor do Estado
+• Setor do ensino superior
+❖ Campus no estrangeiro
+❖ Outros estabelecimentos do ensino superior
+• Setor privado sem fins lucrativos
+• Organizações internacionais
+4.134 O peso relativo dos diferentes setores como beneficiários dos financiamentos de P&D externa pode variar em função das circunstâncias nacionais. 
+Adicionalmente, apenas as empresas poderão declarar financiamentos de P&D 
+(ou compras de P&D) a empresas do mesmo grupo; do mesmo modo, apenas 
+estabelecimentos de ensino superior poderão declarar financiamentos de P&D 
+a campi afiliados no estrangeiro. Para obter uma definição desses estabelecimentos, consultar a seção 9.4 do Capítulo 9.
+Problemas de identificação do setor ao qual devem ser imputados os 
+fundos
+4.135 Os conceitos “P&D interna”, “P&D externa”, “interno” e “externo” 
+também podem ser utilizados em âmbitos de agregação diferentes dos recomendados nesse manual para as unidades estatísticas. Por exemplo, o conceito de “trabalhos de P&D externa” não é o mesmo do ponto de vista de uma 
+empresa, de um grupo de empresas, de um setor institucional ou de um país. 
+Nesse capítulo, as características da unidade institucional (e do setor a qual 
+esta pertence) determinam se os fundos deverão ser considerados como tendo 
+origem interna ou externa, e se o financiamento se destina a trabalhos da P&D 
+interna ou P&D externa. Como indicado na seção 3.2, existem diferentes tipos 
+de unidades estatísticas, designadamente as empresas, os grupos de empresas 
+e as instituições; no que diz respeito às estatísticas de P&D, a unidade objeto de 
+interesse é a das empresas. Nesse manual (ver seção 6.2), a expressão “unidade 
+institucional” é preferida à expressão “empresa”, sendo esta última reservada 
+ao setor das empresas.
+4.136 É por vezes difícil determinar como se podem atribuir os fluxos financeiros os quais circulam de uma unidade para outra, independentemente 
+se essas unidades são ou não parte do mesmo setor. As recomendações no que diz respeito ao tratamento e declaração de fundos de P&D são apresentados nos 
+exemplos setoriais seguintes.
+4.137 No caso do setor das empresas, a unidade institucional pertinente 
+é a empresa. Consequentemente, é importante registrar os fundos para a P&D 
+recebidos por um dos membros de um grupo de empresas da parte de outros 
+membros do mesmo grupo nos financiamentos externos para P&D interna. Do 
+ponto de vista da empresa do grupo a qual fornece o financiamento, os fundos 
+deverão ser imputados aos trabalhos de P&D externa.
+4.138 No que diz respeito ao setor do Estado, a unidade institucional relevante é a que corresponde a um subsetor de administração (isto é, a administração central / federal, regional / do Estado, municipal / local). Consequentemente, os fundos recebidos pelo ministério Y da administração central da 
+parte do ministério X para o financiamento de P&D deverão ser contabilizados 
+pelo ministério Y como fundos de origem interna dedicados à P&D interna. Do 
+ponto de vista do ministério X o qual fornece os fundos, esses financiamentos 
+não deverão ser declarados, nem como financiamentos internos nem como financiamentos de P&D externa. A razão pela qual não deverão ser declarados é que 
+essas operações ocorrem entre subdivisões da mesma unidade institucional, 
+mesmo quando as unidades estatísticas são entidades mais reduzidas, como 
+por exemplo ministérios.
+4.139 As operações as quais ocorrem entre unidades na qual não fazem 
+parte do orçamento e instituições públicas sem fins lucrativos (IPSFL) do setor 
+do Estado, assim como entre as administrações central e estadual, deverão 
+ser contabilizadas como financiamentos externos, pois tratam-se de unidades 
+institucionais independentes que possuem a sua própria contabilidade.
+4.140 Por exemplo, os fundos para a P&D recebidos pelo organismo Z de 
+uma administração estadual e da parte do ministério X da administração central deverão ser contabilizadas nos financiamentos externos de P&D interna do 
+organismo Z. Do ponto de vista do ministério X, que fornece o financiamento, 
+os fundos são imputados aos trabalhos de P&D externa.
+4.141 No que diz respeito ao setor do ensino superior, a unidade institucional relevante é uma categoria de instituições (universidades, institutos de 
+pequisa, hospitais universitários, etc.). Consequentemente, por exemplo, os 
+fundos para a P&D recebidos pela faculdade de economia da universidade A da 
+parte da faculdade de engenharia da mesma universidade deverão ser declarados como fazendo parte da P&D interna da faculdade de economia; por outro 
+lado, não deverão ser declarados como P&D externa da faculdade de engenharia. 
+Os fundos fornecidos por esta provêm da universidade A.
+Problemas do segmento dos fluxos de financiamento de P&D
+4.142 Algumas dificuldades podem surgir quando se tenta contabilizar os 
+fluxos de financiamento da P&D com precisão, quer no quadro da P&D interna de 
+uma unidade, quer para o financiamento dedicado aos trabalhos de P&D externa.
+4.143 Os problemas podem ocorrer quando os fundos transitam por meio de 
+várias unidades antes de chegarem ao executante. É o que ocorre quando a P&D 
+é subcontratada, como é frequentemente o caso no setor das empresas. Esse 
+cenário também ocorre quando uma subvenção para a P&D é subcontratada e 
+os fundos correspondentes transitam para intermediários, designadamente 
+no setor do ensino superior. O executante deverá declarar apenas os custos 
+referentes a projetos de P&D efetivamente executados, não devendo declarar as suas contribuições para a P&D de outra unidade; adicionalmente, deverá, 
+quando possível, especificar a proveniência inicial do financiamento da P&D.
+• Exemplo: uma grande empresa farmacêutica (X) pede a uma empresa privada de pesqusia biomédica (Y) para realizar a terceira fase dos ensaios 
+clínicos para um novo medicamento o qual desenvolveu. A empresa Y paga 
+vários hospitais para recrutar pacientes, a fim de proceder aos testes, com 
+o intuito de confirmar a eficácia do medicamento e para estudar os seus 
+efeitos colaterais. Apesar de cada hospital fornecer relatórios técnicos sobre os resultados dos ensaios clínicos, é a empresa Y que mede a eficácia 
+do medicamento e que reporta os resultados à empresa X. Nesse exemplo, 
+os fundos fornecidos pela empresa X servem para financiar serviços de 
+P&D externa pagos à empresa Y. Todos os custos da terceira fase do ensaio 
+clínico são para atividades de P&D interna da empresa Y e são financiados por meio de fundos de origem externa (fornecidos pela empresa X). 
+A quantia paga aos hospitais deverá ser declarada pela empresa Y como 
+uma despesa corrente (e não como uma compra de P&D). Os hospitais não 
+deverão contabilizar os pagamentos recebidos para participar nos ensaios 
+clínicos sendo para P&D interna ou externa.
+• Problemas de segmento / declaração semelhantes surgem no contexto 
+da União Europeia, no qual os financiamentos são pagos inicialmente 
+ao responsável de projeto, sendo subsequentemente repartidos entre os 
+diversos participantes (subcontratantes). Em certos países, as entidades 
+intermediárias que não executam trabalhos de P&D desempenham um papel importante no financiamento da P&D ao distribuir para os executantes 
+subvenções provenientes de diferentes fontes não “reservadas” para utilizações específicas. Nesses casos, apesar de ser aceitável considerar essas 
+entidades como a fonte de financiamento, é preferível tentar identificar os 
+financiadores originais no interior da UE.
+4.144 Quando a compra de P&D encontra-se estritamente ligada à atividades de P&D internas, a delimitação entre o financiamento de trabalhos internos 
+e externos não é sempre evidente:
+• Pode existir uma subdeclaração quando os executantes de P&D subcontratam parcialmente um projeto de P&D. Se a atividade de subcontratação for 
+um projeto de P&D na sua totalidade, o financiador pode – justificadamente 
+– declarar essa despesa para P&D externas. Por outro lado, se a unidade a 
+qual a subcontratação foi atribuída entender que não se trata de um projeto de P&D mas sim de uma contribuição – sob a forma de um serviço – ao 
+projeto do financiador, esta não a irá incluir na sua própria P&D interna 
+financiada por intermédio de fundos de origem externa.
+• Inversamente, pode ocorrer uma sobredeclaração de quando o financiador 
+e o executante contabilizarem simultaneamente os fundos e as despesas 
+de P&D como fazendo parte das suas P&D internas. Se a atividade de subcontratação for um projeto integral, a P&D interna deverá ser declarada 
+pela unidade a qual recebe o trabalho. Por outro lado, se a atividade de 
+subcontratação não responder aos critérios de P&D interna, é a unidade 
+a qual financia os trabalhos que deverá declarar essas quantias na seção 
+de outras despesas correntes de P&D interna, dado que esses serviços são 
+considerados como tendo sido comprados para realizar a sua própria atividade de P&D.
+
+
+ 4.4. Conciliação das abordagens baseadas no ponto de vista do 
+executante e do financiador
+4.145 A estimativa das despesas totais de P&D a partir das declarações dos 
+executantes será provavelmente diferente da estabelecida segundo as declarações dos financiadores devido às dificuldades de amostragem e às diferenças 
+entre seguimento / declaração.
+4.146 Quando as estimativas das GERD se apoiam nas sondagens realizadas 
+a uma amostra de pessoas e não ao conjunto total de uma população, a amostragem não é representativa podendo induzir a erros. Como tal, os valores obtidos 
+por meio das declarações feitas pelos executantes e das declarações feitas pelos 
+financiadores serão diferentes.
+4.147 Quando as estimativas das GERD são obtidas a partir de dossiers administrativos, pode ocorrer uma falta de consistência entre as unidades incluídas nos relatórios baseados nas informações dos executantes e nos relatórios 
+baseados nas informações dos financiadores. Ver a secção 6.3 do Capítulo 6.
+4.148 O financiamento pode ser efetuado por meio de um intermediário, 
+o que dificulta a identificação da origem dos fundos da parte do executante. 
+Esse problema é intensificado quando se trata de medir os fundos que saem do 
+setor de financiamento, mas que regressam sob a forma de P&D financiada por 
+intermédio de fundos de origem externa.
+4.149 É possível que indivíduos recebam fundos da parte de um terceiro 
+(sob a forma de salários ou subvenções) a fim de executar trabalhos de P&D nas 
+unidades de acolhimento, e que essas unidades não tenham a capacidade (pois 
+não têm acesso a essas informações) de garantir o acompanhamento dos fluxos 
+de financiamento em questão. É o caso, por exemplo, do que ocorre quando fundos públicos são pagos à estudantes ou universidades para executar trabalhos 
+de P&D em outros estabelecimentos sem que estes tenham um controle direto 
+sobre os fundos nos quais são pagos, em uma situação em que os pesquisadores 
+podem transitar livremente entre as instituições. Embora os países não devam 
+imputar os custos de P&D efetuados por esses indivíduos no âmbito da unidade 
+estatística, nem pedir às unidades estatísticas que o façam, é possível utilizar 
+os dados agrupados pelo financiador de modo a atenuar as insuficiências das 
+declarações nesses dispositivos triangulares. Quando os países utilizam dados 
+das instituições de financiamento com o objetivo de realizar estatísticas sobre 
+os trabalhos de P&D realizados por indivíduos dentro de setores, é possível 
+obter uma contabilidade mais completa da atividade global em termos de P&D. 
+Se esta tiver que ser contabilizada, a atividade global de P&D será registrada 
+não na seção “Outras despesas correntes – pessoal externo de P&D”, mas sim 
+na seção “outras despesas correntes”. Aconselha-se a precaução para evitar a 
+dupla contabilidade das quantias declaradas pela unidade de acolhimento para 
+as suas atividades de P&D internas.
+4.150 Os custos considerados podem variar se os trabalhos de P&D forem 
+analisados do ponto de vista do seu financiamento ou da sua execução, particularmente no cálculo dos fundos de troca. Do ponto de vista dos executantes, as 
+despesas de P&D internas incluem a mão-de-obra e “outras despesas correntes”. 
+No entanto, quando um executante fornece resultados de P&D, o preço de venda 
+provavelmente inclui a contabilização do custo de depreciação do capital fixo e 
+uma certa margem de benefícios. Quanto ao financiador, este irá provavelmente 
+ter em conta o preço global da P&D, incluindo os custos de depreciação e da 
+margem de benefícios do executante.
+
+4.151 Os registros de contabilidade dos executantes e financiadores podem 
+incorporar interpretações diferentes do domínio de trabalhos à P&D. No setor 
+da defesa, por exemplo, o financiamento de P&D no quadro de vastos contratos 
+de produção e entrega (incluindo, por exemplo, a P&D e a construção de aviões 
+para ensaios) resulta por vezes em estimativas mais elevadas das quantias pagas para a P&D pelo Estado do que as declaradas pelas empresas executantes 
+no que diz respeito a trabalhos de P&D.
+4.152 Os contratos de pesquisa, geralmente, têm duração mais longa do 
+que um ano, sendo que discrepâncias podem ocorrer entre a declaração do 
+executante e a do investidor.
+4.153 As diferenças podem também ocorrer entre os dados declarados pelo 
+executante e os créditos orçamentais públicos de P&D (GBARD), os quais são os 
+dados declarados pelo Estado quando este desempenha o papel de financiador 
+(incluindo quando estes correspondem a dotações e não a despesas). Nesses 
+casos, a impossibilidade de comparação pode ser atribuída a uma discrepância 
+entre a quantidade de P&D efetivamente realizada comparativamente à quantidade de P&D projetada no momento da atribuição de fundos. Divergências 
+adicionais também podem surgir devido à imprecisão dos créditos orçamentais, 
+não permitindo evidenciar as dotações atribuídas especificamente à P&D. Para 
+mais pormenores sobre a atribuição dos GBARD, ver o Capítulo 12.
+4.154 Uma outra fonte possível de divergências surge devido às diferenças 
+na seleção de setores entre os financiadores e os executantes inquiridos (entre 
+os que recebem fundos para a P&D externa e os que recebem financiamentos 
+externos para a P&D interna). Para ilustrar esse caso com um exemplo, se 
+uma unidade estatística receber fundos da parte de uma instituição sem fins 
+lucrativos controlada pelo Estado é possível que esta declare os fundos como 
+provenientes do setor privado sem fins lucrativos (o que é incorreto do ponto 
+de vista desse manual). Por outro lado, na sua declaração, o financiador classificaria a fonte de financiamento como fazendo parte do Estado (ver o Capítulo 3).
+4.155 Recomenda-se, quando possível, que as diferenças entre a estimativa 
+das despesas totais de P&D que são feitas, por um lado, pelo financiador e, por 
+outro lado, pelo executante, sejam assinaladas, sendo que as razões por detrás 
+dessas diferenças, caso forem conhecidas, sejam evidenciadas. É importante 
+observar que essas divergências não resultam necessariamente de medições 
+incorretas ou imprecisas, e que o fornecimento dessas informações contribuirá 
+para a precisão da análise e das estatísticas.
+4.5 Compilação de valores totais de P&D nacional
+Despesas internas brutas em P&D (GERD)
+4.156 Recomenda-se, no intuito de obter valores totais das GERD que possam ser comparadas em uma escala internacional, estabelecer grupos gerais 
+dos trabalhos de P&D em função do setor executante e da fonte de financiamento. As GERD correspondem à soma das despesas totais de P&D internas 
+dos quatro grandes setores abordados nesse manual, sendo estes: o setor das 
+empresas, o setor do Estado, o setor do ensino superior e o setor privado sem 
+fins lucrativos. Nas declarações das GERD, todos os níveis de administração 
+são frequentemente combinados. Para cada setor executante, as principais 
+fontes de financiamento devem ser agrupadas: o setor das empresas, o setor do Estado, o setor do ensino superior, o setor privado sem fins lucrativos e o 
+restante do mundo.
+4.157 No quadro desse manual, o qual fornece orientações para a definição, 
+quantificação e declaração de atividades de P&D, esse capítulo estabelece convenções e recomendações para a compilação dos dados referentes às despesas 
+de P&D. A adição – recomendada – das despesas de P&D internas declaradas pelo 
+executante dá uma visão do conjunto da atividade de P&D efetuada à escala de 
+um país. Outras compilações da P&D podem, no entanto, ser confundidas com o 
+total das GERD aqui recomendado. É especialmente importante observar que os 
+valores totais da P&D encontram-se atualmente disponíveis a título indicativo 
+nas contabilidades nacionais. Como indicado no Capítulo 1 e no complemento 
+online desse manual (disponível em http://oe.cd/frascati), os valores totais da P&D 
+presentes nas contabilidades nacionais podem ser consideravelmente diferentes do total das GERD devido ao tratamento diferente reservado para a P&D dos 
+softwares, entre outros. Podendo, portanto, ser útil para efeitos de análise evidenciando a percentagem de P&D incluída no total das GERD, ou pelo menos a 
+fração de P&D das empresas que corresponde à P&D de softwares (ver Caixa 4.1).
+
+
+
+Caixa 4.1. P&D de softwares
+Como indicado no Capítulo 1, uma grande novidade do Sistema de 
+Contabilidade Nacional (SCN) de 2008 é o reconhecimento explícito da 
+P&D como fazendo parte da formação de capital, isto é, como um “investimento”. Em certos países, os valores totais de P&D obtidos respeitando as 
+instruções do SCN podem ser muito diferentes das GERD. Uma das grandes fontes de divergência está ligada ao tratamento da P&D dos softwares 
+(isto é, P&D dedicada às aplicações de softwares, quer estes se tratem de 
+produtos sob a forma de softwares ou softwares integrados em outros 
+produtos ou projetos, para a utilização interna ou para venda). A revisão 
+do SCN de 1993 já tinha considerado os softwares como uma formação 
+de capital. Consequentemente, para aplicar a revisão de 2008 e evitar 
+uma dupla contabilidade, as estimativas do investimento na P&D não 
+incluíram a P&D de softwares até à presente data. Efetivamente, segundo 
+a nomenclatura do SCN, a P&D de softwares já tinha sido contabilizada 
+nos investimentos em softwares.
+Nos países no qual a P&D de softwares representa uma parte relativamente elevada da P&D total, a diferença entre os valores totais da P&D 
+obtidos pela aplicação das convenções do SCN ou das recomendações 
+desse manual pode ser substancial. Assim, recomenda-se que sondagens 
+de P&D (ou pelo menos as referentes ao setor das empresas) incluam 
+questões sobre as quantias dedicadas à P&D de softwares. Esses valores 
+podem ser extremamente úteis para compreender as eventuais diferenças 
+entre as declarações de P&D efetuadas segundo as recomendações desse 
+manual e a P&D total obtida segundo o SCN
+
+
+4.158 As GERD são geralmente representadas por meio de uma matriz em 
+que de pode observar os principais setores executantes de trabalhos de P&D, assim como as suas fontes de financiamento classificadas por setor (ver Tabela 4.4).
+
+4.159 Para efeitos desse manual, as organizações internacionais (incluindo 
+as organizações supranacionais como a União Europeia; ver a definição na seção 
+3.5 do Capítulo 3) deverão ser tratadas como unidades do “restante do mundo”, 
+independentemente da sua localização física ou atividade.
+4.160 Dado que são países os quais efetuam o recolhimento e declaração 
+de estatísticas referentes a trabalhos de P&D das organizações internacionais 
+instaladas no seu território, é recomendado – possibilitando comparações internacionais – que esses dados não sejam incluídos nas GERD, mas contabilizados 
+separadamente.
+4.161 Poderá ser útil estabelecer separadamente o total das GERD para fins 
+civis e o total das GERD para fins militares, pois permitirá determinar em que 
+medida as tendências dessas áreas influenciam o nível e a estrutura do total das 
+GERD. Essa situação é particularmente evidente em países nos quais estabelecem vastos programas de P&D na área militar. Ests diferenciação é igualmente 
+encorajada em outros países, pois facilitaria as comparações internacionais de 
+dados sobre a P&D civil.
+4.162 Como indicador de intensidade da P&D no âmbito da economia nacional, tanto ao longo do tempo como para comparações com outros países, 
+as GERD são frequentemente apresentas sobre a forma relativa, isto é, divididas pelo produto interno bruto (PIB). A relação GERD/PIB permite nivelar as 
+diferenças profundas as quais existem entre valores globais da P&D de países 
+diferentes – divergências que poderão refletir parcialmente as diferenças da 
+dimensão das economias destes países.
+
+Repartição da P&D em âmbito regional
+4.163 Pode ser útil para o país calcular os valores totais das GERD em âmbito regional. A escolha desse método de cálculo irá depender das necessidades 
+nacionais e internacionais. São disponibilizadas recomendações sobre o cálculo 
+da repartição regional da P&D nas informações complementares online desse 
+manual no endereço http://oe.cd/frascati.
+4.164 Para classificar a P&D “interna” executada fora das instalações da 
+unidade estatística, a prioridade deve geralmente ser dada não à localização 
+geográfica literal da atividade em questão, mas à sua estrutura organizacional. É 
+difícil fornecer diretrizes precisas sobre esse tópico. A P&D interna a qual é efetuada fora das instalações da unidade estatística, mas dentro do total geográfico 
+(por exemplo, regional) dessa unidade deve apenas incluir a P&D executada pela 
+unidade para a realização dos seus objetivos apenas se a unidade investiu os 
+seus próprios recursos e pessoal de P&D na atividade.
+• Por exemplo: um pesquisador universitário faz parte da unidade A situada 
+na região X de um dado país. Este efetua ocasionalmente trabalho de campo 
+(no quadro de um projeto de P&D da unidade A) ao se deslocar fisicamente 
+para a região Y do mesmo país. Caso não existam razões para o contrário 
+(por exemplo: acordos de financiamento com uma unidade B situada noutra região), todas as despesas de P&D internas implicadas no âmbito desse 
+projeto de P&D podem ser declaradas para a região X.
+
+Despesas nacionais brutas de P&D (GNERD)
+4.165 Outros quadros os quais sintetizam os trabalhos de P&D e das quantias totais dedicadas a esta utilização poderão fornecer informações complementares sobre as ligações e interações entre as unidades estatísticas de diferentes setores e países. As despesas nacionais brutas de P&D (GNERD) incluem 
+a totalidade das despesas de P&D financiadas pelas unidades institucionais de 
+um país, independentemente do local em que o trabalho de P&D for realizado. A 
+P&D executada no “restante do mundo” e financiada por unidades institucionais 
+nacionais ou residentes também é incluída; por outro lado, esta não inclui a P&D 
+executada no país mas financiada por outras unidades institucionais estabelecidas fora do território nacional (isto é, que fazem parte do “restante do mundo”). 
+A GNERD é igual à soma das despesas de P&D internas de cada setor executante 
+financiado por fontes estabelecidas no território nacional com o total da P&D 
+executada no “restante do mundo” a qual é financiada por fontes estabelecidas 
+no território nacional (ver Tabela 4.5). A adição dessa segunda categoria de P&D 
+pressupõe que os serviços nacionais de estatídticas recolheram dados sobre o 
+financiamento pelas unidades instaladas no território nacional da P&D externas 
+executada no estrangeiro (isto é, no “restante do mundo”).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
