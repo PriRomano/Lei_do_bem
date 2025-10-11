@@ -5777,6 +5777,1053 @@ executada no estrangeiro (isto é, no “restante do mundo”).
 
 
 
+Capítulo 5
+Quantificação do pessoal de P&D: 
+Trabalhadores assalariados 
+e colaboradores externos
+
+Neste capítulo são propostas orientações sobre como proceder para definir, 
+identificar e quantificar o pessoal encarregado da execução de atividades 
+de pesquisa e de desenvolvimento experimental (P&D). O pessoal de P&D 
+é composto por cientistas e engenheiros altamente qualificados (pesquisadores), especialistas com alto nível de experiência e formação técnica, bem 
+como pessoal de apoio diretamente associado à execução de projetos e de 
+atividades de P&D no interior das unidades estatísticas as quais executam 
+trabalhos de P&D. Faz-se uma distinção entre o pessoal interno, o qual inclui 
+as pessoas empregadas pela unidade estatística, do pessoal externo. São aqui 
+apresentadas as atividades executadas pelo pessoal de P&D e definidos os 
+seguintes termos: pessoal de P&D, pesquisadores, técnicos e pessoal equiparado, pessoal de suporte, equivalente de tempo integral de pessoal de P&D e 
+efetivos do pessoal de P&D. É igualmente analisada a posição dos estudantes 
+em doutorado e mestrado no pessoal de P&D. Finalmente, vários exemplos 
+são fornecidos, auxiliando a determinar quem deverá ser incluído no pessoal 
+de P&D. As estatísticas resultantes sobre os efetivos, a disponibilidade e a 
+demografia dos recursos humanos os quais intervêm nas atividades de P&D 
+são utilizados pelos pesquisadores e responsáveis pela elaboração de políticas, procurando assegurar a sustentabilidade da P&D.
+
+
+5.1 Introdução
+5.1 Os responsáveis pela elaboração de políticas e os pesquisadores têm um 
+interesse manifesto no acesso à informações sobre a dimensão, disponibilidade 
+e demografia dos recursos humanos que participam diretamente no conjunto 
+das atividades de P&D das instituições, setores econômicos e países. Esses 
+agentes da P&D são pesquisadores altamente qualificados, especialistas com 
+um elevado nível de formação e de treino e pessoal de suporte diretamente associado à execução de projetos e de atividades de P&D no interior das unidades 
+estatísticas as quais realizam trabalhos de P&D. As pessoas que trabalham na 
+P&D podem ser diretamente empregadas pela unidade estatística (no caso de 
+pessoal interno de P&D) ou por outras unidades (no caso do pessoal externo de 
+P&D) na qual participam diretamente em atividades de P&D interna da unidade 
+estatística sobre a qual são recolhidas informações. Existe um conjunto de casos 
+nos quais o pessoal de P&D não recebem uma compensação ou remuneração 
+pela sua participação em atividades de P&D interna da unidade estatística. Esse 
+capítulo fornece conselhos para definir, identificar e quantificar com precisão o 
+pessoal de P&D. A quantificação do pessoal de P&D complementa os dados referentes às despesas em P&D (abordadas no Capítulo 4 desse manual) avaliando o 
+custo total das atividades de P&D, incluindo a remuneração do pessoal alocado.
+Conceitos de base que caracterizam o pessoal de P&D
+5.2 Para identificar as pessoas alocadas à P&D no interior de uma unidade 
+estatística que executam trabalhos de P&D e de modo a distinguí-las do pessoal 
+restante, pode-se utilizar a lista das tarefas chave efetuadas pelo pessoal de 
+P&D como referência:
+• realização de trabalhos científicos e técnicos no quadro de um projeto de 
+P&D (organização e execução de experiências ou pesquisas, construção de 
+protótipos, etc.)
+• programação e gestão de projetos de P&D
+• preparação de relatórios de etapas e relatórios finais sobre os projetos de P&D
+• prestação, em âmbito interno, de serviços para projetos de P&D (por exemplo, trabalhos informáticos ou serviços de biblioteca e de documentação)
+• contribuição às tarefas administrativas ligadas ao financiamento e a gestão 
+do pessoal dos projetos de P&D.
+
+
+5.3 Qualquer indivíduo que efetue pelo menos uma das tarefas acima mencionadas contribui para as atividades de P&D internas da unidade estatística e 
+deve ser incluído no total do pessoal de P&D, independentemente da sua função 
+(papel oficial) ou da sua situação contratual no interior da unidade estatística.
+5.4 No entanto, nem todos os indivíduos os quais contribuem ou ajudam na 
+execução de atividades de P&D deverão ser contabilizados no total do pessoal de 
+P&D. Apenas os indivíduos que participam diretamente nessas atividades (ver 
+a lista de tarefas abaixo mencionada) são incluídos na quantificação estatística 
+do pessoal de P&D. As pessoas desempenhando tarefas auxiliares ou de suporte 
+indireto nas unidades em que realizam trabalhos de P&D são excluídas. Essas 
+tarefas são as seguintes:
+• prestações específicas fornecidas por serviços informáticos centrais e por 
+bibliotecas para efeitos de P&D
+• atividades de serviços centrais de finanças e de pessoal relacionados com 
+projetos e pessoal de P&D
+• prestação de serviços de segurança, limpeza, manutenção, restauração, 
+etc., à unidades nas quais efetuem trabalhos de P&D.
+5.5 Apesar desses indivíduos os quais fornecem esses tipos de serviços não 
+serem incluídos no total do pessoal de P&D da unidade estatística, os custos 
+correspondentes (designadamente a remuneração desses indivíduos) devem 
+ser incorporados nas despesas em P&D da unidade estatística e contabilizadas 
+nas “outras despesas correntes”. Esses custos podem ser calculados proporcionalmente não incluindo atividades outras que P&D da unidade estatística (ver 
+a seção 4.2 do Capítulo 4).
+5.2 População abrangida e definições do pessoal de P&D
+População inicialmente abrangida: pessoas assalariadas e colaboradores externos
+5.6 O pessoal de P&D de uma unidade estatística é composto por pessoas 
+as quais participam diretamente em atividades de P&D (assalariados de uma 
+unidade estatística ou colaboradores externos que constituem uma parte 
+integrante dos projetos de P&D da unidade estatística) e por pessoas as quais 
+fornecem serviços diretamente ligados às atividades de P&D (responsáveis 
+pela P&D, gestores, técnicos e pessoal de suporte).
+5.7 As pessoas que fornecem serviços auxiliares e de suporte indireto (por 
+exemplo, nos domínios do setor de alimentação, manutenção, administração e 
+segurança) deverão ser excluídas, mesmo quando os seus vencimentos e salários 
+são contabilizados nas despesas de P&D como parte de “outras despesas correntes”.
+5.8 As unidades de P&D podem ser organizadas de formas diversas utilizando tipos de contratos diferentes para o seu pessoal. Consequentemente, 
+quando os recursos humanos nos quais trabalham para a P&D são contabilizados, é importante incluir o conjunto do pessoal de P&D da unidade estatística.
+5.9 Os indivíduos passíveis de contribuir para as atividades de P&D de uma 
+unidade estatística podem pertencer a um dos dois grandes grupos seguintes 
+(com algumas variações em função do setor institucional ao qual a unidade 
+pertence):
+
+
+• as pessoas as quais trabalham para a unidade estatística e que participam 
+em atividades de P&D interna desta (igualmente designadas pela expressão 
+“pessoal interno de P&D” nesse manual)
+• os colaboradores externos de atividades de P&D interna da unidade em 
+consideração (igualmente designados pela expressão “pessoal externo de 
+P&D” nesse manual), sendo estes subdivididos em dois grupos caso estes: 
+i) recebam um salário / vencimento de uma entidade outra que a unidade 
+estatística executante ou ii) em certos casos particulares, contribuam 
+para atividades de P&D interna de uma unidade estatística não estando 
+associados a esta.
+5.10 Geralmente, o pessoal de P&D inclui todos os indivíduos que trabalham em uma ou para uma unidade estatística – a tempo integral ou a tempo 
+parcial – e contribuem para P&D interna. Estes podem ser indivíduos empregados pela unidade estatística ou por outras unidades as quais participem em 
+atividades de P&D interna da primeira unidade. Incluem-se aqui trabalhadores 
+autônomos e assalariados. A Tabla 5.1 representa as diferentes categorias de 
+pessoas a considerar na quantificação do pessoal de P&D. Essas categorias 
+apoiam-se na terminologia e nos conceitos estabelecidos na publicação das Nações Unidas intitulada Recommandations internationales concernant les statistiques 
+industrielles (Nações Unidas, 2009).
+5.11 É essencial, no âmbito da quantificação do pessoal de P&D, identificar 
+os indivíduos (internos e externos) os quais fornecem serviços para a execução 
+de trabalhos de P&D interna. Na prática, uma unidade a qual execute trabalhos de P&D apenas poderá relatar as características do seu pessoal de P&D 
+(sexo, idade, grau de qualificações, etc.; ver a seção 5.4) no preenchimento dos 
+relatórios estatísticos caso este participe na seleção desses indivíduos. Caso 
+contrário, supõe-se que os serviços serão fornecidos por contratantes externos 
+recorrendo a indivíduos não identificados. Apesar dessa distinção ser importante na quantificação do pessoal de P&D (isto é, para determinar se as pessoas que 
+fornecem serviços de P&D devem ser contabilizadas no total do pessoal de P&D), 
+não tem incidência na quantificação das despesas em P&D, pois os dois tipos de 
+atividades são agrupados na mesma categoria das “outras despesas correntes” 
+(apesar dos custos associados às pessoas identificadas como pessoal externo de 
+P&D serem, quando possível, registrados em uma subseção). Para mais detalhes 
+sobre a contabilização do pessoal e das despesas de P&D, consulte a seção 5.2 
+desse capítulo e a seção 4.2 do Capítulo 4.
+• No caso uma pessoa contratada por uma agência de trabalho temporário 
+com o intuito de efetuar trabalhos administrativos relacionados com a P&D 
+nas instalações da unidade estatística poder ser substituída pela mesma 
+agência sem a intervenção direta / aprovação da unidade estatística considerada, essa pessoa não será considerada como pessoal de P&D, mas 
+os custos associados (isto é, os custos totais pagos à agência de trabalho 
+temporário) serão integrados nas “outras despesas correntes” (e não apenas 
+na subcategoria do “pessoal externo”).
+Pessoas assalariadas (pessoal interno) que participam em atividades 
+de P&D interna da unidade estatística
+5.12 Na maioria das unidades estatísticas, a P&D interna é principalmente 
+efetuada por pessoas empregadas pelas unidades em questão. As “pessoas assalariadas” incluem os trabalhadores e certas categorias de trabalhadores 
+autônomos. A categoria de trabalhadores inclui todos os indivíduos os quais 
+trabalham na ou para a unidade estatística por meio de um contrato de trabalho firmado com esta e recebendo um pagamento em dinheiro ou em espécie 
+em intervalos regulares. Incluem-se aqui os trabalhadores os quais executam 
+uma atividade auxiliar à atividade principal da unidade, tal como os seguintes 
+grupos de indivíduos: os indivíduos em licenças de curta duração (baixa por 
+doença, acidente ou férias anuais), as pessoas em licenças especiais (licença 
+de estudos ou de formação, licença de maternidade ou licença parental), os 
+grevistas, os trabalhadores a tempo parcial e os aprendizes quando estes são 
+contabilizados nos encargos salariais. A categoria de trabalhadores também 
+inclui as pessoas que são remuneradas pela unidade estatística trabalhando 
+para esta, mas que exercem as suas funções remotamente (trabalhadores no 
+domicílio), por exemplo, os agentes técnico-comerciais ou o pessoal de suporte 
+e de reparações. Quando esses indivíduos participam em atividades de P&D 
+interna da unidade estatística, são contabilizados no pessoal interno de P&D.
+5.13 No setor das empresas, as “pessoas assalariadas” incluem, na categoria 
+de “trabalhadores autônomos”, os trabalhadores familiares não remunerados 
+e os proprietários trabalhadores (isto é, os proprietários individuais ou sócios). 
+Excluem-se os sócios passivos ou inativos na qual a unidade principal é executada fora da unidade estatística.
+5.14 No setor do Estado, do ensino superior e no setor privado sem fins 
+lucrativos, parte-se da hipótese de que nas “pessoas assalariadas” não estão 
+incluídas os trabalhadores autônomos (com a exceção de agregados familiares 
+que, por convenção, são incluídos no setor privado sem fins lucrativos). Nesses 
+setores, quase todas as “pessoas assalariadas” são trabalhadores.
+Pessoal externo o qual participa em atividades de P&D interna de uma 
+unidade estatística
+5.15 As unidades estatísticas as quais desenvolvem trabalhos de P&D recorrem cada vez mais ao pessoal externo a fim de melhorar a eficácia do seu 
+pessoal interno de P&D ou para adquirir conhecimentos e competências que 
+estas não possuem. Em tais circunstâncias, o pessoal externo é totalmente integrado nas atividades de P&D interna da unidade estatística declarante, e as 
+suas tarefas são geridas pela unidade em questão. Os serviços fornecidos por 
+esse pessoal externo de P&D não podem ser confundidos com atividades de 
+P&D externa da unidade, isto é, a compra de P&D à unidades externas para responder a encomendas específicas fora dos projetos de P&D interna da unidade 
+declarante (ver a seção 4.2 do Capítulo 4 dedicado a outras despesas correntes 
+e à distinção entre as despesas de P&D interna e P&D externa ligadas à mão-
+-de-obra). É igualmente importante não confundir as contribuições do pessoal 
+externo de P&D com a compra de serviços fornecidos por unidades externas 
+para apoiar os trabalhos de P&D interna desprovidos de um acordo entre a/as 
+pessoa(s) encarregada(s) de executar esses serviços.
+5.16 O “pessoal externo de P&D” inclui os indivíduos nos quais não são empregados da unidade estatística declarante mas que fornecem serviços diretos 
+constituindo uma parte integral dos projetos ou atividades de P&D da unidade 
+estatística. Por outras palavras, são pessoas as quais contribuem diretamente 
+para a P&D interna da unidade estatística declarante. Essa categoria inclui 
+simultaneamente trabalhadores autônomos que intervêm como consultores na P&D interna e os indivíduos os quais proporcionam a prestação de serviços 
+científicos ou técnicos em nome do(s) seu(s) empregador(es) à unidade estatística declarante dos trabalhos de P&D interna. Os trabalhadores temporários 
+estão incluídos nessa categoria. Eles encontram-se disponíveis para os clientes 
+corporativos por meio de honorários. São contabilizados na massa salarial da 
+agência de emprego (ou de colocação) temporária e não na da unidade estatística 
+que paga os honorários. Essa disponibilização de recursos humanos ocorre, geralmente, por um curto período de tempo (ver os casos específicos de exclusão 
+nas anotações da Tabela 5.1).
+5.17 Para efeitos desse manual, uma definição concisa do pessoal externo 
+de P&D pode ser proposta apoiando-se nas principais características do pessoal 
+de P&D não pertencendo à categoria das “pessoas assalariadas”.
+5.18 O pessoal externo de P&D inclui os trabalhadores autônomos e os trabalhadores os quais constituem uma parte integrante dos projetos de P&D de 
+uma unidade estatística sem estarem oficialmente empregados nessa unidade 
+executante.
+5.19 O pessoal externo de P&D é geralmente composto por especialistas 
+ou técnicos com elevado grau de competências e de especialização nas atividades de P&D. O pessoal externo de P&D possuindo, por definição, supostante as 
+mesmas competências do que o pessoal interno equivalente em uma unidade 
+estatística de qualquer setor econômico pode, teoricamente, efetuar os seus 
+trabalhos de P&D interna utilizando apenas pessoal externo, sem recorrer aos 
+serviços do pessoal interno.
+5.20 O termo pessoal externo de P&D refere-se amiúde a trabalhadores 
+autônomos – e, como tal, deveriam ser classificados na categoria de empresas 
+individuais. Em certos casos, essas pessoas são empregadas por organizações 
+externas, estabelecimentos de pesquisa ou empresas nas quais comercializam 
+serviços técnicos ou científicos fornecidos por pessoal qualificado. Em outros 
+casos, as agências empregadoras não vendem ao cliente um “serviço de P&D” em 
+particular, mas indicam, ao invés de disponibilizar durante um certo período de 
+tempo, trabalhadores qualificados respondendo a uma necessidade específica. 
+É também possível que os trabalhadores externos sejam trabalhadores de uma 
+instituição pública (como é o caso, por exemplo, em certos países, de professores 
+universitários ou pesquisadores empregados pelo Estado) autorizados pelo seu 
+empregador a realizar trabalhos de P&D no setor privado sem, no entanto, deixar de realizar as suas obrigações profissionais no setor público. Nesse tipo de 
+situação, é possível que um indivíduo tenha múltiplas atribuições, significando 
+que este possa ser referido por múltiplas entidades.
+5.21 Excluindo os trabalhadores autônomos e os trabalhadores de outras 
+unidades estatísticas empregados como colaboradores externos para trabalhos de P&D, várias outras categorias de pessoas efetuam tarefas semelhantes, 
+consequentemente, devendo ser incluídas no total de pessoal externo de P&D.
+5.22 No setor do ensino superior, os estudantes de mestrado ou doutorado (para mais detalhes, consultar a subseção “Tratamento dos estudantes de 
+mestrado e em doutorado”), assim como os indivíduos os quais possuem benefícios de subvenções para a P&D, podem ser objeto de um tratamento diferente 
+segundo a sua situação em termos de emprego. Quando um estabelecimento 
+de ensino superior lhes concede um estatuto de trabalhador (ou, ao contrário, 
+quando os trabalhadores são inscritos como estudantes de doutorado) – isto é, 
+quando são contabilizados na massa salarial da universidade – essas pessoas 
+devem ser incluídas no total de pessoal de P&D como “trabalhadores assalariados” (pessoal interno de P&D) da universidade (ou por qualquer outra unidade 
+estatística do setor do ensino superior). Por outro lado, se os estudantes em 
+doutorado e beneficiários de subvenções para a P&D não forem contabilizados na massa salarial da universidade, deverão ser registrados no total do pessoal 
+de P&D como pessoal externo de P&D caso estes recebam uma remuneração 
+pelo trabalho de P&D que realizam, independentemente da fonte e do canal de 
+financiamento utilizados. Adicionalmente, os estudantes de doutorado os quais 
+não recebem financiamento podem, apesar de tudo, serem contabilizados no 
+total do pessoal de P&D como pessoal externo. Esta recomendação, que é aplicável aos estudantes que não recebem financiamento, também é válida para 
+os estudantes de mestrado, caso estes estejam inscritos em um programa de 
+pesquisa no âmbito de mestrado, sendo que o equivalente de tempo integral 
+(ETI) dos trabalhos de pesquisa possa ser claramente evidenciado e dissociado 
+dos custos de escolaridade.
+5.23 O setor do ensino superior inclui uma categoria específica (quase 
+exclusiva) de pessoal externo de P&D, a de “professores eméritos”. Esses são 
+professores aposentados no qual continuam a realizar trabalhos e pesquisa 
+colaborando nas atividades acadêmicas do seu empregador anterior, geralmente 
+uma universidade, sem receber qualquer remuneração (além de um possível 
+suporte logístico). Para serem considerados como um colaborador externo às 
+atividades de P&D interna de uma unidade estatística do ensino superior, o 
+professor emérito deve ter sido contabilizado na massa salarial de uma universidade antes de se aposentar, permanecendo ativo no domínio da pesquisa 
+(e no do ensino). Dado que os professores eméritos podem contribuir de forma 
+significativa para a P&D de um estabelecimento, é justificável que estes sejam 
+incluídos no total do pessoal externo de P&D.
+5.24 Finalmente, há uma última categoria de indivíduos os quais podem 
+ser incluídos (para efeitos de quantificação) no pessoal externo de P&D, designadamente os indivíduos que intervêm na P&D interna como voluntários. Os 
+voluntários são trabalhadores não remunerados que contribuem de modo ativo 
+e preciso em matéria de P&D em uma unidade estatística sob a sua responsabilidade. É no setor privado sem fins lucrativos que essa categoria de indivíduos 
+pode fazer a maior diferença nas estimativas. Os voluntários apenas poderão 
+ser incluídos no total do pessoal externo caso satisfaçam os critérios estritos:
+• Participem em atividades de P&D interna nas instituições (privadas sem 
+fins lucrativos).
+• As suas competências em termos de pesquisa sejam comparáveis à dos trabalhadores regulares. Consequentemente, os indivíduos os quais são voluntários para participar em ensaios clínicos, fornecer apoio informático para 
+projetos de P&D, etc., não deverão ser incluídos no pessoal externo de P&D.
+• As suas atividades de P&D são sistematicamente planejadas em função das 
+suas necessidades e das necessidades da instituição.
+• A sua contribuição deverá ser apreciável sendo uma condição essencial 
+permitindo a execução de uma atividade ou um projeto de P&D interna na 
+instituição.
+Concordância entre as categorias do pessoal de P&D e das despesas 
+de P&D
+5.25 Como explicado em seguida, o tratamento do pessoal de P&D e os custos correspondentes podem variar segundo a situação contratual dos indivíduos 
+(ver a Tabela 5.2). Como previamente constatado, duas grandes categorias de 
+indivíduos podem ser consideradas na contabilização do pessoal de P&D e dos seus custos: as pessoas empregadas pela unidade – isto é, o pessoal interno de 
+P&D – e o pessoal externo de P&D. Essa segunda categoria inclui pessoas empregadas por outras unidades, assim como outros casos particulares de pessoas 
+externas à unidade que não são assalariadas.
+
+
+Grupo 1. Pessoal interno de P&D (isto é, pessoas empregadas pela unidade 
+estatística as quais participam nas suas atividades de P&D interna):
+• Os assalariados que trabalham na P&D são considerados como uma parte 
+integrante da unidade estatística, e os seus salários / vencimentos deverão 
+ser incluídos nos custos da mão-de-obra das despesas de P&D interna con-
+I-5. MEDIÇÃO DO PESSOAL DE P&D: MÉTODOS E PROCEDIMENTOS
+154 FRASCATI MANUAL 2015 © OECD 2016
+tabilizados. Os estudantes de doutorado / mestrado são incluídos no total 
+do pessoal interno de P&D caso estes figurem na massa salarial da unidade 
+estatística para a qual efetuam trabalhos de P&D (para orientações mais 
+detalhadas, consultar mais abaixo a subseção intitulada “Tratamento dos 
+estudantes em mestrado e em doutorado”).
+• Os proprietários trabalhadores e outros trabalhadores assalariados os 
+quais trabalham de forma independente não são geralmente diretamente 
+remunerados pelo seu trabalho.
+Grupo 2 (i). O pessoal externo de P&D incluindo pessoas nas quais não são 
+empregadas pela unidade estatística declarante, mas sim por outras unidades, 
+e que fornecem serviços diretos o qual constituem uma parte integrante dos 
+projetos ou atividades de P&D da unidade estatística, no quadro de um contrato 
+específico, não deverão ser incluídos nos custos da mão-de-obra. Esses custos 
+deverão ser contabilizados na seção de outras despesas correntes (de preferência em uma subseção “Outras despesas correntes – pessoal externo de P&D”) 
+das despesas de P&D interna da unidade. Esse grupo inclui:
+• Os assalariados de outras unidades, contratados na função de consultores 
+a fim de contribuir para a P&D interna dos clientes dos seus empregadores 
+por uma remuneração.
+• Os consultores independentes que contribuem à P&D interna dos seus 
+clientes em uma base contratual. Estes são frequentemente denominados 
+como “prestadores externos de P&D”.
+Grupo 2 (ii). O pessoal externo o qual não é empregado pela unidade, mas que 
+cumpre tarefas de P&D semelhantes às efetuadas pelo pessoal interno de P&D:
+• Os estudantes de doutorado / mestrado são incluídos no total do pessoal 
+externo de P&D caso sejam remunerados pela sua contribuição para a P&D 
+sem que esta remuneração seja o pagamento de um vencimento / salário 
+pela unidade estatística executora. Caso recebam “subvenções para a P&D” 
+ou vencimentos / salários externos), estes serão contabilizados na subseção 
+“Outras despesas correntes – pessoal externo de P&D” (para orientações 
+mais detalhadas, consultar a subseção “Tratamento dos estudantes de 
+mestrado e de doutorado” mais abaixo).
+• Os beneficiários de subvenções para a P&D não recebem um salário. Os 
+custos associados a essas subvenções podem ser contabilizados, conforme 
+o caso, na seção de outras despesas correntes.
+• Os voluntários os quais contribuem para a P&D interna não são geralmente 
+diretamente remunerados pelo seu trabalho.
+• Os professores eméritos que contribuem para a P&D interna – principalmente em estabelecimentos de ensino superior – não são geralmente remunerados pelo seu trabalho.
+Como indicado mais abaixo, o total do pessoal de P&D é composto por dois 
+grandes grupos de indivíduos: os trabalhadores assalariados que executam 
+trabalhos de P&D (ou seja, pessoal interno de P&D, um subgrupo do total das 
+pessoas empregadas pela unidade estatística) e as pessoas as quais executam 
+trabalhos de P&D, mas que não são empregadas pela unidade estatística (pessoal externo de P&D). Recomenda-se, quando possível, que os dados referentes 
+a cada um desses dois grupos sejam identificados, recolhidos e contabilizados 
+separadamente, quer no caso do pessoal, quer no caso das despesas. Essa recomendação é justificada pela necessidade de coerência entre os dados referentes 
+ao pessoal de P&D e aos referentes às despesas de P&D, assim como pela necessidade de relatar com precisão a composição da mão-de-obra da P&D.
+5.26 Ao recolher informações sobre unidades nas quais disponibilizam pessoal de P&D temporário para outras unidades as quais executam trabalhos de 
+P&D, é importante que esses contratantes não integrem o pessoal externo de P&D 
+e os custos que lhes correspondem na sua P&D interna, pois isso corresponderia 
+a uma dupla contabilização. É possível que esses fornecedores de pessoal temporário efetuem trabalhos de P&D interna (como trabalho interno ou para efeitos 
+de venda), caso no qual poderá ser difícil diferenciar o pessoal e as despesas 
+atribuídas à P&D interna do pessoal e das despesas atribuídas à P&D externa.
+
+
+Tratamento dos estudantes de mestrado e de doutorado
+5.27 Os estudantes de mestrado e de doutorado são identificáveis por meio 
+do seu grau de estudos: concluíram os seus estudos universitários com grau de 
+bacharelado ou licenciado (nível 6 da CITE) e alcançaram o grau de mestrado 
+(nível 7 da CITE) ou doutorado (nível 8 da CITE). Para mais detalhes sobre os 
+níveis da CITE, consultar, na seção 5.4, a repartição do pessoal de P&D e dos 
+pesquisadores segundo o nível de estudos.
+5.28 Os estudantes de doutorado seguem “programas de ensino superior nos 
+quais proporcionam a obtenção de um título de pesquisador altamente qualificado, estando ele dedicado a estudos aprofundados e a trabalhos de pesquisa originais”. Geralmente, esses estudantes têm que defender uma tese com qualidade 
+suficiente para ser publicada, devendo esta ser o produto de um trabalho original 
+de pesquisa representando uma contribuição considerável para o conhecimento. 
+Os estudantes de doutorado (nível 8 da CITE) os quais são contratados com pesquisadores deverão, consequentemente, ser incluídos na quantificação do pessoal 
+de P&D e das despesas correspondentes dos estabelecimentos de ensino superior. 
+As razões pelas quais os limites entre as atividades de P&D e de formação desses 
+estudantes (e dos seus professores / orientadores) são difíceis de definir e são 
+objeto de uma análise global na seção 9.2 do Capítulo 9.
+5.29 Em princípio, todos os estudantes em doutoramento participam nas 
+atividades de P&D da universidade na qual estão inscritos. Adicionalmente, as 
+universidades frequentemente possuem direitos sobre os resultados dos trabalhos de pesquisa em função do tempo de supervisão o qual é dedicado e ao 
+acesso às instalações. No entanto, não existe uma obrigação formal requerendo 
+que os estudantes dediquem tempo à P&D interna da universidade e, mesmo 
+quando ela existe, não é sempre respeitada. Por convenção, faz-se uma distinção 
+entre os estudantes de doutorado os quais recebem uma remuneração ou outro 
+tipo de suporte financeiro da parte da universidade (ou de qualquer outra fonte) 
+para as suas atividades de P&D e os que não recebem nada. Em certos casos, 
+os estudantes recebem um salário (sendo então contabilizados na massa salarial da universidade); em outros, recebem apenas uma subvenção, geralmente 
+uma bolsa de pesquisa ou bolsa com uma componente de pesquisa. Por razões 
+práticas, considera-se que os estudantes sem salários / subvenções não podem 
+contribuir substancialmente às atividades de P&D da universidade, contrariamente dos que são ajudados financeiramente. Apenas os estudantes da segunda 
+categoria deverão ser considerados no cálculo total do pessoal de P&D (interno 
+ou externo, segundo as modalidades de pagamento); os de primeira categoria 
+podem ser, conforme as circunstâncias, contabilizados no pessoal externo de 
+P&D, como se explica a seguir.
+
+
+
+5.30 Os estudantes de mestrado podem, em certos casos, ser contabilizados 
+como pesquisadores. É o caso, em particular, dos estudantes do nível 7 da CITE, 
+em que seguem um programa de ensino levando a realização de trabalhos de 
+pesquisa originais, mas inferiores ao nível de doutorado. Contudo, é importante 
+apenas incluir no total do pessoal de P&D os estudantes em mestrado os quais 
+recebem uma forma de remuneração pela sua atividade de P&D ou cujo montante equivalente de tempo integral (ETI) possa ser claramente evidenciado e 
+dissociado da componente educativa.
+5.31 Com a finalidade de facilitar a comparação internacional de dados, 
+recomenda-se o método heurístico seguinte para a classificação e tratamento 
+de estudantes que contribuem para atividade de P&D. Como acima indicado, a 
+primeira etapa consiste em identificar os estudantes os quais participam em 
+atividades de P&D.
+• Caso n° 1: Os estudantes de mestrado / doutorado recebem um financiamento – sob a forma de salário ou subvenções – da parte da unidade executante para efetuar trabalhos de pesquisa. Estes são considerados como 
+pessoal interno de P&D e as despesas que lhes são associadas são incluídas 
+nos custos da mão-de-obra. Estes não são contabilizados separadamente 
+como estudantes.
+• Caso n° 2: Os estudantes de doutorado recebem financiamento externo ou 
+não recebem financiamento para efetuar trabalhos de pesquisa na unidade 
+executante. São considerados como pessoal externo de P&D e as despesas 
+que lhes são associadas (quando recebem um financiamento) são incluídas na seção “Outras despesas correntes – pessoal externo de P&D”. Essas 
+despesas podem ser registradas e contabilizadas pela unidade executante, 
+ou avaliadas no âmbito do setor utilizando um método triangular (ver o 
+Capítulo 4, seção 4.4); convém tomar medidas com o intuito de evitar o 
+risco de uma dupla contabilização. Esse método aplica-se igualmente para 
+estudantes de mestrado caso o financiamento que estes recebem seja explicitamente dedicado à P&D ou se uma quantia significativa equivalente 
+de tempo integral (ETI) possa ser claramente evidenciada e dissociada da 
+componente educativa. Recomenda-se, quando possível, que o número de 
+estudantes de mestrado / doutorado seja contabilizado, particularmente no 
+setor de ensino superior. Adicionalmente, em certos países, poderá ser útil 
+contabilizar separadamente os estudantes de doutorado e os de mestrado.
+• Caso n°3: Os estudantes de doutorado realizam trabalhos de pesquisa 
+independentes, com ou sem a ajuda de um financiamento. Não são contabilizados no pessoal de P&D, mas o financiamento que recebem pode ser incluído nas “outras despesas correntes” se este tratar-se de uma subvenção 
+externa (que pode ser avaliada no âmbito do setor por meio de um método 
+triangular; ver a seção 4.4 do Capítulo 4). Esse procedimento também é 
+aplicável aos estudantes de mestrado se o financiamento o qual receberem 
+seja explicitamente dedicado à P&D.
+Classificação do pessoal de P&D por função
+5.32 Após a identificação das pessoas as quais podem participar em atividades de P&D interna de uma unidade estatística, é necessário evidenciar, por 
+meio de critérios rigorosos, os indivíduos que efetivamente realizaram trabalhos de P&D no interior da unidade estatística declarante durante o período de 
+referência:
+
+• No que diz respeito ao pessoal externo de P&D, não existe uma diferença entre os trabalhos de P&D reais e potenciais, dado que esse pessoal é 
+identificado tendo por base elementos específicos os quais demostram que 
+contribuíram para atividades de P&D interna.
+• No que diz respeito aos “trabalhadores assalariados” no interior da unidade estatística, como os proprietários trabalhadores, e outras categorias 
+de pessoas, será útil examinar as tarefas cumpridas por cada uma dessas 
+pessoas nas atividades de P&D da unidade estatística determinando quais 
+participaram “diretamente” na P&D interna durante o ano de referência. Por 
+convenção, qualquer tipo ou grau (intensidade) de contribuição direta para 
+a P&D é suficiente para que os indivíduos sejam classificados no pessoal 
+interno de P&D. No entanto, recomenda-se apenas incluir no total do pessoal de P&D os trabalhadores assalariados os quais contribuíram de forma 
+suficiente para a P&D interna em percentagem do seu tempo de trabalho 
+(tendo por base um ano). Para mais detalhes sobre o que pode constituir 
+uma contribuição “suficiente”, consultar a subseção intitulada “Equivalente 
+de tempo integral (ETI) do pessoal de P&D”.
+
+
+5.33 As pessoas que fazem parte dos dois grupos acima referidos serão 
+classificados segundo à função as quais desempenham para a P&D: pesquisador, técnico ou pessoal de suporte. Essa classificação é frequentemente a causa 
+de erros de interpretação devido à utilização dos mesmos termos em contextos 
+diferentes. Convém especificar que nesse manual, esse método de classificação 
+do pessoal de P&D se refere à função real (isto é, as tarefas) das pessoas as quais 
+participam nas atividades de P&D interna da unidade estatística. No plano prático, sabe-se que as unidades declarantes (e até mesmo os serviços estatísticos 
+que compilam os dados de P&D) podem por vezes utilizar critérios existentes e 
+facilmente acessíveis a fim de classificar o pessoal de P&D. Poderá, portanto, ser 
+relevante evidenciar os critérios que não deveriam ser utilizados como os únicos 
+fundamentos para classificar o pessoal de P&D nas categorias “pesquisadores”, 
+“técnicos” ou “pessoal de suporte”, mesmo quando esses critérios são utilizados 
+de maneira a facilitar esse processo:
+• Não se baseiam na posição ocupada. Apesar de certos trabalhadores assalariados terem um contrato de “pesquisador”, isto não quer dizer, necessariamente, que estes efetuam tarefas de “pesquisador” no conjunto das 
+atividades de P&D do seu empregador. É possível que em um dado projeto 
+de P&D, um ”pesquisador” desempenhe tarefas de “técnico”. É esse aspecto 
+que convém ter em consideração nas estatísticas de P&D. Por outro lado, 
+os indivíduos que ocupem uma posição de “técnico” podem ter efetuado 
+tarefas semelhantes às de um “pesquisador” para um dado projeto: novamente, é esse aspecto (ou seja, as tarefas realmente realizadas pela pessoa) 
+que deve ser declarado nas sondagens sobre a P&D.
+• Não se baseiam nas qualificações formais ou no grau de estudos. Apesar das 
+pessoas titulares de um doutorado terem a oportunidade de participar em 
+projetos de P&D como “pesquisadores”, as tarefas de P&D realizadas por 
+estas poderão não ser coerentes como as suas qualificações. Por exemplo, 
+um técnico com um diploma de ensino médio, mas com vários anos de 
+experiência profissional pode, em um certo contexto, cumprir tarefas semelhantes às de um pesquisador.
+• Não se baseiam na antiguidade no cargo. Jovens “pesquisadores” gerem frequentemente projetos de P&D complexos, enquanto os seus colegas (ou consultores) os quais possuem mais experiência desempenham papéis 
+diferentes (apoio técnico ou administrativo, por exemplo).
+• Não se baseiam na relação de emprego com a unidade a qual executa trabalhos de 
+P&D. Apesar da maioria das atividades de P&D interna serem geralmente 
+geridas pelo pessoal interno (ou pelos proprietários trabalhadores no caso 
+das pequenas empresas), também é possível que o pessoal externo cumpra 
+as mesmas tarefas de P&D que o pessoal interno. Uma unidade estatística 
+pode, portanto, efetuar trabalhos de P&D apoiando-se unicamente nos 
+serviços do pessoal externo.
+5.34 Pode por vezes ser necessário, para efeitos de análise, estabelecer uma 
+ligação entre as categorias de pessoal de P&D, definidas abaixo, e os dados sobre 
+o emprego e a mão-de-obra provenientes das classificações internacionais padrão tais como a Classification internationale type des professions (CITP) (OIT, 2012) 
+e a Classification internationale type de l’éducation (CITE) 2011 (UNESCO-ISU, 2012). 
+O documento de referência sobre os grandes grupos profissionais em que se 
+classificam os trabalhadores de P&D é o CITP-08: os pesquisadores são classificados no segundo grande grupo: “Profissões intelectuais e científicas”, e em 
+“Diretores e quadros de direção, pesquisa-desenvolvimento” (CITP-08, 1223); 
+os técnicos e pessoal equiparado são classificados no terceiro grande grupo, 
+“Profissões intermediárias”; quanto ao pessoal de suporte, este encontra-se 
+essencialmente nos grandes grupos 4 “Trabalhadores de tipo administrativo”, 
+6 “Agricultores e trabalhadores qualificados de agricultura, de silvicultura e de 
+pesca” e 8 “Operadores de instalações e de máquinas, e trabalhadores da montagem”. Por convenção, o pessoal de P&D que trabalha no domínio da defesa é 
+classificado no grande grupo 0 “Profissões militares”.
+Os pesquisadores
+5.35 Os pesquisadores são especialistas que trabalham na concepção ou 
+criação de novos saberes. Realizam trabalhos de pesquisa com o intuito de 
+melhorar ou desenvolver conceitos, teorias, modelos, técnicas, instrumentos, 
+softwares ou procedimentos operacionais.
+5.36 Os pesquisadores podem ser totalmente ou parcialmente atuantes em 
+diferentes tipos de atividades (por exemplo: pesquisa fundamental ou aplicada, 
+desenvolvimento experimental, manutenção de material de pesquisa, gestão de 
+projetos, etc.) em qualquer setor da economia. Estes identificam vias para novas 
+atividades de P&D e asseguram o seu planejamento e gestão utilizando competências e conhecimentos de alto nível como resultado de uma formação ou de 
+um ensino estruturado, ou de experiência concreta no domínio da pesquisa. 
+Os pesquisadores desempenham um papel crucial na condução de um projeto 
+ou de uma atividade de P&D. Os projetos de P&D são geralmente dirigidos por 
+pesquisadores (o restante do pessoal de P&D pode dirigir certas componentes 
+do projeto). Consequentemente, todas as unidades estatísticas as quais efetuem 
+trabalhos de P&D possuem pelo menos um pesquisador; este pode fazer parte 
+do pessoal interno ou externo da unidade, mas não deve necessariamente estar 
+contratado a tempo integral para atividades de P&D.
+5.37 Geralmente, as tarefas implementadas pelos pesquisadores no quadro 
+de projetos específicos ou de atividades gerais de P&D são as seguintes:
+
+• realização de trabalhos de pesquisa, de experiências, de ensaios e de análises • desenvolvimento de conceitos, teorias, modelos, técnicas, instrumentos, 
+softwares e procedimentos operacionais
+• recolhimento, tratamento, avaliação, análise e interpretação de dados 
+resultantes da pesquisa
+• avaliação de resultados de sondagens e experiências, e emissão das conclusões com o apoio de diferentes tipos de técnicas e modelos
+• aplicação de princípios, técnicas e procedimentos a fim de desenvolver ou 
+melhorar aplicações concretas
+• emitir conselhos sobre a concepção, planejamento e organização da experimentação, construção, instalação e manutenção das estruturas, máquinas, 
+sistemas e dos seus componentes
+• conselhos e serviços de suporte aos poderes públicos, às organizações e às 
+empresas para a aplicação dos resultados de pesquisa
+• planejamento, orientação e coordenação das atividades de P&D das organizações fornecedoras de serviços ligados a outras organizações
+• elaboração de documentos e de relatórios científicos.
+5.38 Os quadros de direção e os administradores que intervêm na gestão 
+e planejamento dos aspectos técnicos e científicos dos trabalhos de um pesquisador são igualmente classificados na categoria de “pesquisadores”. A sua 
+posição hierárquica no âmbito da unidade é geralmente igual ou superior à das 
+pessoas empregadas como pesquisadores, e ocupam por vezes uma posição de 
+pesquisador a tempo parcial.
+5.39 Devido à razões práticas, os estudantes de doutorado os quais participam na P&D deverão ser contabilizados como “pesquisadores”. Estes possuem 
+geralmente um diploma universitário de base (nível 7 da CITE) e efetuam trabalhos de pesquisa enquanto preparam a tese de doutoramento (nível 8 da CITE). 
+Quando não é possível ser claramente identificados, esses estudantes podem 
+ser contabilizados com os técnicos ou com os pesquisadores, podendo originar 
+incoerências nas séries de dados referentes aos pesquisadores.
+Os técnicos e o pessoal equiparado
+5.40 Os técnicos e pessoal equiparado são pessoas cujas tarefas principais requerem conhecimentos e um experiência técnica em um ou vários 
+domínios da engenharia, ciências físicas, ciências da vida, ciências sociais, 
+ciências humanas e das artes. Estes participam na P&D por meio da execução 
+de tarefas científicas e técnicas as quais requerem a aplicação de conceitos 
+e de procedimentos operacionais ou a utilização de material de pesquisa, 
+geralmente sob a supervisão de pesquisadores.
+5.41 Na maioria dos casos, os técnicos e o pessoal equiparado intervêm 
+em projetos de P&D sob a supervisão dos pesquisadores. O seu papel consiste 
+essencialmente em implementar – em função da sua experiência e das suas 
+qualificações – as instruções que lhes são dadas pelos pesquisadores responsáveis pela gestão de projetos.
+5.42 Os técnicos e pessoal equiparado têm, contudo, tendência a possuir 
+um elevado grau de autonomia no cumprimento das suas tarefas, pois são 
+amiúde trabalhadores altamente qualificados. Geralmente, as tarefas realizadas 
+pelos técnicos e pessoal equiparado são as seguintes:
+
+• efetuar pesquisas bibliográficas encontrando elementos apropriados de 
+informações nos arquivos e bibliotecas
+• preparar softwares
+• realizar experiências, ensaios e análises
+• fornecer assistência técnica e suporte à P&D ou testar protótipos
+• operar, manter e reparar equipamentos de pesquisa
+• preparar os materiais e equipamentos necessários para a realização de 
+experiências, ensaios e análises
+• fazer medições, realizar cálculos e preparar quadros e gráficos
+• recolher informações utilizando métodos científicos aprovados
+• assessorar na análise de dados, manutenção de registros e preparação de 
+relatórios
+• realizar sondagens estatísticas e entrevistas.
+O pessoal de suporte
+5.43 O pessoal de suporte inclui os trabalhadores qualificados e não 
+qualificados, assim como o pessoal administrativo e de secretariado os quais 
+participam ou se encontram diretamente associados a projetos de P&D.
+5.44 O pessoal de suporte engloba todos os tipos de empregos e competências. Em princípio, qualquer atividade a qual contribui diretamente para a 
+realização de trabalhos de P&D interna mas que não é executada por pesquisadores ou técnicos é realizada pelo pessoal de suporte. É, portanto, praticamente 
+impossível fornecer uma lista exaustiva ou uma descrição das atividades potenciais dessa categoria de pessoal. Essas atividades variam entre o trabalho 
+administrativo e de secretariado ao fornecimento ou gestão de materiais e de 
+aparelhos necessários para executar um projeto de P&D. Essa categoria de pessoal trata geralmente das funções de suporte relacionadas à P&D, tais como: 
+planejamento, informação e suporte financeiro, serviços jurídicos e de patentes 
+e até ajuda na montagem, ajuste, manutenção e reparação de equipamentos e 
+de instrumentos científicos. Os quadros de direção e os administradores que se 
+encarregam principalmente das questões financeiras, da gestão do pessoal e da 
+administração geral, desde que as suas atividades tenham uma relação direta 
+com a P&D – são classificados na categoria do pessoal de suporte.
+5.45 Um aspecto importante é que apenas os “serviços de suporte direto” 
+são considerados nas estatísticas do pessoal de P&D. Consequentemente, se o 
+orçamento de um projeto de P&D de grande envergadura é gerido por um técnico contábil assalariado o qual trabalhe unicamente para uma dada equipe de 
+pesquisa, considera-se que se trata de um serviço “direto”: o técnico contábil 
+é então contabilizado no “pessoal de suporte” e as despesas correspondentes 
+ligadas à sua remuneração são registradas nos “custos da mão-de-obra” da 
+unidade estatística que efetua a P&D. Por outro lado, se o “ramo da contabilidade geral” de uma grande empresa é responsável pela gestão de vários projetos 
+de P&D interna executados por equipes diferentes, então essas atividades 
+representam um serviço administrativo “indireto”: não será contabilizado no 
+pessoal de P&D e os custos administrativos gerados pelas atividades de P&D 
+serão contabilizados, nas sondagens de P&D, como fazendo parte das “outras 
+despesas correntes”.
+
+
+5.3 Unidades de quantificação recomendadas
+5.46 A quantificação do pessoal (interno e externo) de P&D tem três componentes:
+1. quantificação de efetivos expresso por meio do número de pessoa física
+2. quantificação das atividades de P&D expressas em equivalente de tempo 
+integral ou em anos-pessoa
+3. quantificação das características dos indivíduos.
+5.47 O interesse de quantificar o número de efetivos em termos de pessoas 
+físicas e as atividades em equivalente de tempo integral deriva da observação que a 
+P&D pode ser a função principal de certas pessoas (por exemplo: os pesquisadores 
+de um laboratório de P&D), mas uma função secundária para outras (por exemplo: 
+os trabalhadores de um escritório de estudos e de ensaios). A P&D também pode 
+ser uma atividade de tempo parcial significativa (por exemplo: para professores, 
+estudantes de mestrado / doutorado, consultores e outros especialistas autônomos) sem implicar necessariamente a participação de pessoal de P&D a tempo 
+integral. A contabilização exclusiva de pessoas cuja função principal exclusiva é 
+a P&D resultaria em subestimar os esforços dedicados a essa atividade; por outro 
+lado, a contabilização de todas as pessoas as quais dedicam qualquer quantidade 
+de tempo a atividades de P&D resultaria em uma sobrestimação. A contabilização 
+das pessoas empenhadas em trabalhos de P&D deverá, consequentemente, ser 
+expressa por meio do número de pessoas físicas em equivalente de tempo integral 
+(ETI) dado que esses dois tipos de dados fornecem informações complementares.
+5.48 No intuito de assegurar a compatibilidade entre as duas séries de dados (pessoas físicas e ETI), sugere-se uma abordagem integrada da quantificação 
+do pessoal de P&D. Os seus princípios são os seguintes:
+• O ETI é o principal dado estatístico utilizado nas comparações internacionais do pessoal de P&D.
+• Os dados referentes às pessoas físicas são recomendados para o estudo – 
+geralmente em percentual – das características do pessoal de P&D.
+• O recolhimento direto de dados sobre o pessoal de P&D é o método recomendado com o intuito de produzir séries de dados sobre efetivos e sobre o ETI.
+• Os dados sobre os efetivos e ETI devem ser coerentes, mesmo quando estes 
+não são recolhidos simultaneamente no decorrer de um exercício estatístico ou que não resultam de um esforço de recolhimento coordenado pelas 
+diferentes fontes estatísticas e / ou administrativas.
+• Quando o recolhimento direto de dados não é possível, um processo de estimativa pode ser utilizado para obter indicadores sobre as pessoas físicas 
+e ETI a partir de dados administrativos.
+• Independentemente dos dados referentes ao pessoal de P&D serem recolhidos ex ante ou ex post, estes deverão ser coerentes com os dados referentes 
+às despesas de P&D, principalmente nas seções “Custos da mão-de-obra” 
+e “Outras despesas correntes – pessoal externo de P&D”.
+Equivalente de tempo integral (ETI) e pessoal de P&D
+5.49 O equivalente de tempo integral (ETI) do pessoal de P&D é definido 
+pelo número de horas de trabalho realmente dedicadas à P&D no decorrer de um determinado período de tempo (geralmente um ano civil), dividido pelo 
+número total de horas que uma pessoa, ou um grupo de pessoas é suposto ter 
+trabalhado no decorrer do mesmo período de tempo.
+5.50 Os serviços estatísticos os quais compilam dados sobre a P&D deverão 
+ter atenção especial na quantificação do tempo de trabalho total, pois este serve 
+de base ao cálculo do equivalente de tempo integral (ETI) do pessoal de P&D. Apesar da avaliação do tempo de trabalho total e do tempo dedicado à P&D não ser 
+fácil de quantificar (particularmente no caso do pessoal externo de P&D), sabe-se 
+que um indivíduo não pode representar mais do que um ETP no decorrer de um 
+ano, e que portanto não poderá dedicar mais do que um ETP à P&D em um ano.
+5.51 No entanto, em termos práticos, esse princípio não é sempre fácil de 
+aplicar. Certos pesquisadores podem, por exemplo, ter atividades em várias 
+unidades de P&D. É uma situação corrente para os acadêmicos que intervêm 
+igualmente como consultores externos para a P&D de empresas. Nesses casos, 
+poderá ser necessário reduzir o ETI de um indivíduo para um, caso existirem 
+informações referentes às suas contribuições para a P&D em várias unidades 
+estatísticas. O mesmo princípio é adotado quando o ETI total dedicado à P&D é 
+avaliado a partir de dados administrativos.
+5.52 Para serem contabilizados no total do pessoal de P&D, um indivíduo 
+deve dar contribuições suficientes em trabalhos de P&D. Como consequência, 
+independentemente de se tratar de pessoal interno ou externo, recomenda-se 
+representar o ETI em valores decimais avaliando a importância da contribuição 
+aos trabalhos de P&D de uma unidade de indivíduos os quais dedicam menos 
+do que 0.1 ETP à P&D anualmente (isto é, 10% do tempo de trabalho total, ou 
+cerca de 20 dias por ano).
+5.53 Importa salientar que quando contribuições muito pequenas para a 
+P&D, em termos de tempo de trabalho, são contabilizadas no total do pessoal 
+de P&D (alguns dias por ano, por exemplo), pode tornar-se difícil – no âmbito 
+da unidade e no âmbito global – comunicar corretamente as características do 
+pessoal de P&D (as suas funções no contexto da P&D, por exemplo), como indicado na seção 5.2 e explicado mais adiante na seção 5.4.
+5.54 O ETI do pessoal de P&D corresponde aos trabalhos de P&D executados durante mais do que um ano pelo conjunto de pessoas (pessoal interno e 
+pessoal externo de P&D, incluindo os voluntários) os quais tenham participado 
+em atividades de P&D interna de uma unidade estatística, de um setor institucional ou de um país.
+5.55 O ETI total do pessoal interno de P&D corresponde aos trabalhos de 
+P&D executados durante um ano pelo conjunto do pessoal interno o qual participou em atividades de P&D interna de uma unidade estatística, de um setor 
+institucional ou de um país.
+5.56 Convém indicar explicitamente às unidades declarantes que estas 
+deverão incluir o ETI total das contribuições para a P&D (em termos de horas 
+de trabalho) das pessoas que trabalham a tempo integral e a tempo parcial, 
+incluindo o pessoal permanente e temporário. A seção dedicada à estimativa 
+da ETI fornece exemplos da maneira como as unidades declarantes deverão 
+proceder para avaliar em equivalente de tempo integral as contribuições de P&D 
+das diferentes categorias de pessoal caso estas não mantenham um acompanhamento detalhado das atividades de P&D do seu pessoal.
+5.57 Apesar de ser recomendado, para obter o ETI do total do pessoal de 
+P&D, e para que esse ETI seja calculado para cada uma das pessoas que tenham 
+participado na P&D interna durante o período de referência, por vezes algumas unidades estatísticas no qual respondem às sondagens de P&D baseiam-se em 
+cálculos de uma “média” desses indivíduos. Quando esse for o caso, recomenda-se vivamente verificar a coerência entre o ETI e os efetivos os quais são 
+declarados pelo conjunto do pessoal de P&D. Por convenção, qualquer quantificação do pessoal de P&D representada em ETI deverá ser inferior ou igual 
+a mesma quantificação representada por meio do número de pessoas físicas, 
+independentemente do grau de agregação.
+Efetivos do pessoal de P&D
+5.58 Os efetivos de P&D em número de pessoas físicas correspondem ao 
+número total dos indivíduos os quais participam na P&D interna, no âmbito de 
+uma unidade estatística ou no âmbito global, no decorrer de determinado período de tempo (geralmente um ano civil). Esses efetivos podem ser expressos 
+de diversas maneiras:
+• por meio do número de pessoas atribuídas para trabalhos de P&D em uma 
+dada data (por exemplo: fim do período)
+• por meio da média de pessoas atribuídas para trabalhos de P&D durante 
+um ano (civil)
+• por meio do número total de pessoas atribuídas para trabalhos de P&D 
+durante um ano (civil)
+Essas três opções podem produzir resultados diferentes, tendo a terceira o 
+risco de causar duplas contabilizações. A melhor opção para calcular os efetivos 
+de P&D é a primeira. A data utilizada para o cálculo deverá, de preferência, ser 
+a mesma que para o conjunto das unidades declarantes de todos os setores 
+do país declarante. A escolha dessa data deve ter em consideração uma eventual variação sazonal e outros fatores os quais poderão influenciar os valores 
+totais no decorrer do ano; sendo, portanto, da responsabilidade de cada país 
+escolher, pois esse caráter sazonal pode variar consideravelmente de país para 
+país. Quando possível, a data escolhida deverá ser a mesma a qual é utilizada 
+no recolhimento de outros dados estatísticos referentes às pessoas físicas (por 
+exemplo: sobre o emprego ou a educação) passíveis de serem comparados com 
+os dados referentes à P&D.
+5.59 No momento da produção de dados sobre o pessoal de P&D, a coerência entre os valores totais de ETI e dos efetivos é uma prioridade. Isso significa 
+que todos os indivíduos incluídos no total de ETI também deverão ser levados 
+em consideração no número total de pessoas físicas, isto é, todos os indivíduos 
+que tenham participado para a P&D interna durante o período de referência 
+devem ser contabilizados de maneira homogênea para a ETI e para o número 
+de pessoas físicas. Do mesmo modo, as pessoas as quais participam na P&D 
+mas que não são contabilizadas no total de ETI (ou seja, as pessoas que dedicam 
+menos do que 0.1 ETI para a P&D anualmente) não deverão ser contabilizadas 
+no efetivo total de P&D. Deve ser salientado que a contabilização de todos os 
+indivíduos, incluíndo os que contribuem de forma mínima para atividades de 
+P&D, pode incorrer no risco de exagerar consideravelmente o total do pessoal 
+de P&D, tornando as comparações internacionais problemáticas e a análise das 
+características do pessoal de P&D difícil (ver a seção 5.4).
+5.60 Quando se calcula o número de pessoas físicas, corre-se o risco dos indivíduos os quais participam na P&D em pelo menos duas unidades estatísticas (de 
+empresas ou outras entidades) serem contabilizados duas vezes. O indicador pode  então ser interpretado como a soma de vários empregos. Assim, a utilização total 
+do ETI fornece uma estimativa mais fiável dos recursos humanos utilizados na P&D.
+5.61 Quando os dados disponíveis sobre as características do pessoal externo de P&D são incompletos, é preferível, em vez de não os incluir no cálculo 
+total dos efetivos, de os completar por meio do recolhimento de informações 
+adicionais e da contabilização do pessoal externo separadamente do pessoal 
+interno. Idealmente, os indicadores de base do pessoal de P&D – o ETI assim 
+como o número de pessoas físicas – deveria ser quantificado considerando a situação contratual dos indivíduos, como indicado na seção 5.2, designadamente: 
+os trabalhadores assalariados (cuja remuneração é contabilizada nos ”custos da 
+mão-de-obra”); o pessoal externo remunerado (cuja remuneração é contabilizada na subseção “Outras despesas correntes – pessoal externo de P&D”); todas 
+as outras pessoas (que contribuem à P&D interna sem serem remunerados). Em 
+suma, para calcular os efetivos de P&D por intermédio do recolhimento direto 
+de dados (as sondagens), as recomendações são as seguintes:
+• Identificar o total do pessoal de P&D, incluindo o pessoal interno o qual 
+participa na P&D e o conjunto do pessoal externo que contribui para atividades de P&D interna. (No que diz respeito ao pessoal interno, recomenda-
+-se utilizar como referência registros administrativos atualizados e, para 
+o setor das empresas, registros comerciais oficiais, conforme necessário.)
+• Recolher e contabilizar separadamente os dados referentes ao pessoal 
+interno de P&D e os referentes ao pessoal externo (que incluem pessoas 
+remuneradas e pessoas não remuneradas). Os estudantes que trabalham 
+no domínio da pesquisa no qual façam parte do pessoal externo de P&D 
+serão contabilizados separadamente.
+• No que diz respeito ao cálculo dos efetivos, estabelecer séries cronológicas 
+distintas para os dois grupos que compõem o pessoal de P&D. A unidade 
+estatística deve dispor de um certo número de características básicas sobre 
+esses grupos de trabalhadores, que incluem o pessoal interno que trabalha 
+em uma unidade e participa na P&D e o pessoal externo o qual participa nas 
+atividades de P&D da unidade “no local” ou pelo menos na sua proximidade. 
+Se isso não for possível, recolher no mínimo dados sobre o pessoal interno de 
+P&D que tenha participado na P&D interna durante o período de referência.
+Recolhimento de dados coordenados sobre o ETI e o número de 
+pessoas físicas
+5.62 O processo de recolhimento de dados sobre o ETI e o número de pessoas físicas é apresentado resumidamente na Caixa 5.1.
+5.63 Recomenda-se veementemente que as sondagens de P&D sejam recolhidas diretamente das unidades as quais executam trabalhos de P&D, reunindo em um único formulário o conjunto de dados disponíveis referentes às 
+despesas de P&D e ao pessoal de P&D (pessoas físicas), assim como o grau de 
+participação dessas pessoas (representado pelo ETI). Esse método minimiza os 
+custos de recolhimento dos dados, assegurando a coerência entre os diferentes 
+indicadores da P&D. A verificação da coerência entre as despesas e o pessoal de 
+P&D deverá fazer parte do processo de recolhimento de dados. Por convenção, 
+o valor do ETI deverá ser inferior ou igual ao número de pessoas físicas (PF).
+5.64 A relação entre as despesas de P&D e os valores referentes ao pessoal 
+de P&D (efetivos e ETI) são apresentados resumidamente na Tabela 5.3.
+
+
+Caixa 5.1. Recolhimento e contabilização de dados
+1. Número total de trabalhadores assalariados no interior de uma unidade estatística que efetuaram trabalhos de P&D interna durante o 
+período de referência (dados geralmente provenientes dos registros 
+das empresas). Todas essas pessoas são “potencialmente” colaboradores para a P&D (Nt
+).
+2. Trabalhadores assalariados no interior de uma unidade estatística 
+(pessoas físicas ou PF) que realmente contribuíram em atividades de 
+P&D interna durante o ano de referência (PFint).
+3. Trabalhadores assalariados no interior de unidades estatísticas que 
+realmente contribuíram em atividades de P&D interna durante o ano 
+de referência, ponderados pela percentagem do tempo de trabalho em 
+que realmente dedicaram à P&D; 100% = 1 (ETIint)
+4. Pessoal externo de P&D (incluindo as pessoas não remuneradas) as 
+quais realmente contribuíram em atividades de P&D interna durante 
+o ano de referência (PFext).
+5. Pessoal externo de P&D (incluindo as pessoas não remuneradas) que 
+realmente contribuíram em atividades de P&D interna durante o ano 
+de referência, ponderados pela percentagem do tempo de trabalho 
+que realmente dedicaram à P&D; 100% = 1 (ETIext).
+Total do pessoal de P&D (PF) = PFint + PFext
+Total do pessoal de P&D (ETI) = ETIint + ETIext
+Razão dos trabalhadores assalariados para atividades de P&D / Total das 
+pessoas assalariadas = ETPint/Nt
+
+
+
+Tabela 5.3. Coerência dos dados sobre a P&D
+Despesas de P&D ETI total do pessoal 
+de P&D
+Efetivo total do 
+pessoal de P&D
+Custos de mão-deobra
+↔ Pessoal interno de 
+P&D (trabalhadores 
+assalariados)
+≤ Pessoal interno de 
+P&D (trabalhadores 
+assalariados) 
+Outras despesas 
+correntes – pessoal 
+externo de P&D
+↔ Pessoal externo de 
+P&D
+≤ Pessoal externo de 
+P&D
+Não aplicável Pessoal de P&D não 
+remunerado
+≤ Pessoal de P&D não 
+remunerado
+
+
+Estimativa dos indicadores do pessoal de P&D: o ETI e os efetivos
+Estimativa do ETI
+5.65 O recolhimento direto de dados sobre a P&D e os efetivos de P&D não 
+é sempre possível, podendo, então, ser necessário estimar esses indicadores a
+
+
+partir de dados disponíveis provenientes de outras fontes do que sondagens 
+diretas. Quando esse for o caso, recomenda-se aos serviços estatísticos nacionais que verifiquem a coerência entre a quantia declarada de despesas de P&D 
+e a estimativa total do pessoal de P&D.
+5.66 A estimativa da ETI do pessoal de P&D deverá ser efetuada pela unidade declarante por meio das informações recolhidas no âmbito da entidade (por 
+exemplo: dados administrativos) ou, por vezes, dos indivíduos (por exemplo: 
+as sondagens sobre horários). Na ausência de outras fontes de dados fiáveis, os 
+horários podem fornecer informações úteis; estes são frequentemente utilizados para estimar a ETI do pessoal e P&D no setor do ensino superior. Para mais 
+informações sobre esse tema, ver o Capítulo 9.
+5.67 A primeira etapa para estimar o ETI do pessoal de P&D consiste em 
+recolher informações detalhadas (a partir de fontes administrativas caso os 
+dados das sondagens não se encontrem disponíveis) sobre a participação real 
+ou contratual (normativa/estatutária) do pessoal de P&D para a P&D interna. 
+Essa etapa pode ser muito simples no caso dos estabelecimentos públicos de 
+pesquisa (ou das universidades), pois são setores nos quais os papéis profissionais e as situações contratuais são frequentemente formalizados.
+5.68 Os dados sobre o pessoal alocado aos trabalhos de P&D a tempo integral ou tempo parcial deverão ser recolhidos e contabilizados separadamente 
+consoante se trate de “pessoal interno” ou de “pessoal externo” de P&D. Uma 
+pessoa a qual trabalhe a tempo integral será, portanto, identificada com base 
+na sua situação contratual, do seu tipo de contrato (tempo integral ou tempo 
+parcial) e do seu grau de participação na P&D.
+5.69 Nessas condições, 1 ETI corresponde a um indivíduo o qual se dedica a 
+tempo integral à P&D. Este indicador é obtido por intermédio de duas variáveis: 
+a participação efetiva nas atividades de P&D e a participação teórica baseada 
+no tempo de trabalho normativo / estatutário. Quando não se dispõe de informações sobre uma dessas duas variáveis, o cálculo poderá ser realizado apenas 
+apoiando-se na outra.
+5.70 Adicionalmente, a estimativa da ETI envolve:
+• a contabilização do tempo dedicado por um indivíduo ou grupo de colaboradores para a P&D, relativamente ao tempo dedicado a outras atividades
+• ter em consideração as diferentes situações contratuais do pessoal de P&D, 
+designadamente trabalho a tempo integral, tempo parcial ou temporário
+• selecionar as fontes de dados e métodos apropriados para estabelecer os 
+valores totais da ETI
+
+
+
+5.71 O processo de estimativa pode ser resumido pela seguinte fórmula:
+ETI = P&Dti + (nhtP&D/nnsht)
+
+
+Em que
+P&Dti = número de pessoas as quais trabalham em P&D a tempo integral
+nhtP&D = número de horas de trabalho dedicadas à P&D por outras categorias 
+de pessoal
+nnsht = número normativo / estatutário de horas de trabalho para o pessoal 
+a tempo integral em um dado setor / país.
+
+5.72 Para o pessoal o qual não trabalha a tempo integral em P&D, podem 
+ser identificadas diferentes circunstâncias:
+• Trabalhadores assalariados que trabalhem a tempo parcial em P&D, devido a horários de trabalho reduzidos ou a uma participação limitada nas 
+atividades de P&D.
+• Trabalhadores assalariados (ou pessoal externo de P&D) que têm um contrato temporário durante o período de tempo utilizado como referência 
+para o cálculo da ETI (por exemplo, um ano civil).
+5.73 Os exemplos seguintes demostram como a fórmula pode ser utilizada 
+para calcular o ETI:
+• um trabalhador a tempo integral o qual dedica 100% do seu tempo à P&D 
+durante um ano = 1 ETP
+• um trabalhador a tempo integral o qual dedica 30% do seu tempo à P&D 
+durante um ano = 0.3 ETP
+• um trabalhador a tempo integral de um estabelecimento de P&D durante 
+um período de seis meses que dedica 100% do seu tempo à P&D = 0.5 ETP
+• um trabalhador a tempo integral o qual dedica 40% do seu tempo à P&D 
+durante metade do ano (essa pessoa é apenas ativa durante seis meses por 
+ano) = 0.2 ETP
+• um trabalhador a tempo parcial (40%) o qual dedica 100% do seu tempo à 
+P&D durante um ano = 0.4 ETP
+• um trabalhador a tempo parcial (40%) o qual dedica 60% do seu tempo à 
+P&D durante meio ano (essa pessoa é apenas ativa durante seis meses por 
+ano) = 0.12 ETP
+Estimativa dos efetivos
+5.74 No momento do recolhimento de informações sobre a dimensão e composição do pessoal de P&D em termos de pessoas físicas, recomenda-se utilizar 
+tanto quanto possível registros administrativos e do pessoal (incluindo, conforme o caso, os dados referentes à massa salarial) assim como os registros das 
+empresas, quando estes existem. Dado que os serviços nacionais de estatística 
+não podem produzir efetivos coerentes para todos os grupos no qual compõem 
+o pessoal de P&D (o pessoal interno, o pessoal externo remunerado e o pessoal 
+externo não remunerado / voluntário), recomenda-se que se concentrem nos 
+efetivos do pessoal interno de P&D (isto é, as pessoas empregues pela unidade 
+estatística que executa trabalhos de P&D interna).
+5.4 Repartição recomendada dos dados globais do pessoal de P&D
+Características do pessoal de P&D
+5.75 Para responder às necessidades dos usuários dos dados, os valores 
+globais dos ETI e dos efetivos do pessoal de P&D deverão ser repartidos, na 
+medida do possível, com base em diferentes critérios como: o sexo, a função, a 
+situação contratual, a idade e o nível de estudos, incluindo também o grau de 
+antiguidade, origem geográfica e fluxo de pessoal.
+
+
+O sexo
+5.76 Conformemente à Declaração de Beijing divulgada após a Conferência 
+mundial sobre as mulheres de 1995 (Nações Unidas, 1995), convém adotar disposições para que as estatísticas referentes ao pessoal de P&D sejam repartidas 
+por sexo. Esse princípio aplica-se aos valores globais de ETI e aos efetivos, e 
+pressupõe a utilização de informações fiáveis sobre os indivíduos pertencentes 
+aos dois grupos do pessoal e P&D: o pessoal interno e o pessoal externo.
+A função no interior da P&D
+5.77 Um critério de repartição essencial é o da função ocupada pelo pessoal 
+de P&D (pesquisadores, técnicos e pessoal equivalente, e pessoal de suporte). 
+Mesmo em situações nas quais o recolhimento de dados sobre o pessoal é 
+problemático, a identificação de “quem faz o quê” nos projetos de P&D interna 
+permite verificar a exatidão dos dados declarados pelas unidades estatísticas no 
+que diz respeito aos trabalhos de P&D. Adicionalmente, o recolhimento e contabilização desses dados por função evidencia a contribuição dos pesquisadores 
+ao esforço global de P&D no interior de uma unidade estatística, de um setor 
+econômico ou de uma economia inteira. Essa repartição é recomendada para 
+valores de ETI e para efetivos do pessoal de P&D (interno e externo).
+A situação contratual
+5.78 Recomenda-se que qualquer indivíduo contabilizado no total do pessoal de P&D seja identificado como fazendo parte do pessoal interno (isto é, 
+como um “trabalhador assalariado” cuja remuneração é contabilizada nos 
+“custos da mão-de-obra”) ou no pessoal externo remunerado (cuja remuneração 
+é incluída em uma subseção específica intitulada “outras despesas correntes”) 
+ou ainda como fazendo parte do pessoal externo composto por voluntários 
+ou pessoas de estatuto equiparável (que contribuem para a atividade de P&D 
+interna sem serem remunerados). Essa redistribuição é recomendada para os 
+valores de ETI e para os efetivos do pessoal de P&D.
+Pode igualmente ser útil, quando possível, repartir os dados entre o pessoal 
+permanente e o pessoal temporário. Certos indicadores (tais como o salário 
+anual médio de um pesquisador) podem apenas estar disponíveis para os trabalhadores assalariados (pode supor-se que esse tipo de dado figura nos registros 
+dos seus empregadores).
+A idade
+5.79 Para repartir o pessoal de P&D, particularmente os “pesquisadores” 
+segundo o critério de idade, recomenda-se a utilização das seis categorias abaixo 
+indicadas, que estão conformes às Diretivas provisórias em matéria das classificações internacionais padrão por idade das Nações Unidas (Nações Unidas, 1982):
+• menos de 25 anos
+• de 25 a 34 anos
+• de 34 a 44 anos
+• de 45 a 54 anos
+• de 55 a 64 anos
+• 65 ou mais anos
+5.80 No que diz respeito ao pessoal externo de P&D, é raro dispor de dados 
+sobre as idades pois esses dados não são (ou não podem ser) geralmente um critério determinante para recrutar pessoal no âmbito de contribuir para a P&D interna de uma unidade estatística. No entanto, dado que os dados sobre as idades 
+são alvos de grande interesse, o recolhimento dessa informação – para o pessoal 
+interno e o pessoal externo de P&D – apenas será privilegiado caso for fiável.
+O nível de estudos
+5.81 No caso da repartição do pessoal de P&D, particularmente no caso dos 
+“pesquisadores”, segundo o nível de estudos, o documento de referência é a Classification internationale type de l’éducation (CITE) 2011 (UNESCO-ISU, 2012). Cinco 
+categorias são recomendadas como objeto das estatísticas de P&D: os níveis 5, 6, 
+7 e 8 do CITE separadamente, e os níveis 1 até 4 coletivamente. Uma repartição 
+entre as cinco categorias deveria permitir uma comparação aprofundada com 
+outras unidades estatísticas econômicas e sociais.
+5.82 Os níveis do CITE são definidos exclusivamente com base no nível de 
+estudos, sem ter em consideração o domínio da qualificação.
+• Titulares de diplomas universitários com grau de doutorado ou equivalente (nível 
+8 do CITE). Este inclui os diplomas emitidos por universidades em sentido 
+estrito, assim como por estabelecimentos especializados detentores do 
+estatuto de universidade.
+• Titulares de diplomas universitários com grau de mestrado ou equivalente (nível 
+7 do CITE). Este inclui os diplomas emitidos por universidades em sentido 
+estrito, assim como por estabelecimentos especializados detentores do 
+estatuto de universidade.
+• Titulares de diplomas universitários com grau de bacharelado ou licenciatura ou 
+equivalente (nível 6 do CITE). Este inclui os diplomas emitidos por universidades em sentido estrito, assim como por estabelecimentos especializados 
+detentores do estatuto de universidade.
+• Titulares de outros diplomas de ensino superior (nível 5 do CITE). Os estudos 
+resultam geralmente em uma especialização em um certo domínio e a um 
+grau o qual necessita ter um ensino completo ao nível do ensino médio 
+ou equivalente. O ensino ministrado é de natureza mais prática e prepara 
+para um emprego mais específico; pode igualmente preparar para outros 
+programas do ensino superior.
+• Titulares de diplomas de ensino posterior ao ensino médio não superior (nível 4 do 
+CITE). Estes incluem os diplomas entregues aos estudantes os quais terminaram o nível 3 das classificações necessárias para prosseguir estudos 
+superiores ou que completaram um treino vocacional de nível 3 em estabelecimentos de ensino que não dão acesso ao ensino superior.
+• Outras qualificações. Incluem diplomas inferiores ao nível 3 do CITE ou estudos 
+que não podem ser classificados nos outros níveis previamente descritos.
+
+
+
+5.83 Contudo, sabe-se que não é fácil recolher informações fiáveis sobre 
+o nível de estudos do pessoal interno (e mais difícil ainda quando se trata do 
+pessoal externo), e que os empregadores não guardam necessariamente dados 
+atualizados no que diz respeito aos níveis de estudos dos seus trabalhadores. 
+
+
+Nesse contexto, no que diz respeito à repartição do pessoal de P&D e de pesquisadores segundo o nível de estudos, a prioridade no recolhimento de informações é dada ao pessoal interno de P&D.
+O nível de antiguidade
+5.84 Os dados referentes ao nível de antiguidade podem permitir aprender 
+mais sobre as práticas de gestão da P&D fornecendo informações valiosas sobre 
+os percursos profissionais dos pesquisadores. Nesse contexto, a prioridade é o 
+recolhimento dessa informação para o pessoal interno de P&D o qual trabalhe 
+nos setores do Estado (ver o Capítulo 8) e do ensino superior (ver o Capítulo 9).
+A origem geográfica
+5.85 Os usuários de estatísticas encontram-se igualmente interessados na 
+origem geográfica do pessoal de P&D, principalmente para analisar a mobilidade 
+internacional desse pessoal em geral, e dos pesquisadores em particular. A origem 
+geográfica pode ser definida por meio de diferentes critérios: a nacionalidade, a cidadania ou o país de nascimento. Outros critérios também poderão ser de interesse, 
+como por exemplo: o país no qual se encontrava a residência ou emprego precedente, 
+ou o país no qual foram feitos os estudos mais avançados. Todos apresentam vantagens e inconvenientes, fornecendo informações de diferentes tipos. A combinação 
+de pelo menos dois desses critérios permite obter uma riqueza de informações 
+mais significativas em termos de análise. Contudo, não é fácil encontrar fontes de 
+informações fiáveis quando se recolhem esses dados aos empregadores. A prioridade 
+deve ser o recolhimento dessa informação para o pessoal interno de P&D.
+O fluxo de pessoal
+5.86 Finalmente, os indicadores referentes ao fluxo do pessoal de P&D 
+(os novos admitidos, por um lado; as pessoas que saem ou que se reformam, 
+por outro) são frequentemente solicitados pelos usuários de estatísticas para 
+completar as informações disponíveis – que dizem respeito prioritariamente 
+à quantidade de pessoal de P&D. Esse tipo de informação permite aos empregadores, analistas e decisores públicos antecipar as necessidades e eventuais 
+carências de pessoal de P&D. Esses indicadores são particularmente úteis no 
+âmbito setorial, razão pela qual a prioridade deverá ser o recolhimento dessas 
+informações apenas para o pessoal interno de P&D.
+Quadros recomendados para a contabilização do pessoal de P&D e dos 
+pesquisadores (ETI e efetivos)
+5.87 Na medida do possível, os países deveriam recolher as informações sobre 
+as características socioeconômicas por meio da dissociação do pessoal interno (os 
+trabalhadores assalariados) do pessoal externo de P&D. Com o passar do tempo, esses conjuntos de dados permitirão a obtenção de um quadro mais completo de todas 
+as pessoas as quais participam na P&D e a melhoria das comparações internacionais. 
+No entanto, é inegável que o recolhimento dessas informações pode ser difícil, ou até 
+mesmo impossível, para certos países, e que as comparações internacionais podem 
+levar a conclusões equivocadas se os países produzirem agregados diferentes para o 
+total do pessoal de P&D. Então, recomenda-se que para as variáveis socioeconômicas seguintes a prioridade seja o fornecimento dos agregados nacionais do pessoal 
+interno de P&D, particularmente dos pesquisadores. Para efeitos de apresentação, 
+e para diferenciar esses valores globais dos que incluem o pessoal externo de P&D, 
+esses agregados são denominados “Total nacional do pessoal de P&D empregado”. 
+Por outro lado, os agregados que agrupem o pessoal interno e o pessoal externo de 
+P&D são denominados “Total nacional do pessoal de P&D”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
