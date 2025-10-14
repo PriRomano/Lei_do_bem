@@ -6789,6 +6789,2847 @@ P&D são denominados “Total nacional do pessoal de P&D”.
 
 
 
+Capítulo 6
+Quantificação das despesas de P&D: Métodos e procedimentos
+
+
+
+Este capítulo centra-se na quantificação das atividades de pesquisa e de desenvolvimento experimental (P&D), tendo em consideração que as atividades de 
+P&D encontram-se fortemente concentradas no setor das empresas e amplamente disseminadas no conjunto da economia. Algumas dificuldades resultam 
+dessas características, assim como das diversas maneiras as quais as estatísticas de P&D podem ser utilizadas, tal como a utilização de estatísticas agregadas para fins de análise de políticas, da sua avaliação e do estabelecimento 
+de objetivos, a utilização de despesas de P&D como elementos de avaliação do 
+capital social de P&D no Sistema de Contabilidade Nacional (SCN) e a análise 
+de atividades de P&D no âmbito das unidades. O trabalho de quantificação, 
+seja por meio de sondagens de aproveitamento de dados administrativos ou 
+uma combinação desses dois métodos, exige uma infraestrutura estatística a 
+qual deverá ter o cuidado de incluir um registro de instituições, uma base metodológica e meios para associar os conjuntos de dados, a fim de aumentar as 
+capacidades de análise, assim como normas de garantia de qualidade. Esses 
+diferentes aspectos são aqui abordados, mas dado que a infraestrutura e os 
+problemas de quantificação enfrentados variam de país para país, não serão 
+feitas recomendações formais nesse capítulo, tendo este diversas fontes úteis 
+para o desenvolvimento da quantificação estatística da P&D.
+
+
+
+
+
+
+6.1 Introdução
+6.1 Os métodos e procedimentos utilizados para a quantificação da execução de P&D dependem de vários parâmetros. Em princípio, uma atividade de 
+P&D diz respeito a um número relativamente pequeno de entidades, particularmente no setor das empresas. Caso a atividade de P&D for muito concentrada, o 
+seu âmbito de intervenção estende-se à economia e os seus executantes mudam 
+em função do tempo. A concentração e amplitude do âmbito de intervenção 
+influenciam as diretrizes referentes à estratégia de amostragem. Além dessas 
+características, os objetivos dos programas estatísticos de P&D são multidimensionais: trata-se da produção de indicadores agregados para o apoio da política 
+científica, da contabilização das despesas associadas a bens de capital de P&D 
+em conformidade com o Sistema de Contabilidade Nacional e da obtenção de 
+microdados para apoiar as análises realizadas no âmbito das unidades (por 
+exemplo: empresas, administrações públicas, estabelecimentos de ensino superior e instituições privadas sem fins lucrativos) respeitando regras de proteção 
+de dados. Esses objetivos, por vezes divergentes, ditam a escolha de estratégia 
+de amostragem e de tratamento de dados.
+6.2 A quantificação da execução de atividades de P&D depende da infraestrutura estatística presente – registros de unidades estatísticas, estatísticos 
+experientes – e da presença de uma legislação que permita sondagens obrigatórias e o relacionamento dos dados da sondagem com outras fontes de dados a 
+fim de produzir análises adequadas para efeitos de política pública. O capítulo 
+apresenta métodos e procedimentos os quais se baseiam em infraestruturas 
+estatísticas e propõe diretrizes referentes à medição da P&D, a qualidade dos 
+dados e a comunicação destes a organizações internacionais. Esse manual não 
+tem por objetivo recomendar métodos específicos para sondagens ou para a 
+análise de dados devido às grandes diferenças das situações de país para país 
+que impossibilitam a sugestão de normas sobre como abordar os inquiridos, os 
+questionários ou as técnicas de amostragem tipo.
+6.3 As potenciais fontes de dados de P&D são muito diversas e incluem, entre outros, as sondagens e outras fontes administrativas. Os dados administrativos abrangem dados financeiros recolhidos pelas administrações fiscais assim 
+como dados de outras fontes administrativas como os registros contabilísticos 
+das empresas. A utilização desses dados administrativos é examinada na seção 
+6.4. Em certos casos, a utilização de estimativas é necessária para completar 
+as sondagens e as fontes de dados administrativos. A modelação (ou estimação 
+indireta) das despesas de P&D do setor de ensino superior é um exemplo. Os serviços estatísticos selecionam fontes para explorar em função da disponibilidade, da qualidade, da relevância dos dados assim como do custo do seu 
+recolhimento, sendo que esses procedimentos podem variar em função do país.
+6.4 O recolhimento direto de dados apresenta uma vantagem clara dado 
+que pode ser realizado de acordo com os conceitos e definições utilizados nesse manual. No entanto, também tem um custo: o do próprio recolhimento dos 
+dados e o custo indireto dos inquiridos os quais devem responder aos questionários.
+6.5 Nesse capítulo, as “sondagens sobre a P&D” referem-se ao recolhimento 
+direto dos dados por meio de uma sondagem estatística, a obtenção de dados a 
+partir de fontes administrativas ou a combinação desses dois métodos.
+
+
+
+
+
+6.2 Unidades
+6.6 A população-alvo das sondagens sobre a P&D é constituída pelo conjunto das unidades institucionais as quais executam (ou financiam) a P&D. 
+Essa população pode ser classificada pelo setor institucional de execução ou 
+de financiamento de P&D. Esses setores são os seguintes: setor das empresas, 
+setor do Estado, setor do ensino superior e setor privado sem fins lucrativos. Este 
+manual foca-se no recolhimento de dados facultados pelos executantes de P&D. 
+É igualmente necessário recolher dados sobre o financiamento da P&D os quais 
+respondam aos critérios do Sistema de Contabilidade Nacional (SCN), estabelecendo uma distinção entre fundos de troca e os fundos de transferência para a 
+P&D (ver capítulo 4). A população-alvo de executantes não é sempre suficiente 
+para permitir o estabelecimento de estatísticas sobre fontes de financiamento. 
+Inversamente, o grupo-alvo de financiadores não é sempre suficiente para o 
+estabelecimento de estatísticas sobre os executantes de P&D.
+6.7 Recomenda-se a utilização de unidades institucionais como unidades 
+de amostragem nas sondagens de P&D.
+
+
+Unidade institucional
+6.8 A unidade institucional é um conceito de contabilidade nacional o qual 
+designa “uma entidade econômica capaz autonomamente de possuir ativos, de 
+assumir compromissos, de se lançar em atividades econômicas e de realizar 
+operações com outras entidades” (capítulo 3 e CE et al., 2009, p. 61, par. 4.2).
+Unidade estatística
+6.9 Uma unidade estatística é uma unidade sobre a qual são recolhidas informações e para as quais são compiladas estatísticas. Uma base de sondagem 
+é composta por unidades estatísticas. As unidades estatísticas selecionadas 
+em uma amostragem devem ter um peso inicial (o inverso da probabilidade de 
+seleção) o qual será utilizado para produzir estimativas da população da qual 
+a amostra é obtida.
+6.10 Uma unidade estatística pode ter um certo número de atributos. Por 
+exemplo:
+• pertencer a um setor do Manual de Frascati (empresas, Estado, ensino superior ou setor privado sem fins lucrativos);
+• pertencer a um dos setores definidos pelo SCN (por exemplo: corporações, 
+administrações públicas, instituições sem fins lucrativos);
+• uma atividade econômica principal permitindo a classificação da unidade 
+utilizando, por exemplo, a Classificação internacional tipo, por indústria, de todas 
+as atividades econômicas, 4ª Revisão (Nações Unidas, 2008);
+• a situação geográfica;
+• a dimensão (número de trabalhadores, volume de negócios, etc.).
+6.11 Vários tipos diferentes de unidades estatísticas são examinadas no 
+capítulo 3, designadamente os grupos de empresas, as empresas e os estabelecimentos. Essa nomenclatura foi desenvolvida pelo setor das empresas, mas 
+pode ser aplicada a outros setores institucionais.
+6.12 Nesse capítulo, o termo “unidade institucional” é preferido; o termo 
+“empresa” é apenas sinônimo do termo “unidade institucional” no setor das 
+empresas.
+
+
+Unidade declarante
+6.13 Nesse manual, a unidade declarante designa a entidade a partir da 
+qual são originados os dados. No interior de uma dada unidade estatística 
+podem existir várias unidades em um âmbito em que os dados procurados 
+encontram-se disponíveis e podem ser declarados. Por exemplo, dados sobre a 
+distribuição geográfica das atividades de P&D das empresas podem ser obtidos 
+a partir das unidades declarantes no âmbito dos estabelecimentos; dados sobre 
+os domínios da P&D dos estabelecimentos de ensino superior podem ser obtidos 
+no âmbito de cada departamento de ensino. No caso dos dados administrativos, 
+a unidade declarante é a unidade associada a cada declaração. Um ponto de 
+recolhimento único pode ser utilizado para recolher dados a partir de várias 
+unidades declarantes.
+Relação entre as unidades
+6.14 Geralmente, as unidades declarantes correspondem às unidades institucionais individuais ou a agrupamentos dessas unidades. No entanto, é possível que haja exceções, particularmente quando é mais fácil para os inquiridos 
+comunicar os dados a um nível diferente: grupo de unidades institucionais, no 
+caso de operações a uma escala internacional, ministério, departamento universitário (quando essas unidades não preenchem todos os critérios necessários 
+para serem tratados como unidades institucionais).
+6.15 As unidades institucionais associadas podem ser compiladas em um 
+grupo de unidades institucionais (por exemplo, um grupo de empresas no setor 
+das empresas). Nesse patamar, deve ser possível obter condições financeiras 
+consolidadas para o conjunto do grupo de unidades institucionais.
+6.16 No caso das estruturas simples, uma entidade legal pode constituir 
+uma unidade institucional. Em estruturas mais complexas, a correspondência entre unidades legais e empresas é do tipo “plusieursàune” ou de “plusieursàplusieurs”.
+6.17 As modalidades do tratamento dessas estruturas complexas serão diferentes em função do país em que efetua o tratamento, não tendo por objetivo 
+a recomendação de um método em particular.
+
+
+
+6.3 Setores institucionais
+Setor das empresas
+6.18 O setor das empresas é definido na seção 3.5 do capítulo 3. Os executantes de P&D pertencentes a esse setor apresentam duas características 
+distintas. Primeiramente, constituem um subconjunto raro do conjunto da 
+população do setor das empresas. Em segundo lugar, nem sempre executam 
+atividades de P&D de maneira contínua. Essa é uma fonte de dificuldades na 
+definição e manutenção de bases de sondagem (capítulo 7).
+6.19 Certas empresas apenas efetuam atividades de P&D ocasionalmente, 
+enquanto outras fazem-no continuamente. Esses dois tipos de empresas devem 
+ser consideradas nas bases de sondagem sobre a P&D. Recomenda-se incluir 
+neste o conjunto das empresas suscetíveis de executar atividades de P&D de 
+forma contínua ou ocasional (capítulo 7, seção 7.3).
+6.20 A unidade de amostragem para o setor das empresas é geralmente 
+a unidade institucional ou a empresa. Os atributos procurados da unidade 
+de amostragem são os seguintes: atividade econômica principal, dimensão, 
+situação geográfica e estrutura de capital e de controle. A unidade declarante 
+será a entidade melhor preparada para fornecer dados. Isso poderá envolver a 
+combinação de empresas ou de estabelecimentos (capítulo 3, quadro 3.1).
+6.21 A amostra poderá ser retirada de uma base coordenada contendo 
+informações sobre os setores do SCN e os setores do Frascati, como referido 
+no capítulo 3. A utilização de uma base desse tipo ajuda no processo de repartição das unidades de P&D por setor do SCN de forma coerente, permitindo 
+simultaneamente a seleção de unidades baseadas em setores do Frascati. 
+No setor das empresas, um exemplo possível seria uma universidade a qual 
+ofereça programas de ensino institucionalizados que venderia os seus resultados de P&D a um preço economicamente significativo. Essa universidade 
+seria classificada no setor do ensino superior da classificação Frascati e no 
+setor das corporações da classificação do SCN. Caso a associação com um 
+registro de empresas seja possível, pode-se também integrar outros dados 
+de sondagens sobre a P&D a outros tipos de dados a fim de permitir análises 
+em nível microeconômico.
+6.22 O desenvolvimento de uma base de sondagem da unidade de empresas 
+pode ser efetuado de várias maneiras. Quando informações ou dados administrativos atuais e históricos encontram-se disponíveis, as unidades executantes 
+e de financiamento de P&D devem ser identificadas na base de sondagem. No 
+caso desses indicadores não se encontrarem disponíveis, outros métodos de 
+identificação dessas unidades poderão constituir a primeira etapa de um processo de duas fases de definição de uma amostra para sondagens sobre a P&D. 
+Outra maneira de testar a cobertura é efetuando um contato com unidades com 
+uma propensão para executar ou financiar atividades de P&D nos setores de atividade-alvo. Os países que estão iniciando sondagens sobre a P&D encontrarão 
+informações mais detalhadas na UNESCO-ISU (2014).
+6.23 Outras fontes de dados podem ser utilizadas para melhorar a cobertura do inquérito. Essas fontes externas deverão ser examinadas para assegurar 
+que têm um nível de qualidade adequado, a fim de determinar se poderão ser 
+utilizadas para suplementar o quadro do inquérito. Caso forem, deverão ser utilizadas para detectar empresas que executam ou financiam atividades de P&D
+
+
+6.24 Recomenda-se:
+• incluir nas sondagens de P&D destinadas para o setor das empresas todas 
+as empresas no qual se conheça que executam ou financiam atividades de 
+P&D ou que tenham uma forte possibilidade de o fazer
+• identificar os executantes de P&D como desconhecidos ou incertos ao realizar uma sondagem sobre todas as outras empresas
+6.25 O quadro do inquérito deverá incluir todas as empresas que executam 
+(ou financiam) atividades de P&D. As restrições orçamentais ou ligadas à carga 
+de trabalho dos inquiridos que influenciam a amostragem e a estratificação 
+deverão ser documentadas no quadro da avaliação e da qualidade dos dados.
+
+Setor do Estado
+6.26 O setor do Estado é definido na seção 3.5 do capítulo 3.
+6.27 A unidade estatística recomendada nesse manual é a empresa ou um 
+equivalente; no entanto, no caso do Estado, para efeitos práticos, a unidade de 
+amostragem retida será geralmente uma administração, um ministério ou um 
+organismo público, mesmo se a unidade não apresenta todas as características 
+de uma unidade institucional, isto é, a capacidade de reter e controlar ativos. 
+Essa escolha de amostragem não significa que os fluxos financeiros entre ministérios deverão ser tratados como financiamentos externos (ver Glossário e 
+capítulo 4, seção 4.3, sobre a identificação dos fluxos financeiros entre setores). 
+Os atributos procurados da unidade de amostragem no setor do Estado incluem: 
+a atividade econômica principal, a situação geográfica e o nível da administração. A unidade declarante será a entidade melhor equipada para fornecer 
+dados. Esta poderá incluir o conjunto de uma administração, infranacional ou 
+municipal, por exemplo.
+6.28 As listas de unidades executantes e de financiamento da P&D podem 
+ser atualizadas de maneiras diferentes, por exemplo: legislação, medidas orçamentais ou medidas de financiamento conexas, registros existentes, anuários 
+de unidades das unidades executantes de atividades de P&D, associações de 
+pesquisa, fontes bibliométricas ou ainda pedidos de atualizações provenientes 
+de organismos administrativos.
+6.29 A base de sondagem deverá, caso possível, ser ligada ao registro central das empresas. Isso facilitará a integração de dados de fontes diversas, e irá 
+reduzir o risco de uma dupla contabilização.
+6.30 É importante ter uma atenção especial a utilização de dados administrativos na identificação de unidades institucionais as quais executam ou 
+financiam atividades de P&D.
+6.31 A identificação de atividades de P&D no âmbito das comunidades 
+locais (municipalidades) é particularmente difícil devido ao grande número 
+de unidades e ao pequeno número de executantes prováveis de P&D e das 
+dificuldades de interpretação do conceito de P&D. Geralmente, as listas de 
+executantes de P&D não incluem essas unidades. Caso for aparente que as comunidades locais empreendem um volume significativo de atividades de P&D, 
+poderá ser considerada a inclusão dos executantes de P&D existentes no interior 
+das grandes comunidades locais. Dada a natureza das numerosas formas de 
+administração infranacional, os ministérios ou organismos públicos não têm 
+por norma o objetivo de conduzir atividades de P&D, mas podem ter que resolver problemas específicos identificados pelo organismo legislativo ou por eles. 
+Consequentemente, certas atividades de P&D são apenas ocasionais. O setor do 
+Estado é analisado em maiores detalhes no capítulo 8.
+
+
+
+Ensino superior
+6.32 O setor do ensino superior é definido na seção 3.5 do capítulo 3. As 
+sondagens e procedimentos de estimativa devem abranger o conjunto das 
+universidades, os estabelecimentos de ensino pós-secundário e outros estabelecimentos os quais ofereçam programas de ensino superior formais, independentemente das suas fontes de financiamento ou do seu estatuto jurídico, e o 
+conjunto dos institutos e centros de pesquisa, estações experimentais e centros 
+de saúde cujas atividades de P&D são controladas diretamente por estabelecimentos de ensino superior ou são administradas por estes.
+6.33 Esse setor não tem um equivalente direto na nomenclatura do SCN 
+dos setores institucionais. Encontram-se no quadro 3.1 do capítulo 3 indicações 
+sobre as sobreposições do setor do ensino superior com os setores da classificação do SCN. Os estabelecimentos pertencentes ao setor do ensino superior 
+aparecem em todos os setores de SCN e são tratados separadamente devido a 
+grande utilidade que as atividades de P&D destes detêm para a ação pública.
+6.34 No setor do ensino superior, a unidade de amostragem é o estabelecimento de ensino superior (que corresponde à unidade institucional). Os 
+atributos procurados incluem: a localização geográfica e o setor econômico. A 
+unidade declarante pode ser uma faculdade ou um departamento; essa tarefa 
+será atribuída à unidade declarante possuindo maior capacidade de fornecer 
+dados sobre as despesas e sobre o fluxo de financiamento. É importante estar 
+atento aos hospitais no qual realizam atividades de P&D e que fazem parte do 
+setor do ensino superior.
+6.34 Nas sondagens visando o setor das empresas, do ensino superior, do 
+Estado ou das instituições privadas sem fins lucrativos, é importante assegurar 
+que os hospitais os quais mantém atividades de pesquisa sejam incluídos na 
+base de sondagem e alocados corretamente a um setor (capítulo 3).
+6.36 Pode ser necessário, em certos países ou territórios, distinguir os hospitais que mantém atividades de P&D e as instituições filantrópicas associadas 
+a esses hospitais que financiam a P&D. Quando os hospitais universitários são 
+financeiramente integrados em um estabelecimento de ensino superior, podem 
+ser tratados em conjunto como uma única unidade de amostragem. Por outro 
+lado, quando estes constituem unidades separadas com uma administração e 
+contabilidade distintas, devem ser tratados como duas unidades de amostragem distintas.
+6.37 É também importante tratar de uma maneira coerente as unidades de 
+P&D geridas conjuntamente por duas ou mais entidades, por pessoas remuneradas por entidades diferentes ou por pessoas empregues por outras instituições. 
+Essa observação abrange as unidades de todos os setores, mas aplicando-se 
+particularmente às unidades de P&D dos hospitais os quais estudam um problema específico.
+6.38 No capítulo 9 são fornecidas indicações suplementares sobre a quantificação de atividades de P&D no setor do ensino superior.
+
+
+Setor privado sem fins lucrativos
+6.39 Esse setor é definido na seção 3.5 do capítulo 3. As fontes suplementares utilizadas para identificar potenciais inquiridos para as sondagens são 
+essencialmente as mesmas do que as descritas no setor do Estado. Caso a informação seja menos detalhada, poderá ser complementada com informações 
+facultadas por autoridades fiscais, pesquisadores e administrações as quais 
+tratem de atividades de pesquisa. Esse setor é, sem dúvida, particularmente 
+pertinente para o recolhimento de dados sobre o financiamento da P&D.
+6.40 A unidade de amostragem no setor privado sem fins lucrativos é 
+geralmente a unidade institucional. Os atributos procurados da unidade de 
+amostragem são os seguintes: atividade econômica principal, dimensão, localização geográfica e estrutura de controle. A unidade declarante será a entidade 
+com a maior capacidade de fornecer dados. Poderá tratar-se de combinações 
+de unidades. Encontram-se no capítulo 10 detalhes sobre a quantificação de 
+atividades de P&D no setor privado sem fins lucrativos.
+
+
+6.4 Plano de sondagem
+Plano de amostra
+6.41 Comparativamente a outras unidades, as atividades de P&D são atividades raras agrupadas em um pequeno número de unidades institucionais. Nas 
+populações nas quais uma parte significativa da estimativa global corresponde 
+a grandes unidades, um estrato de amostragem distintivo deverá ser criado. 
+Tratando-se de um “estrato de sorteio abrangente” em que as grandes unidades 
+serão amostradas com precisão. O peso da amostragem dessas unidades será 
+de um. As unidades mais pequenas poderão ser selecionadas com uma probabilidade de seleção inferior a um. O plano de amostragem apresentado nessa 
+seção não é vinculativo, pois o setor das empresas e o setor privado sem fins 
+lucrativos diferem profundamente dos setores do Estado e do ensino superior. 
+O plano de sondagem e o plano de amostragem deverão ter em consideração o 
+contexto e as práticas nacionais.
+6.42 Para estratificar a amostra, é importante selecionar a variável de 
+dimensão que melhor representa a população. Os dados do ano precedente, 
+ou outros dados indiretos sobre a P&D são preferíveis a outras variáveis de 
+dimensão (por exemplo, o volume de negócios, a quantia global de créditos 
+orçamentais ou o número de pessoas empregadas) quando a correlação é tênue 
+entre essas variáveis e as despesas ou o financiamento da P&D. Os dados do 
+ano precedente são preferíveis no caso de unidades que realizam atividades de 
+P&D de forma contínua.
+6.43 Para determinar a dimensão ideal das amostras estratificadas, é necessário ter em consideração o nível de detalhamento desejado para as estimativas. 
+A dimensão da amostra deverá igualmente ser adaptada em função da taxa de 
+não resposta prevista, da taxa prevista de classificação incorreta das unidades 
+e de outras deficiências na base de sondagem utilizada para a amostragem.
+6.44 Uma amostra estratificada pode conter estratos “de sorteio abrangente” e “de sorteio obrigatório” nos quais as unidades são selecionadas com 
+100% de probabilidade. As unidades selecionadas com certeza são as que se 
+projetam sendo as unidades de execução e de financiamento de P&D mais importantes. Um estrato “de sorteio obrigatório” é utilizado para os inquiridos 
+que são entidades complexas abrangidas por múltiplas classificações setoriais, 
+situadas em várias localidades ou que possuem várias competências. Uma 
+amostra estratificada também pode conter um estrato “de sorteio parcial” com 
+uma probabilidade inferior a um. Uma amostra aleatória é preferível para estes 
+estratos, pois permite o cálculo da margem de erro da amostra como medida da 
+qualidade e ajuda na redução do risco associado a preconceitos.
+6.45 Quando existem dados auxiliares suficientes para identificar as unidades de um registro existente sendo executantes de P&D, pode-se construir 
+uma base de sondagem com o apoio da identificação dos executantes de P&D 
+identificados. Caso as informações auxiliares não sejam suficientes, ou inexistentes, poderá ser necessário definir a amostragem em duas fases. Nesse 
+caso, começa-se por selecionar uma amostra extensiva a fim de identificar as 
+entidades estatísticas envolvidas em atividades de P&D e, após esse passo, 
+seleciona-se uma subamostra a partir da primeira amostra.
+6.46 Tendo em conta a desagregação setorial das atividades de P&D, é possível 
+utilizar várias bases de sondagem. Nesse caso, é importante controlar corretamente o pertencimento de cada unidade a uma base de sondagem. Se várias bases de 
+sondagem forem combinadas, as unidades institucionais apenas poderão surgir 
+uma única vez na base de sondagem obtida. A qualificação das unidades institucionais de P&D de um registro centralizado das empresas é um meio de reduzir 
+possíveis duplicações e riscos de dupla contabilização das atividades de P&D.
+
+
+
+Definição do método de recolhimento de dados
+6.47 O recolhimento direto de dados pode ser efetuado por intermédio de 
+vários métodos: questionários em papel, entrevista por telefone, recolhimento 
+por meio da internet (se forem colocadas medidas de segurança suficientes 
+para proteger dados sensíveis), ou ainda entrevistas presenciais em países no 
+qual computadores, telefones e serviços postais não estejam suficientemente 
+disponíveis. Os dados podem igualmente ser recolhidos a partir de fontes administrativas.
+6.48 No caso do recolhimento direto de dados, é necessário examinar 
+antecipadamente o custo da sondagem e o volume de trabalho resultante para 
+os inquiridos.
+6.49 Independentemente da modalidade da sondagem, o questionário deverá 
+incluir uma quantidade mínima de questões fundamentais com o intuito de obter 
+os dados necessários sobre a P&D. Deverá ser tão suscinto quanto possível, não 
+interferindo no recolhimento de dados essenciais, sendo apresentado de forma 
+clara e ordenada, com referências sobre as definições e as instruções que o acompanha. Será examinada a possibilidade de utilizar um questionário eletrônico o 
+qual permita incluir controles de validação para verificar que os dados fornecidos 
+pelos inquiridos se encontram completos e coerentes. A inclusão de uma letra em 
+um campo numérico pode, por exemplo, ser detectada no processo de verificação 
+e, nesse caso, o questionário será declarado como não sendo válido.
+6.50 O método de recolhimento de dados pode ter em consideração o tipo 
+de pessoa a qual preenche o questionário. O inquirido poderá ser a pessoa que 
+gere as atividades de P&D ou, o que é mais frequentemente o caso, um membro do serviço financeiro ou de contabilidade da unidade de P&D. Essas duas 
+situações apresentam vantagens e inconvenientes. O gestor da P&D será, sem 
+dúvida, o mais capaz de identificar as atividades de P&D e de compreender os conceitos apresentados nesse manual. Contudo, o chefe dos recursos humanos 
+poderá ser mais apto para responder questões sobre o pessoal de P&D, caso 
+a sondagem inclua esse tipo de questões. Por vezes o fornecimento de dados 
+requer competências em todas essas áreas.
+6.51 Consequentemente, a estratégia de recolhimento deverá ter em consideração a possibilidade que o questionário deverá circular no interior de uma 
+organização para obter respostas completas. No entanto, é preferível identificar 
+um ponto de contato único em cada empresa ou instituição. Caso o ponto de 
+contato for desconhecido, uma reunião preliminar poderá ser necessária a 
+fim de identificar a pessoa mais indicada para assegurar a coordenação das 
+respostas do questionário. Esse aspecto é particularmente importante no caso 
+das unidades institucionais complexas.
+6.52 Excluindo o recolhimento de dados sobre as despesas e o pessoal de 
+P&D durante um período de referência o qual acaba de terminar (t), é recomendado para os estatísticos, que tratam da P&D, recolher dados sobre as despesas 
+orçamentais para o ano seguinte, isto é, para o ano durante o qual a atividade 
+de recolhimento ocorre (t + 1). Esses estatísticos também poderão recolher informações sobre as despesas orçamentais para o ano procedente ao recolhimento 
+(t + 2). No entanto, recomenda-se agir com prudência quanto à interpretação 
+desses dados orçamentais, pois tratam-se apenas das previsões das empresas, 
+revelando por vezes uma grande diferença entre os dados previstos e os dados 
+reais. O recolhimento de dados sobre despesas para o ano procedente ao do recolhimento – e não sobre o pessoal – é recomendado baseando-se na observação 
+da falta de confiabilidade dos dados referentes ao pessoal. No que diz respeito 
+às despesas, o recolhimento de dados orçamentais é preferível à estimativa das 
+despesas tendo por base rendimentos anteriores de P&D ou de outras quantificações de resultados econômicos tais como o volume de negócios.
+
+
+
+Dados administrativos e plano de sondagem
+6.53 Caso os conceitos e definições mantidos pelas fontes de dados administrativos, assim como os campos que estes abrangem forem suficientemente 
+semelhantes aos desse manual, os dados administrativos poderão ser utilizados 
+como uma fonte primária de informações. Caso existirem discrepâncias entre 
+os conceitos utilizados por uma fonte de dados administrativa e este manual, o 
+conjunto dos dados administrativos ainda assim poderá servir como uma fonte 
+de informação auxiliar para imputar informações em falta ou dados atípicos. A 
+imputação é o processo o qual consiste na atribuição de um valor a um elemento 
+de dados específicos na ausência de uma resposta ou quando esta se encontra 
+inutilizável. A utilização de dados administrativos irá variar de país para país 
+em função da sua disponibilidade e qualidade.
+6.54 A existência de dados administrativos também tem incidências sobre 
+a concepção do exercício do recolhimento de dados. Por exemplo, quando existe 
+um registro de entidades que requisitaram um pedido de deduções fiscais devido às atividades de P&D, esses dados administrativos podem ser utilizados para 
+avaliar o desempenho da P&D dos executantes de pequenos volumes de P&D ao 
+reduzir o peso dessas unidades. Essa opção não é viável em países no qual não 
+existem medidas de abatimentos fiscais para atividades de P&D.
+6.55 Os dados administrativos podem ser utilizados de várias maneiras diferentes para chegar a estimativas. Quando os conceitos aplicados no programa 
+estatístico da administração forem suficientemente semelhantes aos conceitos apresentados nesse manual, o conjunto de dados administrativos pode ser utilizado para substituir diretamente os dados. A substituição dos dados ocorre 
+em casos em que a substituição seja planejada com antecedência ou em casos 
+de não resposta parcial ou total da parte do inquirido. Os dados administrativos podem ser utilizados não só para fins de substituição, mas também para 
+a manutenção da base de amostragem. Estas podem igualmente servir para 
+validar dados ao permitir a verificação, por exemplo, de tendências progressivas 
+reveladas pela sondagem que coincidem com as tendências deduzidas a partir 
+dos dados administrativos. Caso haja um grau de correlação suficiente entre 
+uma variável de um conjunto de dados administrativos e uma variável presente 
+nos dados da sondagem, os dados administrativos poderão ser utilizados como 
+variáveis auxiliares em uma estimativa por calibre (ver Australian Bureau of Statistics (2005) para uma descrição de várias utilizações deste tipo).
+6.56 Para avaliar a utilidade dos dados administrativos, um certo número 
+de elementos deve ser levado em consideração. A área abrangida pelos dados 
+administrativos deverá corresponder à população de financiadores e executantes de P&D. Adicionalmente, é importante determinar o grau de atualização dos 
+dados administrativos por meio da estimativa do tempo necessário à autoridade 
+tributária ou regulatória para completar o seu trabalho nos dados compilados. 
+As definições e os conceitos regendo a organização dos dados administrativos 
+deverão ser idênticos aos utilizados nesse manual. A qualidade dos dados administrativos deverá ser analisada à luz das normas e dos resultados esperados 
+da sondagem. Caso for observado, por exemplo, uma taxa de rejeição elevada 
+no processo de controle de validação, é possível que a qualidade dos dados 
+administrativos seja insuficiente. Caso o programa estatístico o qual gera os 
+dados administrativos for objeto de modificações frequentes, é provável que a 
+homologia entre os conceitos regendo a organização dos dados administrativos 
+e os conceitos apresentados nesse manual não seja preservada ao longo do tempo. A utilidade de uma fonte de dados administrativos pode ser reduzida por 
+essa razão. A estabilidade de uma fonte de dados administrativos ao longo do 
+tempo é importante, sendo por essa razão necessário que uma autoridade legal 
+ou reguladora competente utilize eficazmente os dados para fins estatísticos. 
+Finalmente, os dados administrativos deverão ser suficientemente documentados para poderem ser utilizados.
+
+
+Observações sobre a elaboração do questionário
+6.57 O impacto do questionário – quer seja impresso ou em formato eletrônico – sobre o comportamento dos inquiridos, as relações com estes a e qualidade dos dados não pode ser subestimado. Consequentemente, o questionário 
+deverá fazer um esforço para reduzir tanto quanto possível o volume de trabalho para o inquirido por meio da facilitação do processo. Um questionário bem 
+concebido ajuda a reduzir a quantidade de verificações e imputações as quais 
+deverão ser efetuadas, resultando na simplificação das tarefas de tratamento 
+após o recolhimento dos dados.
+6.58 Os termos e conceitos utilizados em um questionário deverão, sempre 
+que possível, ter o mesmo significado para o organismo que redige o questionário como para os inquiridos. Estes últimos não deverão deparar-se com uma 
+situação na qual são obrigados a interpretar as necessidades de informação do 
+entrevistador. Pelo contrário, as questões deverão ser formuladas de maneira a 
+poderem ser imediatamente entendidas pelos inquiridos, mesmo se uma transformação das variáveis for necessária após o recolhimento de dados para alinhar com os conceitos descritos nesse manual. É, portanto, recomendável não 
+utilizar as mesmas questões para empresas e para estabelecimentos do setor 
+público caso estes utilizem normas de contabilidade e terminologias diferentes.
+6.59 As instruções fornecidas aos inquiridos devem ser breves, inequívocas 
+e fáceis de encontrar. A definição dos conceitos também deve ser facilmente 
+acessível. Os elementos os quais devem ser incluídos ou excluídos devem ser 
+inequivocamente explicados no material da sondagem. Um certo número de 
+verificações de limites e de coerências devem ser integradas nos questionários 
+eletrônicos para ajudar o inquirido a preencher corretamente o questionário. 
+Independentemente da modalidade da sondagem, as formulações utilizadas 
+e as opções as quais permitam saltar certas questões devem ser idênticas no 
+decorrer do questionário.
+6.60 Para assegurar a compreensão do questionário pelos inquiridos, recomenda-se testar este antes do recolhimento de dados. Para tal, podem ser 
+utilizados testes qualificativos (grupos de consultoria, testes cognitivos) ou 
+sondagens piloto, por exemplo. No caso do recolhimento de dados por meio 
+de meios eletrônicos, é importante testar a aplicação final utilizada para o 
+recolhimento dos dados com vários usuários e sistemas operacionais a fim de 
+assegurar que o conteúdo é interpretado corretamente e que a aplicação se encontra em um estado funcional. Exemplos de métodos com o intuito de testar 
+os questionários podem ser encontrados em Couper et al. (2004).
+6.61 As sondagens sobre a P&D são geralmente desenvolvidos como aparelhos de recolhimento de dados autônomos. Quando uma sondagem sobre a P&D 
+é associada a outros instrumentos, deverá ter-se em especial atenção que a área 
+abrangida pelos instrumentos utilizados conjuntamente permaneça inclusiva e 
+representativa de todas as atividades de P&D e que a qualidade dos dados não 
+seja alterada. Existem exemplos de sondagens sobre a P&D combinados com 
+sondagens sobre a inovação, e o debate sobre a possibilidade de os combinar 
+com sondagens sobre despesas de investimentos mantêm-se; no entanto, recomenda-se efetuar sondagens de P&D independentemente.
+
+
+6.5 Recolhimento de dados
+6.62 A carga de trabalho imposta ao inquirido deverá ser o mínimo possível. A manutenção da confidencialidade dos dados é particularmente importante 
+para os inquiridos do setor das empresas, no qual as despesas de P&D representam decisões estratégicas.
+6.63 O processo de recolhimento de dados pode gerar paradados ou informações sobre o próprio processo de sondagem. Entre outros, o conhecimento 
+sobre o estatuto de propriedade de uma unidade a uma amostra, o histórico 
+de respostas a sondagens e o modo de recolhimento de dados são exemplos de 
+paradados. A utilização desses paradados após um ciclo de sondagens poderá 
+melhorar interações futuras de instrumentos de sondagens.
+6.64 O processo de recolhimento deverá ser concebido de maneira a limitar a 
+um mínimo a carga de trabalho e o custo da sondagem, reforçando tanto quanto 
+possível a taxa de resposta, eventos atuais e a precisão das respostas. O recolhimento de dados por meio da internet tem se tornado cada vez mais o modo de 
+sondagem privilegiado. No entanto, é importante manter diferentes métodos de 
+recolhimento de dados, particularmente em países em que o recolhimento de 
+dados por intermédio de meios eletrônicos ou postais poderá ser problemática.
+
+
+As estratégias de recolhimento devem ser suficientemente flexíveis a fim de permitir alterar o método de recolhimento (por exemplo, ao recolher a informação 
+por telefone quando um inquirido não preencheu em tempo útil um questionário 
+impresso ou online). No caso da utilização de vários métodos de recolhimento de 
+dados em uma sondagem, será sem dúvida apropriado examinar, após a sondagem, se um dado método de recolhimento poderá ser fonte de viés.
+6.65 Um contato preliminar é um meio útil de confirmar a informação de 
+referência antes do recolhimento. Esse contato preliminar poderá incidir-se: 
+nas coordenadas do inquirido (incluindo um correio eletrônico), a classificação 
+da atividade econômica ou o ramo de atividade de uma unidade institucional e 
+a confirmação que esta realiza atividades de P&D.
+6.66 No caso das organizações complexas de grande dimensão, poderá ter 
+que se considerar o estabelecimento de relações especiais para ajudar os inquiridos a responder ao questionário. Isso inclui, por exemplo, a designação de 
+um ponto de contato único para o recolhimento de dados, a definição ad hoc da 
+unidade declarante e a modificação do instrumento de recolhimento de dados 
+para que os inquiridos observem facilmente como as questões da sondagem se 
+relacionam com os seus sistemas de gestão financeira e de gestão de recursos 
+humanos. Tal tratamento deverá, sem dúvida, ser reservado para unidades institucionais os quais representem uma parte significativa na estimativa global.
+6.67 Tendo em consideração o caráter complexo da quantificação das despesas de P&D, é importante examinar a possibilidade de produzir um manual 
+destinado para entrevistadores e de organizar sessões de esclarecimento a fim 
+de preparar esses entrevistadores para responder às questões dos inquiridos. 
+Certos instrumentos desenvolvidos nesse contexto poderão ser comunicados 
+diretamente aos inquiridos, particularmente quando os dados são recolhidos 
+por intermédio de meios eletrônicos. Esses instrumentos poderão incluir instruções, exemplos hipotéticos, assim como documentação sobre o tratamento 
+de tipos de casos diferentes.
+6.68 No momento do recolhimento dos dados, é importante efetuar uma 
+série de verificações preliminares e, em casos de resultados negativos, um 
+acompanhamento com os inquiridos. No caso dos questionários eletrônicos, 
+essas verificações poderão ser integradas no próprio questionário, reduzindo a 
+necessidade de um acompanhamento da parte dos entrevistadores.
+6.69 A taxa de resposta deverá ser monitorada por meio do processo de 
+recolhimento de dados. Quando esta é baixa, poderá ser desejável, para fins 
+de garantia de qualidade, contatar uma subamostra de unidades as quais não 
+responderam à sondagem após o recolhimento a fim de determinar se existe ou 
+não um viés de não resposta nas estimativas (isto é, se os inquiridos são mais 
+ou menos suscetíveis de realizar atividades de P&D). Essa informação poderá ser 
+obtida diretamente (chamadas telefônicas de acompanhamento, por exemplo) 
+ou indiretamente a partir de dados administrativos.
+6.70 Adicionalmente, após o término do processo de sondagem, os paradados poderão ser utilizados para avaliar a eficácia e a relação qualidade-preço da 
+campanha de recolhimento de dados. Esse tipo de análise é útil para otimizar 
+e melhorar as atividades de sondagem.
+
+
+6.6 Integração dos dados
+6.71 Para integrar os conjuntos de dados (por exemplo, no caso de uma 
+análise no âmbito de empresas), é importante dispor de uma chave de ligação 
+que permita combinar os dados. As chaves de ligação existem geralmente no 
+registro central das empresas. Quando se utiliza esse método é importante, para 
+fins de garantia de qualidade, monitorar as taxas de ligação entre os conjuntos 
+de dados. Uma taxa de não ligação excessivamente elevada significa que os 
+dados combinados não são utilizáveis
+
+
+6.7 Verificação de dados recolhidos e imputação
+6.72 Os dados recolhidos passam por alterações as quais visam detectar 
+eventuais erros, validar arquivos ou variáveis e corrigir erros ou incoerências. 
+É importante assegurar que essas alterações não se tornem uma fonte de viés 
+nas estimativas globais. Existe um risco de intervenção excessivo nos dados 
+quando o impacto das alterações sobre as estimativas finais de uma sondagem 
+for insignificante; é, portanto, importante assegurar que esse risco é evitado 
+no método utilizado.
+6.73 As alterações devem ser automatizadas e reproduzíveis. Um processo 
+automatizado resulta em um âmbito e precisão melhorados. É importante evitar 
+alterações excessivamente profundas dos dados no processo do desenvolvimento 
+dos sistemas automatizados. No que diz respeito ao exame e correção consequente de dados rejeitados, poderá optar-se por alterações seletivas de dados, tendo o 
+acompanhamento um foco sobre as unidades as quais representam uma parte 
+significativa na estimativa de um dado domínio. Taxas elevadas de dados rejeitados deverão ser tidos em consideração pois fornecem informações úteis sobre os 
+meios para melhorar o questionário e outros aspectos do recolhimento de dados. O 
+seu segmento deve incluir as correções manuais, quando estas forem necessárias.
+6.74 A imputação serve para alocar valores válidos quando dados se encontram ausentes ou forem incoerentes. Esse trabalho é geralmente realizado 
+após o recolhimento dos dados (incluindo o acompanhamento realizado com os 
+inquiridos) e o exame manual inicial dos questionários. A imputação pode ser 
+utilizada no caso da ausência completa de uma resposta a um questionário (não 
+resposta total) ou de não reposta no que diz respeito a uma variável em particular 
+(não resposta parcial). Quando a imputação for efetuada, o arquivo de microdados 
+deverá apenas conter dados completos e intrinsecamente coerentes. Os processos 
+de imputação deverão ser automatizados, objetivos e reproduzíveis.
+6.75 Vários métodos de imputação permitem substituir as informações 
+em falta ou incoerentes. Os métodos de imputação determinísticos incluem:
+• a imputação dedutível
+• a imputação por meio da média
+• a imputação por rácio
+• a imputação por vizinho mais próximo
+6.76 Outros métodos existem e a sua utilização irá depender das práticas 
+da instituição a qual efetua o recolhimento de dados.
+6.77 Quando existe uma relação suficiente entre os dados administrativos 
+disponíveis e os dados em falta ou incoerentes, os dados administrativos poderão 
+ser utilizados para substituir diretamente a informação em falta ou incoerente.
+6.78 Tendo em consideração a variabilidade da P&D como atividade de 
+investimento, é preferível utilizar métodos de imputação os quais privilegiam 
+a utilização de dados obtidos do inquirido (diretamente ou por intermédio de 
+dados auxiliares) em vez de utilizar informações provenientes de outras unidades inquiridas, como a imputação pelo vizinho mais próximo, por exemplo.
+6.79 É importante conservar os metadados a fim de poder identificar os elementos e variáveis os quais foram imputados, assim como os métodos de imputação utilizados. A taxa de imputação é um indicador importante da qualidade 
+dos dados e os elementos que apresentam uma taxa ponderada de imputação 
+elevada deverão ser tratadas com cautela. A variância de amostragem ligada à 
+imputação é necessária para qualquer decisão a esse respeito.
+
+
+6.8 Estimativa
+6.80 Todas as unidades de amostragem têm um peso inicial determinado 
+pela probabilidade da sua seleção na amostra. O peso inicial é igual ao inverso 
+da probabilidade de seleção. No caso de uma amostragem em duas fases, é igual 
+ao produto dos pesos correspondentes a cada fase.
+6.81 Os pesos iniciais podem ser ajustados com a finalidade de considerar 
+o número de unidades que responderam. Essa alteração é apenas justificável 
+caso se acredite que os respondentes e os que não responderam apresentam 
+características idênticas. Vários métodos de estimativa são examinados em 
+Lundström et Särndal (2005).
+6.82 Quando se dispõe de um conjunto de dados administrativos contendo 
+dados auxiliares os quais apresentam uma forte correlação com uma das variáveis do questionário (por exemplo, o total das despesas de P&D), o peso inicial 
+poderá ser ajustado por meio da calibração dos pesos. Em uma estimativa de 
+calibração, os pesos são ajustados para obter totais de controle conhecidos. Os 
+métodos específicos existentes sobre essa questão incluem as estimativas por 
+regressão, por quociente e pelo método iterativo do quociente.
+6.83 A utilização de uma estimativa calibrada é, sem dúvida, preferível pois 
+permite estimativas mais exatas. Pode igualmente contribuir para uma melhor 
+coerência de diferentes fontes de dados.
+6.84 Para determinar a precisão de uma estimativa, serão utilizados estimativas de desvio-padrão.
+
+
+6.9. Validação dos resultados
+6.85 Um certo número de etapas devem ser seguidas com o intuito de 
+validar e certificar as estimativas resultantes de uma sondagem sobre a P&D.
+6.86 É importante que as unidades declarantes da amostragem permaneçam representativas da população de executantes de P&D. A análise das 
+taxas de resposta permitirá verificar a população abrangida pela sondagem. 
+Em seguida, a ponderação das taxas de resposta pelo valor das despesas de 
+P&D fornecerá uma indicação sobre a parte da estimativa a qual se encontra 
+efetivamente fundamentada nos dados.
+6.87 Para assegurar a continuidade das estimativas, é importante comparar 
+os dados das sondagens de P&D aos dados recolhidos no decorrer das companhas precedentes, explicitando as diferenças.
+6.88 Os dados deverão igualmente ser comparados a outras fontes de dados 
+comparáveis. É necessário examinar eventuais desvios a fim de melhorar as 
+estimativas ou explicar as diferenças.
+6.89 Para efeitos de validação, as estimativas finais deverão ser confrontadas com os resultados esperados e com os conhecimentos disponíveis no 
+setor em questão. Novamente, é importante examinar eventuais desvios para 
+melhorar as estimativas ou encontrar uma explicação para as diferenças.
+
+
+6.10 Comunicação de dados à OCDE e a outras organizações 
+internacionais
+6.90 As autoridades nacionais realizam, no quadro dos dispositivos institucionais existentes, sondagens sobre a P&D a fim de recolher dados apropriados no 
+que diz respeito a preocupações do país. As práticas de cada país afastam-se por 
+vezes das normas internacionais descritas nesse manual ou em outros documentos de referência. No entanto, deverá fazer-se o possível para reduzir o impacto 
+dessas diferenças no momento da comunicação dos dados à OCDE ou a outras 
+organizações internacionais, designadamente por meio de ajustes ou estimativas, 
+mesmo se estes resultarem em desvios entre os dados de P&D existentes em fontes 
+internacionais e as que são publicadas em estudos nacionais. Caso as autoridades 
+nacionais não possuam os meios de proceder a tais ajustes espontaneamente, 
+podem contribuir com organizações especializadas a produzir estimativas fundamentadas. Quando esses ajustes não forem possíveis, é importante apresentar 
+notas técnicas detalhadas. As diferenças são geralmente de dois tipos:
+• diferenças explícitas metodológicas entre as sondagens nacionais de P&D 
+e os recomendados nesse manual
+• diferenças “implícitas” entre as classificações dos ramos de atividades 
+econômicos ou do setor da educação utilizados nas sondagens nacionais e 
+as classificações internacionais recomendadas nesse manual.
+6.91 É importante identificar e notificar os dois tipos de diferenças, assim 
+como qualquer quebra nas séries de dados. Quando a modificação de qualquer 
+aspecto do processo de sondagem (por exemplo, a constituição da amostragem 
+e a classificação das unidades, o método de recolhimento de dados, a criação do 
+instrumento de sondagem, a elaboração de questões e as definições) se traduz 
+por uma ruptura conhecida das séries cronológicas, essa ruptura deve ser claramente identificada e assinalada aos usuários de dados. Caso seja possível a 
+quantificação do impacto provável de uma ruptura de dados (por exemplo, em 
+percentagem dos totais fornecidos) ou de reportar continuamente as estimativas atuais ou futuras comparadas com estimativas passadas, convêm fazê-lo.
+6.92 As autoridades nacionais deverão fornecer indicadores da qualidade 
+dos agregados publicados. Esses indicadores deverão basear-se simultaneamente em desvios padrão e em taxas de resposta. Deverão incidir sobre o conjunto 
+de dados e sobre cada domínio de estimativa. Os indicadores referentes à área 
+abrangida deverão especificar a forma como a população-alvo é definida, mantida e avaliada. As diversas taxas de imputação deverão ser indicadas. Essas 
+taxas são úteis para determinar a qualidade dos dados e examinar a construção das questões. Certos conceitos poderão ser pouco familiares aos inquiridos, ou 
+difíceis de compreender, e o desenvolvimento do questionário deverá ser reexaminado com frequência para remediar esses problemas. A supressão de certas 
+células por razões de confidencialidade é um meio de assegurar o anonimato de 
+uma população excessivamente pequena ou excessivamente concentrada permitindo o grau de detalhe necessário. Aspectos como os prazos de transmissão 
+e as taxas de alterações também deverão ser considerados.
+
+
+6.11 Observações finais sobre a qualidade dos dados
+6.93 Esse capítulo apresentou vários métodos com o intuito de quantificar 
+a P&D nos principais setores institucionais abordados nesse manual e obter 
+resultados de qualidade reproduzíveis, apoiando-se em normas de qualidade 
+geralmente reconhecidas. No que diz respeito à qualidade dos dados, os interessados são convidados a consultar Snijkers et al. (2013) e Lyberg et al. (1997), 
+assim como os seguintes documentos: www.oecd.org/std/qualityframeworkforoecdstatisticalactivities.htm et http://unstats.un.org/unsd/dnss/QualityNQAF/
+nqaf.aspx. As abordagens descritas visam simultaneamente sugerir várias 
+opções para o recolhimento de dados em países em que a infraestrutura estatística ainda se encontra limitada, fornecendo temas de reflexão para os que 
+dispõem de um sistema estatístico bem desenvolvido. No entanto, os métodos 
+estatísticos, assim como as tecnologias e práticas correspondentes, evoluem ao 
+longo do tempo e os usuários desse manual são convidados a seguir – e realizar 
+– as práticas mais adaptadas ao seu ambiente estatístico.
+
+
+
+
+
+
+
+
+PARTE II
+Quantificação da P&D:  Diretivas setoriais
+
+
+
+Capítulo 7
+P&D do setor das empresas
+
+
+Neste capítulo são propostas orientações sobre a medida das atividades de 
+pesquisa e desenvolvimento experimental (P&D) conduzidas no setor empresarial, as fontes de financiamento e a distribuição das estatísticas por atividade econômica principal, dimensão da empresa em termos de emprego e 
+localização geográfica. Os indicadores de atividade de P&D para esse setor 
+incluem as despesas de P&D, o pessoal de P&D, as fontes de financiamento 
+da P&D, e a repartição da P&D em pesquisa fundamental, pesquisa aplicada 
+e desenvolvimento experimental. A possibilidade de distribuir as estatísticas 
+por ramo de atividade (domínio do produto ou atividade industrial) também 
+é examinada, bem como as razões para o fazer. São também abordadas distribuições por domínios de P&D, por objetivos socioeconômicos, localização 
+geográfica e tecnologia específica. Esse capítulo termina com uma revisão da 
+formulação das sondagens, recolhimento de dados e estimativas dentro do 
+setor. As estatísticas resultantes informam a discussão política relacionada 
+com indústrias dominantes e emergentes, concentração de P&D em regiões, 
+setores de atividade e empresas, e com os setores que beneficiam da P&D 
+empresarial.
+
+
+
+
+7.1. Introdução
+7.1. Na maioria dos países industrializados, o setor empresarial representa 
+a maior parte das despesas e do pessoal de P&D. Ao analisar esse setor e as suas 
+unidades, é importante levar em conta as múltiplas abordagens usadas pelas 
+empresas para gerir as suas atividades de P&D. Em particular, empresas relacionadas podem financiar em conjunto, produzir, trocar e usar conhecimentos 
+de P&D seguindo modalidades diversas e complementares. A complexidade da 
+estrutura das empresas, em particular das empresas multinacionais (EM), coloca desafios à quantificação da P&D. Além disso, em algumas empresas a P&D 
+é uma atividade ocasional, descontínua, e, portanto, mais difícil de identificar e 
+quantificar. Do ponto de vista político, é particularmente relevante recolher informação das empresas sobre o papel dos poderes públicos enquanto fontes de 
+apoio financeiro à P&D e sobre as interações com a formação de base científica 
+e a pesquisa pública. Do ponto de vista metodológico, o recolhimento de dados 
+das empresas coloca desafios práticos, desde a identificação de empresas que 
+realizam P&D até a obtenção de informações sobre a P&D tal como requerido 
+nesse manual, respeitando as regras de confidencialidade e minimizando o 
+esforço requerido para responder inquéritos às sondagens.
+
+
+
+7.2. Cobertura do setor das empresas
+7.2 Tal como indicado no Capítulo 3, o setor das empresas inclui:
+• Todas as sociedades residentes, incluindo e não exclusivamente, as empresas legalmente constituídas em sociedades, independentemente da 
+residência dos acionistas. Esse grupo inclui todos os tipos de quase-sociedades, ou seja, unidades capazes de gerarem lucro ou outro tipo de ganho 
+financeiro para os seus proprietários, reconhecidas pela lei como sendo 
+entidades legais diferentes dos seus proprietários, e constituídas com o 
+propósito de terem uma atividade produtiva no mercado a preços economicamente significativos. Isso inclui sociedades financeiras e não-financeiras.
+• As sucursais de empresas não residentes não constituídas em sociedade e 
+consideradas residentes pelo fato de estarem envolvidas na produção no 
+território econômico em um tempo prolongado.
+• Todas as instituições sem fins lucrativos (ISFL) que são produtoras de bens 
+para o mercado, ou de serviços, ou que servem as empresas. As primeiras 
+incluem os institutos de pesquisa independentes, clínicas, e outras instituições cuja atividade principal seja a produção de bens ou serviços a preços 
+estimados para cobrir a totalidade do custo econômico. As segundas, que 
+estão ao serviço das empresas, são constituídas por entidades controladas 
+por associações profissionais e financiadas por contribuições e quotizações.
+• Excluem-se especificamente as unidades do setor do ensino superior tal 
+como descritas na seção 3.5 do Capítulo 3 e no Capítulo 9. No entanto, as 
+empresas comerciais que pertençam a instituições do ensino superior, por 
+exemplo em virtude de um contrato que dá à universidade uma posição 
+acionista importante em uma empresa spin-off criada pelo seu pessoal ou 
+estudantes, devem ser tratadas como empresas.
+
+
+
+7.3 O setor das empresas inclui tanto as empresas privadas (cotadas ou não 
+em Bolsa), como as empresas controladas pelo Estado (ver Capítulo 3, seção 3.5) 
+que, nesse manual, são designadas “empresas públicas”. A atribuição de uma 
+empresa pública ao setor das empresas ou ao setor do Estado depende do seu 
+grau de integração no mercado, ou seja, de ela ter como atividade principal a 
+produção de bens ou serviços para o mercado a preços economicamente significativos. Um instituto público de pesquisa o qual ocasionalmente receba uma 
+receita considerável pela venda ou licenciamento da sua propriedade intelectual 
+não deve ser considerado uma empresa pública se a maioria das suas atividades 
+de P&D são conduzidas sem intenções comerciais. Por outro lado, um instituto 
+controlado pelo governo cujas operações dependem de pagamentos de serviços de P&D e do acesso à infraestrutura de pesquisa a preços os quais refletem 
+inteiramente o seu custo econômico, deve ser classificado como uma empresa 
+pública. O conceito de setor “público” é mais alargado que o de “setor do Estado”.
+7.4 De acordo com o Sistema de Contabilidade Nacional (SCN), as instituições sem fins lucrativos controladas ou servindo principalmente as empresas, 
+como por exemplo as associações profissionais ou institutos de pesquisa controlados pela indústria, devem ser classificadas como parte do setor das empresas mesmo quando as instituições trabalham em uma base de subscrições 
+que dificilmente cobrem os custos operacionais e dependem significativamente 
+de subvenções do Estado para equilibrar os seus orçamentos. Em regra geral, 
+as ISFL criadas e geridas por associações profissionais para promover as suas 
+atividades – por exemplo, câmaras de comércio e de agricultura, associações 
+de produtores ou de comércio – que são financiadas por contribuições ou quotizações das empresas interessadas que pagam os custos estruturais da P&D 
+ou de projetos de P&D, devem ser tratadas como parte do setor das empresas.
+7.5. As atividades no mercado de empresas não constituídas em sociedade, 
+que pertencem às famílias (por exemplo, certas formas de parcerias ou mesmo 
+consultores ou subcontratantes independentes que conduzem os projetos de 
+P&D para outras unidades a preços economicamente relevantes) devem também, na medida do possível, ser incluídas no setor das empresas.
+7.6 Como se indicou no Capítulo 3, as atividades de pesquisa ou de invenção 
+de indivíduos que as desenvolvem no seu tempo livre e às suas próprias custas, 
+estão presentemente fora do âmbito da abordagem institucional às estatísticas 
+de P&D apresentada nesse manual.
+7.7 Uma empresa comum, tal como definido no SCN, implica a criação de 
+uma sociedade, de uma parceria ou de outra unidade institucional no âmbito da 
+qual cada parceiro exerce legalmente um controle conjunto sobre as atividades 
+da unidade. Ela opera da mesma maneira que as outras unidades, com a exceção de que um acordo jurídico entre as partes estabelece um controle conjunto 
+sobre a unidade. As empresas comuns devem ser classificadas em função das unidades as quais servem preferencialmente, tendo em consideração sempre 
+que possível a prática estabelecida pelo SCN.
+7.8 Quando uma unidade institucional distinta é criada para gerir uma 
+empresa comum, deve ter a mesma classificação industrial que a unidade a qual 
+tem um maior interesse nessa parceria. Em alguns casos, as parcerias de P&D 
+têm um estatuto formal, independente, e nesse caso devem ser classificadas 
+com base nas unidades as quais servem preferencialmente.
+
+
+
+7.3. Unidades estatísticas e unidades relatoras
+7.9 As empresas organizam o financiamento e execução das atividade de 
+P&D a vários níveis com o intuito de atingir melhor os seus objetivos. As decisões estratégicas relativas ao financiamento e orientação dos esforços de P&D 
+são tomadas às vezes no âmbito do grupo de empresas, independentemente das 
+fronteiras nacionais, enquanto a gestão diária das atividades de P&D, incluindo 
+eventualmente decisões relativas ao tipo de financiamento a atribuir à execução 
+da P&D, pode ser feita em um patamar menos elevado da organização. As EM 
+podem executar atividades de P&D em vários países ao mesmo tempo, o que 
+torna difícil a identificação dos decisores e a sua participação nas sondagens. 
+Esses fatores podem ter incidência na classificação atribuída a uma unidade estatística e pesar na escolha da unidade declarante (ver no Capítulo 6 a definição 
+desses dois tipos de unidades).
+Unidade estatística
+7.10 A unidade estatística do setor das empresas é geralmente a empresa, 
+tal como definido no Capítulo 6.
+7.11 Regra geral, todas as unidades estatísticas incluídas na população de 
+uma sondagem de P&D devem estar identificadas de maneira adequada com 
+base em um conjunto de variáveis descritivas que é normalmente possível 
+extrair dos registros estatísticos das empresas. As variáveis de identificação 
+(ou de qualificação, como indica o Capítulo 3) devem incluir: um código de identificação, uma variável geográfica, uma variável relativa ao tipo de atividade 
+econômica e uma variável da dimensão. Informação adicional sobre a organização econômica ou legal da unidade estatística, bem como sobre a estrutura 
+do seu capital, será extremamente útil para reforçar a eficácia e eficiência do 
+processo de sondagem.
+Unidade relatora
+7.12 A seleção das unidades declarantes do setor das empresas deve 
+variar de um país para o outro em função das estruturas institucionais, do 
+quadro jurídico no qual se insere o recolhimento de dados, das tradições e 
+prioridades nacionais, da quantidade de recursos alocados à sondagem e dos 
+acordos ad hoc estabelecidos com as empresas. Quando uma empresa realiza 
+atividades econômicas heterogêneas e executa um volume importante de 
+P&D em vários tipos de atividades, recomenda-se o recolhimento (ou a declaração) de dados a um grau estatístico mais fino, por exemplo tendo por base 
+o tipo de atividade ou mesmo o estabelecimento se a localização regional for 
+um fator relevante. Esse manual não formula nenhuma recomendação geral 
+sobre a escolha das unidades declarantes a interrogar dentro de cada país. 
+
+
+
+Os responsáveis pelas estatísticas nacionais devem zelar pela aditividade 
+dos dados sobre a execução da P&D e do pessoal que lhe está incumbido, e 
+tratar de forma adequada os dados relativos aos fluxos de financiamento, 
+qualquer que seja a abordagem de recolhimento de dados escolhida. A seleção das unidades declarantes deve ser feita de acordo com as orientações 
+gerais formuladas no Capítulo 6 sobre as unidades estatísticas e as unidades declarantes, sem esquecer a recomendação de evitar recolher dados de 
+uma unidade declarante a qual não esteja obrigada a manter documentos 
+contabilísticos oficiais.
+7.13 Dado que pode haver informação que as empresas só têm disponível 
+em graus de hierarquia mais elevados, os institutos nacionais de estatística 
+podem ter que entrar em contato com as unidades pertinentes para garantir 
+que as estatísticas de P&D do setor empresarial estão conformes os princípios 
+os quais regem as estatísticas nacionais, separando as suas atividades por 
+jurisdição e por domínio específico de atividade. A identificação dos perfis dos 
+grupos de empresas é um trabalho importante que deve, sempre que possível, 
+ser feito em coordenação com entidades e responsáveis que gerem os registros 
+das empresas. Em alguns casos, por razões de sinergia e exaustividade, quem 
+compila os dados de estatísticas de P&D pode considerar que é apropriado fazer 
+amostragens de todas as empresas as quais fazem parte do conjunto de empresas consolidadas residentes em um país.
+7.14 O patamar do grupo de empresas tem às vezes um papel proeminente na unidade relatora porque os questionários podem ser preenchidos ou as 
+respostas aprovadas por um gabinete da administração central. No caso das 
+holdings, podem ser considerados vários métodos diferentes, por exemplo, pedindo para reportar as atividades de P&D das indústrias que agrupam nesse ou 
+naquele setor, ou pedindo à holding que transmita o questionário à empresa 
+que efetivamente executa a P&D.
+
+
+
+7.4. Classificações institucionais para as unidades estatísticas
+Códigos de identificação
+7.15 Um código de identificação é um número único atribuído a uma unidade estatística incluída na população alvo de uma sondagem. A existência de 
+códigos de identificação é extremamente importante para quem faz estatísticas 
+de P&D, lidando com eventuais executantes de P&D identificados a partir de 
+fontes estatísticas e administrativas diferentes. Os códigos de identificação 
+permitem evitar a duplicação das unidades da população assim como a sobreposição parcial entre unidades (na medida em que as unidades estatísticas se 
+reportam a diferentes níveis organizacionais: estabelecimentos, empresas, grupos). Um código é essencial para um processo de amostragem efetivo e, quando 
+aplicável, para o recolhimento de dados administrativos (quando os mesmos 
+códigos são também utilizados para propósitos administrativos). Do ponto de 
+vista dos usuários de estatísticas de P&D, os códigos de identificação permitem 
+relacionar micro-dados de fontes diferentes, incluindo de sondagens de PID, 
+de outros inquéritos sobre as empresas ou de campanhas de recolhimento de 
+dados administrativos, e facilitam as análises longitudinais quando a estrutura 
+de uma unidade evolui com o tempo. Quando já existem códigos de identificação 
+nos registros estatísticos sobre as empresas, é preferível utilizar esses códigos 
+para a compilação de dados de P&D.
+
+
+
+
+Classificação com base na atividade econômica principal
+7.16 Uma empresa pode ter várias atividades econômicas. Enquanto unidades (estatísticas) institucionais, as empresas são classificadas segundo a 
+sua atividade principal. Na prática, a maioria das unidades de produção têm 
+uma atividade do tipo misto. A Classificação internacional normalizada industrial 
+de todas as atividades econômicas (CINI) (Nações Unidas, 2008a) é o documento de 
+referência pertinente para a classificação internacional das atividades econômicas ou de indústrias. As empresas podem estar envolvidas em qualquer tipo 
+de atividade econômica, incluindo agricultura, minas, manufatura ou serviços.
+7.17 Os países os quais usam sistemas de classificação nacionais (ou regionais) 
+de atividades econômicas devem aplicar tabelas de concordância para converter 
+para o formato CINI os seus dados classificados por indústria, para efeitos de declaração e comparação internacional. O modo de declaração da atividade econômica 
+principal de uma unidade estatística deve permitir fazer a identificação no âmbito 
+das “classes” (quatro algarismos) e consequentemente no âmbito dos “grupos” (três 
+algarismos). A adoção de classificações por atividade econômica diferentes, como o 
+Sistema de classificação das indústrias da América do Norte (NAICS) ou a Nomenclatura 
+das atividades econômicas na Comunidade Europeia (NACE) não tem incidência 
+na produção de estatísticas de P&D pois a definição das atividades econômicas é 
+compatível com a da CINI (uma correspondência direta pode normalmente ser 
+estabelecida ao nível de 1 ou 2 algarismos e uma correspondência indireta pode 
+ser estabelecida ao nível dos códigos de 3 ou 4 algarismos).
+7.18 Nenhuma indústria deve ser isenta da declaração das atividades de 
+P&D. Todos os setores de atividade econômica incluídos na classificação CINI 
+podem potencialmente executar atividades de P&D, ainda que com graus de 
+probabilidade variáveis. Consequentemente, é possível atribuir a cada unidade de cada atividade econômica um nível de probabilidade de executar F&D. 
+Assim, metodologias apropriadas devem ser desenvolvidas e implementadas 
+para lidar com indústrias cujas empresas têm, em média, uma baixa probabilidade de serem identificadas como executantes de P&D (como a agricultura ou 
+os serviços às famílias). Nesses casos, recomenda-se uma seleção preliminar 
+antes de incluir as empresas destas indústrias em sondagens de P&D regulares.
+7.19 A identificação da atividade principal é necessária para classificar 
+uma unidade estatística em uma categoria de “atividade econômica principal”. 
+Para determinar a atividade principal de uma unidade, é necessário conhecer a 
+distribuição do valor acrescentado das suas diferentes atividades econômicas. 
+Na prática, porém, é frequentemente difícil ter acesso a informação suficientemente detalhada, a não ser que essa informação esteja disponível em um 
+registro central, pelo que a classificação da atividade tem que ser feita a partir 
+de outros critérios. Os institutos nacionais de estatística os quais compilam os 
+dados de P&D devem evitar, sempre que possível, fazer escolhas próprias da 
+classificação e devem usar a informação disponível em registros centrais de 
+negócios ou em outras fontes administrativas de qualidade comparável. Essa 
+informação é essencial em sondagens por amostragem a fim de constituir uma 
+amostra representativa das empresas.
+7.20 As grandes empresas com uma estrutura complexa e que realizam 
+muitas atividades econômicas diferentes, colocam problemas práticos específicos. Essas empresas podem representar uma parte muito importante da P&D. 
+A pertinência das classificações por atividade econômica para medir os totais 
+de P&D é examinada em detalhes na seção 7.6. Os institutos de estatística nacionais devem esforçar-se por encontrar um equilíbrio adequado entre manter 
+um grau mínimo de homogeneidade relativamente à atividade econômica da 
+empresa e a consideração da capacidade da empresa em prestar as informações 
+solicitadas sobre as suas atividades.
+
+
+
+Classificação com base no estatuto público ou privado
+7.21 De acordo com as recomendações dadas no Capítulo 3, seção 3.4, recomenda-se a seguinte classificação das empresas:
+• Empresas privadas controladas por interesses nacionais (que não são controladas pelo Estado ou por unidades institucionais não residentes).
+• Empresas públicas (sujeitas ao controle por órgãos do Estado)
+• Empresas aparentadas ou membro de um grupo nacional ou estrangeiro
+• Empresas estrangeiras (controladas por unidades institucionais não residentes). A relevância dessa categoria é realçada no Capítulo 11 sobre a 
+globalização da P&D.
+7.22 Os institutos os quais recolhem os dados de P&D podem também pretender utilizar classificações levando em conta o estatuto jurídico das empresas 
+(por exemplo, as empresas cotadas em bolsa, as empresas não constituídas 
+em sociedade anônima) para darem resposta a necessidades específicas dos 
+usuários de dados do seu país.
+Classificação com base na dimensão da empresa
+7.23 As empresas podem ser classificadas de acordo com a dimensão tomada 
+em termos de emprego, receitas ou outros atributos econômicos e financeiros. O 
+emprego é frequentemente uma dimensão menos ambígua e, consequentemente, preferível, mas mesmo nesse caso alguns países preferem utilizar o número 
+de pessoas empregadas (o que é recomendado nesse manual) enquanto outros 
+podem optar pelo número de empregados, sendo que a diferença entre ambos os 
+casos é o número de proprietários–administradores e o pessoal o qual não é pago.
+7.24 A classificação por dimensão é pertinente para a estratificação, definição de amostra, modelação do modelo de sondagem e apresentação dos resultados estatísticos. Em alguns países a regulamentação da estatística limita 
+as sondagens juntode empresas muito pequenas. Como a execução da P&D é 
+geralmente uma atividade fortemente concentrada, a sub-representação dos 
+executantes de pequenas dimensões não terá grande impacto nos totais agregados obtidos, mas pode distorcer significativamente outros tipos de estatísticas 
+de P&D e de análises baseadas na P&D. Por essa razão, devem ser utilizados 
+todos os meios possíveis a fim de garantir a cobertura mais exaustiva possível.
+7.25 O tamanho das empresas é uma variável de identificação essencial 
+para o desenho da amostra e para a estimativa de dados, assim como para a 
+boa gestão das atividades de recolhimento de dados. Recomenda-se a definição 
+de dimensão com base no número médio de pessoas empregadas devido à sua 
+simplicidade, aplicação geral, utilidade e comparabilidade internacional. Uma 
+variável de dimensão pode ser utilizada para excluir unidades em comparações internacionais (por exemplo, empresas abaixo de um valor de dimensão 
+mínima), ou adaptar os métodos de recolhimento de dados à dimensão e a 
+organização das unidades alvo.
+
+
+
+7.26 Recomenda-se que todas as unidades as quais pertençam ao mesmo 
+setor de empresas, qualquer que seja a sua dimensão e atividade econômica 
+principal, sejam consideradas como potenciais executantes de P&D. Nos países 
+em que as pequenas empresas e as microempresas são excluídas de sondagens 
+regulares de P&D devido à regulamentação da estatística ou a restrições técnicas e práticas, deve ser feito um esforço para identificar a contribuição global 
+dessas pequenas empresas e microempresas para o total da P&D empresarial.
+7.27 Os seguintes grupos de tamanho (baseados no número de pessoas 
+empregadas) são propostos para classificar as empresas:
+1 – 4
+5 – 9
+10 – 19
+20 – 49
+50 – 99
+100 – 249
+250 – 499
+500 – 999
+1 000 – 4 999
+5 000 ou mais
+Por razões práticas, dado o número muito elevado de empresas registradas 
+sem efetivos e a impossibilidade dessas empresas realizarem atividades de 
+P&D, recomenda-se que tais empresas sejam excluídas das sondagens de P&D.
+7.28 Essas categorias foram escolhidas por várias razões, em particular tendo em consideração a coerência com a classificação por dimensão geralmente 
+utilizada para as microempresas (ou seja, as empresas que têm menos do que 
+5, 10 ou 20 pessoas empregadas, de acordo com as práticas específicas de cada 
+país) e para as pequenas e médias empresas (ou seja, empresas com menos de 
+250 ou 500 pessoas empregadas, de acordo com as práticas específicas de cada 
+país). Assim, essas dez categorias não são propostas com o objetivo de uma 
+utilização comum, mas sim para proporcionar uma estrutura de classificação 
+na qual as práticas específicas dos países possam utilizar como base. Apesar 
+disso, recomenda-se que todos os países mantenham as categorias na qual vão 
+até 9, 49 e 249 pessoas empregadas permitindo a disponibilização de estatísticas 
+comparáveis internacionalmente para pequenas, médias e grandes empresas. 
+Para as maiores economias, recomenda-se também que a categoria até 999 
+pessoas empregadas seja mantida.
+Classificação com base na localização geográfica
+7.29 A localização geográfica das unidades é também uma variável essencial para a sua classificação. Enquanto a residência é normalmente definida 
+em termos do “país de residência”, a localização pode ser disponibilizada com 
+níveis diferentes de detalhe: estados ou regiões (de acordo com a organização 
+administrativa do país), áreas locais (cidades ou municipalidades), ou endereços. Quando se lida com unidades declarantes as quais são diferentes das 
+unidades estatísticas – ou de múltiplas unidades declarantes que pertencem a 
+uma só empresa – deve ser consagrado um cuidado especial à identificação da 
+situação geográfica pertinente do ponto de vista do recolhimento dos dados.
+
+
+
+7.5. Indicadores das atividades de P&D no setor das empresas
+7.30 As atividades de P&D executadas pelas unidades do setor das empresas 
+são medidas em termos de despesas de P&D e do custo dos efetivos de P&D. 
+Esses dois tipos de indicadores são normalmente disponibilizados segundo 
+as recomendações dadas no Capítulo 4 e no Capítulo 5, respectivamente, e as 
+despesas de P&D das empresas podem ser repartidas funcionalmente segundo 
+as modalidades descritas na seção 7.6.
+Despesas de P&D
+7.31 Para garantir a coerência entre as informações respeitantes à P&D e 
+as outras informações fornecidas pelos inquiridos, os institutos nacionais de 
+estatística que compilam dados de P&D devem verificar certas relações contabilísticas, sempre que possível. Por exemplo: os custos da mão de obra da 
+P&D devem ser menores do que os custos totais de mão de obra (ou idênticos 
+se todos os empregados trabalharem a tempo integral na P&D). As despesas de 
+capital destinadas à P&D devem também estar incluídas dentro do valor global 
+da empresa, e consequentemente serem menores do que esse valor global. Os 
+custos totais de P&D não devem em geral exceder o valor acrescentado libertado pela empresa durante um dado ano de referência. No caso de empresas que 
+executam continuamente atividades de P&D, a P&D pode representar uma parte 
+estável do valor acrescentado ao longo de um período de vários anos. O controle dessas relações contabilísticas permite reduzir os erros das declarações 
+de dados de P&D e contribuir para a melhoria da qualidade global dos dados.
+Pessoal de P&D
+7.32 É igualmente necessário verificar a coerência entre o total dos efetivos 
+das empresas declarantes e os dados de P&D recolhidos. A medida da força de 
+trabalho da P&D nas empresas, bem como a participação de pessoal exterior 
+nas atividades de P&D interna (ver Capítulo 5), podem colocar dificuldades. 
+Sugere-se que a unidade declarante verifique primeiro a atividade de P&D 
+executada no período de referência por pessoas empregadas pela empresa. A 
+contabilização completa da sua contribuição para a P&D – tanto em termos do 
+tempo (equivalente de tempo integral) e de custos de mão de obra – será mais 
+fácil se a unidade utiliza diretamente os dados das folhas de pagamento, incluindo assim os trabalhadores em regime de tempo parcial e os estagiários. Se 
+for possível obter esses dados a partir de registros das empresas ou de fontes 
+administrativas, os institutos nacionais de estatística devem verificar a coerência dos totais relativos aos efetivos: por exemplo, o total do pessoal de P&D 
+não pode ser superior ao total do pessoal.
+7.33 A etapa seguinte consiste em identificar todos os colaboradores externos à P&D interna, que as vezes incluem posições e perfis muito variados: 
+consultores independentes, empregados de subcontratantes os quais trabalham 
+como consultores internos, pessoal interno, etc. É necessário um esforço importante dos inquiridos para identificar o pessoal que contribui de forma apreciável 
+(em termos de tempo, ver Capítulo 5, seção 5.3) para a P&D interna da unidade.
+7.34 A distribuição do pessoal de P&D por funções (pesquisadores técnicos 
+e pessoal equiparado, outro pessoal de apoio) é discutida extensamente no 
+Capítulo 5 e as recomendações que figuram nesse capítulo são inteiramente pertinentes para o setor das empresas. É necessário obter tanto os dados em 
+equivalentes de tempo integral e em valores absolutos, como a repartição demográfica dos totais em termos de características como o sexo, a idade, o grau 
+de qualificação, etc. (ver seção 5.4). A repartição funcional do pessoal de P&D 
+deve basear-se na observação direta do papel que os indivíduos realmente têm 
+relativamente à P&D interna, quaisquer que sejam os seus papéis formais na 
+empresa. A prática corrente é não assumir uma relação direta entre o nível 
+de competência (contratual) formal – mesmo quando descrito em termos da 
+profissão – de uma pessoa empregada e o tipo da sua contribuição para a P&D 
+interna. É frequente constatar, por exemplo, que pessoas que participam como 
+“pesquisadores” nas atividades de P&D interna de uma empresa ocupam oficialmente um lugar de “técnicos” ou de “gestores” e não de “pesquisadores”.
+
+
+
+7.6. Distribuição funcional de despesas internas de P&D 
+das empresas (DIIDE)
+7.35 As despesas internas de P&D das empresas (DIIDE) constituem o principal agregado estatístico utilizado para descrever a execução de P&D no setor 
+das empresas. As DIIDE correspondem à componente das despesas internas 
+brutas de P&D (DIID) (ver Capítulo 4) executada pelas unidades do setor das 
+empresas. Trata-se de despesas de P&D intramuros executadas pelo setor durante um dado período de referência. A compilação, difusão e declaração das 
+DIIDE pode ser útil para várias variáveis. Algumas distribuições têm um grande 
+interesse e utilização internacional. Outras são apenas pertinentes no âmbito 
+nacional para efeitos analíticos e de ação política. Abaixo encontra-se uma lista 
+de distribuições as quais se recomendam aos institutos nacionais de estatística 
+para considerarem de forma a corresponder às necessidades da comparabilidade internacional. A maior parte das distribuições funcionais recomendadas 
+só é possível realizar identificando separadamente a atividade de cada unidade 
+estatística e depois adicionando o detalhe da distribuição por cada unidade para 
+o conjunto do setor (por exemplo, P&D por fonte de financiamento). Outras distribuições DIIDE reportadas advêm naturalmente da acumulação da P&D total 
+das unidades estatísticas segundo os critérios de classificação institucional 
+iniciais (por exemplo, P&D por atividade econômica principal e por dimensão 
+das empresas). As sondagens e outros esforços de recolhimento de dados devem 
+ser efetuados tendo em consideração essas recomendações.
+Distribuição de DIIDE por fonte de financiamento da P&D
+7.36 Como foi apresentado na seção 4.3 do Capítulo 4, recomenda-se que se 
+considerem cinco fontes principais quando se efetua o recolhimento de dados e 
+a análise das fontes de financiamento das DIIDE segundo a origem dos fundos: 
+o setor das empresas (que inclui tanto o financiamento interno como o financiamento externo recebido de outras empresas), o setor do Estado, o setor do ensino 
+superior, o setor privado sem fins lucrativos e o restante do mundo (Tabela 7.1)
+
+
+Financiamento proveniente do setor das empresas
+7.37 Esse manual não recomenda um método específico de recolhimento de 
+dados sobre as fontes de financiamento das DIIDE. Alguns países preferirão estimar em primeiro lugar o total de P&D interna posteriormente determinando as 
+fontes de financiamento. Nesse caso, o financiamento interno das empresas poderá ser determinado como um montante restante, após a identificação de todas 
+as fontes exteriores de financiamento as quais contribuem para as atividades de 
+P&D interna. Outros países poderão pedir aos inquiridos para indicarem separadamente a P&D interna financiada por fundos internos e P&D interna financiada 
+por outros fundos de maneira a permitir a extração de dados da contabilidade 
+financeira. Essa segunda abordagem facilitará sem dúvida o trabalho de reportar das empresas que mantêm os seus financiamentos internos de P&D interna 
+física e financeiramente separados da P&D interna contratada (por exemplo, as 
+atividades relacionadas com a defesa, por razões de segurança).
+7.38 No setor das empresas, os fundos de origem interna incluem reservas 
+ou ganhos não-distribuídos (por exemplo, sob a forma de dividendos), vendas de 
+produtos correntes da unidade (outros que não os da P&D), capital mobilizado sob 
+a forma de angariação de fundos próprios, empréstimos ou outros instrumentos 
+híbridos (fundos angariados em mercados financeiros, empréstimos bancários, 
+capital de risco, etc.). Deduções de impostos sobre o rendimento devidos a incentivos governamentais atribuídos a P&D executada no passado são também fundos internos pois não teriam que ser utilizados para financiar a P&D no período atual de 
+referência. Dada a grande relevância dessa categoria, cada país pode decidir incluir 
+nas suas sondagens questões sobre certas fontes de financiamento interno para determinar, por exemplo, o impacto de políticas específicas de P&D, mas esse manual 
+não recomenda nenhuma distribuição particular dessas fontes de financiamento.
+7.39 Em alguns casos, uma empresa pode-se ver obrigada a contrair um 
+empréstimo para financiar as suas atividades de P&D. Um empréstimo constitui, em geral, uma dívida com uma taxa de juros incorrida por uma unidade 
+(instituição ou família) em benefício de outra. Assim, quando uma empresa 
+executa atividades de P&D recebe, enquanto beneficiário do empréstimo, uma 
+quantidade de dinheiro do mutuante para realizar atividades de P&D, o qual se 
+compromete a reembolsar posteriormente em um montante idêntico ao qual 
+se adiciona uma remuneração pelo serviço prestado sob a forma de um juro 
+da dívida. O montante do empréstimo deve ser incluído nos fundos de origem 
+interna, pois a fonte de financiamento externa prevê que a soma emprestada 
+lhe seja reembolsada. O custo do empréstimo não é incluído na P&D. O mesmo 
+racional aplica-se quando uma unidade externa dá as garantias necessárias 
+para a obtenção de um empréstimo ou quando os juros são cobertos em parte 
+ou na totalidade por outras fontes de financiamento (como é, as vezes, o caso 
+de empréstimos à P&D subsidiados pelo Estado). Essas formas de apoio devem 
+ser incluídas como parte do financiamento interno.
+7.40 Recomenda-se a distinção entre fundos recebidos de outras empresas 
+nacionais não-filiadas e de empresas filiadas as quais fazem parte do mesmo 
+grupo nacional. As duas categorias de empresas são consideradas como fontes de financiamento externo. Na maior parte das estatísticas internacionais 
+sobre as despesas de empresas em P&D, a fonte de financiamento é a soma do 
+financiamento interno das empresas, do financiamento das empresas nacionais 
+não-filiadas e do financiamento das empresas filiadas que fazem parte do mesmo grupo nacional (ver também a seção 7.7 sobre a declaração da P&D externa).
+7.41 Os dados relativos às empresas filiadas e não-filiadas situadas no 
+estrangeiro devem ser obtidos separadamente e apresentados como fazendo 
+parte do “restante do mundo”
+
+
+Financiamento proveniente do setor do Estado
+7.42 No caso de financiamento para P&D interna recebido do Estado, é importante garantir que os respondentes distingam os fundos recebidos sem a expectativa de uma contrapartida de P&D (por exemplo, subsídios ou subvenções) 
+dos fundos recebidos em troca de resultados de P&D, tipicamente no quadro 
+de contratos de prestação de serviços com uma instituição do Estado. Algumas 
+empresas têm dificuldade em diferenciar entre os contratos que implicam a 
+prestação de P&D a uma empresa pública dos contratos de P&D estabelecidos 
+com órgãos da administração pública. Também pode ser difícil separar, na 
+prática, os fundos de troca dos fundos de transferência, pois isso depende da 
+atribuição de riscos e de direitos sobre o resultado incerto das atividades de 
+P&D executadas por empresas e financiadas pelo Estado. A intenção última é a 
+de distinguir entre as duas categorias apresentadas no Capítulo 4, seção 4.3. Por 
+exemplo, não é invulgar uma empresa utilizar o termo “contrato” para designar 
+um acordo de subvenção, mas todos os esforços devem ser feitos para classificar 
+com precisão todas as formas de financiamento
+
+
+7.43 Alguns países podem querer recolher informação sobre o nível da 
+administração a qual atribui os fundos para a P&D e mesmo sobre as instituições e os programas envolvidos. Na prática, o mais frequente é distinguir 
+“o financiamento tendo como origem a administração central ou federal” do 
+“financiamento tendo como origem as regiões ou os Estados federados” (em 
+conjunto com a separação entre transferência de fundos, como as subvenções, 
+e os fundos de troca, como as receitas de contratos de prestação de serviços).
+7.44 Sempre que possível, a fonte original do financiamento deve ser identificada na declaração de dados, mesmo quando uma instituição pública ou 
+privada serve de intermediário e efetua a transferência de fundos. Em muitos 
+casos, a empresa beneficiária não pode fornecer informação senão sobre a instituição intermediária, ou seja, sobre a fonte de financiamento mais próxima.
+7.45 Alguns países atribuem formas específicas de alívio fiscal com o objetivo de encorajar o financiamento ou a execução de P&D. Instruções sobre as 
+formas de quantificar separadamente esse tipo de apoio são dadas no Capítulo 
+12. Como indicado no Capítulo 4 (seção 4.3), esse manual recomenda que o custo 
+da execução de P&D que é “financiado” com a expectativa de receitas futuras ou 
+alívios fiscais, ou reduções de impostos obtidas no período em avaliação devida 
+à atividades anteriores, seja considerado como financiamento de origem interna 
+e não como ajudas do Estado
+
+
+
+Financiamento proveniente do restante do mundo
+7.46 Quando se faz o recolhimento de dados sobre o financiamento recebido 
+do estrangeiro, é frequentemente relevante identificar o setor de onde vem o financiamento, tal como para as fontes de financiamento nacionais. Como foi dito 
+anteriormente, é particularmente importante identificar os fundos recebidos de 
+empresas filiadas situadas no estrangeiro dos que provêm de empresas não-filiadas 
+não-residentes. Países diferentes poderão identificar agências ou organismos de 
+financiamento internacionais ou supranacionais diferentes enquanto fontes de 
+financiamento pertinentes. No caso dos países membros da União Europeia (UE), 
+as “instituições e outros órgãos da UE” poderão ser essa fonte de financiamento.
+Distribuição de despesas das empresas em P&D pelo tipo de P&D
+7.47 A exemplo de outros setores, recomenda-se o recolhimento das empresas de dados sobre a distribuição das despesas de P&D, por tipo de P&D como se 
+indicou no Capítulo 2 tendo em conta os seguintes parâmetros:
+• Pesquisa fundamental: as empresas podem executar pesquisa fundamental 
+“pura”. Porém, as empresas executam mais frequentemente pesquisa para 
+preparar uma nova geração de tecnologias, mesmo quando elas não buscam ainda uma aplicação ou uma utilização comercial imediata. Esse tipo 
+de pesquisa entra na definição de pesquisa fundamental pois não apresenta 
+uma utilização específica, mas é realizada com a expectativa de que dará 
+origem a um número indeterminado de aplicações potenciais no futuro. É 
+o que usualmente se designa por “pesquisa fundamental orientada”. Como 
+se supõe que apenas uma pequena parte da P&D empresarial se classifica 
+como pesquisa fundamental, recomenda-se que os institutos de estatística 
+nacionais verifiquem cuidadosamente se os respondentes os quais declaram despesas internas elevadas de pesquisa fundamental compreenderam bem o que está incluído pela definição de pesquisa fundamental apresentada nesse manual.
+• Pesquisa aplicada: este tipo de atividade procura resolver um problema particular ou atingir um objetivo comercial específico. A passagem da pesquisa 
+fundamental para a pesquisa aplicada manifesta-se frequentemente pelo 
+lançamento de um novo projeto tendo em vista explorar resultados prometedores de um programa de pesquisa fundamental (o que implica amiúde a 
+passagem de uma perspectiva a longo prazo para uma perspectiva a curto 
+ou médio prazo). As empresas com frequência também têm a necessidade 
+de apoiar as suas atividades de “desenvolvimento de produto” com conhecimentos suplementares resultantes de atividades de pesquisa aplicada, 
+que potencialmente podem ter um vasto campo de aplicação.
+• Desenvolvimento experimental: é a componente geralmente mais importante da 
+P&D empresarial, e tem por objetivo um plano ou um desenho de um produto 
+ou processo novo ou substancialmente melhorado, para venda ou para uso 
+interno. Baseia-se em pesquisas precedentes ou na experiência prática, e 
+inclui a formulação de conceitos, desenho e teste de alternativas de produtos, 
+e pode incluir a construção de protótipos ou o lançamento de uma instalação-piloto (ver Capítulo 2, seção 2.7). Não inclui testes de rotina, a resolução 
+de problemas ou a modificação periódica de produtos, cadeias de produção, 
+processos ou operações em curso. As primeiras unidades produzidas no contexto de um ensaio tendo em vista uma produção em larga escala não devem 
+ser consideradas como protótipos de P&D. Tais atividades não satisfazem 
+explicitamente os critérios de novidade e de incerteza. Para serem contabilizadas como parte do desenvolvimento experimental, as atividades devem 
+requerer o saber e as competências de um “pesquisador”. Os entrevistadores 
+os quais obtém os dados estatísticos devem ajudar os inquiridos a distinguir 
+o “desenvolvimento experimental” do desenvolvimento de produto – que é 
+mais vasto e engloba atividades de comercialização – bem como do estado de 
+pré-produção, termo o qual é frequentemente utilizado nos projetos públicos 
+de grande envergadura relativos às indústrias da defesa e aeroespacial e que 
+engloba trabalho não experimental sobre os produtos ou os sistemas como 
+a concepção técnica final, instrumentação e engenharia industrial, demonstrações a usuários e mesmo atividades de produção limitada. As fronteiras 
+nem sempre são completamente claras.
+Distribuição de despesas das empresas em P&D por orientação setorial 
+ou por classificação de atividade econômica
+P&D por atividade econômica principal das empresas
+7.48 Como referido anteriormente, as variáveis de classificação institucional 
+podem ser utilizadas para repartir as despesas das empresas em P&D. Por exemplo, 
+indicadores de despesas de P&D e de pessoal de P&D são regularmente produzidos 
+para uma vasta gama de indústrias. Uma variável da classificação CINI para as 
+atividades econômicas (Nações Unidas, 2008a) deverá existir para o conjunto das 
+empresas incluídas em uma população alvo de uma sondagem de P&D (ver seção 
+7.4). A agregação da P&D interna das empresas individuais permitirá a determinação do grau de P&D executado por todas as unidades de um setor específico. O 
+interesse desse tipo de indicador, com base nas unidades, reside na relação simples 
+com outras estatísticas econômicas setoriais estabelecidas com base na atividade principal, desde que os critérios de definição das empresas enquanto unidades 
+estatísticas e as suas distribuições por indústrias sejam mutuamente consistentes.
+7.49 A atividade econômica principal de uma empresa é normalmente definida 
+relativamente à atividade econômica que lhe dá os resultados econômicos mais 
+importantes. Essa classificação das empresas é também relevante para a medida da 
+P&D. Por exemplo, os recursos de P&D das empresas classificadas na divisão 72 do 
+CINI Revisão 4, devem ser reportados enquanto tal. As abordagens fundamentadas 
+no conteúdo da P&D correspondem à distribuição funcional da P&D por domínio 
+do produto ou setor servido pela P&D, como serão apresentados a seguir.
+7.50 Nesse manual é reconhecido que em alguns países a distribuição funcional da P&D por orientação setorial é considerada como um método particularmente pertinente para reportar a P&D das empresas, e que a consistência com a 
+classificação das unidades as quais executam a P&D com base na sua atividade 
+econômica principal não é garantida. Prioridades diversas devem ser levadas em 
+conta antes de definir uma estratégia nacional em matéria de declaração de P&D e 
+de difusão da informação. Apesar disso, os países são encorajados a adotar no domínio da P&D as classificações internacionais padrão das atividades econômicas.
+P&D por orientação setorial (domínio do produto ou setor servido)
+7.51 A orientação setorial da P&D executada por unidades do setor das 
+empresas não pode ser determinada simplesmente com base na sua atividade 
+econômica principal. Isso deve-se a duas razões principais:
+• Em primeiro lugar, uma empresa pode explorar ativamente múltiplas 
+linhas de produtos correntes ou presumivelmente futuros. Uma empresa 
+pode desenvolver um novo produto para entrar em um novo mercado que 
+não faz ainda parte do seu domínio de especialização. Além disso, variantes 
+nas práticas nacionais de classificação das empresas podem levar a diferenças no grau de detalhamento em que os dados da atividade principal 
+são coligidos. Por várias razões, a agregação dos dados pode ser distorcida 
+por não considerar a distribuição funcional interna da P&D, que pode não 
+corresponder à composição do valor acrescentado ou do volume de negócios em termos de bens e de serviços produzidos.
+• Em segundo lugar, a admissão implícita na qual a atividade econômica principal da P&D é inteiramente executada internamente e é utilizada unicamente 
+para as atividades próprias das empresas não é adequada a muitas empresas. 
+Algumas empresas especializam-se no fornecimento de serviços de P&D a 
+outras empresas que utilizam a P&D para apoiar a sua atividade econômica. 
+Outras empresas executam P&D com recursos internos em uma base especulativa, e decidem não usar a P&D elas próprias, mas sim permitindo que 
+outros comercializem essa P&D mediante o pagamento de taxas e direitos 
+de licenciamento, ou vendem diretamente os direitos de propriedade intelectual resultantes da P&D. Essas práticas enfraquecem a ligação entre a 
+atividade econômica principal, a execução da P&D e a sua orientação setorial.
+7.52 Do ponto de vista prático, a classificação por atividade econômica 
+principal não reflete sempre o domínio principal das atividades de P&D de uma 
+empresa. Por exemplo, uma empresa classificada como atacadista pode mesmo 
+assim ter vendas a varejo da sua produção e as suas atividades de P&D podem 
+estar inteiramente dirigidas para a melhoria dos seus processos de fabricação 
+e de produção. As práticas de classificação geral deverão evoluir no futuro pois  os institutos estatísticos nacionais estão implementando diretivas específicas 
+sobre o tratamento de diferentes tipos de produtores de bens sem fábricas 
+(UNECE, 2014). Ess as diretivas enfatizam consideravelmente a importância de 
+produtos de propriedade intelectual, incluindo ativos baseados na P&D.
+7.53 Uma forma de minimizar as distorções potenciais causadas por esses 
+tipos diferentes de financiamento, de execução e de utilização da P&D consiste 
+em perguntar aos usuários qual é a real orientação industrial da P&D executada. 
+Em princípio, isso deve ser mais informativo para alguns tipos de comparação 
+com as estatísticas de produção, na medida em que é possível relacionar a aquisição de conhecimento com a atividade econômica que utiliza esse conhecimento.
+7.54 Há diferentes conceitos os quais podem ser potencialmente relevantes 
+para a noção da orientação setorial da P&D, e as sondagens de P&D poderão 
+utilizar meios diferentes para obter essa informação. A orientação setorial pode 
+ser identificada a partir:
+• Do produto (bem ou serviço) em que se espera incorporar o resultado da 
+P&D, independentemente da indústria que o produz, ou
+• Do setor que provavelmente utilizará os resultados esperados da P&D (sob a forma de P&D codificada em uma patente ou integrada em novos bens ou serviços).
+7.55 As duas abordagens estão intimamente relacionadas e podem ser 
+difíceis de diferenciar para um inquirido. Além disso, a P&D pode ser para um 
+produto que é uma componente de um sistema mais complexo, ou para um 
+processo que será comercializado ou incorporado na produção de outros bens 
+ou serviços. A P&D pode ser para uso interno de um dado setor ou servir, em 
+última instância, indústrias nas quais está verticalmente integrado.
+7.56 Tendo em vista esses desafios, devem ser utilizadas soluções pragmáticas. Uma limitação importante deve-se ao fato de que os inquiridos podem 
+não saber exatamente qual o setor que terá maiores hipóteses de beneficiar dos 
+futuros bens ou serviços resultantes da P&D, em particular no caso de pesquisa 
+fundamental e pesquisa aplicada. A utilização de bens e serviços que incorporem resultados de P&D pode evoluir com o tempo em função da conjuntura e de 
+oportunidades comerciais. A distribuição dos dados recolhidos será por vezes 
+baseada em uma abordagem heurística fundamentada em atividades anteriores de P&D e em informação interna, em particular em aplicações comerciais 
+de projetos de P&D. No caso de pesquisa fundamental não-orientada ou de 
+pesquisa com várias aplicações conhecidas, os inquiridos podem considerar 
+uma distribuição dos dados com base nos domínios de atividade da empresa.
+7.57 No que diz respeito à escolha de um sistema de classificação, as classificações internacionais tipo, por atividade econômica e por produto, são os 
+candidatos possíveis. A CINI não foi concebida para quantificar dados relativos 
+aos produtos em um grau detalhado. Para esse objetivo, existe uma classificação 
+da ONU distinta, a classificação central de produtos (CCO, Nações Unidas, 2008b). 
+Cada uma das categorias da CCP está acompanhada de uma referência à atividade 
+econômica da classificação CINI na qual os bens ou serviços são essencialmente 
+produzidos (critério da indústria de origem), mas isso não quer dizer que todas 
+as unidades que produzem esses bens ou serviços estejam referenciadas. A 
+classificação de produtos baseia-se nas características intrínsecas de bens ou 
+na natureza dos serviços prestados e, consequentemente, a estrutura dessa 
+classificação difere da estrutura do CINI. No caso da P&D, a utilização de classificações existentes de produtos ou de mercadorias levanta várias dificuldades 
+dado que essas classificações englobam elementos como licenças de exploração de produtos com forte incorporação de conhecimento. Tais categorias refletem 
+sobretudo o modelo econômico o qual corresponde à execução da atividade de 
+P&D e exploração dos seus resultados, mas não ao conteúdo da P&D. Por essa 
+razão não é possível recomendar a utilização geral da CCP, mas os países que o 
+desejem podem utilizar determinadas categorias da CCP em uma base ad hoc para 
+responder a necessidades específicas da utilização das estatísticas.
+7.58 Na ausência de uma recomendação específica (permitindo a adoção dos 
+métodos mais adequados às circunstâncias de cada país), sugere-se, com o propósito de repartir a P&D das empresas por orientação setorial, utilizar uma lista 
+simplificada de atividades econômicas (baseada na CINI ou em uma classificação 
+equivalente), privilegiando o setor servido ou o domínio do produto. Esse manual 
+reconhece que, por várias razões práticas, alguns países poderão ser levados a utilizar abordagens híbridas (Tabela 7.2) mas isso deve ser evitado sempre que possível.
+7.59 Na CINI de 2008 (CINI Revisão 4) a divisão 72 “pesquisa científica e 
+desenvolvimento” inclui as atividades relevantes de dois tipos de pesquisa e desenvolvimento definidas nesse manual: ciências físicas e naturais e engenharia, 
+e ciências sociais e humanas (a divisão 72, como esse manual, exclui os estudos 
+de mercado; ver classe 7320, CINI Revisão 4). A divisão 72 da CINI engloba as unidades implicadas principalmente no fornecimento de serviços de P&D a empresas 
+filiadas ou a terceiros. Algumas dessas unidades fornecem serviços indiferenciados à indústria; em alguns casos pode-se tratar de empresas envolvidas no 
+desenvolvimento de novos produtos ou no fornecimento de novas tecnologias ou 
+novo conhecimento organizacional aos seus clientes. Em geral, recomenda-se que 
+em uma repartição por orientação setorial, a P&D executada por empresas cuja 
+atividade econômica principal corresponda à divisão 72 da CINI seja atribuída 
+aos setores pertinentes servidos (geralmente ramos de atividade CINI aos quais 
+pertence a maior parte dos seus clientes). O mesmo se aplica a empresas as quais 
+se especializam no aluguel de propriedade intelectual (grupo 774, CINI Revisão 4).
+7.60 Recomenda-se que todas as empresas sejam classificadas pela sua 
+atividade econômica principal, e é vivamente sugerido que as suas despesas de 
+P&D interna sejam distribuídas com base na orientação setorial, qualquer que 
+seja a sua dimensão ou atividade. Em princípio, as despesas de capital destinadas à P&D devem ser excluídas da classificação por domínio de produto ou setor 
+servido e, consequentemente, apenas as despesas correntes da P&D devem ser 
+distribuídas com base nesses critérios. A razão para essa escolha deve-se a que 
+apenas as atividades correntes de P&D de uma unidade podem ser relacionadas 
+com resultados esperados e com usuários potenciais desses resultados. Na prática, é às vezes mais fácil para as empresas declarar os seus gastos totais em P&D. 
+Para garantir a coerência entre séries de dados fornecidos por países diferentes, 
+recomenda-se que se indique claramente nos metadados da P&D a abordagem 
+a qual foi utilizada para o recolheminto e distribuição dos dados. No caso dos 
+países os quais declaram o conjunto das despesas de empresas em P&D, é útil, 
+sempre que possível, indicar a quantia pela qual diferem da distribuição aplicável 
+apenas às despesas correntes de P&D, baseando-se na proporção de despesas de 
+capital do total de despesas de P&D para uma dada indústria.
+Utilização conjunta de informações sobre a atividade principal 
+e sobre a orientação setorial
+7.61 Para alguns objetivos analíticos pode ser relevante construir tabelas as 
+quais permitam relacionar a distribuição por orientação setorial e por atividade principal das empresas que executam P&D. Essas tabelas poderão servir para 
+construir matrizes ad hoc de recursos e utilizações da P&D, evidenciando a relação 
+entre os executantes da P&D e as prováveis utilizações. Tais matrizes poderão, 
+em seguida, ser utilizadas nas análises de impacto da P&D. Os países são encorajados a produzirem, se possível, essas compilações analíticas as quais também 
+servirão para avaliar a qualidade dos dados fornecidos pelos respondentes.
+
+
+Repartição das despesas das empresas em P&D por domínio de P&D
+7.62 A repartição das despesas das empresas em P&D por domínio de P&D 
+só é atualmente uma prática comum em um número reduzido de países. Deveria ser possível distribuir a maioria das atividades anteriormente identificadas 
+como “pesquisa fundamental” ou “pesquisa aplicada” por domínio de P&D, 
+mas a repartição do desenvolvimento experimental utilizando as categorias 
+de domínio de P&D pode colocar dificuldades às empresas. Em muitos países é 
+raro que as empresas classifiquem a documentação sobre os projetos e atividade de P&D servindo-se de tais categorias, e é provável que o desenvolvimento 
+experimental envolva áreas tecnológicas interdisciplinares e uma combinação 
+de vários domínios difíceis de distinguir uns dos outros. Dadas essas dificuldades, esse manual não pode recomendar especificamente uma distribuição de 
+despesas de P&D por domínio de P&D. Apesar disso, se alguns países decidirem 
+utilizar uma repartição por domínio de P&D, recomenda-se que sejam adotadas 
+as categorias de domínios de P&D identificadas na seção 3.4 do Capítulo 3. Pode 
+ser encontrada uma classificação mais detalhada no anexo de aconselhamento 
+desse manual consultável em http://oe.cd/frascati.
+Repartição das despesas das empresas em P&D por objetivo socioeconômico
+7.63 Poucos países procuram atualmente distribuir as suas despesas de P&D 
+de empresas com base nas categorias correspondentes a objetivos socioeconômicos. Embora seja possível que uma grande parte das despesas de P&D possa ser 
+classificada de forma pragmática em categorias representando objetivos sociais, é 
+pouco provável que as empresas vejam os seus créditos orçamentais de P&D nesses termos. É por isso que esse manual não recomenda explicitamente esse modo 
+de repartição. Apesar disso, nos países em que foram implementadas políticas 
+visando agir especificamente sobre a orientação funcional da P&D no setor das 
+empresas (por exemplo: saúde, ambiente, energia ou defesa), pode ser pertinente 
+o recolhimento de informações sobre a contribuição da P&D das empresas para 
+a realização de objetivos específicos de relevância política ou social. Como é provável que essas repartições reflitam circunstâncias muito específicas dos países, 
+é recomendada prudência na comparação internacional dos dados resultantes.
+Repartição das despesas das empresas em P&D 
+por localização geográfica
+7.64 Os países podem julgar útil compilar totais distintos para a repartição 
+de despesas das empresas em P&D por localidade ou região. Quando as despesas das empresas em P&D são inteiramente classificadas na sua localização 
+principal ou centro de operações, pode-se perder de vista onde é realmente executada a P&D. Não é invulgar as empresas realizarem atividades em múltiplas 
+localizações. Tal como descrito na seção 7.4, cada unidade estatística deve ter uma variável de classificação para a localização geográfica. Essa variável pode, 
+ou não, ser relevante para identificar onde é que a P&D de uma empresa é realizada. Uma empresa pode ter um departamento/divisão dedicada a P&D fora 
+da localização geográfica das instalações de produção as quais determinaram a 
+localização geográfica. Além disso, uma empresa pode executar P&D (incluindo 
+P&D ocasional) em localizações (estabelecimentos) diversos espalhados por 
+múltiplas localizações geográficas. A escolha da localização geográfica é determinada de acordo com necessidades nacionais ou internacionais. Orientações 
+sobre a distribuição de P&D por região podem ser encontradas na Internet, em 
+complemento a esse manual, no endereço http://oe.cd/frascati.
+
+Repartição das despesas das empresas em P&D 
+por domínio tecnológico específico
+7.65 Orientações adicionais sobre o recolhimento e compilação de dados de 
+P&D empresarial, além das recomendações específicas desse manual, podem 
+ser encontradas na Internet em complemento a esse manual no endereço http://
+oe.cd/frascati. Nesse complemento são abordadas, por exemplo, as questões das 
+tecnologias facilitadoras da P&D e das tecnologias generalistas. Os usuários de 
+estatística mostram interesse em aspectos como o processo de criação de novas 
+tecnologias, a sua difusão e padrões de aplicação.
+7.66 A maior parte dos trabalhos estatísticos da OCDE dedicados à quantificação de tecnologias baseia-se em métodos, procedimentos, e classificações 
+concebidos para quantificar fenômenos ligados às TIC e às biotecnologias. A 
+relação entre as estatísticas das TIC e da P&D foi determinada estabelecendo indicadores para as TIC com base na classificação da P&D por atividade econômica 
+principal e domínio do produto. Recentemente foram feitos esforços no domínio 
+das nanotecnologias aplicando o modelo geral concebido para as biotecnologias, 
+havendo um interesse geral em avaliar o impacto de softwares de P&D em uma 
+vasta gama de indústrias e campos de pesquisa (ver Caixa 4.1 no Capítulo 4 sobre 
+orientações sugeridas para o recolhimento de dados de software de P&D). Vários 
+países incluem perguntas sobre domínios tecnológicos nas suas sondagens sobre 
+a P&D das empresas, mas os seus métodos diferem na medida em que permitem 
+que o mesmo recurso de P&D possa ser atribuído a várias tecnologias, pois estas 
+facilmente se sobrepõem (por exemplo, atividades de P&D bio-nano).
+7.67 A OCDE adotou, em 2005, um Quadro para as estatísticas de biotecnologia
+(OCDE, 2005) e recentemente lançou um projeto estatístico internacional de recolhimento de dados sobre P&D de nanotecnologias a nível internacional. Vários países já adaptaram os seus inquéritos de P&D para recolher esse tipo de informação 
+de empresas e um Compêndio estatístico é publicado regularmente pela OCDE.
+7.68 Os utilizadores de estatísticas manifestam um forte interesse pelos 
+domínios de aplicação das tecnologias (por exemplo, atividades de P&D em 
+saúde, energia, agro-bio, tecnologias verdes ou de baixo teor de carbono). Essas 
+categorias relacionam-se geralmente com objetivos socioeconômicos específicos, 
+mas são frequentemente transversais. Além disso, há um interesse em um detalhamento mais fino do que aquele que é possível atingir de maneira sistemática 
+nas sondagens. Embora os institutos de estatística nacionais os quais trabalham 
+com as estatísticas de P&D devam refletir sobre a melhor maneira de informar 
+sobre os esforços das empresas que são relevantes para os desafios sociais, não 
+é possível nesse momento dar mais orientações ou recomendações sobre esse 
+assunto nesse manual. Os métodos e estratégias de recolhimento de dados de P&D sobre um domínio tecnológico específico devem ser definidos por meio de 
+consultas intensas entre quem recolhe os dados, os responsáveis pela elaboração 
+das políticas, os usuários de dados e os especialistas do domínio em causa.
+
+
+
+7.7. Repartição funcional da P&D externa no setor das empresas
+7.69 As empresas podem também providenciar fundos a outras empresas 
+para a execução de P&D externa; elas podem também comprar ou vender P&D 
+a outras empresas. Esses casos, que dizem respeito às unidades estatísticas de 
+todos os setores econômicos, são abordados em detalhe no Capítulo 4 (particularmente na seção 4.3 sobre a quantificação do financiamento da P&D externa 
+e a compra e venda de P&D). Dado que a empresa é a unidade de interesse para 
+as estatísticas de P&D, o financiamento da P&D de um membro “A” de um grupo 
+de empresas para outro membro “B” do mesmo grupo de empresas, deve ser reportado como financiamento de “A” a P&D externa executada por “B”. De acordo 
+com as indicações apresentadas no Capítulo 4, a repartição abreviada seguinte 
+é recomendada para as empresas as quais financiam atividades de P&D externa 
+e para o rastreamento da compra e venda de P&D:
+Nacionalmente:
+• Setor das empresas
+❖ Empresas do mesmo grupo
+❖ Outras empresas não-filiadas
+• Setor do Estado
+• Setor do ensino superior
+• Setor privado sem fins lucrativos
+Mundialmente:
+• Setor das empresas
+❖ Empresas do mesmo grupo
+❖ Outras empresas não-filiadas
+• Setor do Estado
+• Setor do ensino superior
+• Setor privado sem fins lucrativos
+• Organizações internacionais
+Plano de sondagem: enquadramento da população de P&D
+7.70 A determinação do grupo de referência (população alvo) é a primeira 
+etapa de qualquer projeto estatístico. A população alvo para fins de operação de 
+recolhimento de dados sobre a P&D das empresas é constituída por todas as empresas as quais executam P&D (ou que financiam P&D, como indicado na seção 
+4.3 do Capítulo 4 sobre a quantificação do financiamento da P&D externa) e que 
+se situam em um dado território (geralmente um país). Tal como recomendado 
+na seção 6.3 do Capítulo 6, as sondagens de P&D visando o setor das empresas devem recensear e incluir na população alvo o conjunto das empresas situadas em um dado território no qual se tenha conhecimento da alta probabilidade de que 
+executem (ou financiem) atividades de P&D durante um certo período de tempo. 
+A população das empresas que provavelmente executem atividades de P&D é, 
+por seu lado, uma subpopulação do conjunto das empresas em atividade, em que 
+cada uma pode potencialmente vir a ser um executante de P&D. Assim, é também 
+recomendado sondar uma amostra de todas as outras empresas para identificar 
+aquelas que executam atividades de P&D entre as que foram ignoradas a priori por 
+se supor que não executavam P&D. Realisticamente, em muitos países é razoável 
+considerar que é muito pouco provável que a maioria das microempresas, que 
+frequentemente são a maioria das empresas, executem (ou financiem) atividades 
+de P&D. É por isso que, na prática, as microempresas são frequentemente tratadas (para fins estatísticos) como não fazendo parte do campo dos executantes 
+“potenciais” de P&D. Os institutos de estatística nacionais utilizam, em geral, 
+para todas as suas sondagens sobre empresas, um “registro de empresas” único 
+incluindo o conjunto das empresas em atividade durante um dado ano.
+
+
+Registros de empresas
+7.71 Os registros de empresas são utensílios essenciais para a compilação de 
+estatísticas de P&D, mas podem não ser suficientes para identificar a população 
+relevante a inquirir sobre P&D. Embora proporcionem a informação essencial 
+sobre as características chave das empresas as quais potencialmente possam ser 
+incluídas na amostragem de P&D (por exemplo, dimensão, indústria, estrutura do 
+capital, idade), os registros das empresas normalmente não incluem informação 
+sobre a P&D das empresas ou sobre a probabilidade da P&D ser executada. Assim, 
+uma prática comum consiste em inquirir a população total das empresas (ou um 
+subconjunto identificado em termos da dimensão e do setor de atividade) para 
+fins exploratórios, isto é, identificando ou rastreando empresas que apresentam 
+um potencial de P&D. Quanto ao recolhimento de dados de P&D, recomenda-se 
+inquirir unicamente as empresas para as quais há pelo menos uma probabilidade 
+de haver atividades de P&D, tendo em vista a redução dos custos do recolhimento 
+de dados e o volume de trabalho dos respondentes.
+7.72 Sendo a execução de atividades de P&D no setor das empresas uma 
+ocorrência rara, pois apenas uma percentagem reduzida de empresas executa 
+geralmente tais atividades, devem ser feitos todos os esforços para identificar 
+e seguir as empresas que têm um forte potencial de P&D. Assim, uma simples 
+amostragem aleatória não é o meio mais fiável para determinar o nível de atividades de P&D. De fato, empresas que parecem ser similares em termos do que 
+podem oferecer ao mercado, podem ter estratégias de P&D muito diferentes e 
+a amostragem aleatória não oferece estimativas suficientemente confiáveis.
+7.73 Por outro lado, muitos países não têm um registro de empresas detalhado e atualizado, nem um anuário das empresas as quais executam P&D. 
+Mesmo quando esse registro existe, é importante – antes de lançar uma sondagem – verificar se foi adequadamente atualizado, incluindo apenas empresas 
+ativas, e excluindo empresas fictícias ou dormentes. Na ausência de um registro 
+completo de empresas (ou de listas similares), não é possível produzir estimativas de população ou amostragens, ou mesmo realizar uma sondagem exata 
+de pré-seleção de P&D.
+7.74 Quando se dispõe de informações suficientemente completas sobre a 
+população total das empresas em atividade (a partir de um registro de empresas ou de outras fontes), é relativamente simples realizar uma sondagem com  o propósito de identificar os executantes de P&D e depois recolher diretamente 
+desses executantes os dados necessários. Isso implica interrogar todas as empresas que se tem conhecimento de serem prováveis executantes de atividades 
+de P&D. Para realizar uma sondagem dessas é preciso constituir um registro 
+(ou diretório) ad hoc de empresas as quais executam P&D. O recolhimento e 
+compilação dessa informação exige tempo, mas esse trabalho representa um 
+investimento importante para futuras sondagens.
+Compilação de anuários de potenciais executantes de P&D
+7.75 Quando não existe nenhum anuário de executantes de P&D no setor 
+das empresas, um esforço significativo deve ser realizado antes de lançar a 
+sondagem de P&D para criar uma lista ou inventário de empresas com elevada 
+probabilidade de executarem P&D. As fontes de informação seguintes sobre o 
+comportamento das empresas podem ser úteis a fim de identificar as empresas 
+que executam P&D:
+• Câmaras de comércio e indústria, associações profissionais, associações 
+de empresas que executam P&D. Um bom ponto de partida consiste em 
+contactar essas várias associações e perguntar aos seus serviços de relações públicas o que sabem sobre as atividades de P&D dos seus associados 
+(se têm autorização para informar sobre os seus associados). Associações 
+de executantes de P&D podem estar autorizadas a partilhar diretórios de 
+associados e informação relacionada.
+• Listas de empresas cotadas em bolsa, por exemplo em bolsas nacionais. 
+É necessário revisar as empresas listadas nas bolsas principais.
+• Relatórios anuais das empresas, jornais profissionais, anuários de laboratórios de P&D. Uma lista de referência de empresas que executam atividade 
+de P&D pode ser construída verificando as despesas de P&D mencionadas 
+nos relatórios financeiros ou nos sistemas de contabilidade habituais. Essas 
+fontes devem também ser exploradas com o intuito de recolher informações específicas sobre as atividades de P&D, em particular, a construção de 
+protótipos, criação de instalações piloto, etc.
+• Registros de subvenções e de contratos de P&D financiados por fundos 
+públicos. Em ambientes mais elaborados, os ministérios da ciência e da 
+tecnologia, ou da pesquisa – os quais são geralmente as instâncias nacionais que têm o papel mais importante no financiamento de subvenções 
+para pesquisa – podem dispor de uma lista de empresas beneficiárias de 
+apoios à pesquisa ou a inovação. As listas de contribuintes de programas 
+de pesquisa internacional são também facilmente acessíveis.
+• Listas de empresas que pedem créditos fiscais relacionados com atividades 
+e projetos de P&D. Uma cooperação estreita entre os gestores de sondagens 
+de negócios e os departamentos governamentais responsáveis por créditos 
+fiscais, facilitação de importações, promoção de exportações e controle de 
+preços, pode também ajudar a identificar executantes de P&D.
+• Listas de empresas que declararam atividades de P&D em sondagens precedentes sobre P&D ou sobre inovação, ou outras sondagens estruturais 
+sobre as empresas.
+• Lista de empresas que fizeram um pedido de patente nos últimos anos. Este 
+é, mais uma vez, um indicador de uma possível atividade de P&D.
+
+• Registros de ensaios clínicos aprovados ou registros administrativos semelhantes.
+7.76 É possível estabelecer um quadro de sondagem sobre as empresas as 
+quais executam atividades de P&D consultando essas fontes e contatando diretamente as empresas conhecidas por executar atividades de P&D. O trabalho de 
+identificação de executantes efetivos de P&D deve privilegiar em primeiro lugar 
+as grandes empresas que pertencem a setores os quais geralmente demonstram 
+uma forte intensidade de P&D. Para identificar os executantes de P&D dentro de 
+centenas de grandes empresas deve ser adotado um processo sequencial, começando por dar prioridade aos setores em que as atividades de P&D são mais prováveis, e depois examinar as ligações entre os executantes de P&D identificados e 
+outras empresas as quais estão ligados por cadeias de aprovisionamento, competidores, etc. Na ausência de informações publicadas, confirmando a existência de 
+atividades de P&D, o estabelecimento de contatos diretos com as empresas será 
+necessário, a fim de verificar a existência de tais atividades. Uma sondagem em 
+duas etapas poderá ser concebida: a primeira etapa identificando os executantes 
+de P&D por meio de um questionário muito curto, possivelmente incluída em 
+outra sondagem sobre as empresas; e a segunda etapa é dirigida às empresas 
+que declararam atividades de P&D, utilizando uma sondagem mais detalhada.
+
+Estratégias de sondagem
+7.77 As práticas nacionais de sondagem sobre P&D das empresas são muito diversas. Apesar disso, em todos os casos a identificação da população de 
+empresas que executam P&D, ou que apresentam uma elevada probabilidade 
+de executar P&D, é um primeiro passo essencial no processo de recolhimento 
+de dados. Contrariamente à situação dos outros setores em que diretorias de 
+instituições de ensino superior ou do governo estão disponíveis e são bem 
+conhecidas, as sondagens à P&D das empresas dependem em grande medida 
+da qualidade do quadro existente e da sua fiabilidade de maneira a evitar a 
+subestimação, ou a sobrestimação, das atividades de P&D.
+7.78 Podendo contar com um quadro fiável, os institutos de estatística 
+nacionais podem realizar um recenseamento ou uma sondagem de opinião. Levando em conta a forte concentração de atividades de P&D (quer seja em termo 
+de despesas, quer seja em termos de efetivos) em um número bastante restrito 
+de categorias de dimensão e de setor de atividade, é geralmente recomendado um recenseamento para esse conjunto de empresas pois têm uma maior 
+probabilidade de terem executado atividades de P&D no ano de referência. Os 
+executantes de P&D conhecidos e de grandes dimensões devem ser incluídos 
+nesse grupo de sondagens em que todos são incluídos.
+7.79 As empresas com menor probabilidade de terem executado atividades 
+de P&D durante o ano de referência podem ser objeto de um recenseamento ou de 
+uma sondagem de opinião. Essa abordagem parte do princípio que todos os executantes potenciais de P&D estão efetivamente incluídos no quadro de sondagem 
+e que a probabilidade de descobrir executantes suplementares fora desse quadro 
+é desprezável ou apenas diz respeito a pequenas empresas ou microempresas.
+7.80 Quando não existe um quadro de sondagem fiável, ou seja, um anuário 
+de empresas que são potenciais executantes de P&D, é necessária uma abordagem diferente. Nesse caso é possível que um número não desprezável de 
+unidades de P&D permaneça por identificar ou que alguns grandes executantes 
+de P&D não tenham ainda sido incluídos no quadro. Nessas condições, uma sondagem sobre os executantes conhecidos de grandes dimensões (de preferência 
+uma sondagem de recenseamento) deve ser complementado por uma sondagem 
+de opinião sobre uma subpopulação do registro geral das empresas (ou de um 
+registro semelhante), pressupondo que a maior parte das empresas em falta 
+serão consideradas com um dado grau de probabilidade (essencialmente com 
+base em uma classificação cruzada por dimensão e setor de atividade). Uma 
+sondagem com duas etapas – identificação de executantes de P&D seguido de 
+recolhimento de dados – é igualmente recomendado com o objetivo de reduzir 
+o custo do recolhimento de dados e o volume de trabalho das empresas.
+7.81 É irrelevante introduzir um valor de dimensão mínima quando uma 
+sondagem sobre a P&D das empresas se baseia em um quadro fiável que reúne as 
+empresas correspondendo aos critérios nacionais de provável atividade de P&D. 
+Por outro lado, quando se estabelece uma amostragem a partir de um registro 
+geral de empresas com o objetivo de identificar novos executantes potenciais 
+de P&D, recomenda-se que sejam excluídas as microempresas da amostragem, 
+exceto se existem recursos suficientes para rastrear os executantes potenciais de 
+P&D. Essa recomendação baseia-se na necessidade de evitar o risco de inflacionar 
+o número de executantes o qual poderia resultar de um número elevado de microempresas na população global. Essa recomendação também origina menores 
+custos de sondagem e menor trabalho para o conjunto dos respondentes.
+
+
+
+Preparação do questionário
+7.82 O questionário é um utensílio concebido para o recolhimento de dados. 
+Este deve ser de fácil compreensão e utilização, sendo também eficaz e adaptável. 
+Os questionários de sondagens das empresas, que são geralmente autoadministrados, devem ser preenchidos por uma grande variedade de indivíduos os quais 
+trabalham para empresas de setores muito diversificados. Assim, os questionários devem adaptar-se a condições de utilização e necessidades muito diferentes.
+7.83 Os questionários eletrônicos oferecem a possibilidade de pré-tratamento dos dados recolhidos, por meio da implementação de questões de 
+filtragem permitindo que os inquiridos saltem questões irrelevantes e de dispositivos integrados de verificação. Eles permitem uma interação efetiva com 
+os inquiridos permitindo a prevenção de erros ou incoerências nos dados fornecidos. Sendo por vezes necessário recorrer a vários métodos de recolhimento 
+de dados quando um número elevado de empresas não tem acesso à Internet ou 
+não tem acesso a um custo abordável. Deve ser considerada a necessidade de o 
+questionário ser facilmente gerido por vários contatos dentro de uma empresa 
+(que podem ter conhecimentos e competências diferentes sobre os gastos em 
+P&D da empresa, sobre os contratos e o pessoal).
+7.84 Vários países recorrem a “sondagens combinadas”, principalmente juntando sondagens sobre a P&D das empresas com opiniões sobre a inovação das 
+empresas, como descritos no Manual de Oslo (OCDE/Eurostat, 2005). Esse método 
+é aceitável por esse manual, mas não é recomendado porque pode afetar a comparabilidade internacional dos resultados de P&D: colocar questões sobre a P&D e 
+sobre a inovação em um único questionário pode dificultar a diferenciação entre 
+a P&D e várias outras atividades relacionadas com a inovação (ver Capítulo 2) por 
+parte dos inquiridos. Recomenda-se aos países que optem por fazer uma sondagem 
+combinada P&D-inovação que: (a) forneça aos inquiridos dois questionários ou, 
+pelo menos, um questionário com duas seções distintas, indicando claramente que 
+essas duas noções estatísticas não são complementares mas sim sobreponíveis; (b)  reduza tanto quanto possível o tamanho do questionário combinado tornando-o 
+mais compreensível; (c) apresente de maneira sistemática o método de recolhimento de dados adotado (principalmente para a comparação dos resultados de 
+P&D com as dos países os quais não usam sondagens combinadas); (d) utilize um 
+único registro das empresas como quadro estatístico para inquirir tanto sobre a 
+inovação como sobre a P&D das empresas (respeitando os procedimentos acima 
+descritos). Esses passos também ajudam a garantir a consistência com as instruções e recomendações do Manual de Oslo (OCDE/Eurostat, 2005).
+Práticas de recolhimento de dados
+7.85 O objetivo de qualquer sondagem é obter uma elevada taxa de respostas, e isso é particularmente importante nas sondagens sobre P&D porque a P&D 
+das empresas é uma atividade pouco comum (relativamente poucas empresas 
+do universo de todas as empresas executam P&D, e consequentemente são difíceis de encontrar). Esste comentário vale tanto para os recenseamentos (pois 
+é extremamente difícil de formular hipóteses sobre as atividades efetivas de 
+P&D de não-inquiridos) como para as sondagens de opinião, pois uma taxa de 
+respostas baixa pode conduzir a enviesamentos importantes (além de aumentar 
+o erro de amostragem). Idealmente devem ser feitos todos os esforços para minimizar a taxa de não-respostas. Para manter o nível de qualidade dos dados, os 
+institutos de estatística devem definir a taxa de resposta mínima abaixo da qual 
+não podem ser feitas estimativas para a população. Quando a taxa de resposta 
+desce abaixo do nível aceitável, deve ser conduzida uma análise do enviesamento das não-respostas. Este manual não pode recomendar tolerâncias específicas 
+para as não-respostas. Obviamente que em uma sondagem obrigatória pode-se 
+obter maiores taxas de resposta do que em uma sondagem voluntária.
+7.86 Porém, em termos práticos, uma taxa de respostas não ponderada pode 
+não ser o melhor indicador para quantificar a taxa de cobertura das atividades de 
+P&D alcançada em uma sondagem sobre as empresas. De fato, a heterogeneidade 
+elevada a qual pode ser sistematicamente observada entre as empresas que executam atividades de P&D pode sugerir que, na maior parte dos países, um pequeno grupo de grandes executantes de P&D, quando são devidamente levados em 
+conta, representa uma percentagem muito elevada do total de despesas de P&D 
+das empresas (e também, mas em um grau menos elevado, de efetivos de P&D).
+7.87 Em consequência, devem ser implementadas estratégias específicas para 
+atingir o duplo objetivo de aumentar a taxa de resposta e garantir uma cobertura 
+quase total dos grandes executantes de P&D. Isso reforça a necessidade de explorar 
+todas as fontes de informação disponíveis para apoiar a atividade de recolhimento 
+de dados. A disponibilidade de dados sobre créditos fiscais de P&D é particularmente 
+importante dado que essa informação pode ser útil para identificar os grandes executantes os quais devem ser alvos específicos do esforço do recolhimento de dados.
+7.88 Várias outras atividades, além da melhoria do quadro, devem ser implementadas para melhorar a qualidade do esforço de recolhimento de dados. 
+Os inquiridos devem ter consciência, permanentemente, que estão a participar 
+em uma sondagem estatística: devem ser informados do objeto e da natureza da 
+sondagem, do organismo o qual é responsável pela sondagem e se têm o direito de 
+escolher o modo de transmissão dos dados pedidos (ou mesmo se têm a possibilidade de serem excluídos da sondagem). De forma geral, a equipe encarregada do 
+recolhimento dos dados deve estar disponível permanentemente para responder 
+às questões dos inquiridos e lhes oferecer apoio técnico e conselhos. Isso é já uma norma reconhecida pela maioria dos organismos oficiais de estatística, e deve 
+ser respeitada por todas as instituições as quais procuram produzir dados sobre 
+a P&D das empresas que sejam comparáveis internacionalmente.
+7.89 De modo a avaliar o sucesso da implementação de sondagens e a cobertura da população relevante, os institutos de estatística são encorajados a 
+calcular a taxa de resposta (TR), a taxa de resposta ponderada (TRP) e a taxa de 
+cobertura (TC). Essas três medidas de qualidade oferecem perspectivas diferentes, dependendo de qual é o aspecto de interesse. Para populações as quais 
+são relativamente homogêneas relativamente as variáveis medidas, há provavelmente pouca diferença entre essas três medidas. Mas como as atividades de 
+P&D são assimétricas e fortemente concentradas dentro do setor das empresas, 
+as três medidas são relevantes (ver Caixa 7.1).
+
+
+Caixa 7.1. Importância de várias medidas da qualidade 
+dos dados das sondagens
+Há muitas maneiras de medir a cobertura e a taxa de respostas. 
+Várias medidas da qualidade da sondagem podem ser apropriadas para 
+avaliar o recolhimento de P&D interno no setor das empresas.
+Por exemplo, se há uma população de 1.000 unidades em um setor 
+CINI com medidas de P&D de:
+• 1.000.000 por 1 unidade, 1.000 por 1 unidade e 1 por cada uma das 
+998 unidades restantes,
+• O instituto de estatística selecionou uma amostragem de 10 unidades, incluindo intencionalmente as unidades com a medida de 
+1.000.000 e a medida de 1.000, e uma amostragem aleatória de 8 
+unidades cada uma das quais com 1.
+Podem-se construir quatro cenários de recolhimento de dados em 
+que cada um deles tem uma taxa de resposta (TR) de 70% (quer dizer, 7 
+unidades da amostra de 10 respondeu à sondagem. Porém, as medidas dão 
+uma visão diferente segundo o tipo de unidades que responderam (supondo que 7 unidades em 10 responderam) em cada um dos quatro cenário
+
+
+
+Medidas da P&D das unidades					Análise das respostas
+e número que respondeu
+
+Cenário	 1.000.000 		1.000 	1 			TR 			TRP 		TC
+1 			0 			0 		7 			70,0% 		87,3% 		0,0%
+2 			0 			1 		6 			70,0% 		75,0% 		0,1%
+3 			1 			0 		6 			70,0% 		75,0% 		99,8%
+4 			1 			1 		5 			70,0% 		62,6% 		99,9%
+
+
+Nesse exemplo hipotético, o cenário 3 parece distinguir-se favoravelmente dos outros em termos de taxa de resposta ponderada (TRP) da 
+população inquirida, embora a unidade a qual sabe-se que tem a segunda 
+maior despesa de P&D no setor não tenha respondido. Em termos de taxa 
+de cobertura (TC), o cenário 4 corresponde a melhor taxa de cobertura 
+das despesas totais das empresas em P&D.
+
+
+
+
+Ponderação e estimativa
+7.90 A etapa final do tratamento de dados recolhidos sobre a P&D de empresas é a produção de resultados estatísticos sobre o nível de atividades de 
+P&D executadas pelas empresas no país declarante (em termos de despesas de 
+P&D e de efetivos de P&D). No caso de sondagens sobre a P&D das empresas, 
+o processo de estimativa depende fortemente dos procedimentos utilizados 
+para a identificação da população de referência. Alguns casos particulares, e 
+questões ligadas a estes, são aqui discutidos.
+7.91 A título de declaração preliminar, esse manual desaconselha a utilização de coeficientes exteriores (por exemplo, a aplicação de rácios anteriores 
+do setor relativos às vendas totais das empresas - P&D/vendas) como método 
+para estimar os totais de P&D das empresas à escala de cada setor de atividade. 
+Em algumas condições específicas, os rácios podem ser úteis a fim de estimar 
+as atividades de P&D de instituições de outros setores (principalmente no setor 
+do ensino superior, ver Capítulo 9), mas tal não é o caso do setor das empresas. 
+As empresas estão constantemente tomando decisões sobre se – e em que extensão – devem ou não envolver-se em atividades de P&D. A P&D interna é cara 
+e arriscada, e em qualquer momento uma empresa pode decidir abandonar os 
+seus projetos internos de P&D e mudar para a compra de serviços externos de 
+P&D ou para a aquisição de conhecimento codificado em termos de propriedade 
+intelectual. A grande heterogeneidade das estratégias de negócios, incluindo 
+as que se relacionam com P&D, nos vários ramos de atividade e categorias de 
+dimensão é a razão fundamental pela qual esse manual não recomenda a utilização de coeficientes na produção de estatísticas de P&D das empresas.
+7.92 Antes de iniciar os procedimentos de estimativa, os dados da sondagem devem ser verificados com precisão e validados. Os valores aberrantes 
+devem ser identificados e corrigidos, de maneira a remediar a não-resposta de 
+grandes executantes de P&D. A imputação – com base em informações auxiliares, como por exemplo relatórios de empresas ou histórico das respostas – é 
+preferível relativamente à reponderação dos dados dos outros inquiridos.
+7.93 Um comentário adicional deve ser feito relativamente à extrapolação 
+de resultados de uma sondagem de P&D sobre uma população indiferenciada 
+de empresas (por exemplo, uma amostra retirada de um registro de empresas). 
+Sendo a subpopulação das empresas passíveis de executar atividades de P&D, 
+do ponto de vista estatístico, uma população rara, recomenda-se que se comece 
+procedendo a uma filtragem das unidades não elegíveis antes de extrapolar os 
+resultados de uma sondagem. Alternativamente, devem ser utilizados métodos 
+estatísticos os quais minimizem a possibilidade de sobrestimar a atividade total 
+de P&D das empresas (ver Capítulo 6).
+Controle da qualidade das respostas da P&D das empresas
+Comentários preliminares sobre a contabilidade financeira das empresas
+7.94 Tal como anteriormente indicado, os relatórios anuais das empresas 
+constituem, geralmente, uma boa fonte de informação com o intuito de identificar as empresas passíveis de executar atividades de P&D. Os totais apresentados 
+nesses relatórios são também úteis para a verificação da exatidão dos dados 
+declarados na sondagem e para remediar lacunas em caso de respostas parciais (ver Capítulo 6). No entanto, é importante realçar que os valores relativos às atividades de P&D publicados de acordo com as normas e diretivas de contabilidades 
+nacionais e internacionais por vezes diferem dos dados de P&D recolhidos com 
+base nas recomendações apresentadas nesse manual. Algumas despesas de P&D 
+são levadas ao balanço das empresas enquanto outras são contabilizadas como 
+custos (incluindo amortizações, ver Capítulo 4). Algumas empresas também incluem, para fins de declarações públicas, “serviços técnicos” realizados por pessoal de P&D na P&D interna (ver Capítulo 5 sobre as funções e títulos do pessoal).
+7.95 Mesmo quando a definição de P&D é precisamente aquela que foi recomendada no Capítulo 2, o valor dos totais retirados da contabilidade não é sempre 
+idêntica a dos totais de P&D obtidos segundo as recomendações desse manual. Por 
+exemplo, quando a P&D não é “significativa” do ponto de vista dos custos totais da 
+empresa, as despesas correspondentes não são sempre explicitamente mencionadas. Além disso, a P&D paga por outros pode não ser contabilizada separadamente 
+da P&D interna financiada internamente; de fato, a P&D executada sob contrato 
+pode não ser contabilizada ou compreendida como P&D nos registros financeiros 
+(Capítulo 4). Especificamente, nas contas das grandes empresas os custos de P&D 
+interna não são sempre distinguidos dos da P&D externa. De acordo com a maioria 
+das normas de contabilidade, os seus relatórios financeiros anuais sobre despesas 
+de P&D podem combinar fundos para P&D interna e P&D externa desde que a P&D 
+executada seja “para o benefício” da empresa relatora. Especialmente no caso das 
+EM, os totais de P&D publicados podem incluir despesas de P&D do grupo mundial 
+(ver capítulo 12) e não de cada um dos seus membros individuais.
+Diferenciação entre P&D interna e P&D externa
+7.96 Várias dificuldades podem surgir no recolhimento preciso dos fluxos 
+de financiamento, seja como uma componente da P&D interna da unidade seja 
+como parte do financiamento total das atividades de P&D externo.
+7.97 Colocam-se problemas quando os fundos passam por meio de várias 
+unidades antes de chegar ao executante. Isso pode acontecer quando a P&D é 
+subcontratada, o que é particularmente frequente no setor das empresas. Cada 
+executante deve declarar unicamente o custo dos projetos de P&D que efetivamente executou e não a sua contribuição para a P&D de uma outra unidade, e se 
+preciso, sempre que possível, na declaração da fonte original do financiamento 
+da P&D. Para mais orientações sobre os métodos de diferenciação entre o financiamento da P&D interna e da P&D externa, ver Capítulo 4.3.
+Subestimação e sobrestimação possíveis das atividades de P&D das empresas
+7.98 Produzir estatísticas de P&D das empresas, considerando especificamente 
+as diferenças práticas entre os países, é um processo bastante complexo. Mesmo 
+quando se consegue recolher dados de qualidade, subsistem questões quanto a 
+potencial subestimação ou sobrestimação das atividades de P&D das empresas. 
+Tendo como base a experiência dos países, é possível sugerir – adicionalmente às 
+recomendações formais apresentadas nesse manual – algumas boas práticas para 
+reduzir o risco da quantificação da P&D das empresas. A esse respeito, dois aspectos 
+principais são relevantes: (i) a identificação de uma população de referência adequada para as sondagens da P&D das empresas (evitando a sub e a sobre cobertura 
+dos executantes) e (ii) a identificação das reais atividades de P&D executadas pelos 
+inquiridos (evitando a sub e a sobre cobertura em termos de execução de P&D).
+
+
+7.99 A subcobertura das unidades de P&D resulta de conhecimento insuficiente sobre o setor das empresas. A subcobertura das grandes empresas 
+está por definição excluída, dado que essas empresas são uma pequena parte 
+do setor e são fáceis de identificar. Por outro lado, a subcobertura é um risco 
+relevante no caso de pequenas empresas. Como o rastreamento da população 
+das empresas por via de sondagens é no melhor dos casos uma aproximação, 
+recomenda-se uma exploração sistemática de fontes de dados administrativos 
+(financiamento público de P&D, incentivos fiscais de P&D, participação em projetos públicos de P&D, registro de patentes, etc.) para ajudar a identificar uma 
+percentagem elevada de potenciais executantes de P&D entre as pequenas e as 
+microempresas. Ainda assim, é muito provável que algumas empresas as quais 
+executam P&D não sejam consideradas e na interpretação de dados de P&D 
+deve ser ponderado que existe uma potencial (mas minimizada) subcobertura 
+de pequenos executantes. O impacto dessa subcobertura em termos do total de 
+despesas ou pessoal de P&D é considerado desprezável na maioria dos países.
+7.100 A subestimação das atividades de P&D das empresas é sempre uma 
+fonte de preocupações. A adoção de certas recomendações metodológicas apresentadas nesse capítulo deve ajudar a minimizar esse risco (por exemplo, identificando um bom contato no interior das empresas alvos das sondagens). As boas 
+práticas de recolhimento de dados devem também incitar os respondentes a:
+• Analisar o conjunto de atividades de P&D realizadas no interior da unidade 
+estatística, incluindo aquelas que são realizadas fora dos departamentos 
+especializados em P&D, por exemplo, as atividades de ensaios piloto, a 
+preparação para a produção ou o desenvolvimento tecnológico geral;
+• Incluir atividades de P&D “não evidentes” que são inteiramente integradas 
+em contratos de desenvolvimento (geralmente importantes) de produtos 
+ou de sistemas específicos (conhecimentos incorporados nos produtos);
+• Incluir atividades de P&D financiadas por clientes com base em projetos.
+7.101 A sobrecobertura das empresas as quais executam atividades de P&D 
+resulta frequentemente de uma interpretação errônea da informação recolhida 
+a partir de outras sondagens sobre as empresas ou de bases de dados administrativas. As fontes desse tipo, que são essencialmente utilizadas para selecionar 
+a população de uma sondagem de P&D, devem ser sempre usadas com cuidado: 
+é improvável que várias fontes de referência tenham adotado exatamente os 
+conceitos de P&D definidos nesse manual. Esse é o caso, por exemplo, das listas 
+de empresas que pediram créditos fiscais, visto que o conceito de “atividade 
+de P&D” utilizado pelas autoridades fiscais pode incluir tanto a P&D executada 
+internamente como o financiamento da P&D executada por outras unidades. Por 
+isso, em uma sondagem estatística, é necessário apresentar definições claras 
+de P&D aos inquiridos (verificando a exatidão das respostas) para minimizar 
+os riscos de erros dos respondentes na interpretação das atividades de P&D.
+7.102 A sobrestimação das atividades de P&D das empresas pode ser devida 
+a vários fatores:
+• Um conhecimento insuficiente das atividades a declarar;
+• A dificuldade objetiva de distinguir entre as atividades de P&D e outras 
+atividades relacionadas como a inovação ou as tecnologias;
+• A inclusão da P&D comparada a outras unidades no total de P&D executada 
+na P&D interna (com o risco suplementar da dupla declaração)
+7.103 Nunca é demais insistir sobre o risco da sobre-declaração, pois as empresas sondadas são frequentemente reticentes na adaptação do conceito que 
+elas próprias fazem de atividades de P&D (que são frequentemente o produto de 
+normas de contabilidade, fiscais e regulamentares), considerando as definições 
+para uso estatístico apresentadas neste manual. A verificação da exatidão dos 
+dados obtidos comos inquiridos (idealmente identificando qualquer desvio do 
+comportamento esperado de uma empresa devido à sua dimensão e atividade 
+econômica principal) e o tratamento adequado dos valores aberrantes fazem 
+parte das boas práticas para resolver os problemas mencionados.
+
+
+
+
+Controle da qualidade dos totais de P&D das empresas
+7.104 Como descrito no Capítulo 6, é fortemente recomendada a aplicação 
+de normas de controle da qualidade no estabelecimento de estatísticas de P&D. 
+Nesse aspecto, a P&D das empresas não é diferente da P&D realizada por outros 
+setores. Apesar disso, a heterogeneidade metodológica observada nas sondagens sobre a P&D das empresas realizadas pelos vários países mostra a necessidade de critérios comuns de controle da qualidade dos dados e das sondagens.
+7.105 Além das recomendações sobre a qualidade das estatísticas emitidas 
+pelas OCDE (2011) ou por outras instâncias, como por exemplo as Nações Unidas 
+(2012), são aqui apresentadas algumas recomendações práticas tendo em vista 
+a melhoria da compreensão e compatibilidade internacionais das estatísticas 
+de P&D das empresas. Essas recomendações incidem especificamente sobre 
+os critérios de precisão das estimativas realizadas sobre os dados da P&D das 
+empresas e sobre a coerência com outras estatísticas sobre as empresas.
+7.106 Dada a incidência pouco comum das atividades de P&D e o caráter 
+fortemente assimétrico da população de executantes efetivos de P&D, dispor 
+de um quadro exato e atualizado é um dos fatores mais importantes a fim 
+de garantir o sucesso de uma sondagem e a qualidade dos seus resultados. A 
+qualidade das estatísticas recolhidas sobre a P&D das empresas depende, em 
+grande medida, da identificação da população de empresas no qual se conhece 
+que executam atividades de P&D ou que é provável executante de P&D, mas 
+essa identificação continua a ser muito aproximada. A incerteza sobre o número 
+de empresas passíveis de executar efetivamente atividades de P&D ou que, do 
+ponto de vista estatístico, se estima que o possam fazer, é a razão principal pela 
+qual geralmente não se produzem estatísticas sobre o número ou a proporção 
+de executantes de P&D relativamente à população total das empresas.
+7.107 Quando são publicados dados sobre as despesas de P&D das empresas, 
+também deve ser disponibilizado um relatório detalhado sobre qual metodologia foi utilizada na produção dos dados. Para ser mais exato, recomenda-se que 
+a difusão das estatísticas de P&D das empresas nacionais seja acompanhada 
+da publicação de metadados: por exemplo, o número de unidades incluídas na 
+população de referência (executantes potenciais de P&D), eventualmente identificados com base no seu setor de atividade econômica principal, o número de 
+unidades sondadas na sondagem de recenseamento, com a taxa de resposta, 
+e o número de unidades incluídas na amostragem com a taxa de resposta.
+7.107 Um aspecto essencial das estatísticas de P&D das empresas é a sua 
+integração com outras estatísticas sobre as empresas, especialmente quando a 
+amostragem e os critérios de classificação utilizados nas sondagens de P&D são 
+idênticos aos utilizados no recolhimento de outras variáveis econômicas das 
+empresas. Os metadados seguintes podem ser postos à disposição dos usuários, em paralelo com a publicação dos dados nacionais, como indicadores parciais 
+do grau de coerência entre as estimativas de despesas e efetivos de P&D e outros indicadores estatísticos: o rácio despesas de P&D/valor acrescentado das 
+empresas, por atividade econômica principal, e o rácio efetivos totais de P&D 
+(equivalente a tempo integral)/total de pessoas empregadas, por atividade 
+econômica principal (para todos os setores).
+
+
+
+
+Capítulo 8
+P&D do setor do Estado
+
+
+Neste capítulo são apresentadas orientações sobre a forma de proceder para 
+quantificar os recursos financeiros e humanos consagrados às atividades de 
+pesquisa e desenvolvimento experimental (P&D) executadas no setor do Estado. Esse capítulo também aborda o setor do Estado como financiador da P&D, 
+e relaciona-se com o Capítulo 12 quanto aos créditos orçamentais públicos da 
+P&D (COPID) e com o Capítulo 13 quanto aos créditos fiscais para a P&D. O 
+setor do Estado, o qual agrupa as administrações públicas e as instituições 
+sem fins lucrativos controladas pelo Estado, é descrito com base no Sistema 
+de Contabilidade Nacional (SCN). São apresentadas abordagens as quais devem ser adotadas para quantificar as despesas internas de P&D do Estado 
+(DIIDET). A repartição funcional da P&D por tipo de custo segue as indicações 
+do Capítulo 4 chamando a atenção para casos particulares. É também feita 
+a repartição das DIIDET por fonte de financiamento, tipo de P&D, domínio 
+de P&D, setor tecnológico, objetivo socioeconômico, função administrativa e 
+situação geográfica. São dadas orientações sobre métodos para quantificar o 
+pessoal de P&D no setor do Estado. O capítulo termina com uma visão geral 
+de questões suscitadas pela quantificação de financiamento público da P&D 
+do ponto de vista dos financiadores.
+
+
+8.1. Introdução
+8.1. O interesse em quantificar o papel do setor do Estado na P&D é transversal a esse manual desde a sua primeira edição em 1963. Os poderes públicos 
+têm um papel importante como executantes e financiadores de atividades de 
+P&D à escala nacional e no restante do mundo. Este capítulo centra-se principalmente na quantificação dos resultados e do pessoal de P&D no setor do 
+Estado, em linha com os métodos recomendados por esse manual no sentido 
+de determinar os recursos dirigidos à P&D. Porém, nesse capítulo procura-se 
+também estabelecer uma relação entre a abordagem do ponto de vista do executante de P&D, que é a abordagem preconizada nesse manual, e a abordagem 
+complementar com base no ponto de vista do financiador, avaliando o peso dos 
+poderes públicos no financiamento da P&D no conjunto da economia. Ao longo 
+do tempo, os países evoluíram na utilização de instrumentos de política de 
+P&D e os institutos de estatística nacionais responsáveis pela compilação dos 
+dados de P&D tiveram que avaliar a melhor maneira de refletir essa evolução no 
+quadro estatístico. Nesse capítulo são apresentadas orientações básicas sobre 
+esta questão, bem como estabelecidas ligações aos Capítulos 12 e 13, que são 
+dedicados à quantificação de créditos orçamentais públicos da P&D (COPID) e 
+créditos fiscais para a P&D, respectivamente.
+8.2. Cobertura do setor do Estado para efeito da quantificação de P&D
+Definição e âmbito do setor do Estado
+8.2 Para fins estatísticos, o Sistema de Contabilidade Nacional (SCN) considera que as funções principais das administrações públicas são: assumir a 
+responsabilidade pelo fornecimento de bens e serviços à coletividade ou as 
+famílias e de os financiar por meio de impostos ou outras receitas, redistribuir 
+as receitas e a riqueza por meio de transferências, e realizar atividades de produção não-comerciais.
+8.3 Tal como definido no SCN (CE et al., 2009, para. 4.117) e que se reflete 
+nesse manual (Capítulo 3, seção 3.4), as administrações públicas são setores particulares de entidades jurídicas, instituídas por decisão política exercendo um 
+poder legislativo, judiciário ou executivo sobre outras unidades institucionais 
+em um determinado espaço. Porém, de acordo com o SCN, o setor do Estado é 
+uma unidade mais alargada incluindo não só as administrações públicas “de base” como também as instituições sem fins lucrativos (ISFL) por ele controladas. No segmento deste capítulo, a expressão “administrações públicas” é utilizada como um sinônimo de “setor do Estado”. Além disso, como explicado no 
+Capítulo 3, a definição do setor do Estado utilizada nesse manual – e na declaração das estatísticas de P&D – difere da que se encontra no SCN (“Administrações 
+públicas”), pois o setor do Estado (ou administrações públicas) tal como definido 
+nesse manual não inclui os estabelecimentos de ensino superior que cumprem 
+os atributos de instituições governamentais de acordo com os critérios do SCN. 
+Com essa única exceção, as definições são inteiramente correspondentes.
+8.4 De acordo com o SCN, as empresas controladas pelo Estado (designadas 
+de “empresas públicas” nesse manual) são excluídas do setor do Estado, ou melhor, as empresas públicas são incluídas no setor das empresas (ver Capítulo 7 
+e as indicações abaixo apresentadas relativas ao limite entre o setor do Estado 
+e o das empresas).
+8.5 Assim, o setor do Estado inclui todas as unidades da administração 
+central (federal), regional (Estados federados) ou locais (municipais), incluindo 
+as administrações da previdência social, exceto as unidades as quais fornecem 
+serviços de ensino superior ou correspondem à descrição de estabelecimentos 
+de ensino superior dada no Capitulo 3 e descritas em maiores detalhes no Capítulo 9, assim como todas as instituições sem fins lucrativos não orientadas 
+para o mercado e controladas por unidades da administração pública e que não 
+pertencem ao setor do ensino superior.
+8.6 A administração central (ou federal) é geralmente composta por um 
+núcleo central de departamentos ou ministérios os quais constituem uma 
+única unidade institucional – normalmente designada “administração pública 
+nacional” ou “Estado” e coberta pelo orçamento principal – e, em muitos países, 
+por outras unidades institucionais. Embora os ministérios ou departamentos 
+possam ser responsáveis por gastos consideráveis em P&D (para P&D interna 
+e externa) dentro do orçamento geral do Estado, não constituem unidades 
+institucionais distintas habilitadas a deter ativos, assumir riscos, efetuar operações, etc.; independentemente da administração central como um todo. Em 
+geral, as suas receitas e despesas são reguladas e controladas pelo Ministério 
+da Economia ou por um órgão funcional equivalente por meio da execução de 
+um orçamento geral aprovado pelo parlamento.
+8.7 Além dos ministérios e departamentos semelhantes, o setor do Estado 
+inclui também outros órgãos administrativos como agências que têm uma entidade jurídica distinta e uma autonomia substancial, designadamente quanto 
+ao volume e a composição das suas despesas e encargos, podendo também ter 
+fontes de receita direta. Essas administrações públicas são frequentemente 
+designadas “unidades extraorçamentais” pois têm orçamentos distintos e 
+quaisquer transferências vindas do orçamento principal são completados pelas 
+suas próprias fontes de receitas, como impostos dirigidos ou taxas de serviços. 
+Essas unidades podem ser constituídas para executar funções específicas, como 
+por exemplo o financiamento da P&D, a sua execução, ou ambas as coisas. Em 
+alguns países, essas agências especializadas, centros e institutos podem representar uma proporção muito importante da execução da P&D na administração 
+pública e até mesmo no conjunto da economia. Essas instituições são também 
+parte do setor do Estado. 
+8.8 Incluem-se nos “outros órgãos administrativos” as instituições sem fins 
+lucrativos (ISFL) as quais não produzem para o mercado e são controladas pela 
+administração pública, independentemente do seu estatuto legal permitir ser considerado ou não como independentes da administração pública. Algumas 
+instituições que executam P&D, como centros de pesquisa, museus, etc., podem 
+entrar nessa categoria. Tal como indicado no Capítulo 3, o controle econômico dessas entidades pode ser difícil de definir, podendo resultar em nuances 
+consideráveis os quais podem traduzir-se por diferenças internacionais na 
+sua implementação prática. Em muitos casos, os poderes públicos podem ser 
+capazes de exercer controle por meio de decisões de financiamento, mas este 
+não pode ser o único critério utilizado para decidir se uma dessas instituições 
+é efetivamente controlada pelo Estado. É possível que uma ISFL seja maioritariamente financiada pelo Estado sem que esta tenha necessariamente o poder 
+de dirigir as suas atividades de pesquisa.
+8.9 O setor das administrações regionais (ou Estados federados) inclui 
+as administrações regionais ou os Estados federados os quais são unidades 
+institucionais distintas, assim como as organizações e as ISFL não comerciais 
+controladas por eles. Esse subsetor exerce algumas das funções da administração em um patamar inferior ao da administração central/federal e superior 
+ao das unidades institucionais da administração no qual se situam ao patamar 
+local, reúne unidades institucionais cujo poder fiscal, legislativo e executivo 
+se limita aos “Estados” que podem constituir o país. Esses “Estados” podem 
+ser designados de maneiras diferentes nos diversos países, por exemplo, como 
+“regiões” ou “províncias”.
+8.10 O subsetor das administrações locais (ou municipais) inclui as administrações locais (ou municipais) que são unidades institucionais distintas, 
+assim como as organizações e as ISFL não comerciais controladas por elas. Em 
+princípio, as administrações locais (ou municipais) são unidades institucionais 
+cujo poder fiscal, legislativo e executivo se estende sobre os territórios geográficos mais pequenos, os quais se distinguem administrativamente e políticamente. A sua autoridade é normalmente muito menor do que a da administração 
+central ou das administrações dos Estados federados.
+Identificação e limites das unidades do setor do Estado
+8.11 As unidades do setor do Estado podem estar envolvidas em um grande número de atividades econômicas como a administração pública, a saúde 
+e ação social, a defesa, o ensino (excetuando-se o setor do ensino superior), 
+assim como em outros serviços públicos. Podendo incluir instituições como 
+museus públicos, arquivos, locais históricos, jardins botânicos ou zoológicos, 
+reservas naturais, ou mesmo instituições especializadas na prestação de serviços de pesquisa e desenvolvimento utilizados pela própria administração ou 
+por outros setores.
+8.12 Três questões principais permitem determinar se uma dada unidade deve ser classificada como pertencente ao setor do Estado: i) vende a sua 
+produção a preços economicamente significativos? ii) A unidade é controlada 
+pelo Estado? iii) Seria apropriado considerar essa unidade como fazendo parte 
+do setor do ensino superior de acordo com as regras especiais estabelecidas 
+nesse manual para identificar esse setor? A implementação destes critérios é 
+resumida na Tabela 8.1.
+
+
+8.13 As administrações públicas de base podem adotar uma gama diversificada de designações legais cuja terminologia e aplicação varia de uma 
+jurisdição para outra. Elas podem incluir ministérios ou serviços com prerrogativas semelhantes às de um ministério, agências, organismos públicos não 
+ministeriais, e instituições dotadas de estatutos especiais. Esses termos são 
+apresentados a título indicativo.
+O limite entre unidades do setor do Estado e do setor 
+sem fins lucrativos privado
+8.14 O controle é o critério fundamental para determinar se uma ISFL é explicitamente autônoma ou se faz parte de um sistema administrativo do Estado.
+
+É as vezes difícil decidir se um centro de pesquisa, um museu, um instituto, etc., 
+é controlado ou não pelo Estado, especialmente se não é possível apoiar a decisão 
+em classificações credíveis incluídas em registros estatísticos. Com a exceção de 
+sobreposições com o ensino superior, que não é identificado separadamente como 
+um setor institucional no SCN, as classificações do SNC são a fortiori critérios 
+apropriados para atribuir unidades ao setor do Estado. Nos Capítulos 3 e 10 são 
+dadas indicações gerais sobre como aplicar os critérios de controle.
+8.15 Em geral, a predominância de um financiamento público sobre outras 
+fontes não é suficiente para definir o controle pelo Estado, mas pode ser um 
+fator importante a considerar em conjunto com outras informações sobre a 
+natureza desse financiamento (por exemplo, atribuição competitiva ou não do 
+financiamento, participação no conselho de administração, ações preferênciais 
+de controle) quando se deve decidir que o Estado tem ou não o poder de decisão 
+(ou seja, o controle) sobre a unidade a qual executa a P&D (ver Caixa 8.1.)
+
+
+
+Caixa 8.1. Controle público das instituições sem fins lucrativos (ISFL)
+O controle de uma ISFL é definido como: ter a possibilidade de definir 
+a política ou o programa geral da ISFL. Como regra geral, determina-se 
+se uma ISFL é controlada pelo Estado em função dos cinco seguintes 
+critérios:
+1. A possibilidade de nomear responsáveis ou o conselho de administração
+2. A possibilidade de determinar aspectos importantes da política geral 
+ou do programa da ISFL, como o direito de remover o pessoal chave 
+das suas funções, ou vetar nomeações, impor que os orçamentos ou 
+operações financeiras sejam previamente submetidas à sua autorização, ou ainda, impedir a ISFL de modificar os seus estatutos ou de 
+se dissolver.
+3. A existência de acordos contratuais, autorizando a administração 
+pública a impor as condições acima mencionadas.
+4. O grau e tipo de financiamento garantido pelos poderes públicos, os 
+quais podem impedir a ISFL de definir a sua própria política ou o seu 
+próprio programa.
+5. A existência de uma exposição a riscos se uma administração pública 
+se expõe abertamente à totalidade, ou a uma grande parte, dos riscos 
+financeiros associados às atividades da ISFL.
+Fonte: FMI (2014), Manual de estatística das finanças públicas, www.imf.org/external/np/
+sta/gsfm
+
+
+
+8.16 Em vários países existem academias nacionais das ciências na qual 
+podem exercer vários papéis e responsabilidades. Por vezes englobam institutos de pesquisa científica, mas o seu papel pode relacionar-se mais com a 
+disseminação do conhecimento e a promoção geral da pesquisa científica. O 
+estatuto dessas organizações pode evoluir ao longo do tempo, particularmente 
+nas economias em transição, podendo passar do setor do Estado para o setor 
+privado sem fins lucrativos, ou mesmo para o setor das empresas, que engloba 
+a empresas públicas e privadas.
+
+
+
+
+O limite entre unidades do setor do Estado e do setor das empresas
+8.17 Como foi referido anteriormente e na Tabela 8.1, é importante não 
+confundir o “setor do Estado” com o “setor público”. É possível produzir indicadores para o setor público na sua totalidade, fazendo a soma do setor do Estado 
+com as componentes controladas pelo Estado nos setores do ensino superior e 
+das empresas. As sociedades e outro tipo de empresas controladas pelo Estado 
+não entram na definição do setor do Estado. Como se indicou nos Capítulos 3 e 
+7, e de acordo com os indicadores normalizados do SCN, a linha de separação 
+entre as empresas públicas e as unidades do setor do Estado consiste em que 
+as primeiras têm como objetivo vender a maior parte da sua produção a preços 
+economicamente significativos (ver Glossário), incluindo uma margem de lucro 
+para as suas atividades.
+8.18 Podem existir instituições as quais executam a P&D, como os centros 
+de pesquisa, os museus, ou as academias de ciências, que geram receitas comerciais significativas, graças por exemplo à concessão de licenças de propriedade industrial provenientes de atividades de P&D anteriores ou a prestação 
+de serviços de pesquisa e aconselhamento a preços do mercado. Sempre que 
+possível, é importante que as decisões de classificação não sejam guiadas por 
+circunstâncias inabituais como por exemplo a realização de receitas extraordinárias devidas à cessação de um ativo.
+O limite entre unidades do setor do Estado e do setor do ensino superior
+8.19 Há vários desafios na distinção entre as atividades do setor do Estado 
+e do setor do ensino superior. Nos Capítulos 3 e 9 foram apresentados esses limites com alguns detalhes. Pode haver sobreposições e ligações extensas entre 
+o pessoal e as instituições de ensino superior tal como definidas nesse manual 
+e as unidades do setor das administrações públicas tal como definido no SCN.
+8.20 Em muitos países, as administrações públicas podem estar habilitadas 
+a dirigir e controlar as atividades de uma parte, ou mesmo da totalidade, dos 
+estabelecimentos de ensino superior. Essa forma de controle não implica que 
+esses estabelecimentos façam parte do setor do Estado do maneira como ele 
+é definido nesse manual, mas confere-lhe os requisitos necessários para fazer 
+parte do setor público.
+8.21 As administrações públicas podem empregar pessoal de pesquisa 
+afiliado a outras instituições, especialmente, a estabelecimentos de ensino 
+superior. As vezes pode ser difícil diferenciar entre suas atividades ligadas 
+à administração das que são exercidas por conta dos seus empregadores no 
+ensino superior. A dupla filiação de pessoas a um estabelecimento de ensino 
+superior não deve levar à reclassificação das unidades da administração pública, a menos que outros instrumentos de controle institucional autorizem a 
+classificação da unidade da administração pública como um estabelecimento 
+de ensino superior.
+8.22 Uma área em que se pode encontrar problemas é a do tratamento dos 
+hospitais públicos e de estabelecimentos de saúde que tenham alguma ligação 
+formal com instituições de ensino superior, no qual a prestação formal de programas de ensino terciário e outros critérios importantes de relações de controle podem orientar a classificação dessas instituições governamentais para o 
+setor do ensino superior. No entanto, é possível que um hospital universitário 
+(descrito como tal com base na sua história e nas ligações com uma instituição de ensino superior, por exemplo apoiando/acolhendo a formação de estudantes 
+de Medicina) seja classificado no setor do Estado. Esse será o caso se o hospital 
+é controlado, e maioritariamente financiado, pelos poderes públicos com um 
+caráter não lucrativo, sendo suficientemente independente da instituição de 
+ensino superior no que respeita às suas atividades de P&D.
+Outros casos particulares
+8.23 As administrações públicas podem realizar parcerias com outros organismos do setor do Estado ou de outros setores para criar entidades envolvidas na 
+execução de P&D. Essas entidades, se alcançam o estatuto de unidades institucionais, estão sujeitas aos princípios gerais de classificação descritos no Capítulo 3.
+Classificações possíveis das unidades do setor do Estado
+Classificação por atividade econômica principal
+8.24 A pertinência transversal dessa classificação institucional para a 
+distribuição da execução (assim como de pessoal) de P&D já foi sublinhada no 
+Capítulo 3. Isso também se aplica ao setor do Estado à luz das diversas atividades econômicas possíveis, especialmente os serviços, realizados por instituições governamentais. Recomenda-se que todas as administrações públicas 
+incluindo as ISFL controladas pelo estado sejam classificadas de acordo com a 
+sua atividade econômica principal identificada pelas categorias de 2 algarismos 
+da CINI Revisão 4 (Nações Unidas, 2008), cuja classificação detalhada pode ser 
+consultada em linha, em complemento desse manual, no endereço http://oe.cd/
+frascati. Se isso não é prático, recomenda-se pelo menos identificar as unidades 
+as quais fazem parte da divisão 72 do CINI: pesquisa e desenvolvimento científicos, tendo em vista a identificação de estabelecimentos públicos de pesquisa. 
+Também se recomenda a identificação separadamente dos hospitais e clínicas 
+controladas pelo Estado (geralmente classificadas na divisão 86: Atividades 
+relativas à saúde), pelas razões acima descritas.
+Classificação de funções das administrações públicas
+8.25 A Classificação das Funções das Administrações Públicas (COFOG) é 
+uma classificação genérica das funções, ou objetivos socioeconômicos, que as 
+administrações públicas procuram exercer por meio de vários tipos de despesas. A COFOG foi criada pela OCDE e publicada conjuntamente com outras três 
+classificações (Nações Unidas, 2000). Essa classificação fornece uma nomenclatura das entidades e das despesas financeiras das administrações por função de 
+interesse geral (para as categorias da COFOG ver o complemento desse manual 
+consultável em linha no endereço http://oe.cd/frascati). Os títulos de primeiro 
+nível apresentam grandes semelhanças com as nomenclaturas dos objetivos 
+socioeconômicos utilizados em P&D (ver a seção 8.4 sobre a repartição das 
+DIDET por objetivo socioeconômico e a seção 12 do Capítulo 12). Nesse manual 
+desaconselham-se as instituições governamentais de utilizar essa classificação 
+no contexto das estatísticas de P&D dado que as categorias que a compõem não 
+proporcionam uma descrição otimizada das despesas de P&D, embora uma 
+tabela de correspondência provisória venha a ser útil se o COFOG vier a ser 
+adotado mais comumente nos sistemas gerais de estatísticas nacionais.
+
+
+8.3. Identificação da P&D no setor do Estado 
+8.26 A identificação do que é P&D deve seguir os princípios expostos no 
+Capítulo 2. As unidades de base das administrações central/federal, regional/
+estadual e municipal/local podem executar elas próprias a P&D. Por exemplo, 
+podem ser citadas unidades especiais de pesquisa de tamanhos variados dentro 
+dos ministérios e também organismos maiores como as forças armadas.
+8.27 É difícil separar a P&D de atividades conexas quando todas elas são 
+simultaneamente executadas dentro da mesma entidade. As administrações 
+públicas as quais executam a P&D não se consagram todas inteiramente a essa 
+atividade, mas frequentemente executam a P&D para servir os objetivos principais da administração. As administrações públicas podem realizar atividades 
+como prestação de cuidados de saúde, recolhimento de dados com objetivos 
+gerais de monitoramento de sistemas naturais ou sociais ou desenvolvimento 
+de grandes infraestruturas, cuja utilização pode beneficiar a utilização interna 
+ou externa de P&D. Os ativos intelectuais e materiais resultantes das atividades 
+centrais das administrações públicas podem igualmente ser utilizados como 
+recursos de projetos de P&D a serem realizados dentro dessas entidades. A 
+coerência do tratamento dessas atividades no contexto do recolhimento de estatísticas de P&D pode ter efeitos importantes na comparabilidade internacional 
+dos dados de P&D resultantes.
+Atividades científicas e tecnológicas conexas
+8.28 Além da realização de pesquisa básica e aplicada e de desenvolvimento 
+experimental, atividades correntes conexas com a P&D no setor do Estado incluem a prestação de serviços tecnológicos como: ensaios técnicos e de normalização, transferência de tecnologia (por exemplo, transferência física de tecnologia, de protótipos e de processos e/ou “saber-fazer”), desenvolvimento de nova 
+instrumentação, preservação, armazenamento e acesso à coleções científicas por 
+meio de bibliotecas, bases de dados e repositórios e fornecimento de instalações e 
+infraestruturas científicas de grande envergadura (por exemplo, reatores nucleares, satélites, grandes telescópios, navios oceanográficos, etc.). Essas atividades 
+científicas e tecnológicas conexas não devem ser incluídas na P&D.
+Demonstração e desenvolvimento de sistemas
+8.29 As administrações públicas podem por vezes realizar investimentos 
+muito importantes em ativos fixos de grande envergadura, considerados “primeiro do gênero” ou que oferecem capacidades previamente inexistentes. Tendo em 
+consideração a potencial contribuição desses ativos para a inovação, as administrações públicas podem ter a tendência para incluir os custos de construção na 
+P&D. Porém, para a comparação internacional, apenas os custos especificamente 
+identificados como capital afeto à P&D devem ser incluídos na P&D interna. Geralmente, esses custos não devem ser reportados como despesas de P&D correntes, 
+mas sim como despesas de capital dedicadas à P&D (ver Capítulo 4).
+8.30 Alguns países utilizam classificações por grau de maturidade tecnológica na descrição e gestão de projetos nas áreas da defesa, aeroespacial 
+e outros setores os quais necessitam de engenharia de sistemas. Foram elaborados diferentes modelos visando ajudar a avaliação da maturidade dos 
+elementos tecnológicos desses programas, mas que permanecem por testar  em outros domínios. Considerando o nível de envolvimento do Estado em 
+áreas nas quais os graus de maturidade tecnológica são utilizados, eles podem 
+figurar na descrição da P&D interna do Estado bem como em contratos públicos 
+especificando a execução de P&D por terceiros. Tal como indicado no Capítulo 2, 
+recomenda-se que, no caso da utilização desses modelos, eles sejam avaliados 
+permitindo determinar se podem contribuir de alguma forma para a melhoria 
+do recolhimento de estatísticas sobre a execução de P&D pelo Estado ou sobre 
+o financiamento público da P&D (seção 8.6).
+8.31 Com a diversidade de sistemas de classificação por grau de maturidade 
+tecnológica e a sua descrição genérica, não é possível apresentar uma cartografia completa e globalmente aplicável desses graus – ou mais especificamente, 
+dos trabalhos realizados elevando um programa a um grau superior – aos tipos 
+de P&D (pesquisa fundamental, pesquisa aplicada e desenvolvimento experimental) tais como definidos nesse manual. A aplicação dos graus de maturidade 
+tecnológica à P&D pode ser extremamente complicada devido às várias etapas 
+envolvidas na demonstração de projetos/sistemas em ambientes de utilização 
+variados, mais realistas, podendo levar a novos requisitos de especificações 
+dos projetos/sistemas. O Capítulo 2 indica que quando a performance de um 
+protótipo é avaliada em condições de utilização real, essa avaliação raramente 
+constitui P&D. Os esforços realizados para remediar defeitos durante as operações ou em consequência de novos requisitos, podem ser P&D desde que 
+cumpram os critérios apresentados no Capítulo 2.
+
+
+Estudos de apoio à decisão política
+8.32 Os trabalhos de P&D podem servir para apoiar a tomada de decisões de 
+administrações públicas. Embora a P&D possa ser subcontratada a organizações 
+externas, as administrações públicas também dispõem de equipes internas 
+ativamente envolvidas em trabalhos analíticos, por exemplo: realizando avaliações e balanços. É possível que essas atividades respondam aos critérios que 
+definem um projeto de P&D, mas esse não é sempre o caso, e não é sempre que 
+os esforços para estabelecer fatos que apoiem a decisão política sejam P&D. É 
+relevante considerar detalhadamente qual é a competência técnica das pessoas 
+associadas à atividade, o modo de codificação dos conhecimentos adotados na 
+organização e como são garantidos os critérios de qualidade em termos das 
+questões pesquisadas e metodologias utilizadas. Há um risco importante de 
+alguns tipos de consultadoria socioeconômica (interna ou externa) ser inadequadamente reportada com P&D.
+8.33 Os consultores científicos têm um papel importante na administração 
+pública. No entanto, a aplicação de critérios de decisão consolidados na elaboração de políticas não é P&D. Os esforços para desenvolver melhores métodos 
+de tomada de decisão baseados em dados científicos podem ser considerados 
+como relevantes para a P&D.
+Cuidados de saúde e P&D em hospitais “públicos”
+8.34 Como referido anteriormente, em muitos países uma parte substancial dos hospitais e outros centros de saúde são controlados pelo Estado, não 
+cumprindo os critérios que lhes permitiriam ser classificados no setor do ensino superior. Assim, a P&D relacionada com a saúde pode ser uma componente 
+importante da P&D executada pelo Estado. A combinação entre os cuidados de saúde, a pesquisa e a formação, pode tornar difícil a identificação da parte de 
+P&D nas atividades dessas instituições. A P&D pode ser feita em parceria com 
+estabelecimentos de ensino superior, instituições sem fins lucrativos públicas e 
+privadas ou empresas, por exemplo no contexto de ensaios clínicos. Indicações 
+pertinentes são apresentadas nos Capítulos 2, 4 e 9.
+O financiamento da P&D e sua administração
+8.35 Como indicado no Capítulo 4, o levantamento, gestão e distribuição 
+de fundos para executantes de P&D por parte de ministérios, agências de 
+pesquisa ou financiamento e outras administrações públicas, não devem ser 
+consideradas como atividades de P&D. No caso de administrações públicas as 
+quais executam tanto P&D interna como financiam P&D externa, os custos 
+administrativos associados à preparação e acompanhamento de contratos de 
+P&D externa podem ser contabilizados com parte da despesa de P&D interna.
+8.4. Quantificação de despesas e de pessoal de P&D 
+no setor do Estado
+Despesas internas de P&D do Estado (DIIDET)
+8.36 As despesas internas de P&D do Estado (DIIDET) são o principal agregado estatístico utilizado para descrever a execução da P&D no interior do 
+Estado. Elas correspondem à componente das despesas internas brutas de P&D 
+(DIID) (ver Capítulo 4) executadas pelas unidades do setor do Estado. Sendo a 
+determinação das despesas de P&D interna desse setor durante um dado período de referência.
+8.37 As administrações públicas acolhem frequentemente uma componente significativa de projetos de P&D executados sob a responsabilidade de instituições não-governamentais. Por exemplo, um estabelecimento público pode 
+autorizar a utilização das suas instalações para ensaios por diversas empresas 
+no quadro dos seus projetos de P&D para desenvolver novos produtos. Nesses 
+casos, independentemente do fato de alguma da execução ter sido realizada em 
+instalações públicas, isso pode não ser suficiente para descrever a administração pública como executante da P&D. O Estado presta um serviço à empresa, 
+o qual é a unidade que executa a P&D. A administração pública pode ser um 
+executante de P&D se conduz os seus próprios projetos nessas instalações.
+Repartições funcionais das DIIDET
+Repartição das DIIDET por tipo de despesa
+8.38 As regras as quais se aplicam ao departamento das DIIDET por tipo 
+de despesas foram detalhadas no Capítulo 4 (Tabela 4.1). Essas recomendações 
+incluem uma repartição entre os custos salariais do pessoal de P&D e outras 
+despesas correntes, como despesas de equipamento (por tipo de ativo), com 
+os custos de amortização do equipamento detalhados separadamente para os 
+bens de equipamento próprios. Considerando as especificidades das diferentes administrações públicas em um país, essa informação deverá ser, sempre 
+que possível, pedida diretamente aos respondentes e não imputada a partir de 
+outras unidades.
+8.39 Dentro dessa orientação geral, há alguns casos particulares os quais 
+merecem atenção detalhada:
+• Os custos de trabalho do pessoal de P&D incluem cotizações reais ou imputadas a caixas de aposentadoria ou de previdência social. Essas cotizações 
+podem não ser aparentes na contabilidade da unidade estatística; frequentemente elas podem ser transações para outras entidades do setor do 
+Estado, como as caixas da previdência social. Mesmo quando não ocorrem 
+essas transações, deve ser feita uma tentativa para estimar esses custos 
+do ponto de vista da unidade declarante.
+• O imposto sobre o valor acrescentado (IVA) dos bens e serviços pode não 
+ser recuperado pelas unidades do setor do Estado, e nesse caso deve ser 
+considerado como outras despesas correntes.
+8.40 A quantificação das despesas de P&D executadas no contexto dos 
+equipamentos utilizados pela P&D é um dos aspectos potencialmente mais 
+delicados da quantificação de P&D no setor do Estado. Os exemplos analisados 
+no Capítulo 4 mostram a necessidade de identificar o custo econômico dos equipamentos utilizados sem pagar uma taxa de utilização, evitando uma possível 
+dupla contabilidade da construção ou aquisição de equipamentos e dos custos 
+para os usuários dessas instalações.
+8.41 Há exemplos em que o Estado é o proprietário e responsável pela 
+manutenção de instalações especializadas utilizadas por pesquisadores empregados pelas instalações e por visitantes de outros organismos e empresas 
+com projetos de P&D aprovados. Quando esses equipamentos são utilizados 
+por outros executantes públicos ou privados, os custos de utilização – que podem incluir custos de operação e manutenção – pagos aos proprietários desses 
+equipamentos fazem parte das despesas correntes reportados pelo executante 
+de P&D que usa as instalações. Esses custos de operação e manutenção recuperados pelo pagamento dos custos de utilização devem ser excluídos das 
+declarações do organismo do Estado proprietário das instalações para evitar 
+a dupla contabilidade dessas despesas. Considerando que a utilização dessas 
+instalações pode ser pouco comum e o seu custo demasiado baixo para cobrir 
+as despesas necessárias de maneira a manter as instalações de P&D em estado de funcionamento, uma componente devidamente justificada dos custos 
+de operação e manutenção pode ser atribuída a despesas internas, em outras 
+despesas correntes, pela administração pública proprietária do equipamento.
+Repartição das DIIDET por fonte de financiamento
+8.42 Tradicionalmente, tem-se assumido que os fundos provenientes de 
+fontes privadas têm uma relevância limitada no caso da execução de P&D no 
+setor do Estado, tendo em consideração o papel dominante das fontes orçamentais internas. No entanto, nas circunstâncias atuais, a ausência de informação 
+sobre esses fundos pode ser ilusória. A realização geral de parcerias público-
+-privadas, a procura de outras fontes de financiamento pelas administrações 
+públicas extraorçamentais e pelas ISFL controladas pelo Estado e a existência 
+de acordos internacionais entre países e organizações supranacionais, exige um 
+recolhimento minucioso de informação sobre a origem dos fundos utilizados 
+pela P&D do Estado, quer seja nacionalmente quer seja do restante do mundo.
+8.43 As fontes de financiamento das instituições governamentais e das 
+suas atividades de P&D podem vir de receitas especialmente afetadas (por exemplo, quando são definidas como uma percentagem do total de receitas 
+públicas ou quando corresponde à cotizações da previdência social ou a taxas 
+específicas) de transferências orçamentais, de vendas gerais de bens ou serviços 
+ou de taxas de utilização, de vendas de ativos financeiros e não-financeiros, de 
+empréstimos ou de fundos gerais de doadores (FMI, 2014). As fontes extraorçamentais designam operações das administrações públicas que frequentemente 
+seguem disposições institucionais e bancárias que não estão incluídas na lei do 
+orçamento anual da administração central nem nos orçamentos das administrações públicas infranacionais.
+8.44 A estrutura de declaração apresentada na Tabela 8.2 é recomendada 
+para o recolhimento de informação sobre a fonte de financiamento. A distribuição entre fundos de troca e fundos de transferência é mais pertinente para 
+as administrações públicas extraorçamentais e para as ISFL controladas pelo 
+Estado, que podem depender mais extensamente de fontes de financiamento 
+não-orçamentais, sendo mais provável executarem P&D como um serviço para 
+outras organizações ou empresas recebendo financiamento compensatório.
+
+
+
+Repartição das DIIDET por tipo de P&D
+8.45 Como em todos os outros setores, recomenda-se o recolhimento de 
+dados das administrações públicas relativos à distribuição das despesas de P&D 
+por tipo de P&D, pesquisa fundamental, pesquisa aplicada e desenvolvimento 
+experimental, tal como definidas no Capítulo 2.
+Repartição das DIIDET por domínio de P&D
+8.46 Recomenda-se, sempre que possível, a repartição da P&D executada 
+pelas administrações públicas de acordo com o nível mais elevado do domínio 
+de pesquisa e desenvolvimento.
+8.47 Pelo menos no caso das instituições governamentais classificadas na 
+divisão 72 da CINI Revisão 4 (Pesquisa científica e desenvolvimento), pode ser 
+útil construir uma tabela de classificação de acordo com o domínio principal 
+de pesquisa e desenvolvimento, utilizando os títulos do nível mais elevado. 
+A classificação detalhada dos domínios pode ser encontrada na Internet, em 
+complemento a esse manual, no endereço http://oe.cd/frascati. Considerando 
+a existência de centros interdisciplinares no Estado, pode ser útil indicar um 
+campo de pesquisa secundário ou utilizar uma categoria pluridisciplinar complementar.
+Repartição das DIIDET por domínio tecnológico
+8.48 Os países podem considerar ser útil a declaração das suas DIIDET 
+por domínio tecnológico. A biotecnologia, as nanotecnologias e as tecnologias 
+da informação e comunicação (TIC) encontram-se entre as mais importantes.
+Repartição das DIIDET por objetivo socioeconômico
+8.49 É em princípio possível, para as instituições do setor do Estado, comunicar as DIIDET do ponto de vista do executante por objetivo socioeconômico. 
+Essa abordagem não deve ser confundida com a análise dos créditos orçamentais públicos de P&D (COPID) por objetivo socioeconômico (ver Capítulo 12 para 
+informações completas sobre estas repartições).
+8.50 A lista de repartição recomendada baseia-se na Terminologia para a 
+Análise e Comparação de Programas e Orçamentos Científicos (TACPOC) (Eurostat, 2008) e outras adaptações nacionais com uma correspondência direta com 
+essa terminologia. Essa lista é a mesma que a sugerida para o financiamento 
+público da P&D, com exceção da pesquisa financiada por fundos universitários 
+gerais, que não é apropriada nesta instância. A P&D deve ser repartida pelas 
+unidades declarantes de acordo com objetivos primários do projeto, sendo a 
+agregação feita sobre o conjunto da sua pesquisa.
+8.51 No caso do setor do Estado e de acordo com as indicações do Capítulo 
+4, é especialmente relevante compilar os totais distintos para as DIIDET civis 
+e para as DIIDET militares, documentando a potencial sub-cobertura da P&D 
+relacionada com a defesa. Isso é particularmente relevante para os países com 
+programas importantes de P&D militar que podem em parte ser realizados por 
+administrações públicas. Além disso, a informação sobre projetos de P&D na 
+defesa pode ser muito sensível e confidencial, de maneira que as despesas de P&D não se distingam das despesas de programas que não são de P&D. Como 
+indicado no Capítulo 4, é importante garantir a comparabilidade internacional 
+pelo menos para os dados da P&D civil. É também importante que os metadados auxiliares sobre as DIIDET deem informações claras sobre as margens de 
+incerteza associadas à P&D não medida no interior do Estado.
+Repartição das DIIDET por funções das administrações públicas
+8.52 Alguns países podem considerar útil a repartição das DIIDET pelas 
+categorias da COFOG (ver seção 8.2 sobre as classificações institucionais). Porém, pelas razões anteriormente apresentadas, esse manual não recomenda a 
+utilização das categorias da COFOC no contexto de estatísticas de P&D.
+Repartição das DIIDET por localização geográfica
+8.53 Os países podem considerar útil a compilação dos totais distintos para 
+a distribuição de DIIDET por localização/região. A escolha da repartição geográfica é determinada em função de necessidades nacionais e internacionais. 
+Informações suplementares podem ser encontradas na Internet, em complemento a esse manual, no endereço http://oe.cd/frascati.
+DIIDET versus financiamento público da execução de P&D externa
+8.54 Na seção 8.6 é examinada detalhadamente a declaração de financiamento pelas administrações públicas de P&D externa. Essa seção é dedicada 
+essencialmente aos limites entre a P&D interna e a P&D externa executada para 
+o setor do Estado. Entre os executantes de P&D nesse setor, algumas despesas 
+podem ter sido realizadas em atividades executadas fora do estabelecimento 
+ou mesmo possivelmente no estrangeiro, como por exemplo no espaço, na 
+Antártida, em representações consulares ou diplomáticas da instituição governamental no estrangeiro ou, em um curto período, em um território de outro 
+país. Quando essa P&D é realizada sob a responsabilidade da instituição governamental observada, ela corresponde a P&D interna. Os pagamentos de serviços 
+a terceiros contribuindo para os esforços de P&D correspondem igualmente à 
+sua própria P&D interna.
+8.55 O pagamento de consultores que fornecem serviços de P&D pela execução de uma encomenda (compra) específica, sem ser parte integrante dos 
+projetos de P&D da administração pública, deve ser tratado como financiamento 
+de P&D externa pela unidade estatística a qual faz a aquisição da P&D. A unidade estatística executante, que emprega esses consultores, deve declarar essa 
+atividade como uma despesa de P&D interna. A distribuição de despesas, relativas às despesas de P&D externa, deve ser feita como indicado no Capítulo 4.
+8.56 Para decidir se é conveniente classificar o financiamento acordado por 
+uma entidade administrativa a uma outra entidade administrativa como um 
+financiamento correspondendo a uma execução interna ou externa, o nível de 
+administração (isto é, central/federal, regional/Estados federados, local/municipal, ver Tabela 8.1) é a unidade institucional pertinente decidindo o critério 
+determinante. Por exemplo, os fundos para a P&D recebidos por um ministério 
+Y da administração central vindos do ministério X de outra administração 
+central devem ser declarados como fundos próprios do ministério Y para P&D 
+interna. Para o ministério X que fornece (é a fonte) esses fundos de P&D, estes não devem ser declarados como fundos próprios nem como fundos destinados 
+a trabalhos externos. Na agregação do setor, esses fundos são simplesmente 
+fundos próprios da administração central para a execução de P&D interna da 
+administração central. Esse critério fundamenta-se no fato de que essas operações são feitas entre partes da mesma unidade institucional da administração 
+central, mesmo quando as unidades estatísticas são entidades menores como 
+os ministérios.
+8.57 É preciso atenção para evitar a possibilidade de contabilizar duplamente o financiamento da P&D proveniente de agências “intermediárias” que 
+recebem fundos de ministérios e de organismos, realocando-os e transmitindo-os a outras instituições executantes. No exemplo precedente, se os fundos 
+facultados pelo ministério X ao ministério Y passassem pelo ministério intermediário Y para um executante de P&D externa ao setor do Estado, a instituição 
+governamental não é executante – significando que, não há DIIDET e os fundos 
+são reportados como fundos públicos para uma execução não-governamental 
+externa originada do ministério X, se essa informação é coligida (ver seção 8.5 
+e Tabela 8.3)
+8.58 As operações entre entidades no interior das administrações centrais e 
+regionais, ou de diferentes unidades extraorçamentais e outras ISFL controladas 
+pelo Estado, no setor do Estado devem ser declaradas como financiamento externo quando se trata de instituições distintas com a sua própria contabilidade. 
+Por exemplo, os fundos de P&D recebidos pela agência Z de um governo regional 
+da parte do ministério X da administração central devem ser declarados como 
+fundos (públicos) externos para a P&D interna do organismo Z. Para o ministério 
+X que fornece (é a fonte de) esses fundos de P&D, estes devem ser declarados 
+como fundos destinados a uma execução externa pela administração regional.
+
+
+
+Pessoal da P&D no setor do Estado
+8.59 As categorias de pessoal da P&D que devem ser declaradas para o 
+setor do Estado são as mesmas que nos outros setores os quais executam P&D 
+sendo as que foram definidas no capitulo 5 desse manual. As repartições recomendadas a seguir deverão ser aplicadas tanto quanto quando possível ao 
+pessoal de P&D.
+8.60 O pessoal de instituições governamentais dedicado exclusivamente 
+à gestão e avaliação de propostas de financiamento da P&D, por exemplo, no 
+contexto de atribuição de subvenções ou de contratos públicos, não deve ser 
+considerado como pessoal de P&D. Como indicado no Capítulo 4, as instituições 
+governamentais que combinam os papéis de execução e financiamento de 
+P&D podem incluir os seus custos de pessoal dedicado a aspectos concretos, 
+financeiros ou administrativos, dos contratos de P&D como “outras despesas 
+correntes”, mas esse pessoal não deve ser classificado como pessoal de P&D.
+8.61 Considerando a presença provável de pessoal externo de P&D nas instalações públicas de P&D, recomenda-se – tal como indicado no Capítulo 5 – que 
+esse pessoal seja declarado na categoria adequada, separadamente do pessoal 
+interno de P&D. Isso aplica-se igualmente aos estagiários, como os estudantes 
+de doutorado ou de mestrado, se estão a executar P&D de acordo com os critérios 
+estabelecidos nos Capítulos 2 e 5.
+8.62 Em geral, nos estabelecimentos públicos de pesquisa podem ser facilmente declaradas as categorias propostas no Capítulo 5, não sendo necessariamente o caso para outras administrações públicas de base. Sempre que possível, uma classificação dos pesquisadores por grau hierárquico similar ao 
+que é proposto no Capítulo 9 pode ser útil para documentar a organização da 
+P&D nas instituições governamentais. As classificações incluem postos típicos 
+para cada grupo (CE, 2013: 87):
+• Categoria A: grau/posto mais elevado ao qual a P&D é normalmente executada.
+❖ Exemplo: “Diretor de pesquisa”
+• Categoria B: pesquisadores os quais trabalham em um nível menos elevado que o nível superior (A), porém mais elevado do que os titulares de um 
+doutorado recente.
+❖ Exemplo: “Pesquisador Principal” ou “Pesquisador Sênior”
+• Categoria C: primeiro grau/posto para o qual um titular recente de um 
+doutorado é normalmente recrutado
+❖ Exemplo: “Pesquisador” ou “Bolsista de Pós-doutorado”
+• Categoria D: estudantes de doutorado (nível 8 do CITE) trabalhando como 
+pesquisadores, ou pesquisadores trabalhando em uma posição a qual necessita normalmente de um diploma de doutorado.
+❖ Exemplo: “Doutorando” ou “Assistente de Pesquisa” (não titular de um 
+doutorado)
+
+
+
+8.5. Métodos de compilação das despesas e de pessoal de P&D no 
+setor do Estado
+Unidades declarantes e estatísticas no setor do Estado
+8.63 As administrações públicas que devem ser cobertas pelas sondagens 
+incluem:
+• Os institutos, laboratórios e centros de P&D.
+• As atividades de P&D das administrações gerais das administrações centrais/federais, regionais/Estados federados, municipais/locais, serviços 
+públicos estatísticos, meteorológicos, geológicos, etc., museus e hospitais.
+• Atividades de P&D em todos os níveis da administração (central/federal, 
+regional/Estados federados, municipal/local).
+8.64 A unidade estatística será geralmente o ministério ou o serviço central semelhante, ou o organismo, mesmo quando a unidade não tem todas as 
+características de uma unidade institucional (por exemplo, frequentemente os 
+ministérios não têm a competência para deter e controlar ativos separadamente 
+do conjunto da administração central/federal ou regional/Estados federados). 
+Os atributos desejáveis para a unidade de amostragem no setor do Estado incluem: ramo de atividade, localização geográfica e nível de administração. A 
+unidade declarante dependerá da unidade a qual será mais capaz de fazer a 
+declaração. Isso pode incluir o conjunto da administração no caso das administrações regionais/estado federados ou municipais/locais.
+8.65 Se disponível, o quadro da sondagem deverá estar ligado a um registro 
+estatístico central. Isso facilitará a integração dos dados provenientes de fontes diversas e simplificará as decisões de classificação. Esse registro reduziria igualmente o risco de dupla contabilidade das unidades tratadas a partir de 
+perspectivas diferentes.
+8.66 Deve ser dada uma atenção especial à utilização de dados administrativos na identificação de instituições de financiamento e de execução de P&D. 
+Em alguns países, isso poderá incluir instituições as quais podem identificar as 
+despesas de P&D como uma COFOC de segundo nível.
+8.67 É particularmente difícil identificar as atividades de P&D no âmbito 
+das administrações locais (em alguns países, das administrações regionais/
+Estados federados) dado o grande número de unidades, o pequeno número de 
+potenciais executantes de P&D e as dificuldades na interpretação do conceito 
+de P&D. Se as administrações locais executam uma proporção significativa de 
+P&D, recomenda-se que se faça um esforço para incluir executantes de P&D de 
+grandes administrações locais. Pela natureza de muitas formas de administração regional/estados federados, elas podem executar P&D de forma ocasional: 
+podendo não ser a missão central do ministério ou do organismo de Estado 
+executar P&D propriamente dita, mas podendo necessitar de dar resposta a 
+um problema específico identificado pela legislatura ou departamento. Assim, 
+algumas atividades de P&D podem ser temporárias.
+
+
+Recolhimento de dados de sondagem
+8.68 A prática corrente consiste em fazer um recenseamento das unidades e órgãos administrativos que se tem conhecimento, ou presume-se, que 
+executam P&D. Por razões relacionadas com a quantidade de trabalho prático, 
+estas representam uma lista relativamente curta de todas as administrações 
+públicas conhecidas. Os registros/anuários das administrações públicas, dos 
+institutos de pesquisa e organismos oficiais, assim como uma análise da legislação em vigor e das medidas orçamentais, podem ajudar a identificar os 
+potenciais executantes de P&D no setor do Estado. Outras fontes de informação 
+podem ser de natureza universitária ou profissional, ou vir de sociedades ou 
+associações de profissionais, associações de pesquisa, listas de instituições que 
+prestam serviços de ciência e tecnologia, registros e bases de dados de engenheiros e cientistas, bases de dados de publicações científicas, patentes e outros 
+documentos de propriedade intelectual, bem como de pedidos atualizados de 
+organismos públicos.
+8.69 Os responsáveis pela compilação de dados de P&D não devem subestimar os desafios do recolhimento desses dados com instituições governamentais. A falta de informação em um formato adequado e uma adesão limitada 
+podem alterar significativamente a exaustividade e a qualidade dos dados 
+coligidos. Nos casos dos institutos de pesquisa em que o pessoal tem estatuto 
+de funcionário, é aconselhável estabelecer contatos preliminares para garantir 
+a adesão do funcionário superior responsável pela instituição declarante. Em 
+geral, aconselha-se a utilização de um programa de “sensibilização” para apoiar 
+o recolhimento de dados, envolvendo pacotes de treino para os respondentes, a 
+realização de estudos disponibilizando terminologia de P&D familiar ao pessoal 
+das administrações infranacionais, e respostas diretas sobre os resultados dos 
+dados recolhidos.
+8.70 Algumas instituições no setor do Estado podem declarar que a integralidade do seu pessoal executa pesquisa e que o ETI do pessoal de P&D é igual ou 
+próximo de 100% (UNESCO-ISU, 2014). As atividades que não são P&D devem ser 
+excluídas, mas isso pode ser de difícil aplicação na prática. Considerando que as instituições governamentais diferem nas suas orientações e cultura institucional, esse manual desaconselha a utilização de “regras empíricas” gerais segundo 
+as quais uma percentagem fixa de trabalhadores intelectuais nessas instituições deveria ser considerada como pesquisadores. Espera-se uma contagem 
+sistemática por parte dos inquiridos. Quando as instituições governamentais 
+especialmente ativas em serviços técnicos e científicos realizam pesquisa sobre 
+esses temas, as suas atividades de pesquisa devem ser claramente identificadas 
+e consideradas na sondagem de P&D.
+Estimativa das despesas e do pessoal de P&D
+8.71 A estimativa das despesas e do pessoal de P&D no setor do Estado deveria em princípio ser de uma dificuldade menor que nos outros setores, em que a 
+enumeração exaustiva não é a norma. No entanto, dada a possibilidade de não-
+-resposta e dos limites relativos ao tipo de informações que podem ser pedidas 
+às instituições governamentais, pode ser necessário seguir algumas estratégias.
+8.72 Em alguns casos, sistemas de informação das administrações que procuram aumentar a coordenação e a transparência podem fornecer uma base 
+apropriada para o recolhimento de informações sobre os trabalhos de pesquisa 
+financiados ou executados pela administração central. Esses sistemas podem integrar todos os projetos de pesquisa e desenvolvimento financiados ou executados 
+por uma parte substancial da administração, e permitir a produção de estatísticas 
+sobre a execução da P&D pelas administrações públicas. Em outros casos, a utilização de informações orçamentais pode ser necessária para cobrir as lacunas 
+estatísticas garantindo a qualidade da coerência entre as sondagens e os totais.
+8.73 A utilização de coeficientes para avaliar a estrutura das despesas e do 
+pessoal de P&D no interior dos organismos é geralmente desaconselhada devido 
+a grande heterogeneidade entre as unidades as quais executam P&D.
+8.74 Sempre que possível, e quando a qualidade dos dados coligidos permita, recomenda-se a publicação de dados desagregados selecionados nas 
+instituições governamentais designadas individualmente, porquanto isso pode 
+responder a outras necessidades dos usuários.
+8.6. Quantificação do financiamento público da execução de P&D
+8.75 Como indicado no Capítulo 4, existem duas abordagens principais para 
+quantificar o custo dos recursos que os Estados alocam ao financiamento da 
+P&D. A primeira consiste em colocar-se no ponto de vista dos executantes reportando as somas que uma unidade estatística ou setor recebeu de administrações 
+públicas para executar P&D interna durante o período de referência. A segunda 
+abordagem é a do ponto de vista dos distribuidores de fundos reportando as 
+somas que as administrações públicas declararam ter pago, ou se comprometeram a pagar, a outras unidades estatísticas ou setores para a execução de 
+P&D durante o período de referência. A abordagem baseada no ponto de vista 
+dos doadores de fundos baseia-se nas declarações feitas pelas administrações 
+públicas de financiamento, incluindo a P&D executada dentro da administração, 
+bem como os fundos para a P&D que deve ser executada fora da administração.
+
+
+Abordagem do ponto de vista dos executantes (recomendada)
+8.76 A abordagem recomendada para compilar os valores do financiamento 
+público da P&D é a abordagem do ponto de vista dos executantes, o qual se baseia 
+na combinação dos níveis de financiamento declarados pelas unidades dentro de 
+todos os setores, incluindo o do Estado. Para um dado país, o total global representa a execução da P&D interna total financiada pelo setor do Estado. Esse indicador, 
+as DIID financiadas pelo setor do Estado, não deve ser confundido com as DIIDET, 
+representando a execução da P&D interna total do setor do Estado. A sobreposição 
+entre esses dois totais é a parte de P&D executada no interior do setor do Estado 
+que é internamente financiada pelo Estado com os seus próprios recursos.
+8.77 A medida do financiamento das DIID pelo setor do Estado depende de 
+uma medida rigorosa das fontes de financiamento dentro de todos os setores. 
+A maior parte das grandes dificuldades foram analisadas de forma detalhada 
+no Capítulo 4 e nos capítulos dedicados aos respectivos setores.
+8.78 Recomenda-se fortemente que nas sondagens sobre os executantes 
+de P&D em todos os setores não-governamentais seja feita uma repartição dos 
+fundos recebidos do Estado, no qual se tratam de fundos atribuídos em troca de 
+serviços de P&D ou de fundos atribuídos na forma de uma transferência. Essa 
+informação é particularmente importante para os decisores políticos e para 
+a construção de um melhor entendimento dos instrumentos políticos usados 
+para apoiar as P&D. Essa informação também é relevante para a produção de 
+sequências de investimento na contabilidade nacional.
+8.79 No entanto, a implementação do método de declaração do ponto de 
+vista do executante pode apresentar algumas dificuldades para certos tipos de 
+apoio financeiro do Estado à P&D, como por exemplo:
+• A utilização de formas especiais de alívio fiscal tendo como objetivo encorajar o financiamento ou a execução de P&D como foi abordada no Capítulo 
+4 e será objeto de indicações específicas no Capítulo 13. Com algumas exceções, a maioria das fórmulas de apoio fiscal à P&D não podem ser alinhadas formalmente ou na prática com o conceito de execução de P&D deste 
+manual. Assim, essa forma de apoio é principalmente levada em conta do 
+ponto de vista da fonte e, nas comparações internacionais, é geralmente 
+excluída das análises das estatísticas das DIID financiadas pelo Estado.
+• Os empréstimos à P&D consentidos pelo Estado e, ou, outros investimentos 
+financeiros tendo em vista a atribuição de recursos financeiros à P&D em 
+outros setores, devem ser tratados como financiamentos de executantes internos (Capítulo 4). Os investimentos financeiros representam uma troca de 
+ativos financeiros (por exemplo, subsídios sujeitos a um reembolso futuro 
+a uma taxa de juro acordada, ou os direitos sobre os benefícios de uma instituição). É possível que um investimento desse tipo não seja reembolsado 
+ou que o juro acordado comporte uma subvenção, sendo que seria irrealista 
+pedir aos executantes uma estimativa e a declaração do valor implícito.
+• Utilização gratuita ou subvencionada de instalações públicas para a P&D. 
+Por razões práticas, é impossível obter estimativas fiáveis da parte dos 
+executantes de P&D relativamente ao valor econômico dos serviços obtidos ou da subvenção implícita equivalente. Em alguns casos, e como já foi 
+referido, os custos dos serviços que não são faturados aos usuários podem 
+ser alocados à execução de P&D do prestador de serviços para uma melhor 
+representação agregada do esforço total de P&D.
+
+
+
+Abordagem do ponto de vista dos distribuidores de fundos (complementar)
+8.80 Se nesse manual se insiste na importância de garantir uma abordagem 
+comum e coerente relativamente à declaração de P&D por parte dos executantes 
+(por intermédio de sondagens e outros métodos auxiliares), também reconhece 
+um certo número de práticas complementares destinadas a melhorar a qualidade, a oportunidade e a pertinência das estatísticas de P&D. A referência a essas 
+práticas baseia-se na experiência de vários países os quais já desenvolveram 
+estatísticas baseadas nas fontes sobre a P&D financiada pelos poderes públicos 
+para a execução no interior ou no exterior da administração.
+8.81 Em muitos casos, os dados sobre o financiamento da P&D externa 
+pelas administrações públicas podem ser utilizados para cobrir lacunas nas 
+declarações dos executantes, melhorando assim a qualidade das estatísticas 
+sobre a execução de P&D. Isso pode ser aplicado, por exemplo, ao caso de financiamento coberto por particulares, como estudantes ou acadêmicos, que 
+participam em atividades de P&D de outras unidades sem que estas tenham 
+um controle direto sobre o financiamento (ver seção 4.4). Esse sistema pode ter 
+como objetivo a movimentação livre de uma organização para a outra. Os dados 
+sobre as fontes de financiamento públicas podem assim oferecer uma representação mais completa do conjunto da execução de P&D. Porém, é necessário 
+que os organismos de acolhimento tenham um registro formal da presença e da 
+contribuição desses indivíduos, caso contrário é impossível demonstrar a sua 
+conformidade com os critérios para a P&D expostos no Capítulo 2.
+8.82 Outro exemplo de aplicação de estatísticas baseadas nos distribuidores de fundos é a utilização de medidas de créditos orçamentais ajudando a 
+estimar o financiamento geral destinado às universidades com base em coeficientes sobre a utilização de recursos gerais (ver Capítulo 9).
+Créditos orçamentais públicos de P&D (recomendada)
+8.83 Esse manual apresenta indicações relativas ao recolhimento de dados 
+sobre créditos orçamentais públicos de P&D (COPID) no Capítulo 12. A razão 
+principal dessa abordagem, baseada no orçamento, é a maior atualização dos 
+dados (incluindo as previsões orçamentais) e a capacidade de fornecer uma 
+aproximação de primeira ordem à repartição dos níveis de financiamento público da P&D por objetivo socioeconômico.
+Sondagens estatísticas sobre o financiamento público da P&D (facultativo)
+8.84 Como acima indicado, recomenda-se a inclusão de questões sobre o 
+financiamento da P&D externa, por unidades do setor do Estado, nas sondagens 
+de P&D sobre esse setor. Em geral, essas sondagens não podem ser utilizadas para 
+construir agregados de financiamento público, a não ser que o seu âmbito seja estendido não só para cobrir unidades executantes de P&D no setor do Estado como 
+também para outras unidades que apenas têm um papel no financiamento da P&D.
+8.85 A relevância potencial desses dados também advém de elementos informativos suplementares os quais podem ser recolhidos por meio de questões 
+especificamente dirigidas sobre o financiamento de P&D executada internamente e externamente, visto que as informações orçamentais não conseguem oferecer de forma suficientemente detalhada. Alguns exemplos podem ser dados  indicando vários domínios de desenvolvimento dentro dos países para os quais 
+atualmente não é possível apresentar orientações comuns.
+
+
+
+Informações mais detalhadas sobre as diferentes fontes de financiamento público da P&D
+8.86 As sondagens realizadas do ponto de vista do distribuidor de fundos 
+podem ter a vantagem de permitir uma compatibilização mais detalhada das 
+instituições governamentais que atribuem fundos para a P&D executada pelas unidades de cada um dos setores econômicos. Embora as sondagens aos 
+executantes de P&D dos setores das empresas, do ensino superior e do setor 
+privado sem fins lucrativos requeiram dados sobre o financiamento público da 
+P&D, pode ser particularmente fastidioso pedir aos inquiridos que enumerem 
+as administrações públicas específicas que são a origem desses financiamentos. 
+As sondagens sobre os distribuidores de fundos públicos destinados à P&D identificados individualmente, pretendendo obter os totais de financiamento da P&D 
+atribuídos aos executantes de P&D externa, por setor não têm essa limitação.
+Financiamento do Estado à P&D executada no estrangeiro
+8.87 Indicadores de financiamento da P&D pelo Estado atribuído a executantes no estrangeiro e a organizações internacionais (ambas pertencendo à 
+categoria do “restante do mundo”) não podem ser obtidas a partir de sondagens 
+efetuadas com dos executantes nacionais. Identicamente, informação sobre as 
+contribuições públicas para programas e instituições desenvolvidas em parceria com administrações de outros países ou com organizações internacionais, 
+podem ter significado político relevante na medida em que permitem monitorar 
+a colaboração internacional em P&D e a extensão em que os acordos bilaterais 
+em matéria de P&D são efetivamente financiados por fundos públicos.
+Informações sobre os modos de financiamento do ponto de vista dos 
+distribuidores de fundos
+8.88 Deve ser recolhida informação a qual distinga entre os financiamentos atribuídos sobre a forma de transferência (por exemplo, uma subvenção 
+ou acordo de contribuição) ou de troca por serviços de P&D (como em muitas 
+formas de contratos públicos de P&D) (ver Capítulo 4). Por várias razões, a perspectiva fornecida pelos distribuidores de fundos pode diferir sensivelmente da 
+perspectiva dos executantes, pois esses últimos podem ter a tendência a fim de 
+declarar um financiamento externo como interno e assim subavaliar o volume 
+real de financiamentos públicos.
+8.89 Poderiam ser recolhidas informações sobre muitas outras formas de 
+financiamento politicamente relevantes, tal como o financiamento em uma 
+base competitiva (versus outros critérios) ou atribuído em uma base programática ou de projetos em vez de subvenções institucionais. No caso de um 
+modo de financiamento institucional, os organismos os quais beneficiam de 
+um financiamento têm toda a liberdade de ação relativa ao tipo de atividades 
+e de projetos de P&D que podem realizar, enquanto para os fundos atribuídos 
+com base em um projeto ou programa a sua margem de decisão é mais limitada. 
+Os fundos gerais das universidades de origem pública (FGU) representam um 
+caso particular de financiamento institucional da P&D. Eles destinam-se aos estabelecimentos de ensino superior, aos quais esse manual atribui um estatuto 
+especial (ver Capítulos 4, 9 e 12). É importante notar que quando os beneficiários 
+de dotações globais são livres de decidir sobre a utilização dos fundos para a 
+P&D ou para outros fins, é pouco provável que a declaração dos distribuidores de 
+fundos como financiamento atribuído de acordo com os critérios de P&D – por 
+exemplo, em função das publicações científicas – coincida rigorosamente com 
+aquilo que os executantes declaram como sendo utilizado para fins de P&D.
+Desafios das sondagens estatísticas sobre financiamento público da P&D
+8.90 O recolhimento exaustivo de dados sobre o financiamento público de 
+P&D apresenta um certo número de dificuldades práticas as quais devem ser 
+levadas em conta:
+• A disponibilidade de dados suplementares requer esforços adicionais de 
+maneira a “reconciliar” as diferenças entre os dados baseados em orçamentos e os baseados em fontes de financiamento público declarados por todos 
+os setores executantes nacionais. Se as informações forem recolhidas em 
+função da filiação setorial dos prováveis executantes, podem dar origem 
+a uma matriz executante-financiador diferente da matriz extraída das 
+sondagens sobre os executantes. Na ausência de definições e explicações 
+adequadas, isso pode originar um risco de confusão por parte dos que 
+utilizarão os dados.
+• O método também necessita ser extendido à cobertura de sondagens de 
+P&D do setor do Estado a unidades governamentais não executantes de 
+P&D, podendo gerar como consequência um acréscimo de trabalho. A carga de trabalho imposta aos organismos públicos depende da extensão em 
+que a informação já se encontra disponível, pelo menos internamente para 
+propósitos administrativos, e se está alinhada com as noções estatísticas 
+procuradas
+• Para implementar a abordagem baseada nos distribuidores de fundos, é 
+necessário considerar, potencialmente, a dupla contabilidade dos financiamentos de P&D provenientes de organizações “intermédias” as quais 
+recebem fundos de ministérios e organismos e depois os realocam transmitindo a outras instituições executantes. Isso pressupõe a elaboração de 
+critérios claros relativos à repartição de fundos entre as diversas categorias 
+funcionais. Por exemplo, os fundos atribuídos por um ministério a uma 
+agência de financiamento importante podem coincidir com o objetivo 
+“avanço geral do conhecimento”, enquanto o financiamento da agência 
+para projetos ou programas de P&D pode registrar esse financiamento de 
+forma mais específica.
+8.91 Na Tabela 8.3 é apresentada uma representação esquemática das 
+diversas situações em que um organismo do setor do Estado, envolvido tanto 
+na execução como na distribuição de fundos de P&D, pode ter como referência 
+quando confrontado com um questionário sobre as suas atividades de execução 
+de P&D e de financiamento de P&D com terceiros. Essa tabela indica que para 
+a compilação de estimativas agregadas de financiamento de P&D pelo setor 
+do Estado seria necessário concentrar-se ou nos fundos atribuídos em última 
+instância aos executantes de P&D, ou na primeira atribuição – do ponto de 
+vista cronológico – dos fundos. Em geral, pode-se sugerir aos inquiridos para 
+incluírem as quantias transferidas para outras agências a fim de apoiar pesquisa e desenvolvimento, mas nesse caso os organismos, para os quais os fundos 
+foram transferidos, não deveriam declarar esses fundos. Identicamente, uma 
+subdivisão de um organismo que transferisse fundos para outra subdivisão 
+do mesmo organismo poderia declarar estes como despesas próprias. Com o 
+intuito de evitar o máximo de distorções possíveis relativas à P&D interna, o 
+organismo o qual transfere os fundos deve esforçar-se, sempre que possível, 
+com o objetivo de determinar se o executante em última instância é interno 
+ou externo, declarando-o. A transferência de fundos para outro organismo do 
+Estado não deve ser a única base para declarar que a execução de P&D é interna.
+
+
+
+8.92 Podem surgir divergências entre os dados baseados nos orçamentos 
+e os dados sobre as despesas da execução de P&D, dependendo se foi pedido às 
+administrações públicas que declarassem as suas despesas segundo uma contabilidade de caixa ou de exercício. Os pagamentos em espécie ou semelhantes 
+podem ser efetuados ao longo de outro período que não seja o ano para o qual 
+foi aprovada a utilização de fundos pelo organismo, o qual também pode ser 
+diferente do momento em que se assumiu o compromisso de pagamento de um 
+dado executante, ou do período em que a P&D foi considerada como executada.
+8.93 Alguns paíseses já fazem o recenseamento de forma sistemática do 
+financiamento e da execução da P&D em todo o setor do Estado. Os países os 
+quais desejem experimentar esse método são encorajados a fazê-lo. Porém, é 
+necessário mais trabalho antes de convergir em uma norma permitindo conduzir sondagens exaustivas sobre o financiamento público de P&D.
+
+
+
+
+
+Capítulo 9 - pag 251
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
