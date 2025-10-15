@@ -9516,6 +9516,1368 @@ necessário mais trabalho antes de convergir em uma norma permitindo conduzir s
 Capítulo 9 - pag 251
 
 
+P&D do setor do ensino superior
+
+O setor do ensino superior, pela sua relevância política, é específico desse 
+manual, não tendo correspondente no Sistema de Contabilidade Nacional. 
+Este capítulo define o setor do ensino superior, e ao fazê-lo fundamenta-se 
+em definições já existentes de programas de educação terciária e de educação 
+formal. De maneira a cobrir o conjunto de atividades de pesquisa e desenvolvimento (P&D) executadas nesse setor, a sua definição inclui todos os institutos e centros de pesquisa, estações experimentais e clínicas as quais têm 
+as suas atividades de P&D sob controle direto ou geridas por instituições de 
+educação terciária. O setor do ensino superior é diferente de país para país, e 
+a primeira tarefa consiste em identificar as instituições que pertencem a esse 
+setor, posteriormente coligindo e reportando as estatísticas de P&D de modo 
+a permitir comparações internacionais. Nesse capítulo são apresentadas orientações para a identificação das instituições desse setor e para a medida das 
+suas despesas de P&D, bem como dos fluxos entre instituições dentro do setor 
+e externos a este, e dos recursos humanos desse setor.
+
+
+9.1. Introdução
+9.1 A definição do setor do ensino superior é específica desse manual 
+e não tem correspondente no Sistema de Contabilidade Nacional (SCN) (CE 
+et al., 2009). As instituições as quais pertencem ao setor do ensino superior 
+podem também ser classificadas em qualquer um dos setores do SCN em 
+função das suas características. A razão para a definição desse setor prende-se com a relevância política da informação sobre as suas instituições que 
+executam P&D.
+9.2 As estatísticas do ensino estão bem estabelecidas e conformes à Classificação Internacional Tipo da Educação (CITE), bem como ao manual da UNESCO, 
+da OCDE e do Eurostat quanto aos conceitos, definições e classificações para 
+o recolhimento de dados sobre o ensino formal (UOE, 2014). O Manual da UOE 
+utiliza a mesma definição de P&D a qual está nesse manual.
+9.3 Nas estatísticas de ensino, os programas são classificados conforme à 
+CITE sendo o ensino superior correspondente aos níveis 5, 6, 7 e 8 dessa classificação. Nesse Manual, as instituições são classificadas no setor do ensino 
+superior quando satisfazem a definição adotada para esse setor. Estes são dois 
+processos diferentes tornando-se claro, dentro dos objetivos desse Manual, que 
+o ensino superior é definido de forma mais abrangente do que no CITE.
+9.4 A definição do setor do ensino superior dada na seção 9.2 mostra que 
+as instituições desse setor nesse Manual não são somente aquelas nas quais 
+oferecem programas de ensino superior formais, como também os institutos e 
+centros de pesquisa, as estações experimentais e as clínicas, que podem ou não 
+oferecer programas de ensino, quando cumprem uma das condições enunciadas 
+no Capítulo 3 explicadas em maiores detalhes na próxima seção.
+9.5 Dado que o setor do ensino superior difere de país para país, é necessário começar por determinar quais são as instituições as quais pertencem a esse 
+setor, depois coligindo e reportando as estatísticas de P&D de modo a permitir 
+as comparações internacionais. Esse ponto é especialmente importante para as 
+estatísticas sobre a execução de trabalhos de P&D no setor do ensino superior; 
+esse tema que será abordado nesse capítulo.
+
+
+
+9.2. Domínio coberto pelo setor do ensino superior
+9.6 Esse setor inclui:
+• Todas as universidades, institutos técnicos de ensino superior e outras 
+instituições as quais ofereçam programas de educação formal terciária, 
+independentemente da sua fonte de financiamento ou estatuto legal.
+• Todos os institutos e centros de pesquisa, estações experimentais e clínicas 
+os quais tenham a sua atividade de P&D sob controle direto ou geridas por 
+instituições de educação terciária.
+9.7 Para ser mais específico, esse setor inclui todas as unidades (instituições) cuja atividade primária consiste em executar programas formais de ensino superior correspondentes aos níveis 5, 6, 7 ou 8 do CITE, qualquer que seja 
+o seu estatuto jurídico (UNESCO-ISU, 2012, p. 86). O ensino formal é definido na 
+CITE (UNESCO-ISU, para. 36 a 42), sendo parte da definição do setor do ensino 
+superior a inclusão de programas de ensino os quais são reconhecidos pelas 
+autoridades nacionais competentes, excluindo os programas que não o são. Esse 
+Manual utiliza o termo “serviços de ensino” preferencialmente a “programas 
+de ensino”, mas os dois termos são considerados equivalentes. Como indicado 
+na definição, o âmbito desse setor é mais alargado nesse Manual levando em 
+conta os trabalhos de P&D executados por prestadores de programas de ensino 
+superior em outras instituições não-comerciais, tais como certos tipos de institutos de pesquisa ou clínicas no qual a P&D é executada sob o controle direto 
+de instituições de educação terciária e, consequentemente, podendo ser considerada para efeitos práticos como fazendo parte da sua P&D interna.
+9.8 A definição descrita acima especifica o domínio coberto pelo setor (ver 
+também o Capítulo 3, seção 3.5). A árvore de decisão representada na Figura 3.1 
+do Capítulo 3 indica os setores utilizados nesse Manual nos quais as instituições 
+de ensino superior seriam classificadas se esse setor não existisse. Dado que o 
+setor das empresas, o setor do Estado e o setor privado sem fins lucrativos se assemelham aos setores do SCN, a Figura 3.1 esclarece sobre como as instituições 
+de ensino superior seriam reagrupadas nos setores correspondentes do SCN.
+9.9 Recomenda-se uma distinção clara entre as instituições do ensino superior as quais são públicas e as que são privadas. Nesse último caso, é também 
+importante, permitindo uma ligação com o SCN, distinguir para cada instituição 
+de ensino superior se esta pertence ao setor das empresas, ao setor das administrações públicas ou ao setor das instituições sem fins lucrativos ao serviço 
+das famílias (ISFLSF). Esse ponto é discutido abaixo na seção 9.2, dedicado às 
+instituições públicas e privadas e às comparações internacionais.
+9.10 Tal como indicado no Capítulo 3 (seção 3.4) e Capítulo 8, a classificação 
+entre instituição pública ou privada depende da existência de um controle último por parte de uma entidade pública. Para decidir sobre esse controle último, 
+tal como definidos nos capítulos citados, faz-se necessário averiguar qual é a 
+unidade institucional a qual tem o poder de determinar as políticas e as atividades gerais da instituição considerada, nomeando os responsáveis pela sua 
+gestão. Como muitas instituições estão sob o controle operacional de um órgão 
+diretivo, a constituição desse órgão tem uma incidência sobre a classificação.
+9.11 O núcleo central desse setor é constituído em todos os países pelas 
+universidades e por instituições de ensino pós-secundário. O tratamento das 
+unidades institucionais varia no caso das outras instituições de ensino terciário  e, sobretudo, no caso de vários outros tipos de instituições ligadas à universidades e instituições de ensino pós-secundário. Três categorias são consideradas:
+• Instituições de ensino superior
+• Hospitais e clínicas universitárias
+• Institutos de pesquisa na fronteira do ensino superior
+
+
+Instituições de ensino superior
+9.12 O setor inclui todas as instituições cuja atividade principal seja proporcionar um ensino superior formal, independentemente do seu estatuto jurídico. 
+Pode tratar-se de sociedades ou quase-sociedades – privadas ou pertencendo a 
+uma administração pública – instituições sem fins lucrativos (ISFL) comerciais 
+ou controladas e, principalmente, financiadas pelo Estado; ou parte das ISFLSF 
+(instituições sem fins lucrativos ao serviço das famílias). Tal como acima indicado, o núcleo central é essencialmente constituído por universidades e por instituições de ensino pós-secundário. Nem todas as instituições de ensino superior 
+executam P&D, podendo haver algumas instituições do secundário superior ou 
+do ensino pós-secundário não-superior (níveis 3 e 4 da CITE) que executem P&D. 
+Dependendo da sua administração e financiamento, estas podem ser incluídas 
+no setor do ensino superior desde que a sua inclusão seja claramente indicada 
+ao reportar os dados. Alguns países têm instituições de ensino superior com um 
+enfoque de vocação profissional, sendo o seu objetivo o ensino e não a execução 
+de P&D. Essas instituições podem ser excluídas das sondagens do setor.
+Hospitais e clínicas universitárias
+9.13 Embora não exista uma definição formal, o conceito de “hospital universitário” aplica-se normalmente aos hospitais os quais estão filiados a uma 
+universidade, embora muitos outros tipos de ligações e acordos levem a mesma 
+designação. A sua classificação pode levantar várias dificuldades conceituais e 
+práticas, pois combinam atividades ligadas à saúde, educação e a pesquisa, e 
+a sua administração toma formas distintas.
+9.14 A inclusão da maior parte dos tipos de hospitais e clínicas universitárias no setor do ensino superior justifica-se porque se trata simultaneamente 
+de instituições de ensino superior legítimas (hospitais de formação) e porque 
+são unidades de pesquisa “associadas” à instituições de ensino superior (por 
+exemplo, tratamento médico avançado em clínicas universitárias).
+9.15 O financiamento da P&D nesse tipo de instituições pode vir de fontes muito diversificadas: dotação orçamental geral das universidades a partir dos fundos 
+gerais das universidades (FGU), receitas próprias dos hospitais (por exemplo, receitas obtidas pelos tratamentos administrados aos doentes ou dotações orçamentais 
+globais destinadas à prestação de cuidados de saúde), fundos públicos diretos para 
+a P&D (por exemplo, de um conselho de pesquisa clínica), e ainda de fundos privados (doações ou subvenções das empresas para a realização de ensaios clínicos).
+9.16 Quando todas ou quase todas as atividades de um estabelecimento 
+hospitalar ou médico incluem uma componente de ensino ou de formação, 
+o estabelecimento deve fazer parte integral do setor do ensino superior. Por 
+outro lado, se as atividades de ensino ou de formação apenas dizem respeito 
+a uma parte dos serviços ou departamentos do estabelecimento hospitalar ou 
+médico, apenas esses devem ser classificados no setor do ensino superior. Os outros serviços ou departamentos, os quais não proporcionam nenhum ensino 
+ou formação, devem normalmente ser incluídos no setor apropriado (setor das 
+empresas, setor do Estado ou setor privado sem fins lucrativos). A classificação 
+institucional correspondente no SCN deve também ser registrada, sempre que 
+possível, fazendo a ligação com esse sistema. É preciso ter cuidado para evitar 
+a dupla contabilidade das atividades de P&D entre os vários setores envolvidos.
+9.17 Pode ser difícil distinguir entre as universidades e os hospitais e clínicas 
+universitárias. Apesar disso, recomenda-se a separação desses dois grupos de 
+instituições na declaração das despesas e do pessoal de P&D. De acordo com a 
+recomendação formulada no Capítulo 3, sugerindo o uso de identificadores para 
+as unidades institucionais por atividade econômica (Nações Unidas, 2008), os 
+identificadores de instituições de saúde dentro do setor do ensino superior podem 
+facilitar a produção de estatísticas para os hospitais e clínicas universitárias.
+
+
+Institutos de pesquisa na fronteira do ensino superior
+9.18 Há instituições as quais estão na fronteira entre o ensino superior e 
+outros setores institucionais. Tais instituições colocam problemas de classificação específicos os quais podem ser resolvidos de várias maneiras (ver a árvore 
+de decisão apresentada no Capítulo 3). Geralmente, o fato dessas instituições 
+proporcionarem um ensino superior é considerado como um critério decisivo 
+a favor da sua inclusão no setor do ensino superior. Pode-se também usar o 
+financiamento, a administração, o controle e a situação geográfica, assim como 
+a sua possível integração em orçamentos universitários, a fim de decidir sobre 
+a sua classificação. Nos países que têm registros institucionais detalhados, a 
+utilização da classe CINI (Nações Unidas, 2008) pode ser útil.
+9.19 Abaixo apresentam-se alguns exemplos de instituições situadas na 
+fronteira do ensino superior.
+Institutos envolvidos no financiamento do ensino superior
+9.20 Algumas instituições têm um papel importante no financiamento do 
+ensino superior, como os conselhos de ensino superior ou instituições similares, 
+podendo ser incluídas nesse setor desde que proporcionem serviços de ensino 
+superior formal ou sejam controladas ou administradas por universidades 
+estando ao seu serviço.
+Institutos de pesquisa especializados
+9.21 As universidades são grandes centros de pesquisa, e quando os países 
+julgam oportuno implantar novos institutos e unidades de P&D em domínios específicos, as universidades são frequentemente consideradas para a sua localização. Muitas dessas unidades são essencialmente financiadas pelo Estado e podem 
+ter uma missão precisa, enquanto outras são financiadas pelo setor privado sem 
+fins lucrativos ou pelo setor das empresas. Pode dar-se como exemplo unidades 
+criadas para responder a prioridades nacionais no domínio do ambiente, das ciências da vida, da medicina, ou das ciências exatas e da engenharia. Essas unidades 
+têm frequentemente um horizonte temporal limitado. Quando são constituídas 
+para serem geridas por universidades ou departamentos universitários, pode-se 
+considerar que pertencem ao setor do ensino superior. Qualquer que seja a escolha, é importante relatar quais são as instituições incluídas neste setor.
+
+
+Instituições ligadas às universidades
+9.22 Uma instituição do ensino superior pode ter “ligações” a outras instituições de pesquisa no qual não se interessam diretamente pelo ensino ou que têm 
+funções que não são P&D, como a consultoria, por exemplo por meio da mobilidade do pessoal entre a instituição de ensino superior e o instituto de pesquisa 
+em causa, ou por meio da partilha de instalações entre institutos classificados em 
+setores diferentes. Esses institutos devem ser classificados de acordo com outros 
+critérios, como por exemplo o controle e as finanças ou os serviços prestados.
+9.23 Em alguns países, as instituições as quais se situam na fronteira do 
+ensino superior podem ter um estatuto jurídico privado executando contratos de pesquisa com outros setores, ou podendo ser instituições de pesquisa 
+financiadas pelo Estado. Torna-se então difícil decidir se as ligações entre as 
+unidades são suficientemente fortes para justificar a consideração da unidade 
+“exterior” dentro do setor do ensino superior.
+Institutos com pesquisadores filiados a universidades
+9.24 Alguns institutos normalmente são financiados e controlados pelas administrações públicas, como as academias de ciências ou os conselhos nacionais 
+de ciências, empregando também pesquisadores filiados em universidades. Regra 
+geral, esses institutos são incluídos no setor do Estado, especialmente quando são 
+independentes das universidades e não estão integrados nos orçamentos universitários. Porém, pode acontecer que se possam incluir no setor do ensino superior, 
+quando esses institutos e os seus pesquisadores estão envolvidos no ensino.
+Outros casos
+9.25 Os “parques de pesquisa e parques científicos e tecnológicos” situados nas, ou próximos das, universidades e estabelecimentos de ensino pós-
+-secundário acolhem diversas entidades as quais produzem bens e serviços 
+executando trabalhos de P&D. Recomenda-se que para esses agrupamentos 
+não seja utilizada a localização geográfica e a utilização de recursos comuns 
+para os classificar no setor do ensino superior. As unidades que são controladas e acolhidas nesses parques e que são maioritariamente financiadas pelo 
+Estado devem ser classificadas no setor do Estado, aquelas que são controladas 
+e principalmente financiadas pelo setor privado sem fins lucrativos devem ser 
+classificadas nesse setor, enquanto as empresas e outras unidades ao serviço 
+das empresas devem ser classificadas no setor das empresas.
+9.26 As unidades controladas ou administradas por unidades do ensino superior (particularmente pelos hospitais de formação), acima definidas, não sendo 
+principalmente produtores para o mercado, devem ser incluídas no setor do ensino superior. Se essas unidades são essencialmente produtores para o mercado, 
+devem ser incluídas no setor das empresas quaisquer que sejam as suas ligações 
+com as unidades relevantes do setor do ensino superior (Capítulo 3, Figura 3.1).
+9.27 De acordo com as orientações apresentadas no Capítulo 3, as unidades 
+institucionais as quais não produzem para o mercado e que estão filiadas a 
+instituições do ensino superior ou o total da sua atividade de P&D é controlada 
+pelo ensino superior, devem ser consideradas fazendo parte do setor do ensino 
+superior, enquanto as spin-offs envolvendo pessoal universitário os quais produzem para o mercado devem ser classificadas no setor das empresas.
+
+
+Instituições públicas e privadas e comparações internacionais
+9.28 Tal como recomendado no Capítulo 3, a classificação das unidades institucionais em unidades públicas e privadas oferece informação politicamente 
+relevante facilitando a comparação entre os setores e subsetores do SCN. Assim, 
+recomenda-se essa classificação para as instituições do ensino superior.
+9.29 Além da diferenciação entre instituições públicas e privadas, para 
+efeitos de comparação internacional é útil decompor o setor entre universidades propriamente ditas, hospitais universitários e outras instituições de ensino 
+superior.
+9.30 Consequentemente, todas as unidades estatísticas desse setor devem 
+ser classificadas em função do perfil que melhor lhes corresponde, como indicado na Tabela 9.1. Os eventuais problemas de afetação devem ser assinalados 
+bem como as suas repercussões.
+
+
+Tabela 9.1. Perfis de instituições do ensino superior
+Tipo de instituição
+A. Instituições de ensino superior
+A. 1. Instituições de ensino
+– Universidades
+– Outras instituições de ensino superior
+A. 2. Institutos ou centros de investigação universitários
+A. 3. Hospitais e clínicas universitárias
+B. Instituições de pesquisa na qual a P&D é controlada por instituições de ensino superior
+
+
+
+9.31 Incentiva-se que sejam reportadas as despesas e o pessoal de P&D do 
+setor do ensino superior por tipos de instituições, de acordo com as categorias 
+da tabela acima apresentada.
+9.3. Identificação da P&D no setor do ensino superior
+9.32 Por necessidades das sondagens, a P&D deve ser dissociada de uma 
+variedade de atividades associadas que têm fundamento científico e tecnológico. Embora essas outras atividades possam estar estreitamente ligadas à P&D 
+por meio de fluxos de informação e financiamento em termos de operações, 
+instituições e pessoal que nelas toma parte, essas atividades devem, sempre 
+que possível, ser excluídas das medidas de P&D. Algumas atividades do ensino 
+superior são difíceis de situar relativamente ao conceito de P&D, particularmente, 
+o ensino, a formação e os cuidados de saúde especializados (por exemplo, nos 
+hospitais universitários).
+Limites entre P&D, ensino e formação
+9.33 A pesquisa e o ensino estão sempre estreitamente relacionados nas 
+instituições de ensino superior, na medida em que a maioria do pessoal exerce funções tanto na pesquisa quanto no ensino e muitas instalações e equipamentos servem aos dois propósitos.
+9.34 De acordo com as orientações apresentadas no Capítulo 2, a regra geral 
+consiste em excluir da P&D todas as atividades de ensino e de formação asseguradas pelo pessoal das universidades e de instituições especializadas do ensino 
+superior nos domínios seguintes: ciências naturais, engenharia, medicina, 
+agricultura, ciências sociais, humanidades e artes. Porém, a pesquisa efetuada 
+por estudantes de doutorado nas universidades deve ser considerada, tanto 
+quanto possível, no pessoal e nas despesas de P&D. Em alguns casos, os estudantes de mestrado os quais executam pesquisa (nível 7 da CITE) e as despesas 
+associadas, podem também ser contabilizadas na categoria apropriada (custos 
+de pessoal / outras despesas correntes; pessoal de P&D interno ou externo) de 
+acordo com as indicações fornecidas nos Capítulos 4 e 5.
+9.35 Na medida em que os resultados da pesquisa se repercutem no ensino, e que as informações e a experiência adquirida no quadro do ensino 
+frequentemente estimulam a pesquisa, é difícil determinar com precisão os 
+limites das atividades de ensino ou formação do pessoal do ensino superior e 
+dos estudantes, e das atividades de P&D. O cumprimento dos cinco critérios 
+enunciados da definição de P&D distingue-a do ensino corrente. É difícil decidir 
+se é devido considerar ou não como P&D as atividades científicas as quais são 
+um subproduto de atividades de ensino ou formação.
+9.36 Consideram-se os seguintes casos
+• Estudantes de doutorado (nível 8 da CITE), estudantes de mestrado (nível 
+7 da CITE), e suas atividades.
+• Supervisão de estudantes por pessoal universitário.
+• Aprofundamento de conhecimentos pessoais dos membros do pessoal 
+universitário (leituras pessoais).
+Estudantes de doutorado (nível 8 da CITE) e estudantes de mestrado 
+(nível 7 da CITE)
+9.37 É particularmente difícil distinguir as atividades de ensino e de formação dos trabalhos de P&D dos estudantes de doutorado. As atividades dos estudantes bem como dos seus professores e supervisores devem ser analisadas.
+9.38 Algumas partes dos currículos de nível 8 da CITE são muito estruturados, incluindo por exemplo: planos de estudo, cursos determinados e trabalhos 
+de laboratório obrigatórios. Nesse caso, o professor transmite conhecimentos 
+e proporciona uma formação na metodologia da pesquisa. Os estudantes os 
+quais seguem esse percurso tipicamente frequentam disciplinas obrigatórias, 
+estudando a literatura sobre o tema (revisão bibliográfica) e aprendendo a metodologia da pesquisa. Essas atividades não correspondem ao critério de novidade 
+especificado na definição de P&D.
+9.39 Para a obtenção de uma classificação final de nível 8 da CITE (nível 7 
+para os estudantes em mestrado de pesquisa), os estudantes devem também 
+prestar uma prova das suas competências realizando um estudo relativamente 
+original do qual devem apresentar os resultados. Em geral, esses estudos apresentam os elementos de novidade requeridos para se classificarem em projetos 
+de P&D. As atividades realizadas nesses moldes pelos estudantes devem ser 
+classificadas como P&D, assim como a supervisão exercida pelo orientador. É 
+também possível que tanto os professores como os alunos estejam envolvidos em outros projetos de P&D além da P&D realizada no quadro dos cursos de 
+pós-graduação.
+9.40 Além disso, os estudantes desse nível estão frequentemente ligados, 
+ou mesmo diretamente empregados, aos estabelecimentos em que estudam, 
+podendo ter contratos ou compromissos semelhantes que os obriguem a exercer 
+docência supervisionada em tempo parcial ou a realizar outras atividades, como 
+prestar cuidados de saúde especializados sob supervisão, enquanto prosseguem 
+com os seus estudos realizando pesquisa.
+9.41 Na Tabela 9.2 apresentam-se exemplos os quais ilustram a delimitação entre P&D e ensino nos níveis 8 e 7 da CITE. Os problemas mais práticos 
+da aplicação desses conceitos estão desenvolvidos no Capítulo 5 (pessoal de 
+P&D), mais especificamente na seção 5.2 sobre o tratamento dos estudantes de 
+doutorado e de mestrado.
+
+
+
+Supervisão de estudantes por pessoal universitário
+9.42 Um dos problemas fortemente relacionado com a determinação da 
+parte de P&D nos trabalhos dos estudantes de doutorado, é a extração da 
+componente de P&D do tempo dedicado pelos supervisores (orientadores) na 
+supervisão desses estudantes e seus projetos de pesquisa. O mesmo se aplica 
+aos estudantes de mestrado do nível 7 da CITE, de tempo mais limitado.
+9.43 Essas atividades de supervisão só devem ser incluídas na P&D se forem 
+equivalentes à direção e gestão de um projeto de P&D específico, contendo um 
+elemento de novidade suficiente e tendo por objetivo criar novos conhecimentos. Nesses casos, tanto a supervisão pelo pessoal acadêmico como o trabalho 
+do estudante devem ser incluídos na P&D. Se a supervisão consiste unicamente 
+em ensinar os métodos de P&D ou a ler e corrigir teses e dissertações ou trabalhos dos estudantes não diplomados, esta deve ser excluída da P&D
+
+
+
+Aprofundamento dos conhecimentos pessoais dos membros do pessoal 
+universitário (leituras pessoais)
+9.44 Esta atividade corresponde ao tempo dedicado à formação permanente 
+(leituras pessoais), a formação relacionada com a pesquisa (por exemplo, sobre 
+equipamento) e a participação em conferências e seminários.
+9.45 Ao se distinguir a P&D de atividades conexas, frequentemente levanta-
+-se a questão se as “leituras pessoais” deveriam ser consideradas como atividades de P&D. Essas leituras fazem, indiscutivelmente, parte do aperfeiçoamento 
+profissional do pessoal de pesquisa, sendo parte importante do acúmulo de 
+conhecimento e experiência incorporados nas atividades do pesquisador e na 
+implementação da P&D. As leituras pessoais constituem um processo cumulativo e quando essa informação, adquirida por essa atividade, é traduzida em 
+pesquisa deve ser considerada como P&D.
+9.46 Porém, apenas o aprofundamento de conhecimentos pessoais (leituras pessoais) realizadas especificamente para um projeto de pesquisa devem 
+ser consideradas como uma atividade de P&D. Em geral, a participação passiva 
+em conferências não pode ser considerado como P&D, mas a apresentação de 
+trabalho de pesquisa em conferências é considerado P&D.
+Cuidados de saúde especializados
+9.47 Nos hospitais universitários, no qual a formação de estudantes em 
+medicina é uma ocupação importante além da sua vocação principal de prestar 
+cuidados de saúde, é frequente encontrar uma estreita ligação entre as atividades de ensino e de P&D e de assistência médica. Os “cuidados de saúde especializados” constituem uma atividade a qual deve normalmente ser excluída 
+da P&D. No entanto, pode haver uma parte de P&D nesses cuidados quando, 
+por exemplo, são proporcionados nos hospitais universitários. É difícil para os 
+professores e seus assistentes definir qual é a parte das suas atividades que 
+corresponde exclusivamente à P&D. Porém, se o tempo e dinheiro alocados aos 
+cuidados de saúde correntes são considerados nas estatísticas de P&D, obtém-
+-se uma sobrestimação dos recursos de P&D nas ciências médicas. Em geral, 
+os cuidados de saúde especializados não são considerados como P&D e todos 
+os tratamentos médicos os quais não estão diretamente relacionados com um 
+projeto de P&D devem ser excluídos das estatísticas de P&D.
+9.48 Segundo esses critérios, um projeto específico pode ou não ser considerado como P&D dependendo se este foi executado de uma forma ou de outra, como ilustrado no exemplo seguinte: no domínio da medicina, fazer uma 
+autópsia de rotina determinando as causas de morte é uma prática médica 
+corrente a qual não pode ser associada à P&D; por outro lado, uma pesquisa 
+voltada a estudar as razões de uma dada taxa de mortalidade ocorrida durante 
+um tratamento específico (medicamento oncológico, por exemplo) de modo a 
+determinar se é devido aos efeitos colaterais da medicação é considerada P&D. 
+Identicamente, testes de rotina como análises de sangue e exames bacteriológicos realizados no quadro de exames de saúde não são P&D, mas já são P&D 
+os programas de testes de sangue de pacientes que estão tomandoum novo 
+produto farmacêutico, por exemplo.
+9.49 Os hospitais universitários também podem participar em ensaios 
+clínicos. Encontram-se no Capítulo 2 indicações suplementares quanto à determinação da P&D em ensaios clínicos.
+
+
+
+P&D nas ciências sociais, nas ciências humanas e nas artes
+9.50 Uma grande parte da P&D em ciências sociais e humanas é executada 
+no setor do ensino superior. Encontram-se no Capítulo 2 orientações sobre a 
+determinação da parte de P&D nesses domínios e sobre o que deve ser excluído.
+9.51 A maior parte dos trabalhos de pesquisa sobre a arte e no domínio da 
+arte são também executados no setor do ensino superior. O Capítulo 2 apresenta 
+as diretivas sobre os elementos a ser considerados como P&D nesse domínio.
+9.4. Quantificação das despesas e do pessoal no setor do ensino superior
+9.52 Esta seção tem como objetivo apresentar orientações sobre as principais variáveis e distribuições a serem recolhidas, tendo em conta as especificidades dos projetos do ensino superior. A seção 9.5 completará essa seção com 
+a descrição dos métodos frequentemente utilizados (por exemplo, sondagens 
+diretas, dados administrativos e coeficientes de P&D) para o recolhimento e 
+avaliação dessas variáveis e distribuições.
+9.53 As despesas internas de P&D do ensino superior (DIIDES) são o agregado estatístico principal descrevendo a execução da P&D no setor do ensino 
+superior. As DIIDES correspondem à componente das despesas internas brutas 
+de P&D (DIID) executada pelas unidades do ensino superior (ver Capítulo 4). São 
+a determinação das despesas de P&D interna do setor do ensino superior em 
+um dado período de referência.
+Despesas internas de P&D do ensino superior (DIIDES) por tipo de custo
+9.54 De acordo com as indicações do Capítulo 4, as DIIDES devem ser decompostas em duas categorias: despesas correntes e despesas de capital. A 
+primeira categoria é composta pelo custo da mão-de-obra e outras despesas 
+correntes, e a segunda são as despesas relativas a ativos fixos utilizados pela 
+P&D, tais como: máquinas e equipamentos, terrenos e construções.
+9.55 Se os dados relativos a cada um desses elementos não estão disponíveis para uma dada unidade, é necessário proceder a uma estimativa baseada 
+no montante total das despesas.
+9.56 Os custos da mão-de-obra (salários e despesas associadas) constituem 
+uma parte importante das despesas de P&D totais no setor do ensino superior. 
+Em princípio, os custos da mão-de-obra de P&D devem estar relacionados com 
+o tempo destinado a essa atividade, que se traduz em equivalente de tempo 
+integral (ETI). As informações sobre o custo total da mão-de-obra estão geralmente disponíveis ou podem ser calculadas com base em uma ou várias das 
+seguintes fontes de dados:
+• Escala salarial e posição de cada pesquisador, técnico ou outro membro do 
+pessoal dessa escala.
+• Custos de mão-de-obra por categoria de pessoal.
+• Custos de mão-de-obra por categoria de pessoal, domínio de P&D e, possivelmente, departamento.
+9.57 Os custos de mão-de-obra incluem as cotizações reais ou imputadas aos 
+fundos de pensões ou outros organismos da previdência social do pessoal de P&D. 
+
+
+Esses custos não têm que aparecer separadamente na contabilidade da unidade 
+estatística e mesmo na ausência de transações, deve ser feita uma tentativa de 
+estimativa desses custos. Para evitar a dupla contabilidade, os custos de mão-
+-de-obra não incluem o pagamento de pensões ao pessoal aposentado da P&D. 
+9.58 As informações sobre outras despesas correntes estão normalmente 
+disponíveis por departamento ou equivalente e frequentemente dizem respeito 
+a recursos postos à disposição dessas unidades para a compra de artigos tais 
+como: documentos, pequenos equipamentos, subscrições de revistas científicas, 
+viagens, etc. É habitual pedir às unidades declarantes que estimem a parte de 
+P&D dessas despesas com base na “utilização prevista”. A parte das despesas 
+para as quais não é possível obter informações no âmbito do departamento 
+(despesas gerais tais como: água, eletricidade, arrendamentos, manutenção, 
+administração geral, etc.), tem que ser obtida por distribuição desses custos 
+pelas unidades institucionais apropriadas. Se não é possível utilizar o critério 
+da “utilização prevista”, podem ser utilizados os mesmos coeficientes que da repartição dos custos de mão-de-obra (para uma análise dos “coeficientes de P&D” 
+ver a seção 9.5 mais abaixo). As partes de P&D podem assim ser determinadas 
+na base de convenções ou de uma estimativa de valor por unidade declarante.
+9.59 A imputação de custos da gestão de bens imobiliários e instalações
+das instituições de ensino superior varia de país para país. De fato, as instalações e os terrenos utilizados para o ensino e pesquisa, podem ser propriedade 
+das instituições sendo utilizados gratuitamente ou alugados. Da mesma forma, 
+os custos energéticos podem ser imputados segundo métodos diferentes. Assim, 
+as comparações internacionais de despesas correntes e despesas de capital são 
+afetadas pelo tratamento específico desses custos em cada país. Para garantir a 
+comparabilidade internacional e obtenção de custos realistas, pode ser desejável 
+incluir o valor teórico o qual representa o custo real. Podendo tratar-se, por exemplo, de um “valor comercial” estimado incluído em “outras despesas correntes”.
+9.60 As informações sobre o total de despesas de capital em máquinas e equipamentos estão geralmente disponíveis nas instituições. Em muitas sondagens, 
+são as instituições que estimam a parte das atividades de P&D segundo a “utilização prevista” dos equipamentos. Os coeficientes de P&D (ver seção 9.5) servem 
+menos frequentemente para estimar a parte de P&D das máquinas e equipamentos 
+do que no caso de diversos tipos de despesas correntes. A parte de P&D desses 
+investimentos pode também ser estabelecida com base em convenções ou estimativas de valor, como para certas categorias de despesas correntes discutidas acima.
+9.61 As informações sobre o total de despesas de capital em terrenos e 
+edifícios normalmente só estão disponíveis na instituição ou universidade. Os 
+coeficientes de P&D servem, raramente, para estimar a parte de P&D dessas despesas. Também aqui aos dados relativos à P&D são frequentemente estimados 
+com base na utilização prevista das instalações.
+
+
+
+DIIDES por fonte de financiamento
+Generalidades
+9.62 Como se indicou no Capítulo 4, o financiamento da P&D executada no 
+setor do ensino superior provém de várias fontes.
+• Em muitos países, tradicionalmente, a fonte principal é uma dotação fixa 
+de fundos públicos designado “fundos gerais das universidades” (FGU), que as instituições públicas de ensino superior recebem a fim de financiar o 
+conjunto das suas atividades. Em geral, as diferentes atividades do pessoal 
+das instituições de ensino superior – ensino, P&D, administração, cuidados 
+de saúde, etc. – não são especificamente identificadas para pagamentos 
+separados por esses fundos, que em geral pagam uma grande variedade 
+de atividades profissionais.
+• Entre outras fontes de financiamento da P&D, encontram-se as subvenções 
+ou os contratos de ministérios, departamentos ou outras instituições públicas, incluindo conselhos de pesquisa assim como instituições privadas 
+sem fins lucrativos, indústria e restante do mundo.
+• Algumas universidades podem também ter fundos internos (por exemplo, 
+receitas de doações ou mensalidades pagas pelos alunos), os quais são 
+utilizados para pagar a execução de trabalhos de P&D.
+9.63 Nesse manual, os FGU são definidos como a parte dos recursos financeiros destinados à P&D que vem da dotação global para as atividades de 
+pesquisa/ensino atribuída às universidades pelo ministério da educação da administração central (federal), ou autoridades correspondentes em nível regional 
+(Estados federados) ou local (municipal).
+9.64 Sondagens sobre a utilização do tempo e outros métodos tendo em 
+vista isolar a P&D do conjunto das atividades das universidades normalmente 
+só dizem respeito às FGU. Os fundos externos são geralmente destinados à P&D, 
+contudo também podem ser utilizados para outros fins. Os inquiridos devem 
+determinar para cada projeto, alimentado por fontes externas, se este financia 
+ou não pesquisa, quando essa informação não está disponível nos registros das 
+administrações centrais.
+9.65 Alguns fundos externos (sobretudo os fundos de fundações e conselhos de pesquisa) não estão integralmente registrados na contabilidade central 
+das universidades. De fato, alguns contratos de pesquisa vão diretamente para 
+institutos universitários ou para professores. Para ter uma cobertura tão ampla 
+quanto possível, em alguns casos os dados sobre os fundos externos têm que 
+ser obtidos a partir da contabilidade dos distribuidores de fundos (embora esse 
+manual recomende o princípio da abordagem baseada no executante de P&D), 
+ou devem ser compatibilizados com essa contabilidade. Os dados dos distribuidores de fundos normalmente só apresentam despesas, pelo que isso não 
+resolve o problema do recolhimento de dados sobre o pessoal de P&D.
+9.66 São os procedimentos contabilísticos que vão determinar em que 
+medida as fontes de financiamento da P&D podem ser definidas e identificadas 
+separadamente. Os geradores de estatísticas de P&D dependem do detalhamento disponível nessa contabilidade. Uma complicação adicional na identificação 
+do financiamento de P&D reside no fato de que as organizações externas nem 
+sempre pagam o “custo integral do mercado”, seja qual for a sua definição, da 
+P&D executada para eles em instituições do ensino superior.
+9.67 Todos os países encontram regularmente problemas para identificar 
+com rigor as fontes de financiamento da P&D, mas a principal área em que falta comparabilidade internacional é na distinção entre FGU e outras fontes de 
+receitas de P&D de origem pública.
+
+
+Distinção entre fundos gerais das universidades (FGU) e outras fontes de 
+financiamento
+9.68 Alguns dos problemas colocados pela determinação da parte das 
+subvenções atribuível à P&D já foram discutidos. Essa determinação faz parte 
+integrante do método aplicado em cada país. As inconsistências advêm do fato 
+de que diferentes países classificam a componente de P&D e dos FGU de forma 
+diferente.
+9.69 Para o setor do ensino superior definiu-se uma categoria distinta, os 
+FGU, para considerar a especificidade dos mecanismos de financiamento da 
+P&D nesse setor, relativamente aos outros setores. A maior parte dos países 
+estima que, como a P&D faz parte integrante das atividades das instituições de 
+ensino superior, todos os fundos atribuídos a uma instituição desse tipo têm 
+intrinsecamente uma componente de P&D. De acordo com essa interpretação, 
+esses fundos são classificados como FGU.
+9.70 Quando se estabelecem os totais nacionais, esses dados são normalmente incluídos nos subtotais da fonte de financiamento do Estado dado que 
+este é a fonte original, prevendo que uma parte importante desses fundos gerais 
+seja destinada à P&D.
+9.71 Porém, é uma prerrogativa das universidades decidirem quanto dinheiro dedicar à P&D do total dos recursos gerais disponíveis, incluindo os 
+fundos gerais das universidades e as suas receitas próprias. Assim, alguns 
+países estimam que essas somas deveriam primeiro ser atribuídas ao ensino 
+superior como fonte de financiamento. Alguns países adotam essa convenção 
+quando reportam os dados à escala nacional.
+9.72 Por convenção, a parte da P&D financiada pelos FGU de origem pública 
+deveria ser atribuída ao Estado enquanto fonte de financiamento, sendo essa 
+a abordagem recomendada para fins de comparação internacional. Em qualquer dos casos, os FGU devem ser declarados separadamente, como indicado 
+no Capítulo 4. Os custos da previdência social, provisões relacionadas com 
+a aposentadoria e outros custos pertinentes (reais ou imputados) devem ser 
+considerados e registrados nos FGU. Como esclarecimento: as DIID financiadas 
+pelo Estado são divididas em duas subcategorias, os fundos públicos diretos e 
+os FGU (para o cálculo dos FGU, ver seção 9.5 abaixo).
+Outros fundos de origem interna
+9.73 Receitas provenientes de dotações, ações e bens imobiliários, bem 
+como margens retiradas da venda de serviços que não sejam P&D, como taxas 
+de inscrição e mensalidades dos estudantes, subscrições de revistas, venda de 
+soro ou de produtos agrícolas, devem ser considerados como fundos de origem 
+interna. As práticas das contabilidades nacionais determinarão com que facilidade será possível isolar essas receitas, mas essas receitas de P&D (“receitas 
+retidas”) podem, no caso de universidades privadas, ser uma fonte considerável 
+de receita e devem ser classificadas como fundos de origem interna.
+Fundos de origem externa
+9.74 Além do FGU, a P&D do ensino superior recebe créditos de unidades 
+institucionais do setor do Estado, do setor das empresas e do setor privado sem fins lucrativos, sob a forma de subvenções ou de contratos de pesquisa. Esses 
+fundos podem também vir do restante do mundo. Esses recursos são mais 
+fáceis de isolar e normalmente não colocam maiores problemas aos geradores 
+de estatísticas, que podem classificá-los nas fontes de financiamento direto.
+Recomendações
+9.75 Para melhorar a comparabilidade internacional das estatísticas de P&D 
+no setor do ensino superior, é preferível desagregar o máximo possível as fontes 
+de financiamento, o que depende, em grande medida, das informações fornecidas pelos sistemas de contabilidade central das instituições de ensino superior.
+9.76 A comparabilidade internacional torna-se difícil quando os dados 
+relativos aos FGU não são comunicados separadamente e são classificados por 
+diferentes países ou nos fundos de origem interna, ou nos fundos provenientes 
+do setor do Estado.
+9.77 Quando esse tipo de financiamento existe, os FGU devem ser comunicados separadamente na rubrica dos fundos provenientes do setor do Estado, e 
+não no setor do ensino superior.
+Despesas de P&D externa
+9.78 A crescente complexidade da organização das atividades de P&D coloca dificuldades no setor do ensino superior como em outros setores. Nos grandes 
+projetos de P&D realizados em consórcio, as universidades podem receber uma 
+subvenção do Estado e de outras organizações transmitindo uma parte a outros 
+parceiros do projeto, sendo assim desejável o recolhimento do montante de 
+fundos de P&D transmitidos (por meio de subcontratações ou subvenções em 
+cascata) a executantes de P&D externa dentro do setor do ensino superior evitando a dupla contabilidade (ver Capítulo 4, seção 4.3). Como foi referido no Capítulo 4, os fluxos financeiros transmitidos para outro departamento da mesma 
+instituição de ensino superior não devem ser considerados como P&D externo, 
+pois os diferentes departamentos fazem parte da mesma unidade estatística.
+P&D em relação com o restante do mundo
+9.79 O setor do ensino superior participa em atividades de globalização 
+da P&D, tais como definidas no Capítulo 11. Essa seção apresenta informações 
+sobre quatro aspectos internacionais desse setor: o financiamento da P&D 
+de/ou para o setor do restante do mundo, campi universitários sob o controle 
+estrangeiro, campi universitários satélites no estrangeiro, e estudantes estrangeiros. As estatísticas de P&D relativas a essas atividades podem ser úteis para 
+compreender a globalização e a pesquisa científica em certos domínios de P&D 
+para a elaboração de análises ou de políticas nos mercados emergentes (especialmente no que respeita aos campi universitários sob controle estrangeiro), e 
+para as políticas de educação e pesquisa.
+9.80 As instituições de ensino superior devem fornecer informações sobre 
+todos os tipos de financiamento de P&D de ou para organizações implantadas 
+no exterior do país.
+9.81 O campo de aplicação cobre todas as atividades de ensino internas do 
+país declarante (exercidas no seu território nacional), independentemente de quem detém ou patrocina as instituições consideradas e do método de ensino 
+proporcionado. As instituições de ensino superior estabeleceram polos ou campi
+fora das fronteiras do país em que se encontram. Na medida em que os campi
+satélites sob controle estrangeiro que se encontram no país declarante, e campi
+satélites no estrangeiro (significando no setor do restante do mundo) controlados pelas instituições de ensino superior nacionais executam trabalhos de 
+P&D, as sondagens sobre as DIIDES podem incluir informações suplementares 
+sobre esses campi (para saber mais sobre a delimitação entre a P&D e o ensino 
+e formação, consultar a seção 9.3).
+9.82 Dentro dos objetivos desse manual, um campus satélite estrangeiro 
+é uma instituição de ensino superior o qual se encontra no território do país 
+declarante que é detido, pelo menos em parte, por uma entidade localizada 
+(ou residente) no exterior do país declarante (designada “prestador de ensino 
+estrangeiro”) cuja atividade é operada apelo prestador de ensino estrangeiro, 
+consagrando pelo menos algumas das suas atividades ao ensino direto e proporcionando acesso a um programa completo conducente a um grau conferido pelo 
+prestador de ensino estrangeiro. No quadro do recolhimento de informações 
+(se possível para tabelas de dados de P&D), nas sondagens relativas às DIIDES 
+pode ser perguntado se um inquirido corresponde ou não, dentro do contexto 
+da sondagem, a um campus satélite sob controle estrangeiro.
+9.83 Para os objetivos desse manual, um campus satélite no estrangeiro é 
+uma instituição de ensino superior que pertence, pelo menos em parte, por uma 
+instituição local de ensino superior (ou seja, um residente no território do país 
+declarante), mas estando situado no restante do mundo (residente no exterior do 
+país declarante), no qual a atividade é operada pela instituição local dedicando 
+pelo menos uma parte das suas atividades ao ensino direto e proporcionando 
+acesso a um programa universitário completo reconhecido por um diploma da 
+instituição local. Nas sondagens relativas às DIIDES podem ocorrer perguntas 
+como: a) quais são os países de implantação (designados “países de acolhimento”) 
+dos campi satélites situados no estrangeiro; b) se os campi executaram trabalhos de 
+P&D no país de acolhimento (questionário binário, de respostas “sim ou “não”); c) 
+qual é o montante das despesas correspondentes a esses trabalhos na moeda do 
+país declarante. Quando uma instituição possui vários campi desse tipo em um 
+dado país, as informações de P&D podem ser comunicadas no âmbito do país de 
+acolhimento, se isso facilitar as respostas. As informações detalhadas por domínio de P&D podem ser feitas em níveis de agregação superiores para esses campi.
+9.84 As despesas correspondentes à P&D executada por campus satélite sob 
+controle estrangeiro fazem parte das DIIDES totais do país declarante. Porém, 
+as que correspondem à P&D executada pelos campi satélites no estrangeiro 
+não podem ser incluídas nas DIIDES totais do país declarante, podendo ser 
+identificadas separadamente e tabeladas como P&D executada no restante do 
+mundo por instituições de ensino superior fora das instituições de ensino do 
+país declarante.
+9.85 Além do recenseamento em separado desses campi de acordo com as 
+definições acima apresentadas, também se recomenda o recolhimento das despesas de P&D e das estatísticas relativas aos recursos humanos dessas unidades 
+de acordo com as indicações dadas em outra parte desse capítulo.
+9.86 Os campi satélites no estrangeiro não estando localizados, por definição, no território do país declarante, podem tornar o recolhimento e tratamento 
+de informações particularmente difíceis. A obtenção dessas informações é 
+assim considerada uma segunda prioridade, mas é incentivada. De fato, as informações sobre as atividades mundiais exteriores do setor do ensino superior, 
+tais como as dos campi no estrangeiro que executam trabalhos de P&D, podem 
+ser particularmente interessantes para as unidades institucionais inquiridas.
+9.87 O número de estudantes estrangeiros inscritos é outro aspecto da globalização das instituições de ensino superior. Os estudantes estrangeiros (por vezes 
+designados “estudantes internacionais”) são definidos como não-cidadãos do país 
+em que estudam (ver seção 4.6.1 do volume 1 do Manual da UOE). Os trabalhos de 
+pesquisa realizados nas universidades por todos os estudantes de doutorado e de 
+mestrado do nível 7 do DITE devem ser considerados nas despesas de P&D, independentemente do seu estatuto de cidadania ou nacionalidade do patrocinador.
+
+
+
+Categorias de pessoal de P&D
+9.88 As categorias de pessoal de P&D que devem ser reportadas para o 
+setor do ensino superior são idênticas as dos outros setores os quais executam 
+trabalhos de P&D que foram definidas no Capítulo 5. Em particular, a classificação de referência para reportar os dados por nível de estudos é a Classificação 
+Internacional Tipo da Educação (CITE 2011).
+9.89 A noção de “pessoal de P&D” e, às vezes, a de “pesquisador”, nem sempre 
+pode ser utilizada e compreendida da mesma maneira nas instituições de ensino 
+superior, podendo ter que ser associada a títulos acadêmicos. Pode também ser 
+útil comunicar os dados sobre os pesquisadores por grau acadêmico de maneira 
+a informar sobre o período de tempo nas carreiras de pesquisa/acadêmicas.
+9.90 Sempre que possível, propõe-se a seguinte classificação de graus, correspondentes ao período de tempo, para relatar dados sobre pesquisadores no 
+setor do ensino superior (CE, 2013) quando se consideram títulos acadêmicos. 
+As categorias incluem posições típicas para cada grupo:
+• Categoria A: grau/posto mais elevado ao qual a P&D é normalmente executada.
+❖ Exemplo: “Professor Catedrático” ou “Diretor de Pesquisa.
+• Categoria B: pesquisadores que trabalham em um nível menos elevado 
+que o nível superior (A), entretanto mais elevado do que os titulares de um 
+doutorado recente (nível 8 da CITE).
+❖ Exemplo: “Professor Associado” ou “Pesquisador Sênior”.
+• Categoria C: primeiro grau/posto para o qual um titular recente de um 
+doutorado é normalmente recrutado.
+❖ Exemplo: “Professor Auxiliar” ou “Bolsista de Pós-doutorado”
+• Categoria D: estudantes de doutorado (nível 8 do CITE) trabalhando como 
+pesquisadores, ou pesquisadores trabalhando em uma posição a qual necessita normalmente de um diploma de doutorado.
+❖ Exemplo: “Doutorando” ou “Assistente de Pesquisa” (não titular de um 
+doutorado).
+9.91 Os estudantes de mestrado podem sem contabilizados como pesquisadores (ver Capítulo 5) se estiverem inscritos em um programa de mestrado 
+de pesquisa de nível 7 da CITE, ou seja, um mestrado o qual “leva à obtenção de 
+cerificações de pesquisador concebidas explicitamente para formar os participantes na condução de projetos de pesquisa originais, em que o nível é inferior 
+ao de um doutorado”. Segundo os termos dessa definição, “esses programas cumprem frequentemente vários dos critérios de um programa de nível 8 da 
+CITE, mesmo se tendem a ser mais curtos (duração acumulada de cinco a seis 
+anos após o início do ensino superior). Tipicamente não fornecendo o grau 
+de independência exigido aos estudantes que procuram uma certificação de 
+pesquisador especializado, preparando o acesso a programas de nível 8 da 
+CITE”. Os estudantes de mestrado contabilizados como pesquisadores entram 
+normalmente na categoria D acima mencionada.
+9.91 Contudo, é importante que sejam incluídos no pessoal de P&D apenas 
+os estudantes de mestrado que recebem pagamentos, direta ou indiretamente, 
+pelas suas atividades de P&D (ver Capítulo 5, seção 5.2).
+9.5. Métodos de recolhimento de despesas e de dados relativos ao 
+pessoal no setor do ensino superior
+9.93 Essa seção dá informações de ordem geral sobre os métodos utilizados 
+para calcular e estimar os valores das despesas e do pessoal de P&D no setor do 
+ensino superior. São também apresentadas as diferentes abordagens utilizadas 
+no quadro de obtenção de estatísticas sobre as DIIDES (Figura 9.1). É dada atenção particular aos métodos utilizados para estimar a P&D, especificamente os 
+fundos gerais das universidades (FGU), que podem ser uma componente essencial do financiamento nesse setor. Normalmente esses fundos constituem uma 
+parte importante do financiamento da P&D, mas a proporção de FGU destinados 
+à P&D é frequentemente desconhecida das próprias universidades.
+
+
+Método Geral
+9.94 O setor do ensino superior é muito heterogêneo e os sistemas e as 
+instituições de ensino superior estão organizados de muitas formas diferentes 
+nos vários países. Isso complica a obtenção das estatísticas de P&D a que se 
+acrescenta a grande variação dos métodos estatísticos de um país para o outro. 
+Na prática, isso significa que vários métodos podem ser utilizados para obter 
+estatísticas de P&D de boa qualidade.
+9.95 O quadro de compilação de estatísticas das DIIDES oferece várias opções entre as quais se pode escolher o método melhor adaptado ao caso concreto 
+de cada país para produzir estatísticas de P&D do setor do ensino superior, levando em conta os recursos disponíveis (utilização ou não de uma sondagem) da 
+qualidade e disponibilidade dos dados administrativos relativos às instituições 
+de ensino superior e a disponibilidade de dados para o tipo desejado de unidade 
+estatística, de instituto ou de departamento. As sondagens sobre o uso do tempo 
+são elementos importantes das estatísticas de P&D do setor do ensino superior 
+em vários países, podendo estar associados a uma sondagem institucional sobre 
+a P&D (completa ou parcial) ou unicamente a dados administrativos; ou ainda a 
+uma combinação entre dados de sondagem e dados administrativos.
+9.96 Os diferentes métodos de obtenção de dados são indicados no quadro 
+da Figura 9.1. Um pré-requisito importante para utilizar dados administrativos 
+é a sua qualidade em termos de disponibilidade, fiabilidade e atualidade (ver 
+abaixo). Os métodos vão desde sondagens institucionais (completas ou parciais) 
+aos dados administrativos e a diferentes combinações dessas fontes de dados, 
+frequentemente combinadas com coeficientes de P&D retirados de sondagens 
+sobre o uso do tempo.
+A unidade estatística
+9.97 As unidades institucionais do setor do ensino superior são mais ou 
+menos bem definidas (ver seção 9.3 e Capítulo 3, seção 3.2), porém é mais problemático a definição das unidades estatísticas, ou seja, das unidades sobre as 
+quais se procura recolher informação. Não se pode utilizar uma regra universal 
+visto que os sistemas universitários variam muito de país para país.
+9.98 Sempre que possível, as unidades estatísticas do setor do ensino 
+superior devem ser classificadas em seis grandes domínios de pesquisa e desenvolvimento:
+• Ciências naturais
+• Ciências da engenharia e tecnologia
+• Ciências médicas e ciências da saúde
+• Ciências agrícolas e veterinárias
+• Ciências sociais
+• Ciências humanas e artes
+9.99 Os principais domínios e subdomínios da P&D são apresentados no 
+Capítulo 2.
+9.100 Embora os grandes domínios estejam claramente definidos, o nível 
+de desagregação de cada componente é deixado ao cargo de cada país. No setor 
+do ensino superior, quando se dispõe de informações administrativas detalhadas, pode ser utilizada uma terminologia detalhada dos domínios de pesquisa 
+e desenvolvimento como classificação institucional.
+9.101 Dado que as instituições de ensino superior executam frequentemente atividades em vários dos seis domínios de P&D, esse tipo de informação pode 
+estar disponível em níveis mais desagregados de unidades declarantes tais 
+como os departamentos, os institutos ou “centros” de pesquisa, as faculdades, 
+ou hospitais ou as instituições de ensino pós-secundário.
+9.102 Em alguns países, as informações sobre as instituições de ensino superior podem ser fornecidas pelo ministério da Educação, mas também podem 
+ser fornecidas por autoridades regionais. As sondagens frequentemente dirigem-se às próprias instituições. Muitas vezes é necessário decompor os dados 
+até ao nível dos departamentos universitários. A escolha das unidades declarantes é crucial para poder extrair dados sobre a P&D a partir de dados gerais.
+Dados de sondagens
+9.103 A condução de sondagens especiais regulares, metódicas e harmonizadas é o método privilegiado para o recolhimento de dados sobre a P&D. 
+Porém, quando se dispõe de dados administrativos satisfatórios e sondagens 
+estatísticas são consideradas demasiado pesadas, pode ser apropriado utilizar 
+outras abordagens, especialmente no setor do ensino superior.
+9.104 É possível reunir informações sobre a P&D no setor do ensino superior a partir de duas grandes fontes de informação: as sondagens e os dados 
+administrativos. Os dois métodos são frequentemente combinados. O método 
+baseado nas sondagens tem várias vantagens, por exemplo, para isolar as atividades de P&D ou associá-las a um domínio ou tipo de P&D.
+9.105 De modo a melhorar a comparabilidade internacional dos dados 
+coligidos, nessa seção propõe-se algumas linhas orientadoras metodológicas 
+relativas à realização de sondagens de P&D. Como os métodos e procedimentos 
+das sondagens sobre a P&D estão bem estabelecidos em vários países, essas 
+linhas orientadoras são bastante gerais permitindo ser largamente aplicadas. 
+Esses métodos complementam os que foram examinados no Capítulo 6.
+Campos de sondagens de P&D
+9.106 Teoricamente, esse tipo de sondagens deve permitir conhecer e determinar o conjunto dos recursos financeiros e humanos dedicados às atividades 
+de P&D de todas as unidades do setor do ensino superior que executam trabalhos de P&D. Eles dirigem-se essencialmente às unidades executantes, as quais 
+podem também financiar atividades de P&D realizadas em outras unidades.
+Determinação da população alvo e dos inquiridos das sondagens
+9.107 Os que coletam dados de P&D não têm sempre os meios para levar a 
+cabo uma sondagem exaustiva e fiável com todas as unidades executantes do 
+setor. Geralmente existem muitas restrições à extensão da sondagem. É preciso, por exemplo, limitar o número de inquiridos para controlar os custos, ou 
+associar a sondagem sobre a P&D a um outro impondo uma escolha de inquiridos aceitável, mas não ideal. As sondagens a certos grupos podem requerer 
+a participação de outras agências com diferentes necessidades de dados e, consequentemente, diferentes questões para os inquiridos. Sendo assim, não 
+é possível formular recomendações detalhadas sobre os métodos de sondagem 
+igualmente relevantes para todos os países, até porque o tamanho e a estrutura 
+das capacidades de P&D nacionais são diversificados.
+9.108 No setor do ensino superior, as sondagens e as técnicas de estimativa 
+devem cobrir todas as universidades e todas as instituições equivalentes, especialmente as que atribuem graus de doutorado. As outras instituições no setor 
+que se tem conhecimento, ou assume-se, executarem P&D devem também ser 
+incluídas (ver seção 9.2). Sempre que possível, é preferível utilizar como unidades declarantes subunidades tais como os departamentos ou os institutos os 
+quais compõe a universidade.
+Hospitais e clínicas universitárias
+9.109 Os hospitais e outros estabelecimentos de saúde são uma categoria 
+especial. Alguns países podem julgar satisfatório incluir hospitais e outros 
+estabelecimentos de saúde nas sondagens regulares de P&D utilizando os questionários estabelecidos para o setor em questão. Orientações adicionais sobre 
+as fronteiras entre a pesquisa e os cuidados de saúde e sobre o tratamento de 
+ensaios clínicos podem ser fornecidas nos questionários, de acordo com as 
+definições e critérios apresentados no Capítulo 2.
+9.110 Quando os hospitais universitários estão administrativamente e financeiramente muito integrados em instituições de ensino, podem ser tratados 
+nesses últimos no que diz respeito inquéritos às sondagens e a compilação de 
+dados sobre a P&D. Por outro lado, quando são unidades separadas com a sua 
+própria contabilidade e administração, podem receber um questionário específico ou um questionário normal sobre a P&D, conforme o que for mais adequado. 
+Para os hospitais universitários (ou partes deles) que não estão integrados à 
+instituições de ensino, pode ser útil proceder a uma sondagem especial. Se isso 
+não é possível, pode ser usado o questionário normal sobre a P&D.
+9.111 Seja qual for a abordagem estatística utilizada para as sondagens, é 
+preciso cuidado para garantir um tratamento coerente das unidades/projetos 
+de P&D sob administração comum por duas ou mais unidades, por pessoas remuneradas por várias entidades e por pessoas as quais trabalham em centros 
+hospitalares, mas também empregados por outras instituições.
+9.112 O questionário utilizado para inquirir deve incluir um número mínimo 
+de questões fundamentais sobre as atividades de P&D permitindo a produção de 
+estatísticas harmonizadas comparáveis, para transmissão a organizações internacionais. Devido à quantidade de trabalho que representa para os inquiridos, os 
+questionários devem ser apresentados de forma lógica, sendo tão simples e sucintos quanto possível e sendo acompanhados de definições e instruções claras. 
+Em geral, quanto mais longo é o questionário, mais baixa é a taxa de respostas. A 
+maior parte dos países utiliza questionários eletrônicos, disponíveis na Internet 
+(para mais informações sobre os métodos de sondagem, ver o Capítulo 6).
+Dados administrativos
+9.113 Os dados administrativos são uma fonte corrente de estatísticas de 
+P&D no setor do ensino superior (ver a análise da estrutura precedente e a Figura 9.1). Entre outros exemplos de dados administrativos, citam-se os registros de contabilidade das instituições de ensino superior, ou ainda os dados fornecidos 
+pelos organismos financiadores.
+9.114 A maioria dos países estabelecem as suas estatísticas de P&D a partir 
+de uma sondagem (completa ou parcial) mas, para o setor do ensino superior, 
+alguns países baseiam-se unicamente em dados administrativos. Muitos outros 
+combinam esses dois métodos. Em geral, a utilização de registros e de dados 
+administrativos para fins estatísticos exige menos recursos do que uma sondagem diminuindo a carga de trabalho para os inquiridos. Daí a importância de 
+melhorar a disponibilidade e a qualidade dos dados administrativos de forma 
+a generalizar a sua utilização e racionalizar a produção de estatísticas de P&D.
+9.115 Porém, as vantagens óbvias das sondagens não devem ser subestimadas, particularmente na determinação da parte de P&D de determinadas atividades, bem como a sua repartição por domínio ou tipo. Dados de sondagens e 
+dados administrativos são frequentemente combinados para fornecer estatísticas de P&D no setor do ensino superior, sendo conjugadas com sondagens sobre 
+o uso do tempo ou com outros métodos de estimativa da componente de P&D.
+9.116 Os dados administrativos podem ser explorados de diferentes formas 
+para compilar estatísticas de P&D no setor do ensino superior. Se os conceitos e 
+definições utilizados e o campo coberto pelas fontes de dados administrativos 
+são suficientemente próximas das que são dadas nesse manual, essas fontes 
+podem servir de fontes primárias de informação. O mais frequente é utilizar 
+os dados administrativos em conjunto com os coeficientes de P&D derivados 
+de sondagens sobre o uso do tempo (ver seção 9.5.5) quando se procura estimar 
+a parte da P&D. Os dados administrativos podem também ser utilizados para 
+suplementar os dados em falta ou incoerentes nas sondagens para fins de controle depois da etapa de correção de dados (ver Capítulo 6).
+9.117 Em muitos casos, os dados são derivados de múltiplas fontes administrativas. O papel das administrações centrais varia de país para país e de um 
+nível para o outro – nacionalmente ao ministério da Educação, regionalmente, 
+localmente ou dentro da própria instituição de ensino superior. Seja qual for o 
+nível da administração, as fontes normalmente têm uma vasta quantidade de 
+informação resultante das atividades conduzidas ao seu nível. As informações 
+administrativas detidas pelas administrações centrais variam de acordo com 
+as funções exercidas por cada uma dessas administrações. Os ministérios da 
+Educação podem dispor de elementos muito gerais, enquanto os responsáveis 
+financeiros das instituições de ensino superior têm dados sobre as receitas e 
+despesas individuais de cada pesquisador e outros membros do pessoal. Porém, 
+não é inteiramente certo que algumas dessas informações estejam conforme às 
+definições desse manual, limitando a possibilidade de as utilizar diretamente 
+(mesmo sendo úteis para deduzir o coeficiente de estimativa – ver mais abaixo).
+9.118 A identificação da P&D por disciplina e por domínio pode requerer informação do pesquisador ou instituto/departamento para instituições maiores 
+as quais realizam atividades de pesquisa em vários domínios. As informações 
+disponíveis na unidade institucional são suficientes se esta aborda apenas um 
+domínio de P&D
+
+
+Métodos de estimativa
+9.119 As sondagens e dados administrativos (se são compilados no respeito 
+pelas definições e recomendações desse manual) são os melhores meios para 
+recolher informações sobre o setor do ensino superior. Porém, não estão sempre adaptados aos recursos, ao quadro jurídico e as necessidades dos diferentes países. Se por qualquer razão não for possível conduzir uma sondagem completa ou 
+utilizar os dados administrativos determinando as despesas ou o pessoal de P&D 
+no setor do ensino superior, as técnicas de estimativa podem ser uma escolha 
+alternativa em combinação com dados de sondagem e/ou dados administrativos.
+Coeficientes de P&D
+Objeto dos coeficientes
+9.120 Os coeficientes de P&D permitem calcular ou estimar a parte do 
+pessoal e das despesas afetas à P&D, servindo, particularmente, para repartir 
+o conjunto das despesas entre as atividades de pesquisa, ensino e outras (incluindo administrativas). Podem servir também para estimar o total das DIIDES, 
+ou certas componentes dessas despesas, como as que são financiadas pelo FGU 
+ou apenas para estimar os totais relativos ao pessoal de P&D.
+Conceitos
+9.121 Os coeficientes podem ser obtidos de diferentes formas substituindo 
+as sondagens em larga escala, mais caras, ou para completar as sondagens. Os 
+métodos dependem das condições específicas dos países, não existindo uma 
+solução universal. Métodos alternativos são descritos abaixo:
+• Uso direto de dados administrativos (de registros administrativos): relevante em alguns países, mas difícil de pôr em prática na maioria dos países
+• Estimativas de especialistas a partir de dados administrativos
+• Cálculos efetuados a partir de sondagens sobre o uso do tempo (ver orientações abaixo)
+9.122 Para fins de controle da qualidade, deve ser considerada a comunicação dos metadados relativos aos métodos de cálculo dos coeficientes.
+Métodos
+• Os coeficientes de P&D são aplicados diretamente ao nível apropriado (indivíduo, instituto, departamento, universidade) para estimar a parte de P&D 
+no montante total dos custos de mão-de-obra; se necessário, procede-se 
+a ajustes levando em conta os custos dos vários regimes de previdência 
+social ou de aposentadoria.
+• Pode-se esperar que estes coeficientes de P&D variem de acordo com a 
+disciplina de ensino ou de pesquisa, categoria profissional do pessoal que 
+participa diretamente na P&D e tipo de instituição no qual a atividade se 
+desenvolve. Com um maior nível de detalhamento, os coeficientes podem 
+ser aplicados aos dados relativos ao pessoal e financiamento de cada instituição Os coeficientes são geralmente aplicados por etapas
+• A aplicação dos coeficientes de P&D as diferentes categorias de pessoal, se 
+possível por disciplina e por instituição, permitindo obter estimativas do 
+pessoal em equivalentes de tempo integral (ETI).
+• Essas estimativas do pessoal, convertidas em coeficientes, podem em seguida ser aplicadas aos dados financeiros de modo a obter uma estimativa 
+das despesas de P&D.
+9.123 Na ausência de dados de sondagem, os coeficientes de P&D são o único meio para estimar a parte da P&D nos custos de mão-de-obra. Eles têm um 
+papel importante na estimativa da parte de P&D nas outras despesas correntes, 
+mas são pouco relevantes para calcular a parte da utilização da maquinaria e 
+equipamentos, ou de terrenos e construções, nas atividades de P&D.
+9.124 Quando da comunicação de dados para fins de comparações internacionais, os compiladores de P&D são encorajados a indicar para quais conjuntos 
+de despesas e de dados do pessoal aplicaram os coeficientes para calcular os 
+dados da P&D, precisando os coeficientes utilizados. Esses metadados podem 
+ser coligidos após um determinado período de anos em paralelo com o recolhimento regular de dados, e disponibilizados na Internet.
+Sondagens sobre o uso do tempo
+9.125 Não sendo possível estabelecer os coeficientes necessários a partir 
+de outras sondagens ou de dados administrativos, recomenda-se a utilização 
+de sondagens sobre o uso do tempo a fim de obter as informações necessárias 
+que permitam estimar a parte da P&D nos equivalentes de tempo integral e 
+nas despesas. Tendo em vista a redução das discrepâncias de vários métodos 
+possíveis para conduzir esse tipo de sondagem, propõem-se, a título facultativo, 
+linhas diretivas permitindo conceber sondagens mais uniformes.
+Recenseamento ou sondagem de opinião
+9.126 Dada a grande heterogeneidade das situações nacionais (quadro jurídico, dimensão do país, etc.), não é possível recomendar um recenseamento 
+para todos os países. Quando se procede por sondagem, a amostragem deve ser 
+representativa das categorias de empregados ao longo de um ano acadêmico 
+típico, e estratificado por domínio de pesquisa e de desenvolvimento.
+Unidade declarante
+9.127 Em uma sondagem sobre o uso do tempo, a unidade declarante a ser 
+privilegiada deve ser o pesquisador, e não a administração da universidade.
+Categorias de empregados consideradas
+9.128 As sondagens sobre o uso do tempo devem levar em consideração, 
+pelo menos, pesquisadores (ou seja, pessoal interno; ver Capítulo 5) envolvidos em atividades de P&D em instituições de ensino superior e possivelmente também outro pessoal de P&D, tal como os pesquisadores contratados (pessoal 
+externo de P&D), técnicos e pessoal de apoio.
+Tipos de atividades
+9.129 As sondagens devem centrar-se sobretudo no tempo dedicado à 
+execução de P&D. Estas devem apresentar uma lista normalizada e extensa de 
+atividades centradas nas seguintes três atividades principais:
+1. P&D
+• P&D
+• Administração da P&D
+2. Ensino
+• Ensino
+• Administração do ensino
+3. Outros trabalhos: todos os outros trabalhos
+9.130 Para responder às suas necessidades estatísticas, a maior parte dos 
+países recolhe informações mais precisas de acordo com uma lista mais detalhada de atividades. Recomenda-se que se preveja o seu agrupamento em uma 
+das três atividades principais acima mencionadas.
+Período de tempo
+9.131 O período de referência utilizado nos questionários sobre o uso do 
+tempo pode ser muito diferente entre os países (um ano inteiro a uma ou duas 
+semanas típicas, ou ainda sondagens segundo uma base variável). Não sendo 
+possível a condução de uma sondagem completa, faz-se necessário garantir que 
+as estimativas cobrem os diversos tipos de atividades realizadas ao longo do 
+ano. Todos os períodos característicos de um ano devem ser tratados. Uma das 
+abordagens possíveis consiste em levar em consideração uma semana específica, durante um período de aulas, e uma segunda semana fora desse período. 
+Tendo em conta as diferenças na organização do ensino superior em cada país, 
+o período de referência deve ser escolhido por cada país.
+Periodicidade das sondagens sobre o uso do tempo
+9.132 É preferível realizar sondagens regularmente, contudo sabe-se que 
+a periodicidade depende da dimensão do país, do seu quadro jurídico e dos recursos disponíveis para realizar as sondagens. Apesar disso, propõe-se sempre 
+que possível que não se deixem passar mais de cinco anos entre cada sondagem.
+Procedimento a seguir nos anos intermédios
+9.133 Se as sondagens são espaçadas por mais de dois anos, pode-se considerar fazer previsões em tempo real sobre a potencial evolução dos coeficientes 
+baseando-se, por exemplo, nas alterações ocorridas na estrutura do pessoal 
+universitário.
+
+
+Horas de trabalho contratuais
+9.134 Como questão introdutória nas sondagens sobre o uso do tempo, recomenda-se o recolhimento de informação sobre o número de horas de trabalho 
+contratual durante a semana (ou semanas) de referência depois reportando, em 
+percentagem, a distribuição relativa das diferentes atividades (ver Capítulo 5 
+sobre a definição de horas de trabalho).
+Cálculo dos FGU
+9.135 Os dados sobre os fundos gerais das universidades figuram igualmente nos registros das instituições. Um número crescente de países recolhe 
+dados sobre os FGU por meio de sondagens sobre a P&D. Em alguns casos, é o 
+valor total da dotação global que é coligido nas sondagem e depois a parte da 
+P&D (FGU dedicados à P&D) é estimada com o auxílio de coeficientes derivados 
+das sondagens sobre o uso do tempo.
+9.136 Nos países em que não há sondagens sobre as DIIDES, os dados são 
+compilados combinando diferentes fontes e aplicando coeficientes os quais 
+são frequentemente derivados das sondagens sobre o uso do tempo. Em alguns 
+casos, os FGU são calculados deduzindo as outras fontes de financiamento do 
+montante das DIIDES.
+9.137 As sondagens sobre o uso do tempo e outros métodos que pretendem 
+isolar a parte da P&D do conjunto das atividades das universidades servem 
+principalmente para calcular os FGU, que financiam a maioria das despesas 
+de P&D do ensino superior em muitos países (ver seção 9.4). A dotação global 
+pública das instituições cobre todas as atividades de base: ensino, P&D, supervisão, administração, arrendamentos e outros gastos gerais. Dado que as próprias universidades não têm geralmente conhecimento da parte da P&D nessa 
+dotação a aplicação de coeficientes é o método mais prático para a determinar. 
+Vários métodos são utilizados para este efeito.
+9.6. Relações com as estatísticas da educação
+9.138 Os dados sobre as despesas de P&D no ensino superior são também 
+recolhidos no quadro do recolhimento de dados da UNESCO / OCDE / Eurostat 
+(UEO) sobre estatísticas da educação. Um manual metodológico conjunto da 
+UEO (UEO, 2014), elaborado por especialistas da estatística da educação, expõe 
+os conceitos, as definições e as classificações a serem utilizadas com o intuito 
+de comunicar os dados internacionalmente. As orientações fornecidas no manual da UEO reportando os dados de P&D são baseadas no Manual de Frascati. Os 
+especialistas da educação e da estatística têm colaborado durante dezenas de 
+anos e estes continuarão a colaborar, com o objetivo de harmonizar as orientações fornecidas nos dois manuais. Parece inevitável que algumas disparidades 
+nos dados persistam devido à diferença na natureza dos dois recolhimentos de 
+dados, mas a experiência mostra que a coordenação entre os fornecedores de 
+dados dos dois lados contribuem para reduzir essas disparidades
+
+
+
+
+
+
+Capítulo 11
+Medição da globalização da P&D
+
+
+Nas análises das edições precedentes, o setor “Estrangeiro”, agora denominado “Restante do mundo”, era considerado principalmente como uma fonte de 
+financiamento para a execução de trabalhos de pesquisa e desenvolvimento 
+experimental (P&D) no território nacional (por exemplo, no cálculo das GERD) 
+ou como um destino dos fundos de fontes nacionais (como no cálculo das 
+GNERD). A definição de Restante do mundo apresentada neste capítulo está 
+ligadoà do Sistema de contabilidade nacional (SCN). A globalização designa 
+aqui a integração internacional de meios de financiamento, a oferta de fatores 
+de produção, a P&D, e a trocas de bens e de serviços. No setor das empresas, o fenômeno é associado às trocas internacionais e ao investimento direto 
+estrangeiro (IDE), enquanto as instituições sem fins lucrativos privadas ou 
+públicas (que incluem unidades dos setores do estado e do ensino superior) 
+realizam igualmente atividades de envergadura internacional relacionadas 
+com a P&D, como o financiamento e a colaboração. A globalização da P&D 
+remete a um subconjunto de atividades globais que implicam o financiamento, a execução, a transferência e o aproveitamento da P&D. Nesse capítulo são 
+tratados os indicadores da globalização da P&D que afetam todos os setores.
+
+
+
+11.1 Introdução
+11.1 O conceito da globalização da P&D é abordado de forma explícita 
+nessa edição do Manual, enquanto em edições prévias a dimensão global da 
+P&D era primariamente associada as fontes de financiamento de P&D executada 
+no território nacional (como no cálculo das GERD) ou ao destino dos fundos de 
+fontes nacionais (como no cálculo das GNERD). Essas fontes eram previamente 
+caracterizadas como fundos provenientes do / destinados para o “estrangeiro”. 
+Em conformidade com o Sistema de Contabilidade Nacional (SCN), a terminologia escolhida nesse manual é o “restante do mundo”. O restante do mundo é 
+definido tendo por base o estatuto de não residência das unidades pertinentes, 
+sendo constituído por todas as unidades institucionais não residentes as quais 
+efetuam operação com unidades residentes, ou que têm outras relações econômicas com estas. A identificação e quantificação das fontes e dos destinos dos 
+financiamentos de P&D não situados no território nacional continuam a ser aspectos importantes do estudo da P&D, os quais são tratados de forma exaustiva 
+nos capítulos 3 e 4, assim como nos capítulos dedicados aos diferentes setores. 
+No entanto, a área de estudo desse manual ultrapassa o quadro dos fluxos de 
+financiamento da P&D incluindo uma lista mais completa de questões relacionadas com a quantificação da P&D a uma escala mundial.
+11.2 De maneira geral, a globalização designa a integração internacional de 
+meios de financiamento, da oferta de fatores, de P&D, de produção e de troca de 
+bens e de serviços. No setor das empresas é associado as trocas internacionais e ao 
+investimento direto estrangeiro (IDE), enquanto as instituições sem fins lucrativos 
+privadas ou públicas (incluindo unidades dos setores do Estado e do ensino superior) realizam igualmente atividades de envergadura internacional relacionadas 
+com a P&D, como o financiamento e a colaboração. Nesse manual, “globalização” e 
+“internacionalização” são sinônimos. É importante notar que os fluxos financeiros 
+de IDE e as operações provenientes de IDE são indicadores de globalização distintos 
+(FMI, 2009, capítulo 6). Os indicadores do fluxo financeiro de IDE não entram no 
+quadro atual desse manual. Para mais informações, ver o Manuel de l’OCDE sur les 
+indicateurs de la mondialisation économique (OCDE, 2005, capítulo 2) e a Définition de 
+référence de l’OCDE des investissements directs internationaux (OCDE, 2009a).
+11.3 A globalização da P&D remete para um subconjunto de atividades globais envolvendo o financiamento, execução, transferência e aproveitamento da 
+P&D. Esse capítulo prioriza três indicadores da globalização da P&D das empresas, previamente a apresentação de uma síntese dos problemas de quantificação 
+encontrados fora do setor das empresas
+
+
+
+11.2. Quantificação da globalização da P&D das empresas
+Quadro estatístico de quantificação da globalização da P&D 
+das empresas
+11.4 São aqui tratados três tipos de indicadores estatísticos da globalização 
+da P&D de empresas:
+• os fluxos de financiamentos transnacionais de P&D (ver seção 11.3);
+• as despesas correntes e as despesas de pessoal ligadas às atividades de 
+P&D que são parte das empresas multinacionais (EMN) as quais realizam 
+atividades nos países declarantes e no estrangeiro (ver seção 11.4)
+• as trocas internacionais de serviços de P&D (ver seção 11.5).
+11.5 O primeiro desses indicadores é uma extensão das estatísticas de P&D 
+clássicas cujo recolhimento é recomendado nas empresas residentes (ver capitulo 7, seção 7.6). As EMN, como as outras empresas as quais não fazem parte de 
+grupos multinacionais, podem ter tais atividades, sendo que esse capítulo está 
+focado na declaração das EMN. O segundo desses três indicadores diz respeito 
+apenas às atividades das EMN. O terceiro indicador é construído no contexto 
+das estatísticas do comércio dos serviços, tendo como base as receitas obtidas 
+pelas unidades não residentes e pagamentos efetuados a essas unidades não 
+residentes por trabalhos de P&D.
+11.6 Os indicadores recomendados nesse manual limitam-se, em grande 
+parte, a caraterização da P&D executada no decorrer de um ano de referência. 
+Em especial, os fluxos de financiamento transnacionais de P&D estão associados 
+à P&D interna em um período de referência específico, da mesma forma que os 
+indicadores de execução e de financi amento da P&D dependem do estatuto de 
+EMN. Por outro lado, a troca internacional de serviços de P&D pode abranger 
+operações implicando direitos aos resultados das atividades de P&D realizadas 
+no decorrer de anos precedentes. Por conseguinte, as trocas de serviços de P&D 
+são calculadas em função das despesas acumuladas de P&D (no país declarante 
+para as exportações e nos países parceiros comerciais para as importações) e não 
+apenas da produção ou do financiamento da P&D do ano corrente. Os serviços de 
+P&D são quantificados ao preço do mercado, conforme os princípios da balança 
+dos pagamentos (BP) e recolhidos em sondagens existentes sobre as trocas de 
+serviços, como será discutido adiante nesse capítulo. Consequentemente, cada 
+indicador satisfaz objetivos diferentes representando aspectos parciais, mas 
+complementares, de modalidades de organização subjacentes complexas para a 
+execução de P&D em diferentes partes do mundo. Por exemplo, as trocas de serviços de P&D são utilizadas para ajustar os stocks internos de P&D no processo de 
+capitalização como é referido posteriormente nesse capítulo, em conformidade 
+com as indicações do Handbook on Deriving Capital Measures of Intellectual Property 
+Products (OCDE, 2009b). Uma outra diferença fundamental entre os indicadores 
+dos fluxos de financiamento transnacionais de P&D e do comércio dos serviços 
+de P&D é que os financiamentos transnacionais de P&D incluem as transferências 
+(como subvenções, ver abaixo) e todos os setores; as estatísticas para as trocas de 
+serviços de P&D geralmente não incluem subvenções para a P&D sendo a cobertura que vai além do setor das empresas podendo ser limitada por razões práticas.
+11.7 Os indicadores estatísticos da globalização da P&D ligados à P&D executada ou financiada por EMN, apoiam-se não só nas estatísticas nacionais sobre a P&D como também sobre as estatísticas econômicas internacionais dizendo 
+respeito à produção, aos investimentos diretos, ao emprego, aos financiamentos e às trocas a uma escala mundial. A multiplicidade das fontes de referência 
+apresenta um desafio para os serviços estatísticos, para os entrevistados das 
+sondagens e os usuários de estatísticas sobre a P&D e de estatísticas ligadas à 
+globalização. No entanto, dado a complexidade das questões de globalização de 
+P&D, é improvável que uma referência única englobe todas as noções de quantificação pertinentes. Consequentemente, procurou-se utilizar uma terminologia 
+coerente com os termos definidos em outras partes dese manual, mas também 
+com manuais estatísticos sobre a globalização referidos mais especificamente 
+nese capítulo (que futuramente poderão ser apresentados de forma detalhada 
+online, como complemento desse manual, no endereço http://oe.cd/frascati).
+11.8 De modo geral, a globalização tem duas consequências principais para 
+a atividade de P&D e a sua quantificação: primeiro, a P&D faz parte das cadeias 
+de valores mundiais complexas que envolvem fornecedores dispersos e processos de produção de bens e de serviços fragmentados; em segundo, a própria 
+P&D implica cada vez mais organizações e pessoal alocado em diferentes países, 
+espelhando o alargamento das tendências de globalização. Dada essa complexidade, é improvável que um instrumento de sondagem único possa abranger 
+todas as necessidades de dados sobre a globalização da P&D. Essa situação 
+oferece oportunidades de colaboração sobre o recolhimento e/ou elaboração de 
+dados de sondagens sobre a P&D e em outras áreas, particularmente as BERD, 
+como as IDE/EMN e as sondagens sobre as trocas de serviços aqui referidas. 
+Consequentemente, esse capítulo resume os elementos de P&D provenientes 
+de diversos manuais sobre a globalização relacionando essas informações com 
+as noções do Manual de Frascati.
+11.9 Embora esse capítulo seja centrado nas relações de propriedade e nos 
+aspectos financeiros transnacionais das atividades globais de P&D (por exemplo, as despesas, os custos, os fluxos de financiamento), a globalização da P&D 
+também se manifesta por meio da mobilidade do pessoal de P&D. A identificação 
+e o acompanhamento dos fluxos de pessoal de P&D no interior e entre as EMN 
+são encorajados. No entanto, a capacidade das sondagens sobre a P&D de reunir 
+informações sobre os aspectos de “recursos humanos” e da globalização da P&D 
+é limitada comparativamente às sondagens sobre os pesquisadores independentes ou as pessoas altamente qualificadas.
+
+
+
+Definições relevantes das empresas multinacionais (EMN)
+11.10 O recolhimento e compilação precisos das estatísticas de globalização da P&D das empresas devem estar baseados em uma compreensão e 
+aplicação coerente da terminologia necessária da globalização das empresas. 
+A partir de elementos detalhados disponíveis nos manuais sobre a globalização 
+e documentos relacionais, os termos-chave são definidos abaixo. Ver o quadro 
+11.1 para uma síntese dos diversos manuais de referência os quais fornecem o 
+quadro estatístico e a terminologia subjacente adotada nesse capítulo.
+11.11 O investimento direto estrangeiro (IDE) é motivado pela vontade de 
+uma empresa residente de uma economia (empresa-mãe ou “investidor direto”) em adquirir um interesse duradouro de uma empresa residente de uma 
+outra economia (empresa afiliada implantada no estrangeiro ou “empresa de 
+investimento direto”). Para efeitos do estabelecimento de estatísticas oficiais, 
+um interesse duradouro é considerado existente quando 10% ou mais das ações comuns, ou dos direitos de voto de uma empresa constituída em sociedade ou o 
+equivalente, de uma empresa não constituída em sociedade são detidos, direta 
+ou indiretamente. O critério de 10% dos direitos de voto também estabelece a 
+existência de uma relação de investimento direto entre uma empresa afiliada 
+e a sua empresa-mãe.
+11.12 Para efeitos desse manual, o foco estatístico está centrado na P&D e 
+nas atividades relacionadas que casam a intervenção das sociedades afiliadas 
+à participação maioritária ou sob controle. A participação maioritária ou o 
+controle remete para a detenção de mais de 50% das ações comuns ou dos direitos de voto de uma empresa constituída em sociedade, ou de uma empresa 
+não constituída em sociedade. Entre outros exemplos de sociedades afiliadas 
+à participação maioritária ou sob controle figuram as filiais (empresas constituídas em sociedade) e as sucursais (empresas não constituídas em sociedade).
+11.13 Do ponto de vista do país declarante cuja empresa-mãe é residente, 
+esse é um grupo de empresas composto por todas as unidades residentes do 
+país declarante em que esta detém a maioria do capital (para uma síntese das 
+questões de consolidação que envolvem os membros de EMN, ver OCDE, 2005). 
+Consequentemente, excluem-se as sociedades implantadas no estrangeiro das 
+quais esta detém a maioria das partes
+
+
+
+Quadro 11.1 Manuais estatísticos internacionais sobre a globalização 
+de P&D das empresas
+System of National Accounts 2008 (EC et al., 2009). O SCN fornece orientações sobre os indicadores de atividade econômica no interior de um território 
+econômico de um sistema de contabilidade integrado. Também aborda-se os 
+fluxos de financiamento econômicos entre um país declarante e o restante do 
+mundo. A definição da P&D no SCN 2008 (SCN 10.103) está em geral de acordo 
+com o Manual de Frascati 2002. Todavia, o SCN também estuda a quantificação 
+das operações econômicas dos ativos de P&D (também chamados de “P&D”), 
+que podem ter sido efetuados no decorrer de anos precedentes.
+Handbook on Economic Globalisation Indicators (OCDE, 2005). Este manual define um quadro para estatísticas e indicadores derivados sobre a 
+globalização, incluindo stocks (posições) e os fluxos financeiros de IDE e a 
+atividade ou as operações das EMN.
+Benchmark Definition of FDI (OCDE, 2009a). Esse manual demonstra 
+detalhamente as definições do fluxo de IDE e outros fluxos relacionados 
+em conformidade com a 6ª edição do Balance of Payments Manual. Também 
+tem em consideração as estatísticas sobre as atividades das EMN (AEMN).
+Balance of Payments and International Investment Position Manual, 6a 
+edição (FMI, 2009). Esse manual trata da Contabilidade e das normas estatísticas para compilar a balança de pagamentos (BP) entre os residentes 
+e não-residentes durante um período específico, assim como o balanço 
+financeiro externo, os ativos e passivos acumulados (ou posições) após 
+operações com o setor externo. É a fonte para as definições sobre as operações internacionais, o território econômico, a residência e definições 
+relacionadas. A sua definição de “P&D” nos serviços de P&D integra a 
+definição do Manual de Frascati ao estender aos serviços de ensaios que 
+resultem em patentes.
+
+
+
+
+
+Quadro 11.1 Manuais estatísticos internacionais sobre a 
+globalização de P&D das empresas (continuação)
+Manual on Statistics of International Trade in Services 2010 (UN et al., 2011). 
+Esse manual trata das estatísticas sobre a prestação internacional de 
+serviços, incluindo serviços de P&D por meio de duas formas essenciais: 
+as trocas de serviços transnacionais clássicas e a prestação de serviços 
+local for filiais sob controle do estrangeiro. Estas últimas são tratadas nas 
+estatísticas das empresas afiliadas implementadas no estrangeiro (CE, 
+2012). A sua definição de “P&D” nos serviços de P&D integra a definição 
+do Manual de Frascati ao estender aos serviços de ensaios que resultem em 
+patentes, mas as suas subcategorias são formuladas no âmbito de facilitar 
+as comparações. Um guia de compilações para esse manual foi publicado 
+em 2014 (ONU et al. 2014).
+Handbook on Deriving Capital Measures of Intellectual 
+Property Products
+(OCDE, 2009b). Esse manual apresenta métodos estatísticos a fim de elaborar indicadores de valor comercial de P&D e de outros produtos de 
+propriedade intelectual com a finalidade de incorporar esses ativos nas 
+contas econômicas nacionais e internacionais, em conformidade com o 
+SCN 2008. Ele descreve os resultados de P&D no plano nacional para fins 
+de medição em termos de três componentes coerentes simultaneamente 
+com o SCN e o Frascati: P&D por conta própria (P&D realizada e utilizada 
+internamente independentemente da fonte de financiamento); P&D para 
+clientes (P&D realizada para outra unidade e financiada por esta); e P&D 
+não personalizada ou especulativa. Identifica as diferentes formas de 
+declaração da transferência (prestação sem custos, particularmente no 
+interior das EMN) e modificação do valor dos ativos de uma empresa ou 
+rendimentos de uma empresa ou rendimentos de investimentos que incluem (mas sem serem identificados de maneira distinta) fluxos de P&D. 
+Esse manual também descreve como obter os valores do fornecimento de 
+P&D no plano nacional ao corrigir os resultados de P&D interno por meio 
+da adição das importações e subtração das exportações com o apoio de 
+estatísticas sobre o comércio de serviços de P&D, permitindo o cálculo 
+da formação de capital (investimento) em P&D e a estimativa dos stocks
+de capital da P&D.
+The Impact of Globalisation on National Accounts (CEE/Eurostat/OCDE, 
+2011). Esse guia, trata, sobretudo, das dificuldades que as atividades das 
+EMN criam na quantificação da produção e das trocas de produtos da 
+propriedade intelectual. Ele também aborda questões tais como os preços de transferência e as suas consequências nas estatísticas nacionais 
+e internacionais.
+Guide to Measuring Global Production (CEE/OCDE, 2015). Esse guia 
+aprofunda as orientações dos dois manuais precedentes por meio 
+da análise avançada das cadeias de valores mundiais e os acordos 
+para a produção de bens e de serviços, incluindo os insumos de P&D.
+
+
+
+
+
+11.14 Do ponto de vista do país declarante, uma EMN designa uma empresa-mãe residente e as sociedades implantadas no estrangeiro das quais detém 
+a maioria das partes, denominadas “filiais implantadas no estrangeiro (FIE)”. 
+Consequentemente, as filiais implantadas no estrangeiro são sociedades afiliadas situadas no estrangeiro e detidas por mais de 50% pela sua empresa-mãe, 
+residente do país declarante. Uma EMN é igualmente denominada como um 
+“grupo de empresas mundial” (CE, 2010).
+11.15 Do ponto de vista do país declarante, as filiais sob controle do estrangeiro (FCE) constituem o grupo de empresas implantadas no país declarante 
+cuja maioria do capital é detido por EMN estrangeiras (que são, consequentemente, empresas-mãe estrangeiras). As suas atividades resultam de IDE de 
+entrada, enquanto as atividades das filiais implantadas no estrangeiro são 
+associadas à IDE de saída. Para uma síntese de questões de consolidação que 
+envolvem filiais sob controle do estrangeiro, ver OCDE (2005).
+11.16 As empresas-irmãs implantadas no estrangeiro são identificadas do 
+ponto de vista de uma filial sob controle do estrangeiro residindo na economia 
+declarante. Tratam-se de empresas implantadas fora do país declarante se 
+encontrando, frequentemente, sob o controle ou influência da mesma empresa-mãe estrangeira que a filial sob controle do estrangeiro. Para efeitos desse 
+manual, as empresas-irmã implantadas no estrangeiro apresentam um interesse sob a forma de fontes ou destinos de financiamento de P&D envolvendo 
+filais controladas no estrangeiro.
+11.17 No caso do investimento de entrada, a empresa-mãe imediata de 
+uma filial sob controle do estrangeiro é o primeiro investidor estrangeiro 
+implantado fora do país declarante que exerce um controle sobre a filial estrangeira. O investidor exercendo o controle final de uma filial sob o controle 
+estrangeiro (igualmente chamada de “unidade institucional de controle final”) 
+chefia um conjunto de empresas ou de filiais a qual controla sem ser controlado 
+por qualquer outra empresa. 
+11.18 As empresas podem ser implantadas no país declarante sem ser 
+membro de qualquer EMN (nacional ou estrangeira) e, consequentemente, sem 
+realizar qualquer forma de IDE (OCDE, 2005, quadro 3.3). Essas empresas podem 
+realizar outros tipos de atividades globais como trocas, subcontratação, colaboração e financiamento internacional no contexto da P&D.
+11.19 O gráfico 11.1 apresenta um exemplo das noções e dos termos de EMN 
+definidos do ponto de vista do “país declarante 1” (os países 2 e 3 constituem o 
+“restante do mundo”). As setas vão das empresas-mãe para as filiais indicando 
+uma participação majoritária nas relações de investimento direto. A seção 11.2 
+trata dos fluxos de financiamento da P&D entre os membros de EMN e os outros, 
+e a seção 11.3 fornece orientações sobre a compilação de quadros de dupla entrada de despesas correntes de execução de P&D e das fontes de financiamento 
+da P&D para as EMN e as outras empresas não membro das EMN.
+
+
+
+
+11.3 Financiamento internacional de P&D envolvendo EMN
+Restante do mundo
+11.20 O financiamento internacional ou transnacional de P&D faz com que 
+ocorra a intervenção de unidades não residentes como fontes ou destinos de fundos. Como explicado na seção 3.3 do capítulo 3, o restante do mundo é definido 
+com base no estatuto de não residência das unidades pertinentes; as operações 
+com o restante do mundo são declaradas como se esta se tratasse de um setor de 
+fato. Esse setor é constituído por todas as unidades institucionais não residentes as 
+quais efetuam operações com as unidades residentes, ou que têm outras relações 
+econômicas com unidades residentes. Para fins de declaração regular das BERD 
+(seção 7.6), as fontes de financiamento da P&D situadas no restante do mundo são:
+Restante do mundo
+Setor das empresas
+Empresas no interior do mesmo grupo
+Outras empresas não afiliadas
+Setor do Estado
+Setor do ensino superior
+Setor privado sem fins lucrativos
+Organizações internacionais
+
+
+
+
+Fluxo de financiamento internacional da P&D das EMN
+11.21 Nesta seção é examinado o papel das EMN no contexto dos fluxos de 
+financiamento transnacionais, o primeiro de três tipos de indicadores estatísticos da globalização da P&D das empresas listadas na seção 11.1.; completando 
+as orientações dadas sobre a via a ser seguida de modo a evidenciar as fontes 
+de financiamento das BERD situadas no restante do mundo.
+11.22 As unidades de empresas no estrangeiro podem ser fontes ou beneficiários de financiamento para a P&D. Os membros das EMN (como definidos 
+nesse capítulo e ilustrados no gráfico 11.1) intervêm geralmente nos fluxos de 
+financiamento transnacionais no quadro das suas operações mundiais e com 
+outras empresas e organizações. Esses fluxos refletem diversos acordos, a uma 
+escala global, para adquirir ou fornecer P&D. Uma distinção importante é o 
+caráter afiliado ou não afiliado de uma fonte de financiamento no interior das 
+empresas. As unidades afiliadas incluem as empresas-mãe e as empresas-irmã 
+implantadas no estrangeiro (sob controle do estrangeiro) e as filiais implantadas 
+no estrangeiro (caso se tratem de empresa-mãe). Para obter uma descrição mais 
+fina das fontes não residentes de fundos destinados à P&D, pode ser pedido nas 
+sondagens de P&D sobre as EMN as informações seguintes sobre as fontes de 
+financiamento no restante do mundo (ver gráfico 11.2).
+• Unidades afiliadas (empresas no interior do mesmo grupo)
+❖ filiais implantadas no estrangeiro (FIE);
+❖ empresas-mãe no estrangeiro (caso o inquirido estiver sob o controle 
+do estrangeiro);
+❖ empresas-irmã no estrangeiro (caso o inquirido estiver sob o controle 
+do estrangeiro).
+• Unidades não afiliadas – outras empresas no estrangeiro (qualquer empresa 
+que não faça parte do grupo das EMN do inquirido).
+11.23 Tendo em consideração as definições apresentadas no capítulo 4, uma 
+transferência de dinheiro ou em espécie é uma operação na qual o fornecedor não 
+recebe nada em troca (isto é, o fluxo de dinheiro não é recompensado com um fluxo 
+de bens ou de serviços). As transferências transnacionais ou internacionais são 
+operações de transferência entre um residente e um não-residente. Os financiamentos de P&D destinados / originados do restante do mundo devem identificar de 
+forma distinta as transferências e as trocas. Essa informação pode facilitar a distinção entre os fluxos de financiamento transnacionais de P&D e as trocas de serviços de P&D, que geralmente exclui as transferências. Adicionalmente, os fluxos 
+intra-EMN, os quais se assemelham mais a transferências do que a trocas, podem 
+não ser declaradas nas sondagens sobre as trocas de serviços, mas aparecer nos 
+cargos de financiamento de P&D nas sondagens sobre a P&D, como descrito abaixo.
+11.4 Elaboração, compilação e publicação das estatísticas agregadas da P&D das EMN
+Abordagem geral para compilar estatísticas agregadas da P&D das EMN
+11.24 Nesta seção é examinado o recolhimento de dados sobre as despesas 
+correntes para a P&D executada por membros de EMN no interior dos países declarantes e no estrangeiro, o segundo de três tipos de indicadores estatísticos 
+sobre a globalização da P&D das empresas identificadas na seção 11.1. As informações sobre a execução de P&D pelas EMN, com exceção das fontes de financiamento, são importantes para a compreensão da produção de novos conhecimentos. 
+Por exemplo, os indicadores das despesas correntes para a execução de P&D têm 
+uma ligação direta com o emprego no setor da P&D. A seguir, os quadros com 
+dupla entrada de estatísticas sobre o financiamento / execução de P&D das empresas para as EMN e as outras empresas (tendo por base as categorias resumidas 
+no gráfico 11.2) fornecem um quadro mais completo das disposições globais para 
+a produção de novos conhecimentos quando focados exclusivamente nos fluxos 
+de financiamento transnacionais para a P&D. A atenção prestada às despesas 
+correntes de P&D das EMN visando facilitar as comparações com as estatísticas 
+sobre as operações das EMN que não abrangem a P&D como produção, vendas/
+faturamento, o valor acrescentado, o emprego, o número de empresas e a troca de 
+bens e de serviços. Naturalmente, pode ser possível identificar de forma distinta 
+os custos de investimento das EMN na P&D.
+11.25 Adicionalmente, o recolhimento de estatísticas sobre as atividades 
+no estrangeiro apresenta desafios práticos para os inquiridos e os serviços estatísticos nacionais, pois a autoridade de um país declarante em termos do recolhimento de dados geralmente não se estende além das fronteiras nacionais; 
+os dados sobre as filiais no estrangeiro devem geralmente ser recolhidos por 
+meio de sondagens tendo por alvo ou incluindo as empresas-mãe. Na medida 
+em que as sondagens sobre as IDE ou as EMN envolvem atividades das filiais no 
+estrangeiro, a P&D pode ser incluída nessas sondagens, conforme as definições 
+e orientações desse capítulo e de outros nesse manual.
+11.26 As sondagens sobre as BERD também podem incluir as atividades 
+de P&D das filiais implantadas no estrangeiro com outras informações que 
+geralmente não estão incluídas no quadro das sondagens sobre as IDE/EMN 
+(por exemplo o tipo de P&D) com perguntas dirigidas às empresas-mãe as quais 
+residem no país declarante.
+11.27 Dado que um país recolhe dados sobre as despesas de P&D e das 
+estatísticas associadas (como os recursos humanos) para os membros de EMN 
+definidas nesse capítulo, a prioridade deveria ser dada aos membros implantados no país declarante, ou seja:
+• as empresas-mãe inteiramente consolidadas de EMN proprietárias de filiais 
+implantadas no estrangeiro (FIE);
+• as filiais sob controle do estrangeiro (FCE) membros de EMN estrangeiras.
+11.28 Tanto quanto possível, as estatísticas poderão igualmente ser colocadas sob a forma de quadros para as categorias seguintes, fazendo parte do 
+setor de fato “restante do mundo”:
+• as filiais implantadas no estrangeiro (FIE) detidas por empresas-mãe residentes;
+• as EMN consolidadas e controladas por residentes do país declarante, ou 
+seja, as empresa-mãe residentes mais as suas filiais implantadas no estrangeiro (FIE).
+
+
+Gráfico 11.2. Agregação das despesas correntes1
+ e do pessoal de P&D 
+das EMN e de outras empresas no interior de um país declarante, e 
+fontes de financiamentos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
