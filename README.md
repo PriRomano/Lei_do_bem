@@ -10828,10 +10828,1343 @@ setor de fato “restante do mundo”:
 seja, as empresa-mãe residentes mais as suas filiais implantadas no estrangeiro (FIE).
 
 
-Gráfico 11.2. Agregação das despesas correntes1
- e do pessoal de P&D 
-das EMN e de outras empresas no interior de um país declarante, e 
-fontes de financiamentos
+Gráfico 11.2. Agregação das despesas correntes1  e do pessoal de P&D 
+das EMN e de outras empresas no interior de um país declarante, e  fontes de financiamentos
+
+- Despesas correntes das empresas (incluídas na BERD); Pessoal de P&D das empresas
+-- P&D executada por outras empresas que as EMN; Pessoal de P&D em empresas outras que EMN; (No interior do país declarante).
+-- Fontes de financiamento da P&D:
+1. No interior do país declarante
+- unidades afiliadas
+- unidades não afiliadas
+2. Resto do mundo
+- unidades não afiliadas
+
+
+- Despesas correntes das empresas  (incluídas na BERD); Pessoal de P&D das empresas
+-- P&D executada pelas EMN; Pessoal de P&D das EMN (No interior do país declarante
+--- P&D executada pelas empresasmãe; Pessoal de P&D das empresasmãe (Unidades sob controle 
+consolidadas no interior do país  declarante
+---- Fontes de financiamento de P&D:
+1. No interior do país declarante
+- unidades afiliadas
+- unidades não afiliadas
+2. Resto do mundo
+- unidades afiliadas (filiais  implantadas no estrangeiro  FIE)
+- unidades não afiliadas
+
+
+- Despesas correntes das empresas  (incluídas na BERD); Pessoal de P&D das empresas
+-- P&D executada pelas EMN; Pessoal de P&D das EMN (No interior do país declarante)
+--- P&D executada por filiais sob  controle estrangeiro FCE; Pessoal de P&D das filiais sob 
+controle estrangeiro (no interior  do país declarante)
+---- Fontes de financiamento de P&D:
+1. No interior do país declarante
+- unidades afiliadas
+- unidades não afiliadas
+2. Resto do mundo
+- unidades afiliadas
+*empresas-mãe no estrangeiro
+*empresas-irmã
+- unidades não afiliadas
+
+1. A atenção dada as despesas correntes de P&D visando facilitar a comparação com as estatísticas  sobre as operações das EMN que não envolvem P&D. É possível identificar de forma distinta as  despesas em capital das EMN na P&D.
+
+
+
+
+
+Estatísticas da P&D das EMN por país e outros critérios
+11.29 As EMN podem ser proprietárias das filiais de um dado país por meio 
+das cadeias de propriedade que cobrem vários países. As estatísticas da P&D e 
+de outras atividades (por exemplo emprego) ligadas ao investimento estrangeiro 
+podem ser classificadas em função do país de controle imediato ou do país o 
+qual exerce o controle final. Sendo que o país de investimento imediato é o país 
+de residência da empresa-mãe imediata e o país de investimento final é onde 
+reside o investidor exercendo o controle final.
+11.30 Do ponto de vista das estatísticas de atividades relacionadas com o 
+investimento externo, as filiais implantadas no estrangeiro podem ser classificadas em função do país no qual as operações foram realmente efetuadas (país 
+anfitrião imediato).
+
+11.31 Nesse manual recomenda-se, sempre que possível, o recolhimento 
+e a formatação em quadros as estatísticas de P&D das EMN em função do país 
+em que se exerce o controle final (investimento do estrangeiro) e do país de 
+implantação das filiais situadas no estrangeiro (financiamento para o estrangeiro), particularmente no caso em que outras estatísticas das EMN (emprego, 
+vendas, trocas, etc.) tenham sido publicadas pelo país declarante utilizando 
+esse modelo. Com efeito, a coerência entre as estatísticas melhoradas sobre a 
+globalização da P&D e as estatísticas excluindo a P&D aumenta o valor analítico 
+e o interesse prático dessas estatísticas, levando em conta o caráter complexo 
+e mutável das operações e das modalidades organizacionais.
+11.32 A classificação por indústria (e as repartições relacionadas) das estatísticas sobre as atividades de entrada e de saída das EMN devem seguir as 
+orientações do capítulo 7. A classificação por indústria das filiais implantadas 
+no estrangeiro deve ser baseada, prioritariamente, na sua atividade econômica 
+principal no país de implantação no estrangeiro, e não da sua empresa-mãe 
+no país (declarante) original. Dado que os países declarantes têm acesso aos 
+dados sobre as empresas-mãe, uma outra prioridade das filiais implantadas no 
+estrangeiro é a de apresentar os dados sob a forma de quadros em função do 
+principal ramo de atividade econômica da empresa-mãe, particularmente das 
+variáveis fundamentais como as despesas correntes para a execução da P&D e 
+o emprego no setor da P&D.
+11.33 As estatísticas de P&D das EMN são exemplos de estatísticas sobre as 
+atividades de empresas multinacionais (AEMN), incluindo as empresas-mãe e 
+as filiais podendo ser incluídas nas sondagens, especialmente dedicados à P&D 
+ou no quadro de outros estudos, sobre a atividade internacional como a análise 
+das IDE. A P&D das EMN também pode ser publicada nas estatísticas nacionais 
+no quadro das estatísticas sobre as filiais estrangeiras (FATS) diferindo das 
+estatísticas sobre as AEMN ao não incluir as empresas-mãe. As atividades de 
+P&D das filiais sob controle do estrangeiro na economia declarante fazem parte 
+das estatísticas sobre as atividades de entrada (inward FATS); as atividades de 
+P&D das filiais implantadas no estrangeiro fazem parte das estatísticas sobre 
+as atividades de saída (outward FATS).
+
+
+11.5. As trocas de serviços de P&D
+11.34 Nesta seção examina-se o recolhimento de dados sobre as trocas de 
+serviços de P&D, o terceiro de três tipos de identificadores estatísticos da globalização da P&D das empresas identificadas na seção 11.1. No SCN as estatísticas 
+sobre as trocas internacionais, os “serviços de P&D” referem-se aos serviços associados à pesquisa fundamental e aplicada e ao desenvolvimento experimental, incluindo as atividades realizadas no quadro das ciências físicas, sociais e 
+humanas. Os “serviços de P&D” podem ser fornecidos por qualquer empresa e, 
+consequentemente, não se limitam as empresas da seção 72 da CINI, Ver. 4, ou 
+de uma classificação nacional equivalente. Nas classificações de categorias de 
+produtos, após a capitalização da P&D, uma distinção é estabelecida entre os 
+trabalhos originais de P&D e os outros serviços de P&D. Estes últimos têm uma 
+ligação direta com a execução da P&D, enquanto os primeiros correspondem aos 
+ativos os quais foram produzidos a partir da execução anterior de atividades de 
+P&D. A venda e aquisição desses ativos “finais” são contabilizados nas estatísticas sobre as trocas fazendo parte dos serviços de P&D, mas advém do quadro 
+dos fluxos de financiamento no que diz respeito a esse manual.
+
+11.35 Nas estatísticas sobre as trocas, a categoria geral dos serviços de P&D 
+também pode incluir os ensaios e outras atividades técnicas as quais não sejam 
+P&D resultando em patentes, refletindo assim uma área mais abrangente do que 
+a definição de P&D desse manual. No entanto, os manuais citados têm essa diferença em consideração recomendando explicitamente que se faça a distinção, 
+no momento do recolhimento de dados, entre os serviços ligados às “atividades 
+sistemáticas empreendidas para expandir o conjunto de conhecimentos” e os “outros” serviços no interior dos “serviços de P&D”. As informações sobre os serviços 
+de P&D nas contas econômicas e as estatísticas sobre as trocas de serviços, assim 
+como a concordância entre os códigos de classificação e o balanço de pagamentos 
+e os códigos de classificação dos produtos para a P&D e os serviços técnicos relacionados selecionados são, daqui em diante, acessíveis online como complemento 
+desse manual no endereço http://oe.cd/frascati. Adicionalmente, a luz dos manuais 
+atualizados sobre a globalização aqui examinados, as orientações sobre a balança 
+de pagamentos do setor tecnológico poderão ser atualizadas no futuro.
+
+
+Sondagens sobre as trocas de serviços de P&D
+11.36 As sondagens sobre o comércio internacional dos serviços realizados 
+com as sociedades implantadas na economia declarante (independentemente 
+da estrutura de capital ou da classificação industrial) recolhem dados sobre as 
+operações transnacionais de serviços de P&D (entre outros serviços para as empresas) e sobre as operações transnacionais de propriedade intelectual. As operações internacionais designam operações entre residentes e não residentes. Ver 
+o Glossário para uma definição do termo “operações”. Essas sondagens também 
+têm dados recolhidos sobre as vendas/compras e as licenças as quais implicam 
+direitos patenteados resultante da P&D (por exemplo, a venda de patentes e de 
+direitos royalties e taxas de licença) fazendo parte dos “serviços de P&D”. Adicionalmente, as trocas de serviços são uma componente das contas correntes da 
+balança de pagamentos determinando de forma sintética as operações econômicas entre residentes e não residentes no decorrer de um dado período de tempo.
+Estimativa do valor das trocas de serviços de P&D referente à declarações relativas ao financiamento da P&D
+11.37 O preço do mercado é utilizado como base para a estimativa do valor das operações internacionais nas sondagens sobre as trocas de serviços. 
+As operações são registradas segundo a contabilidade de exercício quando os 
+serviços são fornecidos ou recebidos, independentemente do momento quando 
+o pagamento é efetuado. Adicionalmente, a P&D financiada por outras fontes 
+que não a empresa, tal como definido nesse manual – e como declarado pelo 
+financiador de P&D e não pelo executante de P&D –, presume a inclusão dos 
+suplementos e outros cargos além das despesas de P&D. Apesar disso, todas as 
+despesas de P&D são recolhidas segundo a contabilidade de caixa, sendo que as 
+questões de estimativa de valor não fazem parte do quadro do Manual de Frascati.
+11.38 Consequentemente, as quantificações do financiamento de P&D não 
+constituem um substituto adequado para as estatísticas sobre as trocas de serviços para fins de contabilidade nacional e de balança de pagamentos. Também, 
+as sondagens sobre a P&D reúnem informações detalhadas sobre os financiamentos e subvenções que podem completar as informações provenientes das 
+sondagens e sobre as trocas de serviços.
+
+
+Transferências transnacionais de P&D na balança dos pagamentos
+11.39 Na balança dos pagamentos, as transferências correntes assim como 
+as subvenções em numerário para a P&D são registradas na conta de rendimentos secundários da conta de operações correntes. As transferências de capitais 
+consistem em transferências de propriedades de bens ou de outros ativos que 
+não sejam dinheiro ou no fornecimento de um serviço sem receber nada em 
+troca que apresente um valor econômico. Como ativos produzidos (após o reconhecimento da P&D como investimento ou formação de capital no SCN 2008), as 
+transferências em espécie de P&D são registradas como trocas de serviços de 
+P&D. As transferências intra-EMN de P&D em espécie são difíceis de quantificar 
+mesmo se estes se inserem na área das sondagens sobre as trocas de serviços 
+e na área das sondagens sobre as BERD. É importante salientar que esse tratamento pela balança dos pagamentos das transferências de P&D em espécie 
+difere das transferências de P&D “em espécie” as quais podem ser incluídas nas 
+sondagens sobre a P&D. Como observado na seção 3 do capítulo 4 – Fundos de 
+transferência para a P&D –, dado que as transferências em espécie não resultam 
+em fluxos monetários estas não são incluídas nos totais das despesas de P&D 
+internas e nem nos totais do financiamento de P&D externa.
+Transferências transnacionais de P&D entre setores
+11.40 As subvenções em numerário para a P&D e outras transferências podem ocorrer entre setores institucionais (administrações públicas ou unidades 
+de empresas em setores sem fins lucrativos ou de ensino superior). No entanto, 
+as operações internacionais intersetoriais geralmente não são abrangidas pelas 
+sondagens sobre as trocas de serviços. Consequentemente, os trabalhos sobre 
+as BERD e outras sondagens sobre a P&D são uma fonte importante de transferência de P&D no interior da economia do país declarante e à escala internacional. Por exemplo, as transferências de numerário para a P&D implicando o 
+restante do mundo fazem parte do financiamento total da P&D nas sondagens 
+sobre a P&D (ver capítulo 4).
+Transferências transnacionais de P&D entre empresa não afiliadas
+11.41 As transferências de P&D (em numerário em ou em espécie) entre 
+empresas não afiliadas serão provavelmente pouco frequentes entre economias 
+desenvolvidas, mas podem ocorrer no quadro da assistência técnica entre 
+países da mesma forma que as transferências de P&D envolvendo as entidades 
+governamentais e as instituições sem fins lucrativos. As estatísticas sobre as 
+subvenções provenientes das sondagens sobre a P&D, assim como de outras 
+fontes como os dados administrativos, poderão ser úteis na distinção das componentes de P&D das outras componentes da assistência técnica internacional 
+envolvendo unidades de setores privados e públicos.
+Serviços intragrupos e preços de transferência
+11.42 Quando existe uma transferência transnacional da P&D no interior 
+das EMN, é difícil obter indicadores mercantis equivalentes permitindo avaliar os preços das transferências internas que podem ser distorcidas devido 
+à complexidades contabilísticas ou organizacionais, ou de estratégias de minimização de impostos (OCDE, 2014). No interior das EMN, a prestação de 
+bens e de serviços não contabilizados ou inferiores aos preços de mercado 
+não representam uma “transferência” tal como definido abaixo, com exceção 
+de quando não há nada em troca para o fornecedor no decorrer do período 
+de referência da sondagem. Pelo contrário, os erros de declaração nas trocas 
+constituem dividendos ou investimentos não declarados os quais deverão 
+ser imputados. As transferências transnacionais de P&D e outros serviços 
+intraempresa podem fazer parte, mesmo se estes não forem identificados de 
+forma distinta, de outros registros contabilísticos como os dos beneficiários 
+não distribuídos, os pagamentos de dividendos ou as repartições / alocações 
+de custos. Para indicações precisas sobre os serviços de P&D intra-grupo, ver 
+CEE-ONU/OCDE (2015) (parágrafos 3.2, 3.3, 4.3 e 4.4). Apesar de existir um consenso sobre a necessidade teórica de ajustes estatísticos para as questões de 
+“preços de transferências” (erro de declaração ou não declaração de trocas), 
+não existe um consenso sobre as orientações práticas para esses ajustes. No 
+CEE-ONU/OCDE (2015) (parágrafos 3.42, 4.23, 4.45) é sugerido “ficar pela observação estatística”.
+11.43 Para as trocas de serviços de P&D intra-EMN como o financiamento 
+das trocas de P&D intra-EMN, certos dados declarados podem ser baseados 
+sobre as fórmulas de contabilização ou repartição dos custos representando 
+incorretamente os fluxos reais de P&D, enquanto as transferências grátis ou 
+não declaradas também podem resultar em respostas errôneas (ver todos os 
+cenários possíveis no quadro 11.1). As operações internacionais de P&D no interior das EMN são outra dificuldade, sendo frequentemente difíceis de separar 
+das atividades relacionadas e das transferências de planos, protótipos e outros 
+elementos de propriedade intelectual (ver FMI 2014, parágrafos 12.126, 12.131, 
+12.134). A organização complexa da produção mundial envolvendo, por exemplo, 
+a criação de bens “sem fábrica” e de entidades com fins específicos adicionam 
+complexidade à contabilização da produção imaterial e as trocas no interior 
+das empresas e entre estas (OCDE, 2014, capítulos 3-5 e 11). O desenvolvimento 
+de indicadores de fluxos transnacionais de P&D das EMN, das subvenções para 
+a P&D e dos fluxos de bens imateriais relacionados, passam por uma análise 
+mais ampla sobre os sistemas de contabilidade dos inquiridos, a metodologia 
+estatística e os métodos de sondagem e a contabilidade das EMN, pressupondo uma colaboração que permita conciliar os resultados da sondagem, como 
+descrito abaixo.
+
+
+
+11.6. Quantificação da globalização da P&D no exterior do setor 
+das empresas
+11.44 Apesar do reconhecimento do papel das instituições, além do das 
+empresas, ser admitido sendo significativo como executantes e financiadores na globalização da P&D, não dispõe-se do mesmo grau de detalhamento 
+metodológico permitindo quantificar os fluxos internacionais de P&D dessas 
+instituições. Muitos dos conceitos e práticas de quantificação da globalização 
+da P&D propostos para as empresas podem ser aplicadas em termos gerais às 
+unidades do setor do estado, do ensino superior e do setor privado sem fins lucrativos (isto é, outras além das empresas). Esses conceitos incluem os fluxos de 
+financiamentos para a P&D assim como as relações de propriedade e de controle. 
+Contudo, é necessário ter em consideração várias características específicas 
+das relações internacionais dizendo respeito à P&D das instituições dos outros 
+setores além dasempresas (designados coletivamente como “unidades outras 
+que empresas”).
+Conceitos fundamentais para quantificar as atividades de P&D mundiais outras que empresas
+Fontes de financiamento do restante do mundo para a P&D interna
+11.45 As unidades, excluindo as empresas, podem realizar atividades de 
+execução e de financiamento de P&D com o restante do mundo (unidades não 
+residentes). O restante do mundo é constituído por todas as unidades institucionais não residentes efetuando operações com unidades residentes, ou tendo 
+outras ligações econômicas com unidades residentes. Também envolvem todas 
+as organizações internacionais e as organizações supranacionais, definidas 
+abaixo, incluindo os equipamentos e as atividades no interior das fronteiras do 
+país. Vários casos limites são apresentados no capítulo 3.
+11.46 Como observado no capítulo 4, a análise das fontes de financiamento 
+de P&D executadas por unidades implantadas no território nacional deverá 
+procurar identificar os financiamentos provenientes de unidades implantadas 
+no restante do mundo para as categorias seguintes:
+• Setor das empresas
+• Setor do Estado
+• Setor do ensino superior
+• Setor privado sem fins lucrativos
+• Organizações internacionais, incluindo as que se encontram fisicamente 
+presentes no país declarante
+11.47 Apesar dessas fontes serem potencialmente pertinentes para cada 
+um dos setores executantes, a utilização dessas categorias nas sondagens 
+deverá ser especialmente adaptada para o setor da unidade declarante. Particularmente, as sondagens poderão focar-se no tipo de financiamento recebido 
+visando determinar em que medida corresponde a pagamentos de transferência 
+(isto é, P&D como contrapartida) ou uma troca de fundos para a P&D ou um 
+futuro direito sobre resultados de P&D, segundo a terminologia apresentada 
+no capítulo 4.
+
+
+Afiliação das instituições, por tipo de relações de controle do estrangeiro
+11.48 A maioria dos tipos de unidades outras que empresas podem ser 
+associadas entre países por meio de ligações de propriedade e de controle de 
+diversas formas. Como observado nas seções precedentes sobre as empresas, 
+trata-se de um elemento importante da globalização da P&D, dado que a P&D 
+executada por unidades afiliadas pressupõe um esforço financeiro da parte do 
+“grupo” inteiro, assim como uma potencial vantagem do ponto de vista dos 
+conhecimentos. Por exemplo, à medida que as universidades ou organizações 
+de pesquisa independentes começam a expandir-se mundialmente, é importante ter em consideração o grau ao qual a execução de P&D no interior dessas 
+instituições partilha as características da globalização econômica descrita 
+previamente nesse capítulo. Como exemplo, uma organização incluindo vários 
+institutos de pesquisa pode abrir institutos no estrangeiro recorrendo a fontes 
+de financiamento reservadas aos lugares em que esta se estabelece, como contratos locais ou subvenções locais de pesquisa. Nesse momento, nesse manual 
+não é feita nenhuma recomendação específica sobre a identificação e declaração 
+de tais relações, exceto com o intuito de evidenciar ligações de afiliação que 
+possam esclarecer a natureza e o objetivo dos financiamentos recebidos pelos 
+executantes de P&D não provenientes do setor das empresas.
+O pessoal e a globalização da P&D fora do setor das empresas
+11.49 A globalização da P&D é acompanhada não só pelos fluxos de financiamento e das relações de propriedade transnacionais, mas também pela mobilidade do pessoal de P&D. Assim como no caso do setor das empresas, a capacidade 
+das sondagens sobre a P&D de reunir informações sobre o aspecto de “recursos humanos” da globalização da P&D nos setores outros que empresas é algo limitada.
+11.50 Em certos casos, é possível que os registros das entidades outras que 
+empresas sobre os recursos humanos contenham informações sobre a nacionalidade, o país de nascimento ou o país de trabalho precedente do seu pessoal 
+de P&D, particularmente no que diz respeito aos pesquisadores (ver capítulo 5, 
+seção 5.4). O recolhimento desses dados por meio de sondagens institucionais 
+não é necessariamente recomendada, mesmo permitindo ilustrar certos tipos 
+de fluxos internacionais de P&D.
+11.51 Quando as informações sobre o estatuto das instituições dizendo 
+respeito ao controle encontram-se disponíveis, é possível fornecer repartições 
+de indicadores padrão dos recursos humanos para a P&D estabelecendo uma 
+distinção entre o pessoal ativo dentro de entidades outras que empresas sob o 
+controle do estrangeiro e o que trabalha para instituições outras que empresas 
+independentes.
+
+
+
+Setor do Estado
+11.52 As administrações públicas podem receber financiamentos destinados à P&D provenientes do estrangeiro, podendo financiar trabalhos de P&D 
+externo no estrangeiro. Essas atividades de financiamento no estrangeiro (com 
+unidades não residentes) deverão ser identificadas segundo as seguintes categorias do restante do mundo, como definido no capítulo 8:
+• Setor das empresas
+• Setor do Estado
+• Setor do ensino superior
+• Setor privado sem fins lucrativos
+• Organizações internacionais.
+11.53 Também é recomendado a separação do financiamento e da execução 
+de P&D por setor do estado à escala mundial segundo duas categorias de fundos 
+seguintes: fundos de troca (especificamente denominados “mercados públicos” 
+e financiados pelo setor do Estado) e fundos de transferência. Caso a execução 
+de P&D interna pelo Estado no exterior do seu território nacional não seja muito 
+frequente, o financiamento de P&D pelo Estado para o restante do mundo pode 
+ser significativo. Por exemplo:
+• Como financiador, o Estado pode utilizar mercados públicos (fundos de 
+troca) no estrangeiro encorajando o desenvolvimento de uma tecnologia 
+ou de um setor de P&D.
+• O Estado também é o financiador principal das organizações internacionais de P&D. Sob a forma de “contribuições nacionais” (transferências), o 
+Estado pode financiar instituições intergovernamentais de P&D. Contudo, é 
+importante apenas incluir as contribuições para programas internacionais 
+de P&D ou para organizações cujas atividades são unicamente ou principalmente dedicadas à P&D. As contribuições gerais ao orçamento global (como 
+os pagos a ONU, a OCDE ou a EU) deverão ser excluídas, excetuando-se 
+quando essas integrem uma componente explícita destinada especificamente para atividades de P&D (ver capítulos 8 e 12).
+
+
+
+
+Setor do ensino superior
+11.54 As unidades do ensino superior podem receber financiamentos destinados para a P&D provenientes do restante do mundo, como podem financiar 
+trabalhos de P&D no restante do mundo. Essas atividades de financiamento 
+como unidades não residentes deverão ser identificadas segundo as categorias 
+seguintes do restante do mundo:
+• Setor das empresas
+• Setor do Estado
+• Setor do ensino superior
+❖ Campi satélites no estrangeiro
+❖ Outras universidades
+• Setor privado sem fins lucrativos
+• Organizações internacionais.
+11.55 Numerosas instituições no setor do ensino superior criaram ramos ou 
+campi no estrangeiro. Dado que os campi satélites sob o controle do estrangeiro 
+no interior do país declarante e dos campi satélites no estrangeiro detidos por 
+estabelecimentos locais de ensino superior executam atividades de P&D, as 
+sondagens sobre as HERD podem incluir informações complementares acerca 
+destes campi.
+• Para efeitos desse manual, um campus satélite do estrangeiro é um estabelecimento de ensino superior o qual se encontra no território do país 
+declarante; sendo detido, pelo menos parcialmente, por uma entidade implantada (ou residente) no exterior do país declarante (denominada “prestadora de ensino estrangeiro”); cuja atividade é regida por essa entidade; que 
+dedica pelo menos uma parte das suas atividades ao ensino direto; que dá 
+acesso a um programa universitário completo resultando em um diploma 
+do prestador do estrangeiro.
+• Para efeitos desse manual, um campus satélite no estrangeiro é um estabelecimento do ensino superior que é detido, pelo menos parcialmente, por 
+um estabelecimento local de ensino superior (isto é, residente no território 
+do país declarante) mas que está situado no restante do mundo (residente 
+fora do país declarante); cuja atividade é regida pelo estabelecimento local; 
+dedicando pelo menos uma parte das suas atividades ao ensino direto; 
+que dá acesso a um programa universitário completo resultando em um 
+diploma do estabelecimento local de ensino superior.
+11.56 A P&D executada por campi satélites sob controle do estrangeiro 
+entra nos totais das HERD correspondentes à execução de P&D sobre o território do país declarante, mas não a P&D executada em um campus satélite no 
+estrangeiro. Além disso, esta pode ser identificada e formatada em quadros de 
+forma distinta como P&D executada no restante do mundo por estabelecimentos de ensino superior fora dos estabelecimentos de ensino do país declarante 
+(para orientações mais detalhadas sobre o recolhimento dos totais dos campi
+satélites sob controle do estrangeiro e dos campi satélites no estrangeiro, ver o 
+capítulo 9, seção 9.4).
+
+
+
+
+Setor privado sem fins lucrativos 
+11.57 Tal como as unidades dos outros setores, as instituições executantes 
+de P&D no setor privado sem fins lucrativo podem ter múltiplas atividades globais 
+com unidades afiliadas e com unidades não afiliadas. Uma instituição pode receber fundos para executar P&D sob a forma de subvenções ou de contratos da parte 
+de outras instituições privadas sem fins lucrativos não afiliadas implantadas fora 
+do território nacional ou (em função da sua estrutura de afiliação) pode receber 
+fundos de outra organização-mãe ou afiliada de apoio às suas atividades no país 
+onde está situada. Sendo assim, as instituições privadas sem fins lucrativos podem receber financiamentos destinados à P&D provenientes do restante do mundo, assim como podem financiar trabalhos de P&D no restante do mundo. Tais 
+relações podem ser extremamente complexas em termos da identificação e da 
+quantificação estatística. As categorias pertinentes para o restante do mundo são:
+• Setor das empresas
+• Setor do Estado
+• Setor do ensino superior
+• Setor privado sem fins lucrativos
+❖ Instituições afiliadas (organizações não governamentais 
+internacionais, ONGI)
+❖ Outras instituições não afiliadas
+• Organizações internacionais, incluindo as organizações supranacionais.
+11.58 Certas instituições privadas sem fins lucrativos podem ter uma 
+presença mundial, como é o caso de várias organizações não governamentais. 
+Estas não são organizações internacionais do ponto de vista do SCN ou desse 
+manual (ver o capítulo 3 e a seção sobre as organizações internacionais abaixo).
+Caso particular das empresas internacionais
+11.59 Segundo o SCN, as empresas internacionais têm por membros Estados 
+ou outras empresas internacionais cujos membros são Estados. As organizações 
+supranacionais fazem parte destas, como definido no capítulo 3. As organizações 
+internacionais são estabelecidas por meio de acordos políticos formais com o estatuto de tratados internacionais entre os seus membros; a sua existência é reconhecida 
+pela legislação dos países membro e não estão sujeitas às leis ou aos regulamentos 
+do ou dos países nos quais estão presentes. Esse estatuto pode envolver, especificamente, que nenhum estado pode obrigá-los a fornecer informações estatísticas sobre 
+os seus resultados em termos de P&D ou das suas atividades de financiamento. Do 
+ponto de vista do país declarante, estas fazem parte do setor do restante do mundo.
+11.60 Devido à importância das organizações internacionais na execução 
+da P&D a escala mundial em várias áreas, e no intuito de obter uma representação mais completa das atividades de P&D no mundo, os organismos estatísticos 
+internacionais e supranacionais envolvidos deverão colaborar assegurando 
+uma cobertura total das unidades executantes de P&D as quais saem da área 
+abrangida pelos serviços nacionais de estatística. Futuramente, esses totais 
+poderão ser apresentados sob a forma de estatísticas internacionais comparativas em uma categoria distinta da do nível nacional. Isso poderá igualmente 
+contribuir para a melhoria da coerência entre as estatísticas de P&D e de outros indicadores, como as publicações científicas, que são geralmente atribuídos com 
+base no país no qual se encontram as afiliações dos autores.
+11.61 Quando os serviços estatísticos nacionais se encontram capazes de 
+recolher dados com as organizações internacionais ativos no seu território 
+nacional, a declaração dos dados nacionais deverão seguir a instrução dada 
+por esse manual tratando essas unidades como parte do setor do restante do 
+mundo. Para determinar se uma dada unidade institucional tem o estatuto de 
+organização internacional, é importante ter uma atenção especial aos estatutos 
+constitutivos e aos acordos os quais regem o seu funcionamento, incluindo as 
+isenções da jurisdição do direito local sobre um certo número de aspectos devido ao relacionamento de estados soberanos com a organização.
+11.62 A semelhança potencial entre organizações internacionais que são 
+definidas nesse manual assim como em outros manuais estatísticos sendo organizações intergovernamentais e outras estruturas internacionais incluindo organizações não governamentais (ONG), não preenchendo os critérios necessários 
+para serem tratados como unidades não residentes, são uma fonte de equívoco.
+11.63 As ONG são organizações ou estruturas autônomas voluntárias criadas a fim de cumprir objetivos essencialmente sem fins lucrativos dos seus fundadores ou dos seus membros (Conselho da Europa, 2007). Estas não incluem os 
+partidos políticos. As ONG incluem as estruturas ou organizações estabelecidas 
+por indivíduos (pessoas físicas ou grupos) e por grupos de indivíduos. As ONG 
+podem funcionar com base ou não em um regime de adesão. As ONG podem 
+ter estruturas ou organizações informais ou estruturas dotadas de uma personalidade jurídica. Estas podem ser nacionais ou internacionais na sua composição ou na sua esfera de ação. Não deverão distribuir eventuais benefícios 
+provenientes das suas atividades aos seus membros ou aos seus fundadores, 
+mas poderão utilizá-los para alcançarem os seus objetivos.
+11.64 Por exemplo, uma ONG mundial que seja uma associação internacional de universidades envolvidas na pesquisa de uma área específica por meio 
+do aproveitamento e da utilização de instalações de pesquisa pode empreender 
+atividades muito semelhantes, em locais semelhantes, às de uma organização 
+internacional existente composta por governos. Do ponto de vista do país declarante o qual hospeda os equipamentos de execução de P&D, o centro local 
+da qual a associação internacional é proprietária (isto é, a ONG mundial) deverá 
+ser contabilizada fazendo parte da economia nacional e a sua execução de P&D 
+interna pode ser incluída nas GERD, e a organização intergovernamental deverá 
+ser tratada como pertencendo ao restante do mundo.
+11.65 Certos países podem fazer parte de um acordo institucional fazendo 
+intervir fluxos financeiros entre os países membro e a organização internacional associada e vice-versa, como é o exemplo de unidades executantes de P&D. 
+A própria organização internacional pode realizar atividades de P&D. Para os 
+países individuais, as organizações internacionais são unidades institucionais 
+não residentes fazendo parte do restante do mundo e podendo ser classificadas 
+em um subsetor específico do restante do mundo.
+11.66 Podem existir outras organizações e infraestruturas de pesquisa cujas 
+atividades operacionais sejam suficientemente semelhantes as dessas organizações internacionais, mesmo no interior do próprio país. Por exemplo, uma estrutura de quantificação e de pesquisa científica sem fins lucrativos pode ter sida 
+estabelecida por uma organização composta por estados soberanos, mas pode ser 
+possível que exista uma outra estrutura semelhante exercendo funções equivalentes sob o controle de um Consortium internacional de universidades ou de outra organizações privadas sem fins lucrativos. A primeira deverá ser considerada como 
+uma organização internacional no sentido intergovernamental, enquanto a segunda deverá ser tratada como parte do setor privado sem fins lucrativos (sob controle 
+do estrangeiro). Esta última instituição governamental contribuirá às GERD da 
+economia nacional, o que não seria o caso da primeira. Critérios semelhantes serão 
+aplicados aos recursos humanos para essas organizações para trabalhos de P&D.
+
+
+
+Questões relacionadas com os executantes de P&D – 
+escala nacional ou restante do mundo
+11.67 Não é necessário que as unidades unidas por ligações de afiliação 
+internacionais exerçam obrigatoriamente uma atividade no mesmo setor. Por 
+exemplo, um centro de pesquisa nacional com um estatuto sem fim lucrativo ou 
+mesmo de empresa pode ser propriedade de uma universidade no estrangeiro, 
+ou vice-versa. Na prática das sondagens, pode ser especialmente fastidioso 
+tentar introduzir todas as permutações possíveis de fontes de financiamento 
+institucionais não residentes com relações de afiliação.
+11.68 No capítulo 4 é explicado que a noção de P&D interna e a alocação 
+deste a um setor nacional ou ao restante do mundo não se apoia apenas no local 
+em que é executada a P&D, mas também inclui a autoridade institucional sob 
+a qual a pesquisa é realizada. Por exemplo, se um pesquisador de uma universidade local passar parte do seu tempo em instalações no qual o proprietário 
+for uma organização internacional enquanto este estiver trabalhando para a 
+sua universidade, sendo que este seja contabilizado como empregado dessa 
+universidade, os custos correspondentes ao salário desse pesquisador deverão 
+ser contabilizados como execução interna da universidade nacional. Caso a 
+organização internacional proprietária dessas instalações financie parte dos 
+trabalhos, ou o pesquisador em questão fizer parte de uma dupla afiliação, 
+a atribuição pode ser mais complicada, existindo um risco de possível dupla 
+contabilidade o qual deverá ser gerido com discernimento.
+11.69 Como observado no capítulo 4, é suposto que as despesas de P&D 
+interna determinem a quantidade de P&D executada no interior das unidades 
+estatísticas residentes no território nacional do país declarante. Todavia, certas 
+despesas podem ter sido efetuadas no estrangeiro. Por exemplo, as despesas de 
+P&D interna podem incluir:
+• os custos de manutenção de uma presença permanente de um Estado e 
+utilização de uma base para a pesquisa na Antártida;
+• os custos ligados ao trabalho de campo de um pesquisador do ensino 
+superior em um local exterior ao país declarante ou no interior de uma 
+organização internacional situada no interior do seu próprio país.
+11.70 Quando classifica-se as atividades de P&D “interna” as quais ocorrem 
+fora do território nacional do país declarante, a prioridade deverá ser dada à 
+estrutura organizacional da atividade e não ao local propriamente dito no qual 
+a atividade ocorreu. É difícil fornecer indicações precisas para esse tipo de 
+decisão de classificação, mas a P&D interna realizada no restante do mundo 
+deverá incluir apenas a P&D executada por uma unidade estatística cumprindo 
+os seus próprios objetivos, e apenas se a unidade estatística investiu recursos 
+financeiros e pessoal de P&D próprios na atividade. A P&D deverá decorrer sob 
+a responsabilidade da unidade declarante, e a unidade declarante deverá preencher os critérios de residência econômica descritos no capítulo 3.
+
+
+
+PARTE III
+Quantificar o suporte público em favor da P&D
+
+
+
+Capítulo 12
+Créditos orçamentais públicos de P&D
+
+
+
+Neste capítulo expõe-se uma abordagem visando quantificar o financiamento 
+público da P&D a partir dos dados relacionados com os créditos públicos. A 
+partir do ponto de vista dos financiadores, essa quantificação consiste em 
+identificar todas as estruturas orçamentais suscetíveis de financiar atividades de P&D e a determinar ou estimar a fração que a P&D representa. O 
+interesse dessa abordagem é a de permitir a comunicação mais rápida das 
+quantias totais de financiamentos públicos dedicados à P&D, dado que estes 
+são calculados a partir de orçamentos, e de fazer a ligação dessas quantias 
+à ação das autoridades públicas por meio da sua classificação por objetivo 
+socioeconômico.
+Nas definições citadas nesse capítulo também procurou-se ser tão conforme 
+quanto possível às metodologias e princípios orientadores internacionais descritos no Government Finance Statistics Manual (GFS) de 2014 do FMI e o 
+Sistema de contabilidade nacional (SCN) de 2008, assim como as metodologias elaboradas pelo Eurostat, tal como a Nomenclature for the Analysis and 
+Comparison of Scientific Programmes and Budgets (NABS).
+
+
+
+
+12.1 Introdução
+12.1 Existem várias formas de quantificar as despesas das autoridades 
+públicas em favor da P&D. A abordagem preferível do ponto de vista dos executantes no capítulo 4 consiste em sondar as unidades residentes que executam 
+atividades de P&D (empresas, institutos, universidades, etc.) de maneira a obter 
+a quantia das despesas em P&D interna destinadas no decorrer de um ano de referência. Sendo, consequentemente, possível evidenciar a parte essas despesas 
+financiadas pelas autoridades públicas (capítulo 4, quadro 4.4). Os montantes 
+totais obtidos dessa maneira fornecem uma quantificação exata dos financiamentos públicos dedicados à P&D interna executadas na economia em questão 
+como uma fração das despesas internas brutas em P&D (GERD). No entanto, essa 
+abordagem apresenta alguns inconvenientes: por um lado, essas informações 
+não são disponibilizadas antes de um certo intervalo de tempo e, por outro lado, 
+os executantes nem sempre têm a capacidade de estabelecer uma ligação entre 
+os fundos públicos de que receberam e os objetivos da ação pública.
+12.2 Um outro método complementar foi desenvolvido para quantificar o 
+financiamento público de P&D por meio de dados derivados dos orçamentos. A 
+partir do ponto de vista dos financiadores, esse método consiste em identificar 
+todas as rúbricas orçamentais passíveis de financiar atividades de P&D e a 
+quantificar ou estimar a parte que a P&D representa. Em princípio, o interesse 
+dessa estratégia é a de permitir a comunicação muito mais rápida das quantias 
+totais dos financiamentos públicos dedicados à P&D, dado que são calculados a 
+partir de orçamentos, ligando-os à ação das autoridades públicas por meio da 
+sua classificação por objetivo socioeconômico (ver seção 12.4 adiante).
+12.3 Os dados baseados no orçamento remetem para o conceito oficial de 
+“créditos orçamentais públicos de P&D” (GBAORD) que foi introduzido na terceira edição do Manual sendo descrito nesse capítulo.
+12.4 As definições utilizadas nesse capítulo são tão compatíveis quanto 
+possível com as metodologias e princípios orientadores internacionais descritos no Manual de estatísticas de finanças públicas do FMI e do Sistema de 
+Contabilidade Nacional (SCN) de 2008, assim como as metodologias detalhadas 
+pela Eurostat tais como a Nomenclatura para a análise e a comparação dos 
+orçamentos e dos programas científicos (NABS).
+
+
+
+
+12.2. Esfera de ação dos GBARD
+Administrações públicas na esfera de ação dos GBARD
+12.5 Como mencionado no capítulo 3 (seção 3.5), e detalhado no capítulo 
+8, o setor do Estado inclui os seguintes subsetores: a administração central 
+(federal), a administração regional (Estados federados) e a administração local 
+(municipal). As estatísticas referentes aos GBARD incidem sobre as despesas 
+de P&D destinadas pelas administrações a cada um desses níveis e financiados 
+por meio do orçamento e no quadro dos procedimentos orçamentais normais. 
+Com o intuito de diminuir os prazos e o encargo potencial ligado à comunicação 
+dos dados, é possível não contabilizar os fundos orçamentais concedidos pelas 
+administrações locais caso a sua contribuição não seja julgada significativa, ou 
+caso os dados não puderem ser recolhidos.
+12.6 Como indicado no Sistema de Contabilidade Nacional e no Manual 
+de estatísticas de finanças públicas do FMI, a unidade orçamental da administração central (federal) é geralmente uma única unidade a qual incorpora as 
+atividades fundamentais dos poderes executivos, legislativos e judiciais nacionalmente. Essa unidade de administração geral é normalmente abrangida pelo 
+orçamento principal (ou geral). Os seus rendimentos e as suas despesas são 
+regulamentados e monitorados pelo ministério da Economia ou por um órgão 
+funcional equivalente por meio de um orçamento aprovado pelo parlamento 
+(FMI, 2014, parágrafo 2.81).
+12.7 Em um dado nível administrativo, os ministérios, direções, agências, 
+conselhos administrativos, comissões, autoridades judiciais, órgãos legislativos e outras entidades as quais compõem essa administração raramente 
+encontram-se habilitados para deter ativos, assumir compromissos ou efetuar 
+operações por conta própria. De um modo geral, todas as entidades cujas operações são financiadas por meio de créditos orçamentais outorgados a título 
+de um orçamento controlado pelo parlamento não são unidades institucionais 
+distintas sendo tratados como uma unidade estatística única.
+12.8 As entidades de administração pública dotadas de um orçamento 
+próprio, e que não são inteiramente abrangidas pelo orçamento geral, são consideradas sendo extraorçamentais (ver capítulo 8) sendo incluídas no cálculo 
+dos GBARD. As disposições orçamentais das quais são objeto variam consideravelmente de país para país podendo ser designadas sob diferentes denominações, sendo as mais frequentes “contas extraorçamentais” ou “organismos 
+descentralizados” (FMI, 2014).
+12.9 Os GBARD incluem o conjunto de créditos orçamentais financiados por 
+meio de receitas públicas inscritas no orçamento, como as receitas fiscais. Os 
+créditos atribuídos pelas entidades públicas extraorçamentais apenas fazem 
+parte porque são alocados no quadro do procedimento orçamental. Do mesmo 
+modo, o financiamento da P&D pelas empresas públicas é excluído do âmbito 
+das estatísticas de GBARD pois assenta-se nos fundos obtidos no mercado, 
+fora do procedimento orçamental. Apenas fazendo parte dos GBARD no caso 
+raro em que se trate de provisões de fundos do orçamento do Estado utilizados 
+ou distribuídos em favor da P&D por empresas públicas. No Manual não estão 
+definidos os conceitos de despesas que deverão ser utilizados, dado que estes 
+variam de país para país. Certos países baseiam as suas declarações nas despesas, outros em concessões de créditos e outros ainda em compromissos orçamentais. Independentemente do conceito utilizado, o mais importante é que 
+este seja utilizado de maneira consistente para a obtenção dos GBARD totais.
+Definição e avaliação da parte das atividades de P&D nas GBARD
+12.10 No capítulo 2 define-se a P&D. Como previamente indicado, o SCN 
+de 2008 e o Manual de finanças públicas 2014 – isto é, os principais quadros de 
+elaboração das estatísticas das administrações e setores públicos – baseiam-se 
+nas definições provenientes da edição prévia do Manual de Frascati que foram 
+essencialmente conservadas no capítulo 2.
+12.11 A pesquisa fundamental, a pesquisa aplicada e o desenvolvimento 
+experimental são tidos em consideração, mas não são apresentados separadamente nos montantes dos GBARD. Por outro lado, a análise dos dados orçamentais referentes às atividades de P&D abrange as ciências naturais e a engenharia, 
+assim como as ciências sociais, as ciências humanas e as artes.
+12.12 É importante, sempre que possível, aplicar todos os princípios, diretrizes e as convenções identificadas no capítulo 2 para distinguir a P&D das 
+atividades que não são P&D. É necessário garantir a verificação da componente 
+de P&D das rúbricas orçamentais descritas oficialmente como atividades científicas e tecnológicas, contratos de desenvolvimento ou aquisições de protótipos, 
+como abordado nos capítulos 2, 4 e 7; assim como outras despesas relacionadas 
+com a ciência, a tecnologia e a inovação, que em alguns países podem ser integradas nas despesas de P&D ou agregadas a essas despesas quando os dados 
+do orçamento geral são apresentados.
+12.13 Os estatísticos incumbidos de compilar as estatísticas de GBARD 
+poderão ter que elaborar um conjunto de coeficientes segundo a disciplina, 
+instituição ou outros critérios, ou uma combinação desses elementos, de modo 
+a determinar a parte de P&D nas rúbricas orçamentais não exclusivas, como 
+as de algumas instituições cujas atividades não se encontram limitadas a P&D. 
+Esses coeficientes deverão, tanto quanto possível, ser consistentes com o que 
+essas instituições declaram como P&D nas sondagens realizadas com os executantes. As informações referentes aos coeficientes deverão ser comunicadas aos 
+usuários com o máximo de transparência facilitando o exame e a atualização 
+dos dados.
+12.14 Os orçamentos públicos dedicados à P&D podem incluir uma provisão para custos administrativos de programas e projetos de P&D incluindo, 
+por exemplo, os custos associados à formulação de convites a apresentação 
+de projetos, aos procedimentos de adjudicação de mercados com a abertura à 
+concorrência e aos pedidos de subvenções ou ainda ao acompanhamento e a 
+avaliação dos programas. Em princípio, os GBARD deverão apenas cobrir o financiamento das atividades de P&D. No entanto, é importante sublinhar que os 
+custos de execução podem ser uma parte integral do processo visando garantir 
+que os fundos são dedicados às atividades de P&D e a realização dos objetivos 
+das administrações públicas. Por outro lado, pode ser difícil o isolamento desses 
+fundos, particularmente durante as fases de desenvolvimento de orçamentos, 
+sendo isso uma fonte potencial de divergência entre as estimativas do suporte 
+público para a P&D entre o ponto de vista dos executantes e das administrações 
+(ver o capítulo 4, seção 4.4). É por essa razão que as informações disponíveis 
+deverão ser utilizadas para relatar uma ordem de grandeza das quantias dedicadas à administração das atividades de P&D.
+
+
+
+Tipos de despesas de P&D abrangidas pelos dados de GBARD
+Tipos de custos
+12.15 Em princípio, as GBARD incluem o financiamento das despesas correntes e das despesas em capital. Uma das maiores diferenças comparativamente às estatísticas de finanças consiste no fato de que as despesas públicas 
+incluem uma componente de depreciação, enquanto no orçamento, as despesas 
+em capital podem ser apresentadas separadamente. As recomendações formuladas no capítulo 4 envolvendo o tratamento das despesas em capital, de maneira a evitar uma dupla contabilidade, são igualmente válidas no contexto das 
+estatísticas de GBARD. Os elementos os quais constituem despesas em capital 
+que podem diferir em função do ponto de vista utilizado (o do financiador ou 
+dos executantes) é outro fator que deve-se ter em consideração.
+Tipos de beneficiários dos financiamentos
+12.16 As GBARD abrangem não só a P&D financiada pelo Estado e executada 
+dentro das entidades públicas, mas também a P&D financiada pelo estado e executada nos três outros setores que constituem a economia nacional (empresas, 
+ensino superior e setor privado sem fins lucrativos) e no restante do mundo (incluindo as organizações internacionais). Consequentemente, é importante não 
+confundir as GBARD e as despesas internas de P&D do estado (GOVERD). Como 
+salientado nos capítulos 4 e 8, nem todas as GOVERD são financiadas pelo Estado.
+12.17 Os créditos orçamentais são por vezes atribuídos a instituições as 
+quais não executam necessariamente atividades de P&D. De fato, uma parte 
+significante dos orçamentos públicos podem ser atribuídos a instituições como 
+agências ou organizações especificamente encarregadas de atribuir os fundos 
+aos executantes de P&D ou a outras agências intermediárias conforme as responsabilidades que lhes incumbem. Consequentemente, o nível de detalhamento dos dados do orçamento geral de uma administração central, regional 
+ou local nem sempre permitem aos estatísticos, encarregados da compilação 
+das estatísticas de GBARD, a identificação da utilização final dos fundos. Em 
+contrapartida, as declarações orçamentais para essas agências intermediárias, 
+no interior ou no exterior da administração, podem proporcionar informações 
+suplementares incluindo, por vezes, a identidade dos beneficiários finais do 
+suporte financeiro para a P&D. Esses beneficiários também podem subcontratar 
+uma parte das atividades de P&D.
+12.18 Um certo número de departamentos e agências podem desempenhar um papel na distribuição e alocação de fundos orçamentais para outros 
+organismos públicos ou privados. Apesar de não se utilizarem as GBARD para 
+declarar as quantias referentes a subconjuntos de administrações, é importante 
+assegurar, por exemplo:
+• a dedução de fundos que a administração central (federal) afeta aos orçamentos das administrações regionais (Estados federados) ou locais (municipais) no momento da compilação das estimativas de GBARD regionalmente, 
+caso estes fundos já tiverem sido contabilizados na administração central;
+• que sejam evitados os riscos de dupla contabilidade ou de subestimativa no 
+momento da elaboração de estatísticas de GBARD a partir das declarações 
+separadas das agências e direções da administração central.
+
+
+
+
+Financiamento público da P&D no restante do mundo
+12.19 Os créditos orçamentais públicos de P&D podem integrar a alocação 
+de fundos a instituições não residentes. No caso das GBARD dedicadas à P&D 
+no restante do mundo, é importante apenas a inclusão das contribuições para 
+programas internacionais de P&D ou para organizações cujas atividades são 
+apenas ou principalmente dedicadas à P&D. As contribuições gerais ao orçamento global (como as dedicadas às organizações internacionais ou a União 
+Europeia) devem ser excluídas, exceto quando estas incluem uma componente 
+especificamente designada para atividades de P&D. As orientações complementares apresentadas nos anexos desse manual, disponíveis online em http://oe.cd/
+frascati, poderão vir a fornecer uma lista indicativa das organizações internacionais apresentando uma intensidade de atividades de P&D especialmente 
+elevada. Esse assunto é examinado com mais detalhes no capítulo 11 sobre a 
+globalização da P&D.
+Tipos de mecanismos de suporte para a P&D e contabilização nas estatísticas GBARD
+Financiamento pelo Estado das despesas públicas de P&D interna
+12.20 O suporte público para a P&D executada no interior do setor do Estado 
+é abordado no capítulo 8. Da perspectiva das estatísticas de GBARD, surge um 
+problema quando os créditos para a P&D executada por estabelecimentos públicos são previstos ser financiados por outras fontes. Em alguns países, essas 
+quantias podem ser incluídas no orçamento do Estado, dado que o organismo em 
+questão deve obter a autorização para a utilização destes (abordagem “bruta”). 
+Em outros, estes podem ser excluídos (abordagem “líquida”). Quando se estudam 
+esses financiamentos públicos é importante estabelecer uma distinção entre:
+a) Os contratos ou subvenções provenientes de outros setores para a execução 
+de atividades de P&D por estabelecimentos públicos. Não se tratando, nesse 
+caso, de créditos orçamentais públicos para a P&D.
+b) Os outros fundos públicos, como o faturamento de tributações gerais similares a taxas ou outros fundos públicos financiados no orçamento. Esses 
+fundos entram no quadro dos créditos orçamentais para a P&D.
+12.21 Em conformidade com o princípio estabelecido pela abordagem 
+“líquida”, os fundos registrados no orçamento e financiados por meio de faturamento supostamente proveniente de fontes não orçamentais não deverão 
+ser incluídas nas GBARD. Por exemplo, caso o orçamento geral indique que um 
+estabelecimento público de P&D possui um orçamento bruto total de 10 milhões 
+(dos quais 3 milhões para trabalhos de pesquisa sob contrato financiado por 
+créditos externos), apenas 7 milhões deverão ser contabilizados como créditos 
+orçamentais líquidos atribuídos a esse estabelecimento, sendo os outros 3 milhões inscritos no orçamento dos financiados no contrato de pesquisa.
+Fornecimento de infraestruturas e de serviços para atividades de P&D executados por terceiros
+12.22 Certos exemplos de administrações públicas as quais fornecem 
+esse tipo de serviços foram examinados no capítulo 8, sendo que foi dada uma atenção especial no sentido de verificar se estas deveriam ser consideradas 
+como atividades de P&D executadas pelo setor do Estado. Os serviços fornecidos pelas entidades públicas podem ser parcialmente subsidiados por meio de 
+créditos orçamentais públicos, segundo a diferença entre o custo econômico 
+dos serviços fornecidos pelas administrações públicas e os custos ou o preço 
+pago pelo usuário o qual executa a P&D nos termos da abordagem “líquida”. 
+O custo dos serviços pode simultaneamente incluir o custo de exploração e o 
+custo de oportunidade dos recursos utilizados pelos ativos de infraestrutura. 
+Em certos casos, os custos também podem incluir os custos de amortização e 
+de financiamento de infraestruturas. Para efeitos das GBARD, recomenda-se 
+proceder da seguinte maneira:
+• Contabilizar como GBARD e, se possível, registrar separadamente os fundos orçamentais para aquisição ou construção de equipamentos de P&D 
+pelas administrações. Na maioria dos documentos orçamentais, faz-se a 
+distinção entre as despesas correntes e as despesas em capital. Esses tipos 
+de despesas em capital podem ser difíceis de verificar, especificamente em 
+casos nos quais os ativos destinam-se para uma utilização longa, podendo 
+distorcer as comparações caso estas forem excluídas.
+• Contabilizar de forma contínua os custos de exploração e de manutenção 
+das infraestruturas, os custos de utilização efetivos, etc., como parte de 
+GBARD caso estes façam parte do orçamento.
+• Excluir os custos de amortização e de financiamento de infraestruturas, se 
+possível, evitando uma dupla contabilidade. Em certos casos, poderá ser 
+útil declará-los separadamente.
+12.23 Os mesmos princípios podem ser aplicados quando as infraestruturas são desenvolvidas e/ou exploradas por terceiros desde que seja possível a 
+identificação da componente de P&D e a determinação do destino dos fundos 
+orçamentais.
+
+
+Pagamento dos serviços de P&D
+12.24 Os pagamentos efetuados em troca de serviços de P&D fornecidos 
+por terceiros da parte de administrações públicas podem conferir-lhes direitos 
+econômicos e jurídicos, não necessariamente exclusivos, sobre os resultados 
+da P&D. Tratando-se da compra de serviços de P&D, geralmente designados 
+como contratos de serviços de P&D ou compras de P&D, correspondendo mais 
+a trocas do que a transferências segundo os termos da definição fornecida no 
+capítulo 4. Essas operações podem ser submetidas a regras específicas sendo 
+realizadas em um quadro comercial ou pré-comercial. Em ambos os casos, os 
+pagamentos deverão ser contabilizados como GBARD caso estes forem inscritos 
+no orçamento.
+12.25 Os pagamentos realizados no âmbito dos contratos de P&D não 
+podem incorporar uma componente de benefícios e/ou de prêmio. Conforme 
+o caso, o valor total dos pagamentos deverão ser contabilizados com GBARD, 
+apesar disso acentuar o desvio com as estimativas do ponto de vista dos executantes que deveriam, em princípio, excluir a componente de “lucro”. Os pagamentos de bens e serviços, incorporando ou prevendo atividades de P&D, não 
+deverão ser contabilizados como GBARD exceto se a componente de P&D puder 
+ser identificada e registrada separadamente no orçamento, e os pagamentos 
+incidirem especificamente nas atividades de P&D pertinentes.
+
+
+Subvenções para a P&D
+12.26 As administrações podem financiar atividades de P&D realizadas 
+por empresas ou outros tipos de organizações sem exigir direitos importantes 
+sobre os resultados/produtos do projeto, ou classificar o financiamento com 
+uma obrigação de fornecer uma contrapartida de um bem ou um serviço. Essas 
+operações, correspondendo a pagamentos de transferência, são frequentemente 
+descritas como subvenções ou prêmios de P&D. São geralmente regidas por 
+um acordo formal podendo igualmente condicionar o financiamento a etapas 
+e resultados, ou exigir o reembolso das quantias pagas caso as condições não 
+sejam cumpridas. As subvenções são contabilizadas nas GBARD no caso em que 
+estejam inscritas no orçamento. Estas podem destinar-se a cobertura de custos operacionais e de despesas em capital. As administrações também podem 
+conceder subvenções para unidades de outros setores como contrapartida pelo 
+fornecimento de serviços, do acesso a infraestruturas ou da transferência de 
+ativos fixos que os executantes de P&D podem utilizar.
+12.27 Os fundos gerais das universidades (FGU) de origem pública constituem um tipo especial de mecanismo de transferência de créditos públicos 
+para a P&D. Esses fundos (descritos nos capítulos 4 e 9) representam uma exceção à regra sobre o suporte direto aplicado às estatísticas de P&D. De fato, os 
+estabelecimentos de ensino superior (EES) comunicam pouco sobre a utilização 
+das dotações públicas globais que recebem do Estado. Apesar disso, dado que 
+essas dotações globais registram-se (frequentemente) no quadro das operações 
+entre os Estado e os EES que este controla parcialmente, pode parecer legítimo 
+considerar esses fundos como financiamentos diretos. Em certos países é possível que o Estado atribua dotações globais ou financiamentos institucionais 
+semelhantes aos FGU. Esses fundos são por vezes outorgados a estabelecimentos relacionados com outros setores que o ensino superior, para fins gerais; os 
+beneficiários podem utilizá-los para atividades de P&D sem qualquer obrigação. 
+As FGU (nos países que recorrem a esses métodos) são o único tipo de dotação 
+global ou de financiamento institucional tido em consideração nos GBARD.
+12.28 De um ponto de vista prático, o grau de detalhamento e de informações fornecido nos documentos orçamentais não permite a identificação 
+da parte dos FGU (quando este é existente) dedicado à atividades de P&D. Pode 
+então ser necessário apoiar-se em informações obtidas por meio de sondagens 
+de modo a estabelecer uma estimativa precisa dos FGU que deverão ser integrados nos GBARD, podendo resultar em um prolongamento substancial dos 
+prazos de disponibilidade dos dados de GBARD. Como será indicado na seção 
+12.3, é importante que sejam evitados tais prolongamentos.
+
+
+Investimentos financeiros para a P&D
+12.29 As administrações podem fornecer financiamentos sob a forma de 
+empréstimos ou de aquisições de participações para unidades que realizam 
+atividades de P&D. Esse tipo de suporte origina uma troca de fundos contra 
+ativos financeiros na forma de dívidas sobre os fluxos de tesouraria futuros, 
+potencialmente incertos. As administrações públicas também podem assumir 
+uma parte do risco incorrido por terceiros ao garantir o financiamento exigindo, 
+ou não, o pagamento de uma compensação financeira parcial ou total.
+12.30 Embora no capítulo 4 seja recomendado tratar esses investimentos 
+financeiros como recursos internos de executantes para as declarações do ponto  de vista dos executantes, as estatísticas de GBARD devem ter em consideração o 
+fato de que as administrações tendem a registrar as consequências orçamentais 
+dessas operações, dependendo se a contabilização é baseada nos recursos ou 
+nos fluxos de tesouraria. As estimativas dos custos equivalentes a subvenções 
+ao integrar o risco são frequentemente utilizadas no orçamento para estimar as 
+necessidades de recursos, mediante cálculos complexos e hipóteses significativas as quais devem ser reexaminadas regularmente (ver capítulo 13).
+12.31 Para efeitos de estatísticas de P&D e das GBARD em especial, pode 
+ser difícil estabelecer um princípio de comunicação de dados intrinsecamente 
+coerentes, apoiado por fontes de dados disponíveis e que assegure uma comparabilidade internacional suficiente. No caso dos empréstimos para a P&D, 
+tendo em consideração o risco, é possível que as administrações não tenham a 
+capacidade de exigir o reembolso da quantia total (ou que não o desejem fazer). 
+Caso esse cenário seja previsto, é importante, no quadro da abordagem “líquida”, ter em consideração o valor estimado da transferência. Caso esse elemento 
+seja economicamente significativo e seja integrado no orçamento, o montante 
+autorizado deverá ser contabilizado nos GBARD. Apenas o valor líquido previsto 
+de empréstimo e outros adiantamentos potencialmente reembolsáveis deverão 
+ser contabilizados como GBARD, baseando-se na componente de transferência.
+12.32 Os reembolsos de dívidas são registrados nas estatísticas das administrações públicas como transferências de capital entre o credor e o devedor na 
+data de vigência, assim como estipulado no acordo. No caso dos empréstimos 
+para a P&D, estes não deverão ser incorporados nos GBARD mas registrados 
+separadamente, dado que a transferência a posteriori a título do reembolso de dívidas não corresponde a um financiamento real de P&D. Da mesma maneira, os 
+reembolsos não deverão ser contabilizados como fundos orçamentais negativos.
+12.33 Os investimentos sob a forma de aquisição de participação no quadro 
+de projetos de P&D, como a contribuição em capital em consórcio com a indústria, não deverão ser contabilizados como GBARD de acordo com o princípio 
+do valor líquido esperado segundo o qual as administrações recebem como 
+contrapartida pela sua participação um ativo financeiro sob a forma de direitos sobre os benefícios futuros. Por razões práticas, os países podem escolher 
+declarar separadamente o valor dos investimentos sob a forma de empréstimos 
+e de participação.
+
+
+
+Garantias de empréstimos para a P&D
+12.34 As garantias de empréstimos são pouco suscetíveis de serem contabilizadas, dado que nem sempre é possível identificar a parte que representa 
+a P&D no investimento garantido pelas administrações. Quando as garantias 
+são diretamente atribuíveis ao financiamento de projetos de P&D, a maioria 
+das administrações tendem a registrar os compromissos condicionais extrapatrimoniais diferindo da contabilização dos custos orçamentais associados 
+à constituição eventual de provisões para cobrir as suas exposições. Quando 
+significativas, as provisões de recursos destinados à cobertura das garantias de 
+empréstimo ou outros financiamentos de compromissos condicionais, livres de 
+encargos pagos pelas partes pelo empréstimo, deverão ser contabilizadas como 
+financiamentos diretos e incorporados nos GBARD, desde que o processo orçamental seja reconhecido como despesas. Conforme orientações prévias sobre as 
+remissões de dívidas, quando as administrações libertarem fundos cobrindo a 
+garantia, o pagamento correspondente não deverá ser incorporado nos GBARD.
+
+
+
+Benefícios fiscais dos custos de P&D
+12.35 Várias administrações concedem vantagens fiscais a empresas e, 
+por vezes, a outras unidades que realizam atividades de P&D. Por meio desse 
+sistema, estas podem renunciar receitas fiscais atuais e futuras e, em certas 
+circunstâncias, transferir diretamente fundos às unidades cujos créditos fiscais 
+são insuficientes para compensar os benefícios fiscais aos quais têm direito. Os 
+benefícios fiscais das despesas de P&D incorridas pelas empresas constituem 
+uma forma de ajuda para a P&D estabelecida por meio do regime fiscal e com 
+o objetivo de reduzir o custo econômico de investimentos nessa área (no capítulo 13 propõe-se uma descrição detalhada das diferentes possibilidades de 
+benefícios fiscais para a P&D).
+12.36 O custo dos benefícios fiscais das despesas de P&D pode ser incorporado no orçamento ou figurar nas seções do orçamento descrevendo despesas não 
+discricionárias e ajustes de receitas; no entanto, isto não é sistemático. Certas 
+administrações podem prever um montante dedicado no orçamento, os montantes reais sendo ajustados a posteriori relativamente ao orçamento disponível. 
+Um outro caso específico consiste em conceder, mediante solicitação, benefícios 
+fiscais para todas as unidades as quais justificam a sua elegibilidade. No que concerne a esse Manual, como explicado no capítulo 13, os rendimentos fiscais assim 
+como as quantias reais pagas às empresas são considerados como vantagens 
+fiscais. Os documentos orçamentais nem sempre fornecem essas informações.
+12.37 Devido a potenciais desvios, é recomendado, relativamente às declarações internacionais, excluir das estatísticas dos GBARD todas as formas de 
+benefícios fiscais, incluindo as quantias devidas às empresas. Caso as autoridades nacionais considerarem que esse tipo de ajuda seja uma parte integrante do 
+seu orçamento, estas deverão garantir que são apropriadamente registradas de 
+maneira que os usuários não cometam o erro de adicionar os benefícios fiscais 
+derivados separadamente na P&D estimada, calculados conforme as orientações fornecidas no capítulo 13 sobre as estimativas de GBARD, incorporando 
+formas específicas de ajuda orçamental para fins de benefícios fiscais. O quadro 
+12.2 fornece um exemplo de modelo de declaração.
+
+
+
+
+Outros mecanismos de suporte indireto
+12.38 As administrações recorrem a outros mecanismos de suporte indireto para a execução e o financiamento de atividades de P&D em uma economia. Na ausência de metodologias comprovadas permitindo atribuir um valor 
+monetário a esse tipo de suporte e estabelecendo comparações internacionais, 
+recomenda-se excluir as estimativas dos GBARD.
+12.3 Fontes de dados orçamentais referentes 
+aos GBARD e estimativas
+Declarações do ponto de vista dos financiadores e dos executantes
+12.39 Como foi referido na seção 12.1 e nos capítulos 4 e 9, as despesas 
+de P&D financiadas por meio de fundos públicos podem ser declaradas pelas 
+administrações públicas as quais concedem os recursos financeiros (financiadores) ou pelas unidades institucionais que executam atividades de P&D. Regra geral, por motivos de coerência com as estimativas das GARD totais, no Manual 
+é proposto que se opte pela segunda abordagem. No entanto, para o objetivo 
+pretendido do recolhimento de dados de financiamento atualizados e da sua 
+classificação por objetivos socioeconômico, as quantias de GBARD deverão ser 
+recolhidas com os financiadores e não com os executantes.
+
+
+
+Fontes de dados orçamentais
+12.40 Ao analisar as despesas incorridas pelas administrações, pode fazer-se a distinção entre a data do voto do orçamento pelo parlamento, a data 
+na qual o ministério da Economia autoriza o depósito de fundos de um departamento, a data na qual um compromisso especial é assumido pelos departamentos, a data da realização das condições e, finalmente, a data de emissão das 
+ordens de pagamento e do pagamento de cheques. Apesar de orientações serem 
+propostas adiante, no Manual não são formuladas diretivas dizendo respeito 
+aos conceitos os quais serão privilegiados em termos de despesas, dados que 
+estes irão variar de país para país. Independentemente do conceito utilizado, 
+o importante é que este seja utilizado de forma consistente na compilação dos 
+GBARD totais.
+Características comuns
+12.41 Embora seja possível a verificação de variações nos processos orçamentais de país para país, podem distinguir-se sete estágios principais:
+1. Previsões (estimativa dos fundos antes do início da análise do orçamento).
+2. Previsões orçamentais (valores preliminares pedidos pelos ministérios, 
+designadamente para os debates interdepartamentais).
+3. Projeto de orçamento (valores apresentados ao parlamento para o ano 
+seguinte)
+4. Créditos orçamentais iniciais (valores votados pelo parlamento para o 
+ano seguinte, incluindo mudanças introduzidas no debate parlamentar). Nesse contexto, os créditos orçamentais designam o ato consistindo em reservar fundos ou outros recursos para um objetivo específico que o beneficiário pode conferir a um programa ou a uma rubrica 
+orçamental conforme as condições estabelecidas pelo parlamento.
+5. Créditos orçamentais definitivos (valores votados pelo parlamento para 
+o ano seguinte, incluindo as leis retificativas adicionadas durante 
+este ano).
+6. Obrigações (créditos efetivamente utilizados no decorrer do ano)
+7. Gastos, quer sejam identificados na contabilidade ou efetivamente desembolsados.
+12.42 As etapas 1-4 descrevem as intenções do governo. Os dados correspondentes ao exercício orçamental n deverão ser disponibilizados assim que possível 
+no final do ano n-1. É proposto que se baseiem nos dados dos GBARD preliminares 
+sobre o primeiro orçamento aprovado pelo governo e pelo parlamento (etapa 4). 
+Alguns países chegam a estabelecer os seus valores preliminares a partir do 
+projeto de orçamento (etapa 3). É possível que os dados referentes às intenções 
+não sejam suficientemente precisos para permitir a determinação da componente 
+de P&D e nem os objetivos detalhados. Ness e caso, poderá então ser necessário recorrer a estimativas ou utilizar hipóteses explícitas segundo as quais o crescimento dos orçamentos de P&D deve seguir o das categorias orçamentais identificáveis, podendo originar revisões significantes nos anos seguintes.
+12.43 No decorrer do exercício orçamental, as leis retificativas podem ser 
+votadas com acréscimos, reduções e redistribuições de créditos de P&D. Esses ajustes ocorrem na etapa 5. Os dados deverão ser disponibilizados assim 
+que possível após o exercício orçamental. Recomenda-se basear os dados dos 
+GBARD finais nos créditos orçamentais definitivos. É possível que certos países 
+devam basear os seus valores definitivos nos dados disponíveis nas etapas 6 ou 
+7, podendo basear-se na contabilidade de caixa ou de exercício. Na contabilidade de caixa, uma operação é verificada quando um pagamento é recebido ou 
+emitido. É possível que os créditos orçamentais abertos não sejam gastos, ou 
+que as reservas de liquidez tenham uma quantia de créditos não atribuídos a 
+um objetivo específico. É por essa razão que no manual é sugerido que se evite 
+basear a declaração dos GBARD nos valores das etapas 6 ou 7.
+
+
+
+Adiantamento de créditos orçamentais
+12.44 Relativamente ao orçamento, alguns países utilizam a prática de 
+adiantar montantes significativos de um ano para o outro que são por vezes incluídos nos créditos votados no decorrer de anos sucessivos. Os projetos plurianuais para os quais são previstos créditos no orçamento de um ou vários anos 
+deverão ser incluídos nos dados de GBARD do ano, ou dos anos, nos quais estes 
+figuram no orçamento e não nos do ano no qual os créditos foram aprovados.
+Fontes de dados sobre os compromissos e despesas fora dos processos 
+orçamentais
+12.45 Em alguns países atualmente se utilizam sondagens aprofundadas 
+com as administrações públicas, como em organismos e ministérios, não somente para quantificar as atividades de P&D mas também o seu financiamento. 
+Esse tipo de esforço pode ser justificado porque permite um recolhimento de 
+informações mais preciso do que o fornecido nos documentos orçamentais 
+gerais, identificando assim a parte das atividades de P&D nas rubricas orçamentais, a sua natureza, como outros elementos relevantes para a política pública.
+12.46 Além das incidências do esforço adicional do recolhimento de informações em termos de recursos, este também pode causar um prolongamento 
+significativo dos prazos quando é necessário adotar medidas visando evitar 
+uma dupla contabilidade dos fundos. Esse é o caso quando os recursos transitam dos ministérios para os organismos intermediários que, por seu turno, 
+transferem os fundos para outros organismos e/ou executantes. A escala internacional, a utilização variável de sondagens mais aprofundadas que sustentem 
+os dados orçamentais é fortemente passível de prejudicar a comparabilidade 
+dos dados, especialmente entre os países os quais apenas avaliam as atividades de P&D a partir das rubricas orçamentais de alto nível e os que procedem 
+a um exame mais exaustivo das despesas das diferentes rubricas orçamentais.
+12.47 Como salientado no capítulo 8, a utilização de tais sondagens para 
+proceder a uma avaliação mais completa e exata da situação não é desaconselhada; por outro lado, devido à diversidade das práticas vigentes nos diferentes 
+países não é possível fornecer orientações a respeito disso nesse Manual. Caso 
+forem utilizadas, essas práticas deverão ser adequadamente fundamentadas não devendo comprometer os prazos de obtenção nem a comparabilidade internacional dos dados de GBARD.
+12.48 É possível que certas componentes das GBARD não sejam disponibilizadas em tempo útil para preencher as condições necessárias de modo a 
+obter valores preliminares (publicação de estimativas para o ano n no decorrer 
+do ano n-1, por exemplo). Particularmente:
+• É possível que as estimativas em âmbito internacional não se encontrem facilmente acessíveis. Esforços suplementares deverão então ser empregues 
+para o recolhimento dos dados dos orçamentos públicos regionais (Estados 
+federados) ou locais (municipais), o que atrasa a compilação final completa.
+• Para integrar as FGU (ver capítulos 4 e 9) nas estatísticas dos GBARD, poderá 
+ser necessário basear-se nas estimativas obtidas a partir de dados derivados de sondagens realizadas no setor do ensino superior.
+• A aplicação de coeficientes atualizados nas rubricas dos orçamentos gerais 
+poderá necessitar da obtenção de dados sobre o uso real dos fundos com 
+as agências.
+12.49 Regra geral, tendo em vista a redução de prazos, recomenda-se na 
+ausência de uma alternativa, basear as estimativas preliminares dos GBARD 
+em uma extrapolação da última estimativa disponível, aplicando a taxa de crescimento registrada para uma componente significativa, por exemplo a taxa de 
+crescimento dos orçamentos centrais/federais dedicados à P&D. É importante 
+validar essa prática por meio de uma reavaliação contínua do grau de precisão 
+que o indicador avançado seguiu a taxa de crescimento da série de dados dos 
+GBARD. Os usuários das estatísticas deverão preparar-se para possíveis revisões dos dados, como é usual em outros domínios estatísticos. Outra questão 
+não obrigatória, mas que poderá ser útil e especialmente pertinente na política 
+pública, é a inclusão nas estimativas preliminares prospectivas de uma repartição dos GBARD por objetivo socioeconômico.
+
+
+
+12.4 Repartição por objetivo socioeconômico
+Critérios de repartição
+Finalidade ou conteúdo
+12.50 É possível classificar os GBARD em função do conteúdo geral de conhecimentos do programa ou projeto de P&D segundo a finalidade (especificamente 
+o objetivo) pretendida, com base em uma classificação adequada dos objetivos 
+socioeconômicos (OSE). No entanto, nem sempre é possível identificar o conteúdo 
+das atividades de P&D estabelecendo corretamente a sua relação com a finalidade 
+do projeto. O exemplo seguinte ilustra a diferença entre esses conceitos:
+➜ Um projeto de pesquisa na área do desenvolvimento de células de combustível com o objetivo de suprir energia elétrica para forças militares em zonas isoladas e hostis é financiado integralmente pelo ministério da Defesa. 
+O conteúdo das atividades de P&D, recorrendo à engenharia e a tecnologia, 
+cumpre objetivos de produção de energia, mas o objetivo principal, nesse 
+caso, ligado à área da defesa.
+12.51 No caso dos GBARD, é o objetivo principal que prevalece quando se 
+trata de determinar os objetivos das políticas públicas para a P&D. Além disso, as informações referentes ao objetivo principal são menos suscetíveis de serem 
+fornecidas pelos executantes, razão pela qual é importante basear-se nos dados 
+orçamentais para esse critério. Consequentemente, em princípio, recomenda-se 
+a utilização da abordagem baseada no objetivo principal para o recolhimento e 
+a distribuição dos dados orçamentais.
+12.52 Embora alguns programas de P&D sustentados pelas autoridades 
+públicas apenas serem um objetivo, outros podem ter vários sendo complementares ou executados paralelamente. Por exemplo, um Estado pode dedicar 
+fundos para um projeto aeronáutico com fins principalmente militares, mas 
+também para promover as vendas de exportação da indústria aeroespacial, ou 
+para gerar spin-offs no setor da aviação civil. Vários objetivos podem ser registrados no sistema de informação de um país. Por outro lado, quando os dados 
+são comunicados às organizações internacionais, as atividades de P&D deverão 
+ser classificadas em função do seu objetivo principal.
+
+
+Determinação dos objetivos principais
+12.53 A atribuição dos orçamentos de P&D e dos objetivos socioeconômicos 
+deverão ser feitos da melhor maneira que representa os objetivos dos financiadores. O modo efetivamente escolhido para a declaração dependerá das possibilidades práticas. O conjunto de créditos poderá ser atribuído a uma unidade 
+executante ou a uma unidade de financiamento da P&D. Em certos casos, é 
+possível obter as informações do próprio programa ou do projeto.
+Repartição das GBARD
+12.54 A lista recomendada é apresentada no quadro 12.1 e exposta a seguir. 
+Esta apoia-se na classificação da União Europeia adotada pela Eurostat para efeitos da Nomenclatura para a análise e comparação dos orçamentos e programas 
+científicos (NABS) ao nível hierárquico de um dígito. Estabelecido em 1959, a 
+nomenclatura NABS foi revista pela última vez em 2007 (Eurostat, 2008). Apesar 
+de não ser utilizada por todos os países, convém recorrer à correspondência 
+entre a nomenclatura e esse Manual de modo a declarar os dados entregues à 
+OCDE, incluindo os casos nos quais os países utilizam as suas próprias classificações para calcular as suas estatísticas nacionais de GBARD ou equivalentes.
+12.55 Normalmente, conforme a disponibilidade das informações, todas 
+as rubricas orçamentais podem ser atribuídas a um objetivo socioeconômico 
+secundário apresentando um quadro mais completo. Tal abordagem pode 
+representar uma fonte de informação útil permitindo realizar uma análise de 
+sensibilidade e de comparações transnacionais e longitudinais para objetivos 
+específicos. Um dos potenciais riscos ligados à comunicação dos objetivos secundários situa-se no fato de que as comparações entre os fundos alocados aos 
+objetivos poderão não representar devidamente essa multiplicidade.
+
+
+Descrição dos objetivos socioeconômicos (OSE)
+1. Exploração e aproveitamento do meio terrestre
+12.56 Este OSE abrange os fundos destinados às atividades de P&D cujos 
+objetivos estão ligados à exploração da crosta e do manto terrestres, dos mares, 
+dos oceanos e da atmosfera, assim como a P&D relacionada com o seu aproveitamento. Incluem-se igualmente as pesquisas climatológicas e meteorológicas, 
+assim como a exploração polar e a hidrologia. Por outro lado, esse OSE não inclui as atividades de P&D relacionadas com a melhoria dos solos (OSE 4), a sua 
+utilização, a pesca (OSE 8) ou a poluição (OSE 2).
+
+
+2. Ambiente
+12.57 Este OSE abrange atividades de P&D referentes à melhoria da luta 
+contra a poluição, incluindo a identificação e análise das fontes de poluição e as 
+suas causas e todos os poluentes, incluindo a sua dispersão no ambiente e os seus 
+efeitos no homem, nos seres vivos (fauna, flora, micro-organismos) e na biosfera. 
+Também inclui as atividades de desenvolvimento de instalações de controle para 
+a determinação de todos os tipos de poluição, assim como a P&D sobre a eliminação e a prevenção de todas as formas de poluição dentro de todos os biótipos.
+
+
+Categorias NABS correspondentes aos objetivos  socioeconômicos das atividades de P&D
+1 Exploração e aproveitamento do meio terrestre
+2 Ambiente
+3 Exploração e aproveitamento do espaço
+4 Transportes, telecomunicações e outras infraestruturas
+5 Energia
+6 Produção e tecnologias industriais
+7 Saúde
+8 Agricultura
+9 Ensino
+10 Cultura, lazer, religião e mídia
+11 Sistemas, estruturas e processos políticos e sociais
+12 Progresso geral dos conhecimentos: P&D financiada  para fundos gerais de universidades (FGU)
+13 Progresso geral dos conhecimentos: P&D financiada  para fundos outros que os FGU
+14 Defesa
+
+Subcategorias recomendadas
+12.1 P&D relacionada com as ciências naturais
+12.2 P&D relacionada com a engenharia
+12.3 P&D relacionada com a medicina
+12.4 P&D relacionada com as ciências agrícolas
+12.5 P&D relacionada com as ciências sociais
+12.6 P&D relacionada com as ciências humanas1
+13.1 P&D relacionada com as ciências naturais
+13.2 P&D relacionada com a engenharia
+13.3 P&D relacionada com a medicina
+13.4 P&D relacionada com as ciências agrícolas
+13.5 P&D relacionada com as ciências sociais
+13.6 P&D relacionada com as ciências humanas1
+
+
+
+3. Exploração e aproveitamento do espaço
+12.58 Este OSE abrange o conjunto de atividades de P&D na área espacial 
+civil ligada à exploração científica do espaço, aos laboratórios espaciais, às viagens no espaço e aos sistemas de lançamento. As atividades correspondentes 
+no domínio da defesa fazem parte da OSE 13. Apesar da P&D espacial (civil) não 
+ter um objetivo específico, esta continua a ser empreendida para uma finalidade 
+específica; por exemplo, a expansão dos conhecimentos (astronomia) ou ligada 
+à aplicações específicas (satélites de telecomunicações ou de observações da 
+Terra). No entanto, a categoria é conservada para facilitar declarações de países 
+que empreendam programas espaciais de grande escala. Nesse capítulo não 
+são abordadas as atividades de P&D equivalentes realizadas na área da defesa.
+4. Transportes, telecomunicações e outras infraestruturas
+12.59 Este OSE abrange a P&D na área das infraestruturas e do ordenamento do território, incluindo a construção de edifícios. Inclui geralmente todas as 
+atividades de P&D ligadas à organização global do território, como a proteção 
+contra os efeitos prejudiciais no quadro do ordenamento de espaços urbanos e 
+rurais, excluindo pesquisas relacionadas com outros tipos de questões (OSE 2). 
+Esse OSE também inclui as atividades de P&D ligadas ao sistema de transportes, 
+aos sistemas de telecomunicações, a organização geral do território, a construção 
+e ao planejamento de edifícios, a engenharia civil e ao aprovisionamento de água.
+5. Energia
+12.60 Este OSE abrange a P&D destinada ao melhoramento e a produção, armazenamento, transporte, distribuição e utilização eficiente de todas as formas 
+de energia. Também inclui as atividades de P&D relacionadas com os processos 
+visando aumentar a eficácia da produção e da distribuição de energia, assim 
+como os processos relacionados com a econômia de energia. Não incluindo a 
+P&D ligada à prospecção (OSE 1) ou a propulsão de veículos e de motores (OSE 
+6). Ver o quadro 12.1 para mais informações sobre a composição da P&D no que 
+diz respeito à energia tal como definida nesse Manual.
+6. Produção e tecnologia industriais
+12.61 Este OSE abrange as atividades de P&D visando melhorar a produção 
+e a tecnologia industrial, como a P&D sobre os produtos industriais e os seus 
+processos de produção, desde que estes não sejam uma parte integrante da realização de outros objetivos (defesa, espaço, energia ou agricultura, por exemplo).
+7. Saúde
+12.62 Este OSE inclui a P&D visando proteger, promover e restaurar a saúde pública em sentido lato; incluindo os aspectos sanitários da nutrição e da 
+higiene alimentar. Este vai da medicina preventiva, designadamente todos os 
+aspectos da medicina e de tratamentos cirúrgicos, tanto individualmente quanto coletivamente, e a prestação de cuidados em meios hospitalares a domicílio, 
+à medicina social, passando pela pesquisa em pediatria e em geriatria.
+
+
+
+
+Quadro 12.1 Diferenças entre os dados de GBARD relacionados com 
+as atividades de P&D na área da energia e as da AIE
+É importante não confundir as séries de dados das GBARD correspondentes ao objetivo Energia recolhidos e publicados pela Direção da ciência, 
+da tecnologia e da inovação da OCDE e por outras organizações nacionais 
+e internacionais, que as recolhem conforme as orientações estipuladas 
+nesse Manual com as séries especiais recolhidas e publicadas pela Agência internacional da energia (AIE) da OCDE, englobando as despesas de 
+pesquisa, desenvolvimento e demonstração (ou RDD) no que diz respeito 
+à energia, cujo campo é relativamente mais vasto.
+O conceito de energia da AIE não é o mesmo que o do Manual de Frascati. 
+Com efeito, os dados da AIE (i) são baseados nos programas relacionados com 
+a energia; (ii) abrangem todos os tipos de “projetos de demonstração”; (iii) 
+têm em consideração as empresas do setor público. A AIE decidiu incluir os 
+projetos de demonstração no processo de recolhimento de dados orçamentais relacionados com a P&D, pois estes frequentemente representam uma 
+parte significativa do desenvolvimento de novas tecnologias. Os projetos podem levar a resultados incertos, incluindo um elemento de risco geralmente 
+muito elevado para que o setor privado o empreenda sem apoio (AIE, 2011).
+A AIE define “demonstração” como: a elaboração, construção e aproveitamento do protótipo de uma tecnologia à escala industrial ou quase industrial, com o propósito de proporcionar informações técnicas, 
+econômicas e ambientais aos industriais, financiadores, reguladores e 
+decisores. As informações referentes ao financiamento das atividades de 
+financiamento das atividades de demonstração são recolhidas ao mesmo 
+tempo que as correspondentes à P&D, sendo registradas separadamente.
+Ademais, o âmbito das atividades de P&D abrangido pelos dados de 
+AIE é maior do que o da OSE 5, pela razão que inclui o conjunto de programas baseados no: (i) fornecimento de energia, (ii) transporte de energia, 
+(iii) utilização de energia e (iv) melhoria da eficácia energética.
+Em consequência, todos os projetos de RDD que são abrangidos dizem 
+respeito a um dos sete ramos principais de desenvolvimento na área da energia para os quais a AIE recolhe dados, que são: (i) eficácia energética, (ii) combustíveis fósseis, (iii) energias renováveis, (iv) fissão e fusão nucleares, (v) 
+células de combustível de hidrogênio, (vi) outras técnicas de produção e de armazenamento de energia e (vii) outras tecnologias ou pesquisas transversais.
+Fonte: Agência internacional da energia (2011). Consultado no endereço www.iea.org/stats/
+RDD%20Manual.P&Df.
+
+
+
+8. Agricultura
+12.63 Este OSE abrange o conjunto de atividades de P&D visando promover 
+a agricultura, a silvicultura, a pesca e a produção de gêneros alimentícios ou 
+aprofundando os conhecimentos sobre os fertilizantes artificiais, os biocidas, 
+controladores biológicos de combate às pragas e a mecanização agrícola e silvícola do meio ambiente. Também abrange a P&D visando melhorar a produtividade e tecnologia alimentares. Por outro lado, não inclui as atividades de P&D 
+relacionadas com a luta contra a poluição (OSE 2), o desenvolvimento de regiões rurais, a construção e planejamento de edifícios, a melhoria de comodidades de 
+lazer e de repouso rurais e o aprovisionamento de água para regiões rurais (OSE 
+4) e a economia de energia (OSE 5) ou a indústria alimentar (OSE 8).
+9. Ensino
+12.64 Este OSE abrange as atividades de P&D procurando manter o ensino geral 
+ou especializado, como a formação, pedagogia, didática e os métodos direcionados 
+orientados a pessoas com capacidades especiais ou a pessoas apresentando dificuldades de aprendizagem. Esse objetivo aplica-se em todos os níveis, do ensino 
+pré-escolar e elementar ao superior, assim como aos serviços relacionados ao ensino.
+10. Cultura, atividades de lazer, religião e mídia
+12.65 Este OSE abrange a P&D destinada a melhorar a compreensão dos fenômenos sociais associados às atividades culturais, a religião e aos lazeres no 
+âmbito de definir as suas incidências na vida social, assim como a integração 
+racial e cultural. A P&D sobre as mudanças socioculturais nessas áreas também é 
+abrangida nesse objetivo. A noção de “cultura” engloba a sociologia, a religião, as 
+artes, o desporto e o lazer aos quais se adicionam a P&D sobre a mídia, o domínio da 
+língua e a integração social, as bibliotecas, os arquivos e a política cultural externa.
+12.66 Esse OSE também inclui as atividades de P&D nas seguintes áreas: os 
+serviços recreativos e esportivos, os serviços culturais, os serviços de difusão e 
+de edição e os serviços religiosos e outros serviços comunitários.
+11. Sistemas, estruturas e processos políticos e sociais
+12.67 Este OSE abrange a P&D destinada a melhorar a compreensão da estrutura política da sociedade, das questões ligadas à administração pública e a 
+política econômica, aos estudos regionais e a governança em vários níveis, das 
+mudanças, dos processos e dos conflitos sociais, do desenvolvimento de sistemas 
+de segurança e assistência social, bem como dos aspectos sociais da segurança do 
+trabalho. Esse objetivo também abrange as atividades de P&D relacionadas com 
+os estudos sociais associados à problemática entre os homens e mulheres, como 
+a discriminação e aos problemas familiares, ao desenvolvimento de métodos de 
+luta contra a pobreza à escala local, nacional e internacional; a proteção de categorias de populações socialmente carentes (imigrantes, delinquentes, jovens os 
+quais abandonaram os seus estudos, etc.), apoio sociológico, designadamente os 
+relacionados com o estilo de vida (jovens, adultos, reformados, inválidos, etc.) e 
+econômico (agricultores, pescadores, mineiros, desempregados, etc.); e aos métodos de prestação de assistência social em momentos de mudanças abruptas 
+(naturais, tecnológicas ou sociais) ocorrendo na sociedade.
+12.68 Não estão inseridos nesse OSE as atividades de P&D associadas à higiene do trabalho, ao controle sanitário das comunidades do ponto de vista organizacional e médico-social, a poluição no local de trabalho, a prevenção de acidentes 
+do trabalho e aos aspectos médicos das causas de acidentes de trabalho (OSE 7).
+12. Progresso geral dos conhecimentos: P&D financiada a partir de 
+fundos gerais das universidades
+12.69 Na ótica da declaração dos GBARD por “finalidade”, este OSE deverá 
+incluir, por convenção, toda a P&D financiada por meio de subvenções gerais de ministérios da Educação, apesar de em certos países vários desses programas 
+poderem ser associados a outros objetivos. Essa convenção foi adotada devido 
+à dificuldades encontradas na obtenção de dados apropriados e, consequentemente, a dificuldade de se obter uma comparabilidade adequada. Com o intuito 
+de evitar que essa categoria se torne muito vasta e pouco instrutiva, recomenda-
+-se que se proceda a uma repartição adicional por área de P&D de nível superior.
+13. Progresso geral dos conhecimentos: P&D financiada a partir de 
+outros fundos que não os FGU
+12.70 Este OSE abrange todos os créditos orçamentais que estão reservados 
+à P&D, mas que não podem estar associados a um objetivo e que são financiados 
+por meio de outros fundos que não os FGU. Uma repartição adicional de nível 
+superior é uma vez mais recomendada.
+14. Defesa
+12.71 Esse OSE abrange a P&D realizada na área militar, podendo igualmente incluir a pesquisa fundamental e a pesquisa nuclear e espacial financiadas 
+pelo ministério da Defesa. Por outro lado, é útil classificar nos OSE abrangidos 
+a pesquisa civil financiada pelos ministérios da Defesa como é o exemplo da 
+área da meteorologia, das telecomunicações e da saúde.
+
+
+12.5. Outras repartições dos GBARD
+Classificação das funções das administrações públicas
+12.72 A classificação das funções da administração pública (COFOG) é 
+apresentada no capítulo 8. Esta fornece uma nomenclatura das despesas das 
+administrações públicas por função (as categorias COFOG encontram-se disponíveis no anexo desse Manual, disponível online no endereço http://oe.cd/
+frascati). Os títulos do primeiro nível apresentam várias semelhanças com a 
+nomenclatura NABS utilizada para a P&D. A utilização da COFOG para as estimativas de GBARD não é recomendada pois as categorias não foram previstas 
+para descrever as despesas de P&D nem estão conformes às definições de P&D 
+descritas no Manual; além disso, a sua utilização continua relativamente limitada à escala mundial. Poderá ser útil o estabelececimento, no futuro próximo, de 
+um quadro de correspondências indicativo. Sempre que possível, recomenda-se 
+que os serviços de estatística documentem as diferenças observadas entre as 
+estimativas das despesas públicas baseadas na classificação COFOG e as estimativas de GBARD permitindo que os usuários fiquem devidamente informados.
+Modos de financiamento da P&D
+12.73 Outras repartições das GBARD foram propostas no decorrer dos 
+últimos anos em resposta a uma vontade das autoridades públicas de melhor 
+entender a natureza do apoio público direto para a P&D, como:
+• A repartição dos GBARD por destino dos financiamentos, por setor institucional, incluindo o “restante do mundo” para o qual nenhuma informação pode 
+ser recolhida por sondagens nacionais com os executantes de P&D em questão.
+• A repartição dos GBARD por modo de financiamento, dependendo se estes são alocados a projetos, programas ou instituições. Alguns usuários 
+também podem querer conhecer a repartição dos financiamentos públicos 
+em função da utilização dos critérios de concorrência (podendo ser o caso 
+relativamente aos projetos e as instituições).
+• A repartição dos GBARD por tipo de instrumento de política, como é o 
+exemplo dos mercados públicos e das subvenções as quais se adicionam 
+ao financiamento da P&D interna.
+• A repartição dos GABRD por nível e tipo de administração.
+• Acima de tudo, a Comissão europeia faz o recolhimento de dados sobre 
+o “Financiamento público nacional das atividades de P&D coordenadas à 
+escala internacional”, como:
+❖ as contribuições nacionais para agentes públicos transnacionais na 
+área da P&D;
+❖ as contribuições nacionais para programas de P&D públicos 
+transnacionais à escala europeia;
+❖ as contribuições nacionais para programas de P&D públicos bilaterais 
+ou multilaterais estabelecidos entre as administrações dos Estadosmembro.
+12.74 A experiência do recente recolhimento de de dados experimentais 
+revelou que um número limitado de países se encontra atualmente capaz de 
+fornecer a maioria dos indicadores sobre a base de dados orçamentais. Consequentemente, informações detalhadas suplementares deverão ser recolhidas 
+com os ministérios, os organismos e a partir de registros administrativos. É por 
+essa razão que nesse Manual não se pode recomendar o procedimento no recolhimento dessas informações no âmbito do quadro de compilações dos GBARD, 
+apesar da sua potencial utilidade. Uma solução mais adequada apresenta-se 
+aos países interessados por esse tipo de dados: recorrendo a sondagens nas 
+entidades administrativas ao expandir a sua área além dos executantes de P&D 
+conhecidos no setor do Estado, como descrito no capítulo 8.
+
+
+12.6. Utilização de dados de GBARD
+12.75 A produção de dados de GBARD deve antes de mais nada servir para 
+dois objetivos principais: fornecer informações atualizadas sobre os orçamentos 
+públicos dedicados à P&D apresentando um quadro coerente da repartição dos 
+financiamentos em função dos objetivos socioeconômicos.
+Diferenças principais entre os dados de GBARD e de GERD
+12.76 Os usuários dos dados relativos aos GBARD constatam frequentemente diferenças as quais têm dificuldades em explicar entre as quantias totais de 
+GBARD (abordagem do ponto de vista dos financiadores) e da GERD financiadas 
+pelo estado (abordagem do ponto de vista dos executantes). Essas diferenças entre as quantias declaradas são devidas a diferenças na especificação dos dados.
+Diferenças de ordem geral
+12.77 Apesar de, em princípio, as duas séries de dados serem estabelecidas a 
+partir de uma definição e de uma área de P&D idênticas, abrangendo as atividades de P&D em todas as áreas do conhecimento e tendo em consideração as despesas 
+correntes assim como as despesas em capital, estas apresentam certas diferenças.
+
+
+
+• Os dados referentes às GERD financiadas pelo Estado e os objetivos dos 
+DIRD são baseados nas declarações dos executantes de P&D, enquanto os 
+valores de GBARD apoiam-se nas declarações dos financiadores baseando-se principalmente em dados orçamentais. Apesar dos executantes poderem ter uma noção diferente e mais precisa do conteúdo de P&D de um 
+projeto ou das atividades envolvidas, estes também podem subestimar a 
+dimensão total do suporte dos poderes públicos.
+• A valorização dos objetivos do projeto em questão poderá ser muito diferente do ponto de vista dos executantes ou do dos financiadores, especialmente para atividades de P&D financiadas por meio de dotações globais como 
+as FGU que, na abordagem das GERD, deverão ser repartidas por objetivo 
+para os países que declaram esse tipo de repartição.
+• É igualmente possível que as quantias das FGU variem dependendo se estas 
+foram obtidas a partir de estimativas das atividades de P&D (incluídas nas 
+HERD) ou a partir dos GBARD. Tendo, por exemplo, uma administração central que forneça às universidades uma dotação global correspondente a 100 
+unidades monetárias, trinta unidades são alocadas por meio de critérios 
+de excelência científica e da P&D, sendo o restante determinado em função 
+do número de estudantes e dos custos de ensino. Ao receber essa dotação 
+global, as universidades podem ser livres de repartir a totalidade das 100 
+unidades entre as atividades de pesquisa, de ensino ou para outros fins 
+legítimos. Estas podem então decidir alocar a P&D 40 unidades monetárias 
+em um ano e de 20 unidades monetárias no ano seguinte. É possível, em 
+certos casos, que a quantificação dos FGU baseados nos GBARD conste30 
+unidades, ao passo que o determinado com base nos HERD conste de 40 
+(ou de 20) unidades. Em todo o caso, a quantia declarada para as FGU deduzidas a partir das GBARD nunca poderá constar 100 unidades, dado que 
+representaria uma clara sobreavaliação do suporte orçamental destinado 
+e dedicado para a P&D.
+• As estimativas baseadas nos dados orçamentais também são suscetíveis 
+de incluir uma componente de financiamento, de benefícios e de custos 
+gerais, os quais são excluídos da avaliação das atividades de P&D.
+• As séries baseadas nos GERD apenas abrangem a P&D executada pelas 
+unidades residentes, ao passo que as fundadas por meio dos GBARD também integram as quantias para os executantes estrangeiros, incluindo 
+organizações internacionais. Também é possível que apareçam diferenças 
+devido à divergência dos períodos de referência (anos civis ou fiscais) da 
+não utilização de créditos abertos ou de uma diferença entre a data na 
+qual os créditos são alocados e a data da execução das atividades de P&D.
+• As estimativas das GERD financiadas pelas administrações públicas deverão ter em consideração a P&D financiada pelas administrações centrais 
+(federias), regionais (Estados federados) e locais (municipais); ao passo que 
+os GBARD não integram os fundos provenientes de administrações locais 
+(municipais). Além disso, nem todos os países declaram os dados regionalmente (Estados federados) ou não têm a possibilidade de o fazer.
+
+
+Declaração dos GBARD e indicadores
+12.78 O quadro 12.2 apresenta um modelo indicativo passível de ser utilizado na declaração dos dados de GBARD. Esse modelo evidencia a importância 
+de dispor de GBARD totais em tempo útil prevendo a possibilidade de utilizar 
+estimativas com base nas categorias orçamentais pertinentes. As eventuais 
+consequências de uma disponibilização tardia dos valores referentes aos FGU 
+nos prazos de compilação dos GBARD indicam a necessidade de uma declaração 
+antecipada dos outros GBARD que não sejam FGU, os quais poderão ser utilizados como um indicador do crescimento global dos GBARD.
+
+
+página 336
+tá quase acabando
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
