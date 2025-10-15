@@ -12132,8 +12132,1568 @@ nos prazos de compilação dos GBARD indicam a necessidade de uma declaração
 antecipada dos outros GBARD que não sejam FGU, os quais poderão ser utilizados como um indicador do crescimento global dos GBARD.
 
 
-página 336
-tá quase acabando
+12.79 O quadro acima também mostra a repartição dos OSE 12 e 13 por 
+área de P&D, a declaração separada de componentes de despesas em capital, 
+o nível de administração, assim como eventuais benefícios fiscais inscritos no 
+orçamento quer sejam ou não considerados nas estimativas GBARD. A declaração de benefícios fiscais deverá permitir uma melhor integração dos dados 
+orçamentais evitando uma contabilização redundante com a das estimativas 
+de benefícios fiscais no âmbito da P&D compilados conforme as orientações 
+fornecidas no capítulo 13 tendo como base uma representação mais exaustiva 
+do suporte financeiro público para a P&D.
+
+
+Capítulo 13
+Quantificação dos benefícios  fiscais para a P&D
+
+
+Os governos de vários países criaram um regime de ajuda fiscal para o investimento na P&D na qual as despesas de P&D admissíveis, especialmente as das 
+empresas, beneficiam um tratamento fiscal preferencial. As despesas fiscais 
+são difíceis de quantificar, e os diferentes tipos de dispositivos de benefícios 
+fiscais não são refletidos individualmente em todos os sistemas estatísticos. 
+A notificação desse tipos de ajuda fiscal em relatórios complementares permitirá uma produção de comparações internacionais mais transparentes e 
+mais equilibradas. Em reposta aos usuários e aos especialistas desejando ver 
+essa lacuna das versões prévias do Manual preenchida, este capítulo fornece 
+orientações sobre como contabilizar o apoio que as autoridades públicas proporcionam à P&D sob a forma de incentivos fiscais facilitando a criação de indicadores de benefícios fiscais para despesas de P&D que sejam comparáveis 
+entre países. Essas orientações têm como base a experiência adquirida no 
+decorrer de uma série de recolhimentos preliminares de dados efetuados pela 
+OCDE. Devido a sua novidade, é provável que os métodos de quantificação 
+continuem sendo melhorados após a publicação desse manual.
+
+
+
+13.1. Introdução
+13.1 Os governos de vários países criaram um regime de ajuda fiscal para o 
+investimento na P&D no qual as despesas de P&D admissíveis, especialmente os 
+das empresas, beneficiam um tratamento fiscal preferencial. Esse tipo de suporte é fornecido nacionalmente e, em certos casos, em âmbito infranacional. As 
+despesas fiscais são difíceis de quantificar, e os diferentes tipos de dispositivos 
+de benefícios fiscais não são refletidos individualmente em todos os sistemas 
+estatísticos. No entanto, como os benefícios fiscais para a P&D presumivelmente 
+assumem a forma de subvenções ou de outras despesas diretas, é largamente 
+reconhecido que a notificação desse tipo de ajuda fiscal em relatórios complementares permitiria a produção de comparações internacionais mais transparentes e mais equilibradas.
+13.2 Em reposta aos usuários e aos especialistas os quais desejam ver essa 
+lacuna das versões prévias do Manual de Frascati preenchida, nesse capítulo 
+são fornecidas orientações sobre como contabilizar o apoio que as autoridades 
+públicas proporcionam à P&D sob a forma de incentivos fiscais facilitando a 
+criação de indicadores de incentivos fiscais para despesas de P&D que sejam 
+comparáveis entre países. Essas orientações baseiam-se na experiência adquirida no decorrer de uma série de recolhimentos preliminares de dados efetuados 
+pela OCDE desde 2007 e em outros estudos conduzidos nos anos 90. Adicionalmente, estas respeitam, quando possível, as definições normalizadas da OCDE 
+(OCDE, 2010) e as convenções estatísticas gerais (CE et al., 2009; FMI, 2014).
+13.3 As despesas fiscais para a P&D apresentam vários pontos comuns 
+com os créditos orçamentais públicos de P&D (GBARD) descritos no capítulo 
+12. No entanto, propõe-se aqui que se considere separadamente a totalidades dos GBARD antes de os integrar na apresentação geral das estatísticas 
+de P&D, especialmente devido à necessidade de estabelecer comparações 
+internacionais. O indicador dos benefícios fiscais para a P&D pode ser combinado da forma apropriada com os GBARD de modo a obter um indicador 
+do suporte financeiro público global da P&D que se mantém fiável apesar da 
+evolução ao longo do tempo e da importância relativa dada ao suporte direto 
+e ao suporte fiscal. É possível que essas estimativas, dado que provêm de 
+fontes orçamentais e de outras fontes governamentais, sejam menos precisas 
+e menos adequadas para comparações internacionais do que as estatísticas 
+baseadas nos dados dos executantes, podendo ser encontradas mais atualizadas, sendo mais indicativas das intenções das autoridades públicas e dos 
+esforços financeiros efetivos.
+13.4 Dado a novidade das orientações aqui apresentadas, poderão ser feitas 
+melhorias aos métodos de quantificação após a publicação do Manual. Recomenda-se aos produtores e aos usuários de dados que consultem as instruções 
+fornecidas online como o anexo do manual no endereço http://oe.cd/frascati visualizando eventuais modificações que não figuram na versão impressa.
+
+
+13.2. Benefícios fiscais para despesas de P&D
+Quantificação de benefícios fiscais e despesas fiscais
+13.5 As medidas de benefícios fiscais são incentivos que reduzem o montante 
+devido ao fisco pelas unidades institucionais pertinentes, tais como empresas ou 
+outras organizações admissíveis sujeitas a diferentes tipos de impostos e taxas 
+(FMI, 2014; CE et al., 2009). Os benefícios fiscais que essas unidades podem obter 
+permitem que estes sejam em função do montante de despesas de P&D admissíveis 
+incorridas durante o período de referência. Esske tipo de dedução é definido no 
+Manual pelo termo “benefício fiscal para despesas de P&D” e o nível de recursos 
+financeiros correspondentes (quantificado em termos de rendimentos perdidos e 
+em despesas suplementares) é definido pelo termo “despesas fiscais para a P&D”.
+13.6 Regra geral, os benefícios fiscais podem manifestar-se sob a forma 
+de abatimentos fiscais, de exonerações, de deduções ou de crédito fiscal. Os 
+abatimentos, as exonerações e as deduções de natureza fiscal são subtraídos 
+da base tributável antes do cálculo da responsabilidade tributária, reduzindo 
+o montante tributável antes do estabelecimento da quantia da taxa devida. 
+Um abatimento fiscal especial outorgado para a P&D permite, por exemplo, a 
+dedução do rendimento tributável em uma unidade monetária de despesas de 
+P&D multiplicadas por um coeficiente superior a um. Abaixo é ilustrada uma 
+fórmula simplificada tendo por base o imposto das empresas:
+
+
+Benefício após imposto
+= (1 – taxa tributária) * (produtos – despesas dedutíveis que despesas de 
+P&D admissíveis – coeficiente de abatimento fiscal * despesas de 
+P&D admissíveis)
+13.7 Um crédito fiscal é uma quantia diretamente subtraída da responsabilidade tributária devida pela unidade beneficiária após o cálculo dessa 
+responsabilidade (FMI, 2014, par. 5.29). Pode ser formulada, de maneira muito 
+simplificada, da seguinte forma:
+Benefício após imposto
+= (1 – taxa tributária) * (produtos – todas as despesas dedutíveis) + (taxa de 
+crédito fiscal * despesas de P&D admissíveis)
+13.8 Os créditos fiscais podem ser liquidáveis ou não liquidáveis. Em um 
+sistema de créditos fiscais liquidáveis, caso o montante deste for superior ao 
+imposto devido, a diferença poderá ser paga na totalidade ou em parte para o 
+beneficiário. Os créditos liquidáveis são por vezes atribuídos aos beneficiários, 
+independentemente do estatuto fiscal destes. Por outro lado, a quantia máxima de créditos de impostos não liquidáveis (por vezes classificados como “não 
+recuperáveis”) limita-se à quantia devida pelo contribuinte. Quando o crédito 
+não é liquidável, o contribuinte pode ser autorizado a fazer um adiamento para 
+um período posterior da quantia que não pôde ser deduzida.
+13.9 O montante dos abatimentos, exonerações e deduções também pode 
+ser superior a base tributável do contribuinte. Nesse caso, as autoridades podem 
+adotar dispositivos os quais preveem a conversão desse excesso em créditos 
+liquidáveis ou reembolsáveis ou o seu adiamento, ou antecipação, em condições 
+normais ou especiais. Um tratamento semelhante pode ser aplicável a créditos 
+liquidáveis não utilizados.
+
+
+Problemas específicos resultantes da quantificação dos benefícios fiscais 
+para as despesas de P&D
+13.10 O custo dos benefícios fiscais é mais difícil de quantificar do que 
+simples fluxos financeiros (no caso das subvenções para a P&D ou de mercados 
+públicos, por exemplo) pois o objetivo é a quantificação das receitas que o Estado 
+deixa de cobrar e de alocar a outras atividades. Essa quantificação necessita que 
+seja estabelecido a quantia que o Estado teria coletado na ausência do benefício 
+fiscal. Na prática, utiliza-se aqui uma estrutura fiscal “normal” ou estrutura 
+fiscal de referência. A dificuldade principal consiste em elaborar um método 
+coerente de estimativa dos valores das vantagens ou exonerações que saem 
+do quadro de uma estrutura fiscal “normal” e no que se refere às despesas de 
+P&D, venha a diminuir as receitas públicas ou a aumentar as despesas públicas.
+13.11 O princípio geral utilizado para as estatísticas sobre as despesas fiscais associadas aos benefícios fiscais para despesas de P&D consiste em incluir 
+na estrutura fiscal “normal” os abatimentos e deduções aplicáveis a despesas 
+não associadas à P&D, mas em todo o resto idênticas; assim como os créditos 
+fiscais atribuídos para atividades comparáveis que não são consideradas fazendo parte de atividades de P&D. Esse princípio aplica-se independentemente 
+se os outros quadros estatísticos consideram essas quantias como ajustes de 
+impostos por pagar, ou pagos pelas unidades pertinentes, ou como despesas 
+públicas. Essa abordagem permite a comparabilidade desses países e um tratamento idêntico do lucro cessante (renúncia a receitas fiscais) e de reembolso 
+de impostos especificamente destinados a recompensar atividades de P&D. A 
+aplicação desses critérios é tratada na seção 13.5 deste capítulo.
+Ligação com a P&D
+13.12 No âmbito da quantificação dos benefícios fiscais para as despesas 
+de P&D, deve existir uma ligação bem definida com a intenção política de conceder um tratamento fiscal preferencial a um conjunto de despesas de P&D. 
+Consequentemente, uma subvenção ao emprego que possa ser concedida aos 
+empregadores de pessoal de P&D, assim como aos empregadores de outras categorias de pessoal, não deve ser parcialmente imputada nos benefícios fiscais 
+para despesas de P&D, pois essa disposição fiscal não tem por objetivo subvencionar especificamente as atividades de P&D.
+13.13 Para entrar nos benefícios fiscais para despesas de P&D, as quantificações de benefícios devem ser empreendidas no quadro de uma política de P&D integrada, com fontes devidamente documentadas e mencionadas nas discussões interministeriais e nos relatórios legislativos dizendo respeito à ciência e a pesquisa.
+
+
+13.3. Área das estatísticas referentes ao alívio fiscal 
+das despesas de P&D
+Definições e limites de P&D
+Despesas de P&D e receitas provenientes da P&D
+13.14 Os benefícios fiscais de P&D apenas incluem os benefícios fiscais 
+concedidos explicitamente para despesas de P&D admissíveis declaradas como 
+tal. As despesas fiscais associadas, por exemplo, ao tratamento preferencial das 
+receitas provenientes de atividades de P&D anteriores (“patent boxes” ou instrumentos conexos) não entram na área das estatísticas referentes aos benefícios 
+fiscais para despesas de P&D.
+Definição da P&D
+13.15 Quando possível, todas as orientações, definições e convenções especificadas no capítulo 2 são aplicáveis ao recolhimento de dados sobre os 
+benefícios fiscais para as despesas de P&D. A definição básica da P&D é a elaborada no capítulo 2. A análise abrange a P&D em todas as áreas da ciência e do 
+desenvolvimento não fazendo uma distinção entre as ciências exatas, naturais 
+ou engenharias (NSE) e outras, apesar de nem todos os países fornecerem benefícios fiscais para todas as áreas.
+13.16 A definição da P&D ou de outros tipos de despesas elegíveis para um 
+benefício fiscal pode variar dependendo do país ou território comparativamente à definição e as explicações fornecidas nesse manual. A definição de P&D 
+utilizada para fins fiscais encontra-se em um estado de constante evolução e 
+reinterpretação pelas autoridades fiscais nacionais, também podendo ter uma 
+incidência nos registros preservados pelos executantes de P&D. É especialmente útil verificar o conteúdo real da P&D de benefícios fiscais outorgados para 
+áreas ligadas à inovação, particularmente as associadas a outras despesas de 
+inovação e as despesas referentes a direitos de propriedade intelectual ou a 
+sua comercialização, que podem não ser uma parte integrante dos projetos de 
+P&D. Nesse Manual é desaconselhado a utilização de coeficientes, com exceção 
+do caso em que as declarações fiscais não fornecem uma repartição suficientemente nítida das despesas de P&D e de outros custos.
+
+
+Área de aplicação setorial
+13.17 Os benefícios fiscais para as despesas de P&D aplicam-se às despesas 
+que são incorridas pelas unidades tributáveis nas atividades de P&D executadas 
+no interior da sua estrutura (ou eventualmente fora desta, isto é, compradas) 
+em todos os setores institucionais abrangidos pelo Manual.
+13.18 O setor das empresas é geralmente o beneficiário direto dos benefícios fiscais das despesas de P&D. Alguns dispositivos poderão prever benefícios 
+para despesas correspondentes à atividades de P&D subcontratadas a terceiros 
+em outros setores internacionais ou estrangeiros. Todas essas despesas entram 
+no quadro dos benefícios fiscais para despesas de P&D.
+13.19 Os benefícios fiscais para despesas de P&D, em princípio, também 
+podem ser atribuídas aos estabelecimentos de ensino superior, às instituições privadas sem fins lucrativos, a pessoas físicas e eventualmente a organismos 
+públicos. Quando a área de benefícios fiscais para despesas de P&D é expandida 
+além das empresas por meio de instrumentos fiscais diretamente aplicáveis 
+para esses grupos, estes devem ser integrados nas estatísticas referentes a 
+benefícios fiscais para a despesa de P&D, com exceção para os aplicáveis a 
+pessoas físicas.
+13.20 Recomenda-se a exclusão dos benefícios que são diretamente dirigidos para pessoas físicas que não passam pelas instituições para as quais estas 
+pessoas trabalham, dado que é muito difícil validar e estimar a dimensão real 
+do conteúdo de P&D, o qual dependerá da profissão da pessoa ao invés de uma 
+atividade de P&D propriamente dita. Esse método permite uma maior coerência na abordagem institucional das estatísticas de P&D adotadas no Manual. 
+Exemplos concretos são examinados na seção seguinte.
+13.21 Os incentivos fiscais para a P&D são geralmente utilizados para o 
+encorajamento da execução de atividades de P&D na economia nacional; no 
+entanto, em princípio, as autoridades podem estabelecer dispositivos outorgando um benefício fiscal para contribuintes não residentes ou permitindo aos 
+contribuintes a declaração das despesas de P&D subcontratadas a unidades 
+afiliadas ou não afiliadas no estrangeiro. Como no caso dos GBARD, essas despesas entram na área dos benefícios fiscais para despesas de P&D.
+13.22 As exonerações fiscais concedidas por organizações internacionais 
+exclusivamente dedicadas à atividades de P&D no território nacional não devem 
+entrar nos benefícios fiscais para despesas de P&D, pois é pouco provável que 
+essas atividades sejam objeto de um acompanhamento sistemático.
+
+
+Benefícios para outras despesas de P&D interna e P&D externa
+13.23 Encaradas do ponto de vista do financiador (abordagem definida nos 
+capítulos 4 e 8), as estatísticas referentes aos benefícios fiscais para despesas 
+de P&D abrangem as ajudas desse tipo concedidas não apenas para atividades 
+de P&D executadas internamente no interior das organizações beneficiárias, 
+mas também para despesas correspondentes a serviços de P&D externos e a 
+contribuições de atividades de P&D realizadas em outras organizações.
+13.24 Caso uma empresa execute atividades de P&D para outra empresa, 
+não se deve assumir que as medidas fiscais impedem ambos, o comprador e o 
+vendedor de serviços, de pedirem um benefício fiscal para a mesma unidade 
+de despesas em P&D, pois este poderá ser o caso. A quantifcação das despesas 
+internas de P&D ajuda que seja evitada uma dupla contabilização, mas os dados 
+devem ter em consideração os benefícios fiscais que ambos os contribuintes 
+efetivamente beneficiaram. Quando possível, as duplas contabilizações deverão 
+ser identificadas.
+
+
+Tipos de despesas de P&D
+13.25 Todos os tipos de despesas de P&D, incluindo as despesas correntes e 
+as despesas em capital, entram no âmbito dos benefícios fiscais para despesas 
+de P&D. Este aplica-se igualmente às despesas de P&D incorridas por empresas 
+assim como as despesas de P&D que uma empresa capitaliza no seu balancete. 
+Os benefícios calculados na dotação para a amortização de ativos utilizados 
+para atividades de P&D são igualmente tidos em consideração.
+
+
+Tipos de instrumentos fiscais
+13.26 As autoridades públicas podem conceder benefícios fiscais para despesas de P&D por meio de vários instrumentos. A Classificação dos impostos 
+da OCDE (OCDE, 2013) é estruturada em função da base tributável do imposto 
+e do tipo de contribuinte.
+Impostos sobre o rendimento, os benefícios e as mais-valias 
+das empresas
+13.27 Os impostos sobre o rendimento das empresas e quase-sociedades são 
+de longe o instrumento principal utilizado para a execução de incentivos fiscais 
+para a P&D. Os benefícios fiscais outorgados às empresas reduzindo o custo da 
+execução de trabalhos de P&D após os impostos, ou o custo de financiamento da 
+parte do beneficiário por meio do estabelecimento de uma ligação entre o benefício acordado na nota fiscal da empresa e a quantidade da P&D admissível, entram 
+no quadro das estatísticas referentes aos benefícios fiscais para despesas de P&D.
+13.28 Os benefícios fiscais aplicáveis às mais-valias verificadas para ativos 
+relacionados com a P&D (revalorização de patentes, por exemplo) devem ser 
+excluídos das estatísticas referentes aos benefícios fiscais para despesas de 
+P&D, pois esse tipo de instrumento não se destina a redução direta das despesas de P&D, mas sim a aumentar os benefícios potenciais, incertos, desses 
+investimentos. Os regimes fiscais especialmente aplicáveis aos rendimentos da 
+propriedade intelectual, por vezes designados por “patent boxes” ou “innovation 
+boxes” e os tipos de incentivos semelhantes que entram nessa categoria são 
+consequentemente excluídos.
+Impostos sobre o rendimento, os benefícios e as mais-valias 
+das pessoas físicas
+13.29 A distinção fundamental entre os impostos para as empresas e os 
+impostos para pessoas físicas encontra-se no fato de que os primeiros são 
+cobrados da entidade jurídica a qual constitui a empresa, e não das pessoas 
+físicas as quais são proprietárias desta, não tendo, portanto, em consideração 
+a situação individual dessas pessoas. Em princípio, os benefícios fiscais para a 
+P&D outorgados as pessoas físicas não entram no quadro dos benefícios fiscais 
+para despesas de P&D, dado que nesse Manual o foco se dá na P&D executada 
+por unidades institucionais excluindo a executada a título pessoal. Apenas os 
+benefícios fiscais outorgados as pessoas físicas atuando como trabalhadores 
+independentes, empresas não constituídas sob a forma de sociedade ou subcontratadores poderão eventualmente satisfazer as condições requeridas para 
+serem contabilizados. A redução do imposto sobre o rendimento pago pelos 
+profissionais da P&D como pessoas físicas pode ser comunicado separadamente, 
+mas não deve ser combinado com os benefícios fiscais para despesas de P&D.
+Contribuições para a previdência social
+13.30 As contribuições para a previdência social são pagamentos obrigatórios os quais (potencialmente) conferem direitos a futuras prestações sociais. 
+Dado que o seu pagamento é obrigatório para organismos públicos, estas assemelham-se aos impostos e taxas que são por vezes tratados como tais. Estas 
+podem aplicar-se aos funcionários ou aos empregadores:
+• Para os empregadores, tendo por base os salários ou os rendimentos; essas 
+quantias entram no quadro dos benefícios fiscais para despesas de P&D.
+• Para os funcionários, tendo por base os salários ou os rendimentos; essa 
+categoria deve ser excluída pelas mesmas razões do que no caso dos benefícios fiscais para pessoas físicas. É, no entanto, possível que o empregador 
+seja encarregado de cobrar as contribuições dos trabalhadores e que os 
+benefícios se apliquem às quantias cobradas. Nesses casos, é necessário 
+determinar se o empregador é o beneficiário real, caso no qual os benefícios 
+deverão ser comunicados no quadro das estatísticas referentes aos benefícios fiscais para despesas de P&D. Certos países podem ter estabelecido 
+regras para assegurar que os benefícios aplicados às quantias cobradas não 
+diminuem os direitos a prestações disponibilizadas por meio das contribuições a/ previdência social dos funcionários.
+
+
+Impostos sobre os salários e a mão-de-obra
+13.31 Entram nesta categoria os impostos pagos pelos empregadores, funcionários ou trabalhadores autônomos sob a forma, ora de uma percentagem do 
+salário, ora de uma quantia fixa por pessoa, não conferindo direitos a prestações 
+sociais. A mesma distinção entre os empregadores e funcionários aplica-se 
+para fins de compilação de estatísticas referentes aos benefícios fiscais para 
+despesas de P&D.
+Impostos sobre o patrimônio
+13.32 Entram nesta categoria os impostos periódicos e não periódicos da 
+utilização, propriedade ou transmissão de bens imobiliários. Apenas o benefício 
+aplicável aos impostos do uso de bens imobiliários para atividades de P&D entra 
+no quadro de benefícios fiscais para despesas de P&D. Por enquanto, as reduções fiscais aplicáveis às operações de ativos resultantes de P&D são excluídas.
+Imposto sobre os bens e serviços
+13.33 Entram nesta categoria os impostos sobre vendas e impostos sobre o 
+valor acrescentado aplicáveis aos serviços de P&D. Na prática, todos os países 
+da OCDE que recorrem a impostos sobre o valor acrescentado impõem essa 
+tributação a todos os estádios de um setor, normalmente, autorizando todos os 
+setores, com exceção do consumidor final de realizar deduções imediatas nos 
+impostos pagos nas suas compras. Em princípio, os benefícios fiscais aplicáveis 
+a essas quantias deverão ser excluídas dos benefícios fiscais para despesas de 
+P&D, dado que esses impostos podem ser deduzidos da P&D por todos os beneficiários, exceto quando os benefícios não conferem uma vantagem suplementar 
+concreta e quantificável a empresa ou a instituição em questão.
+
+
+
+Subsetores de administração
+Administração central (ou federal)
+13.34 O subsetor da administração central (ou federal) inclui todos os ministérios, escritórios, estabelecimentos e outras entidades que são órgãos ou 
+instrumentos da autoridade central e cujas competências abrangem a totalidade 
+do território, com exceção da administração dos fundos de previdência social. A 
+administração central (ou federal) é, portanto, qualificada para tributar todas as 
+unidades residentes e não residentes exercendo atividades econômicas sobre o 
+território nacional. Os benefícios fiscais para as despesas de P&D outorgadas pelas administrações as quais operam a esse nível devem sempre ser comunicados.
+Administrações regionais (ou de Estados federados)
+13.35 Este subsetor é composto por unidades administrativas intermediárias situadas imediatamente abaixo do nível da administração central (federal) 
+e exercendo os seus deveres independentemente desta sobre uma parte do território incluindo algumas pequenas localidades. Em países unitários, as administrações regionais podem ser consideradas como dotadas de uma existência 
+distinta quando dispõem de uma autonomia substancial para obter uma parte 
+significativa das suas fontes de rendimento sob o seu controle e quando os seus 
+agentes não estão sujeitos a controles administrativos externos no decorrer das 
+atividades da sua unidade. Os benefícios fiscais para despesas de P&D outorgados pelas administrações operando nesse nível devem ser comunicados quando 
+estes constituem uma parte significativa do total.
+Administrações locais (ou municipais)
+13.36 Este subsetor inclui todas as outras unidades administrativas exercendo uma competência independente sobre uma parte do território de um país, 
+com exceção das administrações de fundos de previdência social. Este abrange 
+as diferentes circunscrições urbanas ou rurais (por exemplo, os departamentos, 
+os municípios, as aglomerações, os bairros ou os distritos). Por razões práticas, é 
+pouco provável que seja possível relatar de forma suficientemente precisa, e num 
+prazo razoável, os benefícios fiscais para despesas de P&D outorgadas na esfera 
+das administrações locais (municipais). Essa categoria é excluída, excetuando-se 
+quando o grau de suporte fiscal proporcionado a esse nível é significativo.
+13.4. Fontes de dados e quantificação
+Método de estimativa
+13.37 Dada a necessidade de estabelecer uma referência para determinar 
+a quantia dos benefícios fiscais atribuídos para despesas de P&D, é necessário 
+estimar as despesas fiscais a partir de dados disponíveis por meio da aplicação 
+de um certo número de convenções e hipóteses. Segundo a OCDE (2010), existem 
+três mecanismos permitindo estimar o valor das despesas fiscais associadas a 
+três medidas de redução fiscal:
+
+• Perda inicial de receitas: montante da redução da receita fiscal resultante da 
+adoção de uma despesa fiscal, assumindo que essa adoção não terá um 
+efeito sobre os comportamentos dos contribuintes e as receitas provenientes de outros impostos.
+• Perda final de receitas: quantia da redução da receita fiscal resultante da 
+adoção de uma despesa fiscal, tendo em consideração a mudança do comportamento dos contribuintes e as consequências que essa adoção tem 
+sobre as receitas provenientes de outros impostos.
+• Equivalente em despesa: despesa direta a qual deverá ser efetuada antes da 
+tributação para obter o mesmo efeito após a tributação no rendimento dos 
+contribuintes que o da despesa fiscal, caso a despesa direta beneficiar do 
+tratamento fiscal aplicável a esse tipo de subvenção ou de transferências 
+nas mãos do beneficiário.
+13.38 Esses três métodos podem resultar em estimativas bastante diferentes 
+das despesas fiscais. A diferença principal entre os dois primeiros métodos é se 
+leva-se ou não em consideração os comportamentos dos contribuintes, enquanto 
+a terceira tem em consideração os custos administrativos adicionais associados 
+à execução de um programa de suporte direto. A abordagem mais simples (perda 
+inicial de receitas) é utilizada na maioria dos países da OCDE visando estimar as 
+despesas fiscais, pois não necessita ser baseada em hipóteses complexas para 
+considerar a reação comportamental de uma supressão hipotética do incentivo 
+fiscal. Certos documentos orçamentais também se baseiam nesses métodos 
+sendo modificados ou completados por meio de estimativas baseadas em comportamentos para as mudanças futuras previstas dos dispositivos. As estimativas 
+desse tipo frequentemente partem de hipóteses sobre a repercussão no montante 
+admissível de despesas de P&D feita pelos contribuintes.
+13.39 Por razões práticas, a perda inicial das receitas é o método recomendado.
+Elaboração de uma referência comum para a comunicação de dados à 
+escala internacional
+13.40 A criação de uma referência comum é uma condição essencial para 
+que as estatísticas produzidas sobre os benefícios fiscais para despesas de P&D 
+possam ser comparáveis à escala internacional apresentando de forma fiável 
+o esforço financeiro empreendido pelas autoridades públicas para oferecer um 
+tratamento preferencial das despesas de P&D, tratando-se também de uma das 
+tarefas mais complicadas. É útil fazer a distinção entre as despesas correntes 
+a as despesas em capital.
+13.41 No que diz respeito às despesas correntes de P&D, recomenda-se 
+retirar as receitas fiscais renunciadas devido a dispositivos que permitem as 
+empresas tratar as despesas correntes de P&D como encargos as estimativas 
+dos benefícios fiscais para a P&D, subtraindo-as dos seus benefícios. Tais dispositivos, os quais tratam as despesas correntes de P&D como qualquer outro 
+tipo de encargo das empresas, são a norma em todos os países, quanto mais 
+não seja devido à dificuldade de estabelecer outras abordagens. Apenas para 
+efeitos do Manual, a ênfase é colocada no custo dos dispositivos implicando um 
+tratamento preferencial da P&D. Essa abordagem é colocada de modo a manter 
+a comparabilidade com países que não comunicam dados sobre os benefícios 
+fiscais especificamente dedicados para despesas de P&D, mas que permitem deduzir as despesas correntes de P&D. Na ausência de medidas de iniciativas, 
+as empresas têm a possibilidade de declarar as suas despesas correntes de P&D 
+sendo iguais àquelas entrando no custo das vendas deduzíveis, sem necessariamente especificar sob que forma a atividade é relacionada com a P&D.
+13.42 Essas recomendações não excluem que, para fins internos, os países 
+possam por vezes querer apresentar essas disposições “normais” de contabilização de encargos como iniciativas de medidas melhoradas para a P&D ao 
+especificar que a comparação pertinente está relacionada com as despesas em 
+capital e não com as outras despesas correntes.
+13.43 Relativamente às despesas em capital dedicadas à P&D é muito mais 
+difícil estabelecer uma referência dado que o tratamento de base dos ativos varia mais significativamente segundo o país. Por razões práticas, recomenda-se 
+aos países que comuniquem as estimativas relativas ao nível de referência dos 
+ativos físicos idênticos no interior do seu próprio território.
+Registro do tipo de benefício fiscal e tratamento dos relatórios
+13.44 No registro do benefício fiscal do ponto de vista do beneficiário (geralmente uma empresa), as referências cronológicas importantes são o período 
+no decorrer do qual a dívida tributária é criada, o período durante a qual a P&D 
+conferindo o direito a um benefício fiscal é executada, o momento durante o 
+qual o cálculo dos impostos devidos se torna definitivo, o dia no qual essa dívida 
+fica vencida (sem penalidades) e o dia no qual o imposto é efetivamente pago 
+ou o reembolso efetuado.
+13.45 Em teoria, o registro do benefício fiscal para despesas de P&D deve 
+ser efetuado assim que as atividades de P&D, tidas em consideração na base 
+tributável, foram executadas. Na prática, isto é apenas possível quando o pedido do benefício for considerado pela administração, independentemente do 
+momento no qual o montante do benefício é depositado por este, ou utilizado 
+para reduzir o montante do imposto devido.
+13.46 Esse método baseado na contabilidade de exercício permite o melhor 
+alinhamento possível entre as estatísticas referentes às despesas de P&D e 
+àquelas sobre a execução e o financiamento das atividades de P&D. Todavia, este 
+necessita um registro preciso dos relatórios das quantias devidas aos impostos 
+e pelos impostos. A P&D efetuada e declarada durante um dado ano pode ser 
+adiado para um ano subsequente possivelmente nunca sendo utilizada no caso, 
+por exemplo, da empresa desaparecer.
+13.47 O método baseado nos movimentos de tesouraria (contabilidade de 
+caixa) permite seguir de forma mais precisa o fluxo efetivo dos fundos entre as 
+autoridades e as unidades tributáveis, mas não faz a ligação com os dados sobre a 
+execução de atividades de P&D nem com a situação real subjacente da economia e 
+da P&D. É possível utilizar soluções híbridas: um método baseados nos movimentos de tesouraria pode ser alinhado com o ano fiscal de referência t no decorrer do 
+qual a P&D foi declarada ao invés da data na qual os pagamentos de impostos foram 
+efetuados (vários meses após o início do ano t+1 no caso dos regulamentos anuais).
+13.48 É importante observar que não existe atualmente nenhum método 
+predominante para a declaração de incentivos fiscais para a P&D, sendo que 
+poucos países estabeleceram um sistema de contabilidade permitindo produzir 
+estimativas baseadas nos direitos apurados e nas entradas ou saídas. Idealmente, os países devem registrar os seguintes elementos:
+
+
+1. os créditos reembolsáveis outorgados aos contribuintes ou a outros tipos 
+de unidades para as suas atividades de P&D durante o período de referência (conforme necessário);
+2. o lucro cessante (renúncia de receitas) no período de referência para as 
+atividades de P&D realizadas durante esse período;
+3. os créditos adquiridos mas não utilizados durante o período de referência, isto é, transitados para um ano posterior, avaliados em uma base 
+nominal;
+3. os créditos adquiridos em um período precedente e utilizados durante o 
+período de referência, também avaliados em uma base nominal.
+13.49 Os dois principais indicadores relativos aos benefícios fiscais para as 
+despesas de P&D podem ser definidos tendo como base os seguintes elementos:
+• benefício fiscal para despesas de P&D tendo por base os direitos adquiridos 
+ou verificados = [1]+[2]+[3];
+• benefício fiscal para despesas de P&D tendo por base direitos utilizados ou 
+movimentos de tesouraria = [1]+[2]+[4].
+13.50 Recomenda-se optar pelo método dos direitos verificados quando 
+possível, embora as estimativas baseadas em um sistema de contabilidade de 
+caixa sejam igualmente aceitáveis caso forem utilizadas sistematicamente ao 
+longo do tempo. Em alguns países, os beneficiários das medidas fiscais podem 
+decidir a data na qual foram declarados um crédito fiscal ou um abatimento 
+fiscal, sendo que essa data pode não se situar necessariamente no período de 
+referência (período durante o qual as despesas de P&D foram realmente incorridas). Ademais, em alguns países é permitido aos beneficiários o adiamento 
+para um ano subsequente dos créditos ou dos abatimentos declarados mas 
+não utilizados (relatórios de declarações de atividades de P&D admissíveis, por 
+exemplo). Em ambos os casos existe um risco de dupla contabilidade. É, portanto, importante prestar especial atenção a eventuais duplicações no cálculo dos 
+indicadores de benefícios fiscais para despesas de P&D nos totais comunicados.
+Tipos de dados
+13.51 Os estatísticos dispõem de várias fontes de dados para determinar a 
+quantia dos benefícios fiscais outorgados pelas autoridades para a P&D. Essas 
+escolhas são avaliadas segundo o objetivo de disponibilização de um dispositivo 
+de quantificação detalhado desse tipo de suporte. Os beneficiários dos benefícios fiscais para despesas de P&D constituem uma dessas fontes de dados. As 
+estatísticas dizendo-lhes respeito podem ser obtidas a partir de sondagens com 
+as entidades as quais executam a P&D (abordagem baseada nos executantes). 
+A outra fonte de dados provém das entidades que outorgam o benefício fiscal 
+para as despesas de P&D; as estatísticas que lhes dizem respeito podem ser 
+calculadas a partir de pedidos de benefícios fiscais validados ou aprovados (semelhante a uma abordagem baseada nos financiadores). As duas fontes podem 
+apresentar diferenças por diversas razões.
+Sondagens aos executantes de P&D
+13.52 As sondagens com os executantes de P&D são focadas na execução de 
+atividades de P&D e nas suas respectivas “fontes de financiamento”. Desse ponto de vista, numerosas formas de benefícios fiscais para despesas de P&D não 
+podem ser consideradas como um financiamento do Estado, dado que o inquirido não é capaz de fazer a ligação entre as suas declarações de execução de P&D 
+e os benefícios fiscais. É o caso quando o executante não conhece com algum 
+grau de certeza a que quantidade do benefício este irá beneficiar-se, podendo 
+essa quantidade depender do seu benefício no decorrer do ano fiscal. A ligação 
+entre o benefício e a P&D é consequentemente, na maioria dos casos, indireta. 
+O benefício outorgado no final pode ser utilizado pelo beneficiário para outros 
+fins, podendo não ser utilizado antes de vários anos no caso de adiamentos.
+13.53 As despesas de P&D admissíveis entram no cálculo do benefício, mas 
+não são necessariamente o objeto do financiamento. Apesar de existir uma ligação direta com a execução interna em certos casos, não se pode recomendar de 
+forma geral a uma unidade executante de trabalhos de P&D que indique a parte 
+dos incentivos fiscais dos fundos recebidos de fontes externas para a P&D, em 
+parte porque o suporte fiscal também poderá ter sido outorgado para despesas 
+de P&D incorridas por terceiros em nome da empresa.
+13.54 Mediante ensaios prévios satisfatórios, poderá ser preferível perguntar as unidades no quadro das sondagens:
+• indicar em que medida as atividades de P&D interna admissíveis e o financiamento externo da unidade foram ou serão utilizados para pedir um 
+benefício fiscal para despesas de P&D;
+• indicar em que medida as dívidas (ativos) tributárias da unidade diminuíram (aumentaram) devido às suas atividades de P&D no decorrer do ano 
+de referência especificando as variações do valor contabilístico dos abatimentos e créditos não utilizados.
+13.55 Devido às razões indicadas, recomenda-se a compilação das estatísticas referentes às despesas ligadas aos benefícios fiscais para despesas de P&D 
+tendo por base as fontes de financiamento e não os executantes. As sondagens 
+realizadas com os executantes de P&D não são a ferramenta recomendada para 
+fins de comunicação do benefício fiscal para despesas de P&D, mas podem constituir uma solução alternativa quando os registros administrativos não estão 
+acessíveis ou não são suficientemente fiáveis.
+
+
+Declarações fiscais detalhadas
+13.56 Os pedidos de benefícios fiscais processados e analisados pelas autoridades fiscais constituem a principal fonte de informações para as despesas 
+de P&D. Em vários países os formulários exigidos contêm vários elementos em 
+comum com as sondagens de P&D utilizando as suas próprias nomenclaturas 
+(frequentemente bem detalhadas) para diferentes tipos de despesas. Esses 
+dados podem servir como base dos cálculos simples do valor do benefício fiscal para despesas de P&D. As estimativas podem basear-se na totalidade dos 
+pedidos ou em uma amostra representativa.
+13.57 No entanto, ocorre que os dados das declarações fiscais sejam apenas 
+disponibilizados após um prazo indefinido podendo exceder o prazo de realização das sondagens clássicas sobre a P&D. Os pedidos podem, por exemplo, 
+apenas ser consultáveis após o término do tratamento pelos controladores de 
+impostos. Torna-se cada vez mais comum que os países que concedam benefícios fiscais para despesas de P&D publiquem estatísticas sobre o número de 
+beneficiários desse tipo de medida e sobre os custos correspondentes.
+
+
+13.58 É, portanto, recomendado a utilização das declarações fiscais de 
+modo a estabelecer estimativas finais de despesas associadas aos benefícios 
+fiscais para despesas de P&D.
+Documentos orçamentais
+13.59 Os documentos orçamentais aparentam ser especialmente apropriados para estabelecer previsões e seguir em tempo real a incidência dos 
+benefícios fiscais na situação das finanças públicas. Em vários países essas informações encontram-se disponíveis – embora frequentemente não publicadas 
+– sob uma categoria distinta. É possível que as publicações orçamentais incluam 
+análises pontuais apresentando implicações previstas de modificações que 
+foram introduzidas na criação dos dispositivos de incentivo fiscal para a P&D. 
+Esses relatórios baseiam-se em métodos de análise e de simulação. Recomenda-
+-se utilizar esses documentos, quando disponíveis, visando o estabelecimento 
+de estatísticas preliminares atualizadas.
+Ano civil ou fiscal
+13.60 As autoridades nacionais cujo ano orçamental não corresponde ao 
+ano civil devem quando possível, fornecer dados tendo como base o ano civil, 
+facilitando tanto quanto possível as comparações com outros países.
+
+
+13.5 Repartições prioritárias das estatísticas referentes aos benefícios fiscais para despesas de P&D
+Por setor beneficiário
+13.61 Recomenda-se a repartição das despesas associadas aos benefícios 
+fiscais para despesas de P&D segundo a classificação institucional dos contribuintes beneficiários utilizando a classificação por grandes setores do Manual 
+(empresas, Estado, ensino superior, setor privado sem fins lucrativos e restante 
+do mundo). Na prática, poderá ser suficiente indicar a repartição entre o setor 
+das empresas e os outros setores.
+13.62 No que diz respeito aos beneficiários, especialmente no setor das 
+empresas, é útil a apresentação de estatísticas referentes aos benefícios fiscais 
+para despesas de P&D por ramo de atividade ou atividade econômica de modo 
+a permitir a comparação do suporte outorgado sob a forma de benefícios fiscais 
+com a repartição das GERD e BERD financiados pelo Estado obtidas a partir de 
+dados de sondagens sobre a P&D. Dado que as estatísticas fiscais podem não 
+corresponder totalmente aos registros das empresas, é importante garantir que 
+a comunicação das atividades das sedes das empresas não suprime as informações sobre a atividade econômica principal das empresas propriamente ditas.
+Por nível de administração
+13.63 Para efeitos de comparabilidade, propõe-se que os países comuniquem os dados referentes aos benefícios fiscais para despesas de P&D separadamente por:
+• administração central (ou federal) e os seus fundos de previdência social
+• administrações regionais (ou Estados federados) e os seus fundos de previdência social
+
+
+
+Por tipo de benefício fiscal
+13.64 Sempre que possível, as estatísticas referentes aos benefícios fiscais 
+de despesas de P&D, independentemente de serem calculadas tendo por base 
+os direitos adquiridos ou utilizados, devem incluir informações distintas sobre 
+os elementos integrantes (definidos na seção 13.4) apoiando o indicador que os 
+países são capazes de comunicar.
+Por dimensão da empresa
+13.65 No setor das empresas, recomenda-se a utilização da seguinte repartição, independentemente da definição nacional das dimensões das empresas 
+utilizadas para os benefícios fiscais para as despesas de P&D:
+• pequenas empresas (empregando menos de 50 pessoas)
+• médias empresas (empregando entre 50 e 249 pessoas)
+• grandes empresas (empregando 250 ou mais pessoas)
+13.66 É importante observar que os dispositivos dos países em termos de 
+benefícios fiscais para despesas de P&D podem variar em função da dimensão 
+da empresa, sendo que as categorias poderão não corresponder à classificação 
+padrão por escala de tamanho. É igualmente possível que para fins de benefícios fiscais para despesas de P&D os dispositivos de admissibilidade referentes 
+à dimensão sigam regras muito diferentes em decidir se uma empresa afiliada 
+deve ou não ser considerada como uma empresa distinta. A existência de tais 
+dispositivos pode influenciar a repartição por escala de tamanho das despesas 
+associadas aos benefícios fiscais para despesas de P&D que são comunicadas 
+pelos países.
+Apresentação dos benefícios fiscais como despesas de P&D paralelamente a outros indicadores de P&D
+13.67 As estatísticas sobre as despesas públicas ligadas aos benefícios 
+fiscais para despesas de P&D podem ser apresentadas com dois outros tipos de 
+indicadores referentes à P&D dando uma imagem mais completa do suporte 
+público:
+• CBPRD: os dois indicadores correspondem a estimativas baseadas nas 
+fontes do suporte financeiro público global da P&D. Os estatísticos devem 
+assegurar a remoção de qualquer componente de suporte fiscal que poderá 
+ser incluída nas estatísticas de GBARD, conforme as recomendações formuladas no capítulo 12.
+• BERD financiadas pelo Estado: este tipo de indicador pode, em princípio, 
+ser apresentado paralelamente a componente das despesas ligadas aos 
+benefícios fiscais para as despesas de P&D de modo a demonstrar de maneira mais completa a extensão do suporte financeiro público proporcionado às empresas. É observável que essa abordagem combina estatísticas baseadas no financiador (benefícios fiscais para despesas de P&D) e estatísticas baseadas no executante, podendo consequentemente, apresentar 
+incoerências. Como tal, certas despesas ligadas aos benefícios fiscais para 
+despesas de P&D podem apoiar atividades de P&D externas nas universidades nacionais ou estabelecimentos públicos ou com estabelecimentos 
+no estrangeiro.
+
+
+
+Anexo 1
+
+Breve histórico e gênese do manual
+
+
+O presente anexo apresenta não só uma breve descrição das seis edições 
+que antecedem essa nova versão do Manual de Frascati, como também a participação das pessoas as quais contribuíram para fazer desse documento uma 
+referência mundial. Os documentos originais podem ser consultados on line na 
+página Web dedicada ao Manual (http://oe.cd/frascati).
+
+
+Gênese
+A maioria dos estados membros da OCDE, estimulados pelo rápido crescimento dos recursos nacionais dedicados à pesquisa e ao desenvolvimento 
+experimental (P&D), começaram a partir de 1960, com o recolhimento de 
+dados estatísticos nesse domínio. Assim, seguiram os esforços pioneiros de 
+um número reduzido de países, incluindo: Estados Unidos, Japão, Canadá, 
+Reino Unido, Holanda e França. No entanto, quando foi chegado o momento 
+de iniciar as sondagens de P&D, os países encontraram dificuldades teóricas 
+e as diferenças de âmbito, métodos e conceitos, tornando-sedifícil realizar as 
+comparações internacionais. Dessa forma, tornou-secada vez mais necessário 
+a realização de uma normalização, como já tinha sido feito com as estatísticas 
+econômicas.
+O interesse da OCDE nessa questão data da época da Organização Europeia de Cooperação Econômica (OECE). De fato, desde 1957 que a Comissão 
+de Pesquisa Aplicada da Agência Europeia de Produtividade da OECE tinha 
+começado a organizar reuniões de especialistas dos estados membros para 
+discutir problemas metodológicos. Como resultado dessas reuniões, criou-se 
+um Grupo de especialistas ad hoc, sob os auspícios da Comissão de Pesquisa 
+Aplicada, com o intuito de examinar os métodos de sondagem sobre as despesas de pesquisa e desenvolvimento experimental. O Secretário Técnico do 
+Grupo J.C. Gerritsen preparou dois estudos detalhados sobre as definições e 
+métodos utilizados na quantificação da P&D no setor da Administração do 
+Reino Unido, da França e, posteriormente, dos Estados Unidos e Canadá. Outros membros do grupo tinham feito circular diversos documentos em que se 
+descreviam os métodos de sondagem aplicados nos seus próprios países e os 
+resultados assim obtidos.
+
+
+Primeira edição
+Em 1961, quando a Direção de Assuntos Científicos dedicou-se aos trabalhos da Agência Europeia de Produtividade, tinha chegado o momento de fazer 
+propostas concretas de normalização. Na sua reunião de fevereiro de 1962, o 
+Grupo ad hoc decidiu organizar uma conferência visando o estudo dos problemas técnicos que se colocam na quantificação da P&D. Nesse sentido, a Direção de Assuntos Científicos encarregou um consultor, C. Freeman, de elaborar 
+um documento preliminar o qual foi enviado no outono de 1962 aos estados 
+membros, tendo sido posteriormente revisto de acordo com os comentários 
+apresentados por estes. O documento “Metodologia Normalizada Proposta para 
+Sondagens sobre Pesquisa e Desenvolvimento Experimental” (OCDE, 1963) foi 
+examinado, revisto e aceito pelos especialistas dos estados membros da OCDE 
+na conferência na qual ocorreu em Frascati (Itália), em junho de 1963.
+Nesse mesmo ano, a Direção de Assuntos Científicos da OCDE convidou 
+o Instituto Nacional para a Pesquisa Econômica e Social do Reino Unido, para 
+efetuar, a título experimental, um estudo comparativo dos esforços na P&D nos 
+Estados Unidos, União Soviética e cinco países da Europa Ocidental (Alemanha, 
+Bélgica, França, Holanda e Reino Unido). Apesar de ser baseado em estatísticas 
+obtidas antes da normalização internacional, esse estudo (Freeman e Young, 
+1965) permitiu testar as primeiras definições contidas no documento original. 
+O relatório tinha como conclusão que as estatísticas existentes deixavam muito 
+a desejar e propôs as seguintes melhorias:
+• Estabelecer uma distinção mais rigorosa entre os conceitos de pesquisa e 
+desenvolvimento e o de “atividades científicas relacionadas”;
+• Realizar sondagens minuciosas no setor do ensino superior, de modo a 
+estimar a proporção de tempo dedicado à pesquisa pelo pessoal docente e 
+pelos estudantes de doutoramento;
+• Elaborar uma classificação mais detalhada do pessoal e das despesas dedicados à P&D permitindo, por exemplo, um cálculo mais preciso das taxas 
+de mudança na pesquisa;
+• Quantificar de forma mais sistemática os fluxos de despesa entre os setores 
+de P&D;
+• Recolher um maior volume de dados sobre o fluxo de pagamentos tecnológicos e sobre os movimentos migratórios de pessoal científico entre países.
+Em 1964, no seguimento da adoção do Manual de Frascati, a OCDE organizou 
+o Ano Estatístico Internacional sobre Pesquisa e Desenvolvimento Experimental. Os estados membros aproveitaram a oportunidade para enviarem os dados 
+correspondentes aos anos de 1963 ou 1964. Dezessete países participaram nessa 
+iniciativa, muitos destes efetuando pela primeira vez sondagens específicas 
+sobre esse tema (OCDE, 1968).
+
+
+Segunda edição
+Após a publicação dos resultados do Ano Estatístico e a luz da experiência 
+acumulada, a Comissão de Política Científica da OCDE encarregou o Secretariado de preparar uma revisão do Manual de Frascati. Em março de 1968, fez-se 
+circular entre os estados membros um esboço das revisões propostas. Na 
+reunião de especialistas nacionais na qual ocorreu em Frascati em dezembro  de 1968, foi examinado um projeto de revisão do Manual incluindo a maior 
+parte das sugestões mencionadas. O objetivo foi principalmente o de ajustar o 
+Manual no máximo possível às normas internacionais existentes nas Nações 
+Unidas, tais como: o Sistema de Contabilidade Nacional (SCN) e a Classificação 
+Internacional para a Indústria (ISIC). Após a análise de um projeto modificado 
+por um grupo reduzido de especialistas em julho de 1969, foi publicada a nova 
+versão do Manual em setembro de 1970 (OCDE, 1970).
+
+
+Terceira edição
+Na origem da segunda revisão do Manual surgiram dois fenômenos.
+Em primeiro lugar, até 1973, os estados membros tinham participado em quatro sondagens de Anos Estatísticos Internacionais, dado que a precisão e a comparabilidade de dados tinham sido muito beneficiados por essa experiência contínua.
+Também conseguiu-se uma melhoria apreciável das técnicas de sondagem. 
+Em segundo lugar, a Comissão de Política Científica e Tecnológica (CSTP) da OCDE 
+criou, em 1972, o primeiro grupo de revisão ad hoc em matéria de estatísticas de 
+P&D, presidido por Silver (Reino Unido), com o objetivo de aconselhar a Comissão 
+e o Secretariado sobre a melhor forma de otimizar a curto prazo os escassos dados estatísticos sobre P&D disponíveis na OCDE, tendo em conta as prioridades 
+dos estados membros. Foi então pedido aos estados membros que efetuassem 
+um levantamento das suas necessidades, no qualquase todos atenderam ao pedido. Além de darem prioridade absoluta à continuação das sondagens do Ano 
+Estatístico Internacional, fizeram um certo número de recomendações relativas 
+à metodologia, insistindo especialmente na necessidade de estabelecer contatos 
+mais estreitos entre a OCDE e outras organizações internacionais.
+Por conseguinte, a terceira edição do Manual de Frascati aprofundou temas 
+já tratados e abordou outros completamente novos. Ampliou o seu âmbito na 
+pesquisa em ciências sociais e humanidades, dando maior relevância às classificações “funcionais”, em especial no que se refere à distribuição da P&D por 
+“objetivos”. Na reunião de especialistas, a qual ocorreu na OCDE em dezembro 
+de 1973, discutiu-se um documento preliminar cujo texto definitivo foi adotado 
+em dezembro de 1974 (OCDE, 1976).
+
+
+Quarta edição
+Nesta edição, os especialistas nacionais recomendaram a realização de 
+apenas uma revisão intermédia, que não envolvesse mudanças significativas 
+nas classificações e conceitos essenciais, tratando-se sobretudo de melhorar a 
+redação e a apresentação do Manual. No entanto, introduziu-se uma série de 
+modificações com o objetivo de levar em conta as recomendações feitas pelo 
+segundo grupo de revisão ad hoc em matéria de estatísticas de P&D, que se reuniu em 1976 sob a presidência de J. Mullin (Canadá), e a experiência adquirida 
+pelo Secretariado da OCDE graças as sondagens internacionais e relatórios 
+analíticos e sugestões procedentes de especialistas nacionais em matéria de 
+estatísticas de P&D. As propostas relativas a essa revisão foram apresentadas 
+na reunião anual de especialistas nacionais, em Dezembro de 1978. Em julho 
+de 1979, um reduzido grupo de especialistas ad hoc reuniu-se no Secretariado 
+da OCDE para examinar detalhadamente um documento preliminar preparado 
+por um consultor. Uma versão revista com base nas observações do grupo ad hoc e do Secretariado foi analisada em Dezembro de 1979, tendo o texto definitivo 
+sido adotado no outono de 1980 (OCDE, 1981).
+O setor do ensino superior não consta no Sistema de Contabilidade Nacional (SCN) adotado pelas Nações Unidas e pela OCDE. Porém, a OCDE e a UNESCO 
+introduziram-no muito rapidamente nas suas atividades de recolhimento de 
+estatísticas de P&D, dado o interesse dos responsáveis políticos no papel desempenhado pelas universidades e outros centros de ensino pós-secundário e 
+superior nos esforços nacionais de pesquisa. Apesar desse interesse, o recolhimento de dados fiáveis sobre o ensino superior colocou problemas importantes, 
+os quais foram analisados em junho de 1985 durante um seminário da OCDE 
+sobre indicadores de ciência e tecnologia específicos ao setor do ensino superior. 
+Os especialistas reunidos por força desse evento entenderam que, embora o 
+Manual tivesse os princípios básicos gerais, os conselhos práticos nele incluídos 
+eram muitas vezes insuficientes. Por isso, o Grupo de Trabalho dos especialistas nacionais sobre indicadores de ciência e tecnologia (NESTI), na sua reunião 
+anual de dezembro de 1985, acordou na preparação de um suplemento ao Manual de Frascati que tratasse de tais problemas e formulasse as recomendações 
+adequadas de modo a melhorar os métodos de sondagem no futuro. Depois da 
+discussão de um documento preliminar, em dezembro de 1986, o texto revisto 
+foi adotado pelo Grupo NESTI e, após alguns ajustes finais, foi recomendada a 
+sua difusão geral a partir de dezembro de 1987 (OCDE, 1989b). 
+
+
+
+Quinta edição
+No final dos anos oitenta, era evidente que os princípios básicos contidos 
+no Manual de Frascati precisavam ser revistos de maneira a levar em conta as 
+novas prioridades da ação pública e para obter dados necessários ao processo 
+de tomada de decisões. Muitos aspectos novos tinham de ser considerados, 
+principalmente a evolução do sistema científico e tecnológico, e a sua percepção. Alguns desses aspectos surgiram no âmbito do Programa de Tecnologia-
+-Economia da OCDE (TEP) (por exemplo, a internacionalização, o software, as 
+ciências de transferência, etc.). Outros eram relativos aos dados sobre a P&D 
+associada ao meio ambiente, com a disponibilidade de dados analíticos sobre 
+a P&D passíveis de serem integrados com outras séries de dados econômicos 
+e industriais, e com novas versões das normas e classificações internacionais 
+aplicáveis às estatísticas de P&D e citadas no Manual.
+Em outubro de 1991, organizou-se uma conferência com especialistas em 
+Roma, sob os auspícios do Ministério italiano das Universidades e da Pesquisa 
+Científica, com o intuito de examinar um conjunto de propostas de revisão do 
+Manual de Frascati, com a presença inédita de especialistas de países do Leste 
+da Europa. No segmento da conferência, um projeto de revisão do Manual, 
+incluindo grande parte do texto do suplemento sobre o ensino superior, foi 
+formalmente discutido pelo Grupo de especialistas Nacionais sobre Indicadores de Ciência e Tecnologia (NESTI) na sua reunião de Abril de 1992. Após uma 
+revisão adicional efetuada com base nas recomendações de um pequeno grupo 
+de redação, o documento foi adotado no início do ano de 1993 (OCDE, 1994a).
+
+
+
+Sexta edição
+O quinto exercício de revisão do Manual de Frascati atendia à necessidade 
+de atualização de várias classificações e da procura crescente de dados de P&D sobre o setor dos serviços, sobre a globalização da P&D e sobre os recursos humanos em P&D. A necessidade de dados comparáveis também tinha aumentado 
+devido a vários projetos de avaliação comparativa (benchmarking). O NESTI 
+tomou a decisão de rever o Manual na sua reunião de 1999, tendo para isso selecionado vários temas os quais deveriam ser revistos aquando de uma reunião 
+especial em março de 2000. Foram constituídos pequenos grupos temáticos, 
+com uma liderança de um país ou do próprio Secretariado da OCDE. Os relatórios dos grupos foram discutidos em Roma, em maio de 2001, em um encontro 
+organizado pelas autoridades italianas. Na reunião seguinte do NESTI, mais 
+uma vez em Roma, foram tomadas decisões sobre revisões substanciais a fazer 
+no manual. Em umareunião de outubro de 2001, foram discutidas propostas de 
+revisão de âmbito editorial. A sexta edição do Manual foi adotada em finais de 
+2002 e publicada tanto em papel quanto em versão digital.
+O exercício de revisão teve como objetivo fortalecer explicitamente as 
+várias recomendações metodológicas. Tal como nas revisões precedentes, as recomendações que figuram nas contabilidades nacionais foram seguidas sempre 
+que possível e exequível nas sondagens de P&D. Paralelamente, foram tomadas 
+disposições para que as estatísticas de P&D se enquadrassem mais com o SCN. 
+Esses esforços foram mais tarde justificados com a decisão de retomar, no SCN 
+2008, a definição de P&D dada pelo Manual e de tratar os investimentos relativos 
+a esse campo como uma formação de capital (CE et al., 2009). Desse modo, a 
+sexta edição do Manual foi enriquecida com novos parágrafos dedicados à P&D 
+em software, em ciências sociais e serviços, ao SCN, a globalização e a cooperação em matéria de P&D, contandocom exemplos ilustrando detalhadamente 
+os diferentes tipos de P&D. As orientações referentes ao pessoal de P&D foram 
+totalmente reformuladas e completadas por novas propostas sobre os dados a 
+fornecer por sexo e por idade.
+Igualmente, foram inseridas recomendações detalhadas sobre a forma 
+de prestar contas sobre as fontes de financiamento e as despesas externas, 
+bem como algumas das recomendações adotadas pelo Eurostat desde a versão 
+anterior. Por fim, a Terminologia para a Análise e a Comparação de Programas 
+e Orçamentos Científicos (NABS) foi adotada como uma classificação de base 
+por objetivos socioeconômicos, tendo o Manual sido enriquecido com anexos 
+temáticos (por exemplo sobre TIC, saúde e biotecnologias). Um desses anexos 
+contendo diretivas sobre o recolhimento de dados de P&D por região
+
+
+
+Principais colaboradores nas edições anteriores
+Cada edição do Manual nasceu de uma colaboração entre os especialistas 
+de países membros e de organizações internacionais, particularmente a UNESCO, a UE e NORDFORSK/ Fundo Industrial Nórdico, e o Secretariado da OCDE, sob 
+a direção de A. Young e Y. Fabian (nas quatro primeiras edições). É necessário 
+agradecer, em particular, à National Science Foundation dos Estados Unidos, pelo 
+seu trabalho pioneiro na quantificação sistemática da P&D.
+A primeira edição do Manual contou especialmente com a contribuição de 
+J. Perlman e C. Freeman, bem como com a colaboração da Délégation générale à la 
+recherche scientifique et technique (DGRST) da administração francesa. 
+No que se refere à segunda edição, é preciso lembrar que H. E. Bishop presidiu a reunião a qual ocorreu em Frascati em 1968 e que H. Stead (Statistics 
+Canada), P. Slors (Gabinete Central de Estatísticas da Holanda) e D. Murphy (Irish 
+National Science Council) deram uma contribuição imprescindível.
+Entre as pessoas as quais participaram na preparação da terceira versão, 
+deve citar-se, em particular, K. Sanow (National Science Foundation, Estados Unidos), 
+J. Mitchell (Office of Fair Trading, Reino Unido) e K. Perry (Central Statistical Office, 
+Reino Unido), bem como K. Arnow (National Institutes of Health, Estados Unidos), 
+que presidiu a reunião dos especialistas em 1973, não esquecendo os presidentes 
+das reuniões temáticas : T. Berglund (Gabinete central de estatística, Suécia), J. 
+Sevin (DGRST) e F. Snapper (Ministério da Educação e Ciência, Holanda).
+O trabalho de H. Stead (Statistics Canada) foi particularmente útil para 
+a elaboração da quarta edição. As reuniões de especialistas foram presididas 
+por G. Dean (Central Statistical Office, Reino Unido) em 1978 e por C. Falk (National Science Foundation, Estados Unidos) em 1979. O suplemento sobre o ensino 
+superior foi redigido pela Sra. A. FitzGerald (EOLAS – Irish Science and Technology 
+Agency, Irlanda). A seção sobre o emprego do tempo baseou-se em grande parte 
+no trabalho de M. Åkerblom (Gabinete Central de Estatísticas da Finlândia). A 
+conferência de 1985 sobre indicadores de ciência e tecnologia no setor do ensino 
+superior foi presidida por T. Berglund (Statistics Sweden).
+A quinta edição foi preparada em grande medida pela Sra. A. FitzGerald 
+(EOLAS) com base em trabalhos realizados por um grande número de especialistas nacionais. Deve-se um agradecimento particular a T. Berglund (Statistics Sweden), J. Bonfim (Junta Nacional de Pesquisa Científica e Tecnológica, Portugal), 
+M. Haworth (Department of Trade and Industry, Reino Unido), A. Holbrook (Industry, 
+Science and Technology Canada, Canadá), J. F. Minder (ministère de la Recherche et de 
+la Technologie, França), F. Niwa (National Institute of Science and Technology Policy, 
+Japão), Erika Rost (Ministério Federal da Pesquisa e da Tecnologia, Alemanha), P. 
+Turnbull (Central Statistical Office, Reino Unido) e K. Wille-Maus (Norges Allmennvitenskaplige Forskningrad, Noruega). Durante esse período, o NESTI foi presidido 
+por G. Sirilli (Consiglio nazionale delle ricerche, Itália), que também organizou a 
+conferência realizada em Roma.
+A sexta edição foi essencialmente preparada por M. Åkerblom (Estatística 
+Finlândia), com a participação do Secretariado da OCDE durante a fase de redação, com base nos trabalhos temáticos de um grande número de especialistas 
+nacionais. É necessário agradecer especialmente a D. Byars (Australian Bureau 
+of Statistics), D. Francoz (ministère de la Recherche et de la Technologie, France), M. 
+Christoph Grenzmann (Stifterverband, Alemanha), John Jankowski (National 
+Science Foundation, Estados Unidos), Jane Morgan (Office for National Statistics, 
+Reino Unido), B. Nemes (Statistics Canada), A. Sundström (Statistics Sweden), H. 
+Tomizawa (National Institute of Science and Technology Policy, Japão) e A. Young 
+(consultora da Statistics Canada). Durante esse período, o NESTI foi presidido 
+por G. Sirilli (Consiglio nazionale delle ricerche, Itália), que também organizou a 
+conferência realizada em Roma, tendo-lhe sucedido F. Gault (Statistics Canada), 
+que supervisionou o estabelecimento da versão definitiva da sexta edição do 
+Manual.
+
+
+
+Anexo 2
+
+Glossário dos termos
+
+
+Abatimento fiscal. Os abatimentos, exonerações ou isenções de natureza 
+fiscal são deduções da base tributável antes do cálculo das obrigações fiscais, 
+reduzindo o montante tributável antes da determinação do montante de imposto devido. Ver também exonerações fiscais.
+A administração central (ou federal) é composta em geral por um núcleo 
+central de departamentos ou de ministérios que constituem uma única unidade 
+institucional – essa unidade é frequentemente designada como “administração 
+pública nacional” ou “Estado”, e está coberta pelo orçamento principal – e, em 
+muitos países, inclui ainda outras unidades institucionais. Os departamentos 
+podem ser responsáveis por despesas de P&D importantes (internos e externos) 
+dentro do orçamento do Estado, mas raramente são unidades institucionais 
+separadas habilitadas a deter ativos, assumir compromissos, efetuar operações, 
+etc., independentemente do conjunto da administração central. Regra geral, as 
+suas receitas e despesas são regulamentadas e controladas pelo Ministério das 
+Finanças ou por um órgão funcional equivalente por meio de um orçamento 
+geral aprovado pelo parlamento.
+O subsetor das administrações locais (ou municipais) é composto pelas 
+administrações locais que são unidades institucionais distintas, bem como as 
+organizações e instituições sem fins lucrativos não-comerciais controladas pelas administrações locais. Em princípio, as administrações locais são unidades 
+institucionais cujo poder fiscal, legislativo e executivo cobre as áreas geográficas mais pequenas se distinguindo para fins administrativos e políticos. O seu 
+poder é normalmente muito mais limitado do que o da administração central 
+ou das administrações dos Estados federados.
+As administrações públicas são casos particulares de entidades jurídicas, 
+instituídas por decisão política, exercendo um poder legislativo, judiciário 
+ou executivo sobre outras unidades institucionais em um dado espaço (Ver o 
+sistema de contabilidade nacional). Têm um interesse especial na análise dos 
+orçamentos de P&D e estímulos fiscais conexos. 
+Para fins estatísticos, as atividades científicas e tecnológicas (ACT) podem ser definidas como o conjunto das atividades sistemáticas que estão estreitamente relacionadas com a produção, a promoção, a difusão e a aplicação 
+dos conhecimentos científicos e técnicos em todos os domínios da ciência e da tecnologia, ou seja, ciências naturais, engenharia e tecnologia, ciências 
+médicas e agrícolas, assim como ciências sociais e humanas. As atividades as 
+quais devem ser cobertas na prática estatística podem ser repartidas em três 
+grandes grupos: pesquisa e desenvolvimento experimental, ensino e formação 
+de ciência e tecnologia (normalmente no que esse refere ao ensino superior), e 
+serviços científicos e tecnológicos.
+Uma atividade econômica ou indústrial é um agrupamento de estabelecimentos envolvidos em atividades idênticas ou similares. A Classificação 
+Internacional Normalizada Industrial de Todas as Atividades Econômicas (CINI) 
+é a classificação de referência das atividades econômicas. Ver também a Classificação Internacional Normalizada Industrial de Todas as Atividades Econômicas (CINI).
+Uma autoridade supranacional é uma organização internacional dotada de 
+poderes para cobrar impostos ou efetuar outras transferências obrigatórias no 
+território de países membros dessa organização. Embora assumam uma parte 
+das funções das administrações públicas de cada país membro, elas são sempre 
+consideradas como unidades institucionais não residentes.
+As autorizações são projetos de lei sobre a criação, manutenção ou modificação de programas públicos sendo geralmente acompanhados de tetos de 
+despesas ou orientações concretas sobre as dotações subsequentes. No entanto, não existe necessariamente uma correlação entre o montante dos créditos 
+aprovados e as dotações. Ver também dotações.
+Um campus satélite no estrangeiro é um estabelecimento de ensino superior o qual pertence, pelo menos em parte, a um estabelecimento local de ensino 
+superior (quer dizer, residente no país declarante) mas situado no restante do 
+mundo (residente fora do país declarante). A sua atividade é determinada pelo 
+estabelecimento local, dedicando pelo menos uma parte das suas atividades ao 
+ensino direto e dando acesso a um programa universitário completo reconhecido por um diploma do estabelecimento local.
+A classificação dos domínios de pesquisa e desenvolvimento da OCDE, 
+estabelecida no quadro da elaboração do Manual de Frascati serve para classificar 
+as unidades e recursos da P&D por campo de estudo, quer dizer, por domínio 
+geral de conhecimento, em função principalmente do conteúdo da atividade 
+de P&D considerada.
+A classificação das funções da administração pública (COFOG) é uma classificação genérica das funções, ou objetivos socioeconômicos, que as administrações públicas procuram cumprir executando diferentes tipos de despesa. A 
+COFOG fornece uma terminologia das entidades e das despesas financeiras das 
+administrações públicas em termos de funções de interesse geral. Os títulos de 
+primeiro nível têm muitas semelhanças com as terminologias de objetivos socioeconômicos utilizados em P&D. Nesse manual não se aconselha que as instituições governamentais utilizem essa classificação no contexto das estatísticas 
+de P&D pois as categorias que lhe correspondem não se prestam a uma descrição adequada das despesas de P&D. Ver também objetivos socioeconômicos.
+A classificação internacional tipo da educação (CITE) é a terminologia 
+de referência permitindo organizar os programas de ensino e certificações 
+correspondentes por nível de educação e domínio de estudos. A CITE oferece 
+um quadro para classificar as atividades de ensino tal como definidas nos 
+programas, e as certificações deles resultantes, em categorias acordadas internacionalmente. Os conceitos fundamentais e as definições da CITE pretendem 
+ser válidos internacionalmente cobrindo todos os tipos de sistemas de ensino.
+
+
+
+A CITE classifica os programas de ensino em função do seu conteúdo com base 
+em duas grandes variáveis de classificação: os níveis de educação e o domínio 
+dos estudos. A CITE de 2011 apresenta uma terminologia dos níveis de educação 
+atingidos com base em certificações educativas reconhecidas.
+A classificação internacional tipo de profissões (CITP) é utilizada para 
+classificar os empregos. No texto da CITP, um emprego é definido como um 
+conjunto de tarefas e funções as quais devem ser executadas por uma pessoa, 
+seja um empregado ou um trabalhador por conta própria. Uma profissão é definida como um conjunto de empregos em que as principais tarefas e funções 
+se caracterizam por uma grande semelhança. Uma pessoa pode ser associada 
+a uma profissão em função do seu emprego principal no momento, ou de um 
+segundo emprego, ou ainda de um emprego anteriormente exercido. Os empregos são classificados por profissão em função do trabalho que é, ou deve ser, 
+efetuado. Os critérios de base utilizados para definir os níveis de Grande Grupo, 
+Sub-Grande Grupo, Sub-Grupo e Grupo Base são o “nível de competências” e a 
+“especialização de competências” necessárias para realizar adequadamente as 
+tarefas e as funções inerentes às diferentes profissões.
+A classificação internacional normalizada industrial de todas as atividades econômicas (CINI) oferece uma terminologia coerente e homogênea 
+para as atividades econômicas baseada em um conjunto internacionalmente 
+reconhecido de conceitos, definições, princípios e regras de classificação. Proporcionando um quadro exaustivo no qual os dados econômicos podem ser 
+recolhidos e relatados num formato o qual é desenhado para os objetivos da 
+análise econômica, tomada de decisões e elaboração de políticas. Pela sua estrutura, essa classificação permite organizar informações detalhadas sobre o 
+estado de uma economia de acordo com os princípios e conceitos econômicos. 
+De uma forma geral, a CINI cobre as atividades de produção, ou seja as atividades econômicas relevantes para a produção tal como definidas no sistema 
+de contabilidade nacional. Foram abertas algumas exceções permitindo a 
+classificação de atividades que não entram no domínio da produção mas que 
+são importantes para outros tipos de estatísticas. Essas atividades econômicas 
+são divididas em quatro categorias hierarquizadas e mutuamente exclusivas, 
+facilitando o recolhimento de dados, apresentação e análise detalhada da 
+economia de forma a ser comparável internacionalmente e normalizada. Ver 
+também atividade econômica.
+Os coeficientes de P&D permitem calcular ou estimar a parte do pessoal 
+e das despesas atribuídas à P&D. São usados especialmente no setor do ensino 
+superior para distribuir os recursos totais pela pesquisa, ensino e outras atividades (incluindo administração). Podem entrar no cálculo do total ou de partes 
+das despesas, como os fundos gerais das universidades de origem pública, ou 
+apenas nas despesas de pessoal.
+Um consórcio implica a constituição de uma sociedade, de uma parceria 
+ou de uma outra unidade institucional na qual cada parte exerce legalmente 
+um controle conjunto sobre as atividades da unidade. Opera da mesma forma 
+que as outras unidades, com exceção apenas que um acordo jurídico entre as 
+partes estabelece um controle conjunto sobre a unidade. Enquanto unidade institucional, um consórcio pode fazer contratos no seu próprio nome angariando 
+fundos para as suas próprias necessidades. Na medida em que os consórcios de 
+P&D sejam unidades autônomas, devem ser classificados com base nas unidades 
+que servem em primeira instância, considerando, sempre que possível, a prática 
+estabelecida pelo sistema de contabilidade nacional.
+
+
+Em contabilidade de caixa, uma operação é contabilizada logo que o pagamento é recebido ou efetuado. Ver também contabilidade de exercício.
+Em contabilidade de exercício, uma operação é contabilizada na data da 
+atividade (decisão) que origina um aumento ou diminuição dos recursos, independentemente do momento em que a regularização correspondente é recebida 
+ou efetuada. Ver também contabilidade de caixa.
+O controle público das ISFL é normalmente determinado em função dos 
+cinco critérios seguintes:
+1. Possibilidade de nomeação dos responsáveis ou conselho de direção.
+2. Possibilidade de decisão de outras disposições, permitindo à administração pública determinar aspectos significativos de política geral ou 
+programas das ISFL, tais como: o direito de destituir pessoal chave das 
+suas funções ou vetar nomeações propostas, exigir a aprovação prévia 
+de orçamentos ou disposições financeiras, ou impedir as ISFL de mudar 
+a sua constituição ou de se dissolverem.
+3. A existência de acordos contratuais autorizando a administração pública 
+a impor as condições acima mencionadas.
+4. Grau ou tipo de financiamento garantido pelos poderes públicos, podendo impedir a ISFL de determinar a sua política e o seu programa.
+5. Existência de exposição ao risco, se uma administração pública se expõe 
+abertamente à totalidade ou a uma grande parte dos riscos financeiros 
+associados às atividades de uma ISFL.
+Um crédito fiscal é um montante diretamente subtraído da obrigação fiscal 
+de uma família ou de uma empresa após o cálculo do imposto.
+Crédito fiscal reembolsável. Um crédito fiscal é reembolsável quando o excedente da obrigação fiscal é restituído ao contribuinte. Ver também crédito fiscal.
+Os créditos orçamentais públicos de P&D (COPID) incluem o conjunto 
+dos créditos orçamentais financiados pelas receitas públicas inscritas no orçamento, como receitas fiscais. Só incluem créditos afetados por entidades 
+públicas extra-orçamentais na medida em que estes foram alocados no quadro 
+do orçamento. Identicamente, o financiamento da P&D por empresas públicas 
+está excluído do campo das estatísticas da COPID, pois baseia-se em fundos 
+angariados no mercado fora dos procedimentos orçamentais. Somente no caso 
+excepcional de provisões de fundos do orçamento de Estado serem distribuídas à P&D por empresas públicas é que se trata de COPID. Ver terminologia dos 
+objetivos socioeconômicos (OSE).
+Os custos de mão-de-obra, ou as remunerações do pessoal, incluindo os 
+salários e remunerações anuais bem como o conjunto dos custos correspondentes aos benefícios associados, tais como: prêmios, opções sobre ações, férias 
+pagas, ou contribuições para fundos de pensões. Nesse manual, o conceito de 
+custos de mão-de-obra inclui também outros encargos e cotizações sociais.
+Desagravamento fiscal de despesas de P&D. Este conceito refere-se às medidas de desagravamento fiscal aplicáveis aos contribuintes os quais executam 
+ou financiam atividades de P&D relativamente a uma estrutura fiscal corrente 
+ou de referência. Exprime-se pela medida estatística do custo dessas disposições (indicador de desagravamento fiscal de despesas de P&D) que é proposta 
+nesse manual.
+O desenvolvimento experimental consiste em trabalhos sistemáticos baseados nos conhecimentos existentes obtidos pela pesquisa e/ou pela experiência prática e na produção de conhecimento adicional dirigindo-se à produção 
+de novos produtos ou processos, ou a melhoria substancial dos já existentes.
+As despesas correspondem ao montante dos cheques emitidos e pagamentos em dinheiro efetuados durante um dado período, independentemente da 
+data de abertura ou de compromisso dos fundos (no caso de créditos públicos).
+As despesas correntes de P&D incluem os custos da mão de obra e outros 
+custos correntes (incluindo o pessoal externo de P&D) imputáveis à P&D. Os 
+serviços e itens (incluindo equipamentos) utilizados e consumidos no período 
+de um ano fazem parte das despesas correntes. As taxas, direitos e rendas 
+anuais pagas para a utilização de ativos fixos fazem também parte das despesas correntes.
+As despesas internas brutas de P&D (DIID) correspondem ao total das 
+despesas internas da P&D executada em território nacional durante um dado 
+período de referência.
+As despesas internas de P&D do ensino superior (DIIDES) correspondem 
+à componente das DIID executadas pelas unidades do setor do ensino superior, 
+tratando-se das despesas de P&D interna executadas pelo setor do ensino superior durante um dado período de referência. Ver também despesas internas 
+brutas de P&D (DIID) e despesas de P&D interna.
+As despesas internas de P&D do Estado (DIIDET) correspondem à componente das DIID executadas pelas unidades do setor do Estado, tratando-se 
+das despesas de P&D interna executadas pelo setor do Estado durante um dado 
+período de referência. Ver também despesas internas brutas de P&D (DIID) e 
+despesas de P&D interna.
+As despesas internas de P&D das empresas (DIIDE) correspondem à componente das DIID executadas pelas unidades do setor das empresas, tratando-se 
+de despesas de P&D interna executadas pelo setor das empresas durante um 
+dado período de referência. Ver também despesas internas brutas de P&D (DIID) 
+e despesas de P&D interna.
+As despesas internas de P&D das instituições sem fins lucrativos (DIIDISFL) correspondem à componente das DIID executadas pelas unidades do setor 
+privado sem fins lucrativos, tratando-se de despesas de P&D interna executadas 
+pelo setor privado sem fins lucrativos durante um dado período de referência. 
+Ver também despesas internas brutas de P&D (DIID) e despesas de P&D interna.
+As despesas de P&D interna incluem o conjunto das despesas correntes 
+e das despesas brutas de capital fixo relativas à P&D executada dentro de uma 
+unidade estatística durante um dado período de referência, independentemente 
+da fonte de financiamento. Correspondem à P&D executada dentro de uma unidade estatística. O total das despesas de P&D interna das unidades constituindo 
+um setor da economia correspondendo à P&D executada no interior desse setor. 
+A soma da P&D interna de todos os setores correspondente à P&D executada no 
+interior da economia no seu conjunto (DIID).
+As despesas de capital dedicadas à P&D correspondem à soma anual bruta 
+paga para a aquisição de ativos fixos os quais são utilizados de meneira repetida 
+ou contínua com o objetivo de executar trabalhos de P&D durante mais de um 
+ano. Essas despesas devem ser declaradas na sua totalidade no período em que 
+foram executadas, quer tenham sido adquiridas ou desenvolvidas internamente, não devendo ser registradas em termos de elementos de amortização. Os 
+tipos de ativos mais relevantes utilizados em P&D para os quais as despesas de 
+capital dedicadas à P&D devem ser compiladas são:
+
+
+• Terrenos e edifícios
+• Máquinas e equipamentos
+• Programas informáticos imobilizados
+• Outros produtos da propriedade intelectual.
+As despesas fiscais são disposições da lei, de regulamentações ou da 
+prática fiscal reduzindo ou adiando o imposto devido por um grupo de contribuintes relativamente a uma estrutura de impostos de referência ou “normal”. 
+As despesas fiscais são por vezes descritas como sinônimos de alívios fiscais, 
+subvenções fiscais ou ajudas fiscais. Para os objetivos desse manual, a expressão “despesas fiscais” designa o custo dos alívios fiscais suportado pelo Estado.
+As despesas nacionais brutas de P&D (DNID) incluem a totalidade das 
+despesas de P&D financiadas pelas unidades institucionais de um país, independentemente onde foi executada a P&D. Estas incluem a P&D executada no “restante do mundo” a qual é financiada por unidades institucionais nacionais ou 
+residentes, excluindo a P&D executada no território nacional que é financiada 
+por unidades institucionais implantadas no estrangeiro (ou seja, pertencendo 
+ao “restante – do mundo”). O montante das DNID é igual a soma das despesas 
+interna de cada setor de execução que são financiadas por fontes do território 
+nacional mais o montante de P&D executada no “restante do mundo” que é 
+financiada por fontes implantadas no território nacional.
+As dotações são projetos de lei sobre a afetação ou provisão de fundos para 
+departamentos, organismos, programas e/ou funções específicas das administrações públicas, conferindo autoridade legal para incorrer em obrigações que 
+resultarão em despesas. Ver também obrigações e despesas.
+O procedimento de edição dos dados coligidos é efetuado para identificar 
+possíveis erros nos dados, e para validar um registro coligido ou uma variável, 
+ou para corrigir erros e incoerências nos dados coligidos.
+Os efetivos de pessoal de P&D correspondem ao número total de indivíduos que participam na P&D interna, no âmbito de uma unidade estatística ou 
+de agregado, durante um período de referência específico (normalmente um 
+ano civil).
+Os empregados são todas as pessoas as quais trabalham em uma ou 
+para uma unidade estatística com um contrato de trabalho com essa unidade, 
+recebendo regularmente remuneração em espécie ou em bens. Incluem-se os 
+empregados os quais executam uma atividade de apoio à atividade principal e 
+ainda as seguintes categorias de pessoas: pessoas com licenças de curta duração (baixa por doença ou acidente, férias), pessoas com licenças pagas especiais 
+(licença para estudos e formação, licença de maternidade ou paternidade), 
+grevistas, trabalhadores a tempo parcial, trabalhadores sazonais e aprendizes 
+incluídos na massa salarial. Também fazem parte dos empregados as pessoas 
+que são remuneradas pela unidade estatística se encontrando sob o seu controle mas que trabalham no exterior (trabalhadores à distância), por exemplo, 
+engenheiros de manutenção exterior ou pessoal de manutenção e reparação.
+Uma empresa é uma unidade institucional – não necessariamente no 
+que o Manual de Frascati define como setor das empresas – que é um produtor 
+de bens e serviços (ver sistema de contabilidade nacional). O termo “empresa” 
+pode referir-se a uma sociedade, uma quase-sociedade, uma instituição sem 
+fins lucrativos ou uma empresa não constituída como sociedade, tratando-se 
+de um agente econômico com autonomia de decisão em matérias de finanças e 
+de investimento, assim como o poder e a responsabilidade de alocar recursos à produção de bens e serviços. Uma empresa pode executar uma ou várias atividades em um ou mais lugares. Pode ser uma única entidade legal.
+As empresas associadas implantadas no estrangeiro são identificadas 
+do ponto de vista de uma filial sob controle estrangeiro residente na economia 
+declarante. O termo refere-se a empresas implantadas no exterior do país declarante que se encontram sob controle ou influência da mesma empresa-mãe 
+estrangeira que a filial sob controle estrangeiro. Para os objetivos do Manual de 
+Frascati, as empresas associadas implantadas no estrangeiro têm interesse como 
+fontes ou destinos de fundos destinados a trabalhos de P&D aos quais as filiais 
+sob controle estrangeiro estão associados.
+A empresa-mãe de uma EM é considerada como um grupo consolidado de 
+empresas no país declarante sendo constituída por todas as unidades residentes 
+no país declarante das quais ela detêm a maioria do capital. Ver também empresa multinacional, grupo de empresas, residência e participação maioritária.
+No caso de investimento recebido, a empresa-mãe imediata de uma filial 
+sob controle estrangeiro é o primeiro investidor estrangeiro implantado fora do 
+país exercendo o controle sobre a filial estrangeira. Ver também empresa-mãe, 
+filial sob controle estrangeiro, e investidor que exerce o controle último.
+Uma empresa multinacional (EM) designa uma empresa-mãe residente e 
+as empresas implantadas no estrangeiro das quais ela detém a maioria das suas 
+ações, designadas “filiais implantadas no estrangeiro”. Uma EM designa também um grupo mundial de empresas. Ver também empresa-mãe, participação 
+maioritária e filiais implantadas no estrangeiro
+O encadeamento consiste em ligar duas séries cronológicas que se sobrepõem num determinado período. Para isso, uma delas tem que ser colocada em 
+retrospectiva de forma que os seus valores sejam idênticos aos da outra série 
+para o mesmo período, com o objetivo de os combinar na mesma série cronológica. Métodos mais complexos podem ser utilizados para encadear séries 
+cronológicas que se sobrepõem em vários períodos.
+O ensino superior inclui o que normalmente se designa como o ensino 
+acadêmico, mas também inclui o ensino profissional. Engloba os níveis 5, 6, 7 
+e 8 da CITE, respectivamente designados “ensino superior de ciclo curto”, “nível de licença ou equivalente”, “nível de mestrado ou equivalente” e “nível de 
+doutorado ou equivalente”.
+O equivalente de tempo integral (ETI) de pessoal de P&D define-se como 
+o número de horas de trabalho realmente dedicados à P&D dentro de um dado 
+período de referência (normalmente um ano civil) relativamente ao número 
+total de horas que uma pessoa ou um grupo de pessoas deve trabalhar ao longo 
+do mesmo período de tempo. 
+Um estabelecimento é uma empresa, ou uma parte de uma empresa, situada em um único local, na qual uma só atividade produtiva é executada ou 
+na qual a atividade produtiva principal constitui a maior parte do valor acrescentado. Os estabelecimentos são por vezes designados “unidades de atividade 
+econômica ao nível local”. Ver também empresas.
+O subsetor das administrações dos Estados federados (ou regionais) é 
+composto pelas administrações dos Estados federados ou regionais que são unidades institucionais distintas, bem como pelas organizações e instituições sem 
+fins lucrativos não-comerciais controladas pelas administrações regionais (dos 
+Estados federados). Esse subsetor exerce determinadas funções de administração 
+num nível inferior ao da administração central/federal e superior ao das unidades institucionais de administração as quais se situam ao nível local. Reunindo as 
+unidades institucionais cujo poder fiscal, legislativo e executivo se estende aos 
+“Estados” que podem constituir um país. Esses “Estados” podem ser designados 
+de maneiras diferentes em cada país, por exemplo como “regiões” ou “províncias”.
+A estimativa é um procedimento o qual consiste em inferir o valor numérico de valores de populações desconhecidas a partir de um conjunto de dados 
+incompletos como, por exemplo, uma amostra.
+Os estudantes de doutorato (doutorandos) seguem “programas de ensino 
+superior conduzindo à obtenção de um título de pesquisador altamente qualificado estando consequentemente dedicados a estudos avançados de pesquisa 
+original não estando baseados apenas em cursos”. Regra geral, esses estudantes 
+têm normalmente que submeter uma tese ou dissertação de qualidade publicável, ou seja, o produto de pesquisa original representando uma contribuição 
+significativa para o conhecimento. Ver também a classificação internacional 
+tipo da educação.
+Os estudantes de mestrado podem, em certos casos, ser contados como 
+pesquisadores; particularmente, se participam num programa de mestrado de 
+nível 7 da CITE – levando à obtenção de certificações de pesquisador concebidas 
+explicitamente para treinar os participantes na condução de pesquisa original 
+mas inferior ao grau de doutor”. Porém, é importante que apenas os estudantes de mestrado que recebem pagamentos pelas suas atividades de P&D sejam 
+incluídos na contabilidade de pessoal de P&D.
+Os executantes de P&D são as unidades estatísticas que executam as 
+atividades de P&D em cada um dos setores considerados no presente manual : 
+empresas, Estado, ensino superior e instituições sem fins lucrativos. Ver também unidade estatística.
+Exonerações fiscais. As exonerações são as somas excluídas da base tributável.
+Filiais implantadas no estrangeiro são sociedades afiliadas situadas no 
+estrangeiro detidas a mais de 50% por uma empresa-mãe residente no país declarante. Ver também participação maioritária e empresa-mãe de uma empresa 
+multinacional (EM).
+Filiais sob controle estrangeiro são um grupo de empresas implantadas 
+no país declarante cuja maioria do capital é detido por EM estrangeiras (ou seja, 
+empresas-mãe estrangeiras). As atividades dessas filiais derivam da entrada de 
+um investimento direto estrangeiro, enquanto as atividades das filiais implantadas no estrangeiro se devem à saída de um investimento direto estrangeiro. 
+Ver também participação maioritária, empresa multinacional, empresa-mãe e 
+filial sob controle estrangeiro.
+Os financiamentos externos da P&D correspondem à soma de todos os 
+fundos dedicados à P&D que provêm de fontes externas à unidade declarante.
+Os financiamentos internos da P&D correspondem à soma de todos os 
+fundos dedicados à P&D que provêm de recursos internos de uma unidade 
+declarante e que esta utiliza, a sua discrição em atividades de P&D. Os financiamentos internos de P&D não incluem os fundos para a P&D recebidos de outras 
+unidades estatísticas explicitamente para P&D interna.
+A fonte de financiamento da P&D é a unidade a qual financia a execução 
+da P&D. Pode ser interna ou externa à unidade declarante. Nas sondagens e 
+documentos de apresentação de dados, as fontes externas são agrupadas por 
+grandes setores e subsetores pertinentes. De forma geral, existem cinco grandes fontes de financiamento da P&D : as empresas, o Estado, o ensino superior, 
+as instituições privadas sem fins lucrativos e o restante do mundo.
+Os fundos de troca para a P&D são fluxos financeiros de uma unidade estatística para outra unidade estatística em troca da execução de P&D e obtenção 
+de resultados de P&D pertinentes. A unidade a qual financia o trabalho corre 
+um risco de não-realização associado ao caráter incerto do projeto. Entre outros 
+exemplos figuram a compra de P&D (venda do ponto de vista do executante), 
+externalização de trabalhos de P&D e contribuições no contexto de acordos de 
+colaboração em P&D.
+Os fundos de transferência para a P&D são fluxos financeiros de uma 
+unidade estatística para outra unidade estatística para executar P&D que não 
+requerem nenhum bem ou serviço em contrapartida, e em que o financiador 
+não fica com direitos significativos sobre os resultados da P&D que financiou. A 
+unidade que financia pode impor algumas condições ao executante, tais como 
+a apresentação de relatórios regulares, respeito pela descrição do projeto ou 
+atividade segundo os termos de um acordo, ou disseminação pública dos resultados da pesquisa. Entre os exemplos de fundos de transferência incluem-se 
+subsídios, perdão de dívidas, filantropia, financiamento participativo, transferências feitas a título pessoal como doações, fundos gerais das universidades 
+(por convenção, para efeitos de comparação internacional). Para que a operação seja classificada de “transferência de fundos destinados à P&D”, os fundos 
+em questão devem ser destinados às atividades de P&D pela entidade que os 
+fornece. Essa forma de financiamento da P&D é designada de transferência de 
+fundos na medida em que o executante de P&D guarda a maior parte dos direitos associados aos resultados do trabalho.
+Os fundos gerais das universidades (FGU) de origem pública correspondem à parte dos recursos financeiros destinados à P&D que provêm da dotação 
+global atribuída às universidades pelo ministério da educação da administração central (federal) ou por autoridades regionais (estados federados) ou locais 
+(municipais) para apoio das suas atividades de pesquisa e ensino.
+ De uma forma geral, a globalização designa a integração internacional do 
+financiamento, oferta, P&D, produção e comércio de bens e serviços.
+Um grupo de empresas é um conjunto de empresas controladas por uma 
+unidade legal líder que não é controlada (direta ou indiretamente) por nenhuma 
+outra unidade legal. Pode ter vários centros de decisão, especialmente para a 
+política relativa à produção, venda e lucros, ou pode centralizar alguns aspectos 
+da gestão financeira e fiscalidade. Trata-se de uma unidade econômica capaz de 
+fazer escolhas, particularmente no que diz respeito às unidades que a constituem. A unidade “grupo de empresas” é especialmente útil nas análises financeiras e estudos das estratégias de empresa. Porém, é demasiado heterogênea 
+e instável para ser adotada enquanto unidade central de observação e análise.
+Nesse manual, a P&D externa é entendida como toda a P&D executada 
+fora da unidade estatística que é o objeto das informações declaradas. O seus 
+“recursos financeiros destinados à P&D externa” devem incluir unicamente os 
+fundos de origem interna (que não têm origem em fontes externas) que a unidade estatística considerada fornece a uma unidade estatística exterior para 
+que se executem trabalhos de P&D, quer a execução dos resultados de P&D 
+seja esperada em contrapartida (troca ou compra), quer não haja contrapartida 
+(transferência ou subvenção). Convém também notar que se incluem geralmente somas destinadas a cobrir outros tipos de custos além da P&D (custos de 
+amortização, lucro realizado pelo executante, custos de execução, etc.).
+
+
+Um imposto sobre o valor acrescentado (IVA) é um imposto sobre bens ou 
+serviços que as empresas coligem por etapas mas que, em última instância, é 
+inteiramente pago pelo comprador final. De acordo com o SCN e para fins de comparação internacional, deve ser aplicado o procedimento líquido de registro do IVA. 
+Neste procedimento, o IVA é registrado como devendo ser pago pelos compradores 
+e não pelos vendedores, e apenas pelos compradores que não têm a possibilidade 
+de o deduzir. Os países devem excluir sempre que possível o IVA dedutível do valor 
+das despesas de todos os setores de execução de P&D. Recomenda-se a exclusão 
+de IVA dedutíveis dos valores das despesas totais de P&D interna comunicadas.
+ A imputação é um procedimento o qual consiste em introduzir um valor 
+para um item específico quando a resposta está em falta ou não é utilizável.
+Uma sondagem sobre o uso do tempo é uma sondagem estatística a qual 
+tem por objetivo o recolhimento de dados sobre a forma como os indivíduos 
+utilizam o seu tempo. O Manual de Frascati contém linhas orientadoras úteis de 
+modo a se extrair informações as quais permitam estimar a componente de 
+P&D dos equivalentes de tempo integral (ETI) e das despesas do setor do ensino 
+superior quando é impossível calcular os coeficientes necessários a partir de 
+dados administrativos ou de outros dados de sondagem.
+As instituições sem fins lucrativos (ISBL) são entidades jurídicas ou sociais 
+criadas com o objetivo de produzir bens e serviços cujo estatuto não lhes permite que sejam uma fonte de receita, lucro ou outra forma de ganho financeiro 
+para as unidades que as criam, controlam ou financiam. Elas podem ter atividades de produção para o mercado ou não orientadas para o mercado.
+ As instituições sem fins lucrativos ao serviço das famílias (ISFLSF) são as 
+ISFL não comerciais que não estão sob o controle público. Fornecem bens e serviços às famílias gratuitamente ou a preços economicamente não significativos. 
+A maior parte desses bens e serviços são destinados ao consumo individual, 
+mas é possível que as ISFLSF forneçam serviços coletivos.
+O investidor que exerce o último controle de uma filial sob controle estrangeiro (também designado como “unidade institucional investida do último 
+controle”) é o líder de um conjunto de empresas e filiais controlando todas as 
+empresas desse conjunto sem ser ele próprio controlado por nenhuma outra empresa. Ver também filiais sobre controle estrangeiro e empresa-mãe imediata.
+A pesquisa aplicada consiste em trabalhos originais realizados para adquirir novos conhecimentos e dirigida fundamentalmente para um objetivo ou 
+um fim prático específico.
+A pesquisa e o desenvolvimento experimental (P&D) incluem o trabalho 
+criativo levado a cabo de forma sistemática para aumentar o campo dos conhecimentos, incluindo o conhecimento do homem, da cultura e da sociedade, e a 
+utilização desses conhecimentos na criação de novas aplicações
+A pesquisa fundamental consiste em trabalhos experimentais ou teóricos 
+iniciados principalmente visandoa obtenção de novos conhecimentos sobre 
+os fundamentos dos fenômenos e fatos observáveis, sem objetivar qualquer 
+aplicação ou uso em particular.
+A pesquisa fundamental orientada consiste em trabalhos de pesquisa fundamental motivados pela expectativa de produzir uma base de conhecimentos 
+ampla capaz de constituir um ponto de partida para a resolução de problemas 
+já formulados ou que possam vir a colocar-se no futuro.
+A pesquisa fundamental pura é a pesquisa fundamental realizada para 
+fazer progredir os conhecimentos, sem a intenção de obter vantagens econômicas ou sociais a longo prazo, ou de fazer um esforço deliberado para aplicar os 
+resultados a problemas práticos, ou transferir esses resultados para os setores 
+responsáveis pela sua aplicação.
+Os pesquisadores são especialistas que trabalham na concepção ou criação de novos saberes. Estes conduzem os trabalhos de pesquisa de maneira a 
+melhorar ou desenvolver conceitos, teorias, modelos, técnicas, instrumentos, 
+programas informáticos, ou métodos operacionais.
+O investimento direto estrangeiro (IDE) é motivado pela vontade de uma 
+empresa residente de uma economia (empresa-mãe ou “investidor direto”) de 
+adquirir um interesse durável em uma empresa residente de outra economia 
+(empresa filiada implantada no estrangeiro ou “empresa de investimento direto”). Nas estatísticas oficiais, considera-se que existe um interesse durável 
+quando se detêm, direta ou indiretamente, mais de 10% das ações ordinárias ou 
+dos direitos de voto de uma empresa constituída em sociedade, ou equivalente 
+numa empresa não constituída em sociedade. O poder de voto de 10% também 
+estabelece a existência de uma relação de investimento direto entre a empresa 
+filiada e a sua empresa-mãe.
+As máquinas e equipamentos considerados na medida de P&D são as 
+máquinas e equipamentos imobilizados que são adquiridos para a execução 
+de atividades de P&D. No contexto do sistema de contabilidade nacional, as 
+despesas com máquinas e equipamentos devem ser mais detalhadas, incluindo 
+“equipamento de informação e comunicação” e “materiais de transporte”.
+Uma terminologia dos objetivos socioeconômicos (OSE) é utilizada na distribuição dos créditos orçamentais públicos de P&D. Os critérios da classificação 
+deverão ser o objetivo do programa ou projeto de P&D, ou seja, o seu objetivo 
+principal. A repartição dos orçamentos de P&D por objetivos socioeconômicos 
+deve ser feita num âmbito no qual reflita mais adequadamente os objetivos do 
+financiador. A lista de distribuição recomendada baseia-se na terminologia 
+da União Europeia adotada pelo Eurostat para a análise e comparação dos orçamentos e programas científicos, ao nível hierárquico de um algarismo. Ver 
+também créditos orçamentais públicos de P&D.
+As obrigações representam o volume monetário das encomendas colocadas, contratos atribuídos, serviços recebidos ou transações similares realizadas 
+durante um dado período, qualquer que seja a data de afetação dos fundos ou 
+prazo de futuros pagamentos.
+As organizações internacionais são constituídas por membros que são ou 
+Estados ou outras organizações internacionais cujos membros são Estados. São 
+estabelecidas por acordos políticos formais entre os seus membros que têm o 
+estatuto de tratados internacionais. A sua existência é reconhecida pela lei nos 
+países membros não estão sujeitas às leis e regulamentos do país, ou países, em 
+que estão localizadas. Por exemplo, não podem ser obrigadas pelas autoridades 
+nacionais a fornecerem informações estatísticas sobre a sua execução de P&D 
+ou atividades de financiamento. Para os objetivos do sistema de contabilidade 
+nacional e das estatísticas de P&D, as organizações internacionais são tratadas 
+como unidades residentes no estrangeiro (restante do mundo), independentemente do seu local de implantação ou de atividade.
+As outras despesas correntes incluem custos de aquisição de materiais, 
+suprimentos, equipamentos e serviços necessários ao apoio das atividades de 
+P&D realizadas por uma unidade estatística ao longo de um ano de referência, não 
+envolvendo despesas em capital. Entre outros exemplos, incluem-se despesas de 
+água e de combustível (incluindo gás e eletricidade), compra de livros, revistas e documentos de referência, subscrições de bibliotecas, cotizações de sociedades científicas, etc.; os custos imputados ou reais de protótipos ou de modelos 
+de pequenas dimensões fabricados fora da unidade estatística; e os custos de 
+equipamentos dos laboratórios (por exemplo, produtos químicos, animais, etc.). 
+Entram também nas despesas correntes os direitos e licenças de exploração de 
+patentes e outros direitos de propriedade intelectual, o arrendamento de bens 
+de equipamento (máquinas e equipamento, etc.) e de instalações utilizadas na 
+execução da P&D pela unidade estatística ao longo do ano de referência.
+Os outros produtos da propriedade intelectual (incluídos nas despesas 
+em capital da P&D) incluem a compra de patentes, as licenças de exploração a 
+longo prazo e outros ativos intangíveis usados na P&D que são utilizados durante mais de um ano. Outros intangíveis passíveis de serem considerados nas 
+contas internas de uma unidade, como a clientela ou o patrimônio de marca, 
+não devem ser incluídos. Ver o Sistema de Contabilidade Nacional.
+Os paradados de sondagens são as informações relativas aos processos de 
+sondagens. Exemplos de paradados incluem a presença ou ausência da unidade 
+considerada na amostragem, o histórico das taxas de resposta, e o método de 
+recolhimento de dados. O uso de paradados depois de uma campanha de sondagens pode ajudar a melhorar o processo de sondagem no futuro.
+A participação maioritária ou controle refere-se à posse de mais de 50% das 
+ações ordinárias ou direitos de voto de uma empresa constituída em sociedade ou 
+equivalente para uma empresa não constituída em sociedade. Exemplos de empresas com participação maioritária incluem subsidiárias ou filiais (empresas constituídas em sociedade) ou sucursais (empresas não constituídas em sociedade).
+O pessoal de P&D de uma unidade estatística é constituído por pessoas 
+que participam diretamente na P&D (assalariados da unidade estatística ou 
+contribuintes externos os quais façam parte integrante dos projetos de P&D de 
+uma unidade estatística) fornecendo serviços diretamente relacionados com as 
+atividades de P&D (responsáveis de P&D, gestores, técnicos e pessoal de apoio). 
+Ver também pessoal interno de P&D e pessoal externo de P&D.
+O pessoal de apoio inclui os trabalhadores, qualificados e não qualificados, 
+bem como o pessoal administrativo e os empregados de escritório que participam ou estão diretamente associados a projetos de P&D.
+O pessoal externo de P&D (ou os colaboradores) é constituído por trabalhadores independentes que fazem parte integrante dos projetos de P&D de 
+uma unidade estatística sem serem oficialmente empregados por essa unidade 
+estatística executante. 
+O pessoal interno de P&D é constituído por pessoas empregadas pela unidade estatística contribuindo para as atividades de P&D interna. Ver também 
+pessoas ocupadas.
+As pessoas ocupadas incluem os empregados, os trabalhadores familiares 
+não remunerados e os proprietários (isto é, os sócios ativos no negócio). Os sócios 
+passivos ou inativos cuja atividade principal é executada fora da unidade estatística são excluídos das pessoas ocupadas. Ver também pessoal interno de P&D.
+Os preços de aquisição correspondem aos montantes pagos pelos compradores, excluindo a parte dedutível do imposto sobre o valor acrescentado 
+(IVA) e impostos similares. Representam os custos realmente suportados pelos 
+usuários. Consequentemente, o montante estimado das despesas dedicados aos 
+bens e serviços da P&D, quer se trate de despesas correntes ou de despesas de 
+capital, é o preço total pago pela unidade declarante, incluindo as taxas sobre  os produtos que aumentam o preço pago, incluindo também as subvenções que 
+diminuem o preço pago.
+Os preços economicamente significativos são preços que têm um efeito 
+significativo nas quantidades que os produtores estão dispostos a propor e nas 
+quantidades que os compradores desejam comprar. Regra geral, esses preços 
+ocorrem quando (a) o produtor tem um incentivo para ajustar a oferta com o 
+objetivo de obter um lucro a longo prazo ou, pelo menos, cobrir os custos de 
+capital e outros custos, e (b) os consumidores têm a liberdade de comprarem ou 
+não comprarem, e de escolherem com base nos preços propostos. Ver sistema 
+de contabilidade nacional.
+Um professor jubilado é um professor aposentado o qual continua a realizar 
+trabalhos de pesquisa e a colaborar nas atividades acadêmicas do seu anterior 
+empregador – normalmente uma universidade – sem receber nenhuma remuneração (embora possa receber algum apoio logístico para as suas atividades).
+Um projeto de desenvolvimento de um programa informático é considerado P&D se a sua realização depende de um avanço científico ou tecnológico, 
+e o objetivo do projeto é a resolução sistemática de uma incerteza científica e/
+ou tecnológica. Além do programa informático que é parte de um projeto geral 
+de P&D, a P&D associada a um programa informático que é um produto final, ou 
+integrado num produto final, pode também ser classificada como P&D quando 
+se aplicam os critérios de P&D. O desenvolvimento de programas informáticos é 
+parte integrante de muitos projetos que em si mesmos não possuem elementos 
+de P&D. A componente de desenvolvimento de programas informáticos nesses 
+projetos pode, porém, ser classificada como P&D se leva a avanços na área do 
+software computacional. Uma atualização, extensão ou modificação de um 
+programa ou sistema informático existente pode ser classificada de P&D se 
+representa um progresso científico e/ou tecnológico aumentando o domínio de 
+conhecimento. As atividades informáticas de natureza corrente não devem ser 
+consideradas como P&D. Ver também programas informáticos imobilizados.
+Os programas informáticos imobilizados são programas os quais servem 
+para a execução de atividades de P&D durante mais de um ano, tratando-se normalmente de licenças ou programas adquiridos para um período longo e identificados em separado, incluindo as descrições dos programas e a documentação que 
+acompanha tantos os sistemas como as aplicações. Os custos de produção (por 
+exemplo, mão-de-obra e materiais) dos programas desenvolvidos internamente 
+devem ser declarados. Os programas informáticos podem ser adquiridos a vendedores externos por meio da compra de direitos e de licenças de utilização. Os programas informáticos comprados ou com licenças de menos de um ano devem ser 
+reportados como despesas correntes. Ver também programas informáticos de P&D.
+Um protótipo é um modelo original construído para apresentar todas as 
+características técnicas e desempenhos de um novo produto.
+Uma quase-sociedade é uma empresa não constituída em sociedade que é 
+detida por uma unidade institucional residente que tem informação suficiente para 
+compilar um conjunto completo de contas, operando como se fosse uma empresa 
+distinta e cuja relação de fato com o seu proprietário é a de uma sociedade com os 
+seus acionistas, ou uma empresa não constituída em sociedade que é detida por 
+uma unidade institucional não residente mas é considerada como uma unidade 
+institucional residente porque executa um volume importante de atividades produtivas no território econômico durante um período de tempo longo ou indefinido.
+A residência de uma unidade institucional é o território econômico com o 
+qual se tem a relação mais forte, ou seja, o seu centro de interesse econômico
+
+predominante. O território econômico inclui as zonas terrestres, espaço aéreo e 
+águas territoriais, incluindo a jurisdição sobre direitos de pesca e direitos sobre 
+os combustíveis e minerais. No caso de um território marítimo, o território econômico inclui ilhas as quais pertençam a esse território. O território econômico 
+também inclui enclaves territoriais no restante do mundo. Essas são zonas 
+terrestres claramente delimitadas (embaixadas, consulados, bases militares e 
+estações científicas), se encontrando sobre outros territórios sendo utilizadas 
+pelo Estado que as possui ou arrenda, e utiliza para fins diplomáticos, militares, 
+científicos ou outros, com o acordo formal dos governos dos territórios nos quais 
+essas zonas terrestres estão geograficamente situadas.
+O restante do mundo inclui:
+• todas as instituições e indivíduos sem uma localização, local de produção 
+ou instalações no território econômico considerado, no qual ou a partir do 
+qual executam ou pretendem executar atividades econômicas e transações 
+a uma escala significativa durante um período indeterminado ou um longo 
+período de tempo;
+• o conjunto das organizações internacionais e entidades supranacionais, 
+definidas nesse manual, incluindo as instalações e atividades que possuem 
+no interior do país considerado.
+O setor do ensino superior inclui o conjunto das universidades, estabelecimentos de ensino pós-secundário e outros estabelecimentos que propõem programas de ensino superior formais independentemente da sua fonte de financiamento 
+ou do seu estatuto jurídico, bem como o conjunto dos institutos e centros de pesquisa, estações experimentais e clínicas que têm as suas atividades de P&D sob o 
+controle direto, ou são administradas, por estabelecimentos de ensino superior.
+O setor do Estado inclui os seguintes grupos de unidades institucionais 
+residentes:
+• todas as unidades da administração central (federal), regional (Estados 
+federados) ou local (municipal), incluindo administrações de previdência 
+social, com exceção das unidades que fornecem serviços de ensino superior 
+ou que se ajustam à descrição dos estabelecimentos de ensino superior 
+dada nesse manual.
+• todas as ISFL não comerciais controladas pelas administrações públicas e 
+que não pertençam ao setor do ensino superior.
+O setor das empresas inclui
+• todas as empresas residentes, incluindo não exclusivamente as empresas 
+legalmente constituídas em sociedades, independentemente do local de 
+residência dos seus acionistas. Estão também incluídos todos os outros 
+tipos de quase-sociedades, ou seja, unidades capazes de produzir um lucro 
+ou outra forma de benefício para o(s) seus(s) proprietário(s) reconhecidas 
+pela lei como entidades jurídicas distintas do(s) seus(s) proprietário(s) e 
+criadas com o objetivo de executar atividades de produção comercial a 
+preços economicamente significativos.
+• as sucursais de empresas não residentes não constituídas em sociedade e 
+consideradas como residentes pelo fato de estarem envolvidas na produção 
+no território econômico por um longo período de tempo.
+• todas as ISFL residentes que são produtoras comerciais de bens ou serviços 
+ou que servem as empresas.
+
+
+• este setor inclui tanto as empresas públicas como as privadas.
+O setor privado sem fins lucrativos inclui :
+• todas as instituições sem fins lucrativos ao serviço das famílias (ISFLSF) 
+tais como são definidas no SCN de 2008, com a exceção das que são classificadas no setor do ensino superior;
+• todas as famílias e os particulares que executam ou não atividades comerciais, tais como descritas nesse manual.
+Setor público ou privado. Uma unidade institucional pertence ao setor público ou privado se estiver ou não sob o controle de uma administração pública. 
+Em todos os setores, as unidades classificadas de privadas (ou públicas) podem 
+ser reagrupadas para fins de apresentações estatísticas no benefício dos usuários.
+O sistema de contabilidade nacional (SCN) é um conjunto de recomendações normalizadas internacionalmente acordado sobre a compilação de medidas de atividade econômica de acordo com estritas convenções de contabilidade 
+baseadas em princípios econômicos.
+As sociedades são todas as entidades capazes de gerar um lucro ou outra 
+forma de ganho financeiro para o(s) seu(s) proprietário(s), reconhecidas pela 
+lei como entidades jurídicas distintas dos proprietários, tendo elas próprias 
+uma responsabilidade limitada sendo que foram criadas para executar uma 
+produção para o mercado. Esse termo inclui, entre outras, as cooperativas, 
+as sociedades de responsabilidade limitada e as quase-sociedades. Para fins 
+práticos, pode ser estendida às famílias ou indivíduos oficialmente envolvidos 
+numa produção para o mercado para os quais a delimitação da responsabilidade 
+é difícil de estabelecer. No seu conjunto, as sociedades correspondem essencialmente às unidades qualificadas de empresas. 
+Os técnicos e pessoal equivalente são pessoas cujas tarefas principais 
+requerem conhecimentos técnicos e experiência em um ou mais domínios 
+da engenharia, ciências físicas e naturais, ciências sociais, humanas e artes. 
+Participam na P&D executando tarefas científicas e técnicas as quais envolvem 
+a aplicação de conceitos e modos operatórios ou a utilização de equipamento 
+científico, normalmente sob a supervisão de pesquisadores.
+Os terrenos e construções incluem os terrenos adquiridos para fins da P&D 
+(por exemplo, realização de ensaios, instalação de laboratórios e de fábricas 
+piloto) e edifícios construídos ou comprados para uso em P&D, incluindo grandes trabalhos de adaptação, modificações e reparações. Como as construções 
+são ativos produzidos e os terrenos são ativos não produzidos, de acordo com o 
+sistema de contabilidade nacional, convém distinguir as despesas de P&D dos 
+primeiros relativamente aos segundos.
+Tipos de custos de P&D são as despesas correntes e as despesas de capital 
+de P&D interna. As despesas correntes incluem os custos de mão-de-obra relacionados com o pessoal de P&D e outras despesas correntes (pessoal externo 
+de P&D, aquisição de serviços e de materiais, outras despesas não classificadas 
+nos outros itens). As despesas de capital dizem respeito a terrenos e construções, máquinas e equipamento, programas informáticos imobilizados, e outros 
+produtos da propriedade intelectual.
+Três tipos de P&D são considerados e definidos no Manual de Frascati : a 
+pesquisa fundamental, a pesquisa aplicada e o desenvolvimento experimental. 
+Ver este glossário.
+
+
+Os trabalhadores independentes são as pessoas que são proprietários, sozinhos ou em conjunto com outros, de uma empresa não constituída em sociedade 
+na qual trabalham, excluindo as empresas não constituídas em sociedade que entram na categoria das quase-sociedades. No Manual de Frascati, os consultores independentes e prestadores exteriores de serviços de P&D por conta de outra unidade 
+a um preço economicamente significativo são incluídos no setor das empresas.
+Os trabalhadores temporários são incluídos no pessoal externo de P&D. São 
+postos à disposição de empresas clientes contra o pagamento de honorários. Os 
+trabalhadores temporários são contabilizados na massa salarial da agência de 
+emprego (ou colocação) temporário e não na da unidade estatística que paga os 
+honorários. Esta disponibilização de recursos humanos é geralmente feita por 
+uma curta duração.
+As transações são trocas ou transferências voluntárias de propriedade 
+econômica (o proprietário é o que assume os riscos retirando os benefícios) no 
+fornecimento de bens e serviços. Os fluxos de bens, de serviços e de receitas 
+são consignados na conta das operações correntes e balança de pagamentos. 
+Ver também sistema de contabilidade nacional.
+O procedimento de transferência (alívio fiscal) consiste em aplicar as 
+reduções ou créditos de imposto constatados mas não utilizados em um dado 
+exercício para o pagamento de impostos de um exercício seguinte (transferência 
+para a frente) ou precedente (transferência para trás).
+Uma unidade de atividade econômica (UAE) é uma empresa, ou uma parte de uma empresa, que está envolvida num só tipo de atividade produtiva ou 
+na qual a atividade produtiva principal contribui com a maior parte do valor 
+acrescentado. Cada empresa deve ser constituída, por definição, por uma ou 
+mais unidades de atividade econômica. 
+A unidade declarante é a unidade da qual emanam os dados declarados, 
+tratando-se da unidade o qual recebe um questionário ou em que se faz uma 
+entrevista. No caso de dados administrativos, corresponde à unidade associada 
+a cada declaração.
+Uma unidade estatística é uma entidade sobre a qual se recolhem informações e para a qual as estatísticas são compiladas. Tratando-se da unidade na 
+base dos agregados estatísticos e à qual se referem os dados tabelados.
+Uma unidade institucional é um conceito da contabilidade nacional e é definido no sistema de contabilidade nacional como “uma unidade econômica que 
+pode, por si só, possuir ativos, assumir compromissos, envolver-se em atividades 
+econômicas e efetuar operações com outras entidades”. Esse conceito pode ser 
+aplicado na medida das atividades de P&D e aos fluxos relacionados com a P&D. 
+No caso da P&D, as unidades institucionais devem ser capazes de tomar decisões 
+relativas à execução de atividades de P&D, desde a utilização interna e externa de 
+recursos financeiros até à gestão de projetos de P&D. Essas condições são menos 
+restritivas do que na definição de unidade institucional no contexto do sistema 
+de contabilidade nacional, mas servem os propósitos desse manual.
+Uma unidade local é uma empresa ou uma parte de uma empresa que 
+exerce uma atividade de produção num só local ou a partir de um só local. 
+Nesse manual, “voluntários” designa os trabalhadores não remunerados 
+que contribuem para a unidade estatística em matéria de P&D fazendo parte 
+do pessoal externo à P&D.
+
+
+ORGANIZAÇÃO PARA A COOPERAÇÃO E DESENVOLVIMENTO ECONÔMICO
+
+
+A OCDE é um fórum único em que os governos cooperam para enfrentar 
+os desafios econômicos, sociais e ambientais da globalização. A OCDE está 
+igualmente na vanguarda dos esforços para ajudar os governos a compreender e corresponder aos novos desenvolvimentos e preocupações, tais como a 
+governação corporativa, a economia da informação e os desafios gerados pelo 
+envelhecimento da população. A OCDE proporciona um quadro no qual os governos podem comparar experiências sobre políticas desenvolvidas, procurando respostas para problemas comuns e identificando boas práticas, bem como 
+contribuindo para coordenar as políticas nacionais e internacionais. 
+Os países-membros da OCDE são: Alemanha, Austrália, Áustria, Bélgica, 
+Canadá, Chile, Coreia, Dinamarca, Eslovênia, Espanha, Estados Unidos, Estônia, Finlândia, França, Grécia, Hungria, Irlanda, Islândia, Israel, Itália, Japão, 
+Letônia, Luxemburgo, México, Noruega, Nova Zelândia, Países Baixos, Polônia, 
+Portugal, Reino Unido, República Checa, República Eslovaca, Suécia, Suíça e 
+Turquia. A União Europeia participa nos trabalhos da OCDE. 
+As Publicações da OCDE procedem a uma ampla divulgação dos trabalhos da Organização, como os resultados da atividade do recolhimento 
+de estatísticas, a pesquisa sobre temas econômicos, Quantificação de 
+Atividades Científicas, Tecnológicas e Inovadoras
+
+Acabei o manual de Frascatti!!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
