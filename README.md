@@ -4016,6 +4016,479 @@ nos serviços, os critérios para a identificação de P&D e exemplos de P&D lig
 serviços podem exigir refinamento.
 
 
+APÊNDICE B – Pontos complementares 
+As orientações aqui apresentadas são de caráter geral e não obrigatórias, estando o 
+enquadramento de cada projeto apresentado sujeito à avaliação individualizada pelo 
+MCTI.
+
+B.1. Conceito de Engenharia
+A legislação da Lei do Bem traz conceitos para inovação tecnológica e pesquisa tecnológica e desenvolvimento de inovação tecnológica, para abarcar o conceito de PD&I 
+amplo vigente na época de sua publicação (em publicações e legislações de países 
+similares à do Brasil). Na definição de inovação, além do que é claramente colocado 
+como novidade, é descrito o termo de que “implique melhorias incrementais e efetivo 
+ganho de qualidade ou produtividade”. Assim, faz-se necessário distinguir este tipo 
+de atividade nova ou substancialmente melhor de atividades sem um grau mínimo de 
+inovação, principalmente quando as atividades de inovação não envolvam soluções 
+de problemas complexos e com riscos tecnológicos inerentes.
+Trazendo para o âmbito prático da Lei do Bem, considerando-se principalmente as atividades de pesquisa tecnológica e desenvolvimento de inovação 
+tecnológica previstas no Decreto 5.798/2006, podem ser consideradas para 
+fins de incentivos fiscais, apenas as atividades de engenharia que estejam 
+relacionadas ao desenvolvimento de novos produtos ou processos ou ao 
+aprimoramento dos mesmos, desde que exista risco tecnológico para tal. 
+Isso significa que as atividades de engenharia só podem envolver aquelas 
+relativas ao desenvolvimento tecnológico e solução de problemas cujas 
+chances de sucesso sejam incertas e/ou em que haja um risco tecnológico 
+que não seja alcançado.
+Essa assertiva decorre do Relatório Anual de Atividades de PD&I (2013), publicado 
+pelo MCTI, que buscou em uma parte significativa do trabalho pontuar as diferenças 
+entre as atividades sem um grau substancial de inovação e as atividades de desenvolvimento. Desde aquele momento, foi utilizado o termo “projeto/atividade de engenharia” para designar as atividades não enquadráveis nos termos da Lei do Bem:
+
+
+
+
+
+“Muitas empresas descreveram projetos de engenharia enquadrando como projeto de pesquisa. A alteração 
+ou criação de um produto pode ser classificada como 
+pesquisa e desenvolvimento experimental ou como um 
+desenvolvimento de engenharia. A Lei do Bem só prevê 
+incentivos fiscais para o primeiro caso. A diferença entre 
+as duas classificações está no risco envolvido nas atividades. O conceito de desenvolvimento experimental da 
+Lei do Bem está relacionado com trabalhos sistemáticos 
+delineados a partir de conhecimentos pré-existentes, 
+visando à comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, 
+sistemas e serviços ou, ainda, um evidente aperfeiçoamento dos já produzidos ou estabelecidos. Esta atividade 
+envolve risco tecnológico, haja vista que não necessariamente esses desenvolvimentos apresentarão sucesso. 
+Um evidente aperfeiçoamento dos produtos já produzidos também pode ser considerado nessa classificação, 
+desde que seja demonstrado que não foi simplesmente 
+uma alteração de layout ou de design, e sim um aperfeiçoamento. Alterações corriqueiras ou rotineiras que 
+não envolvem risco em virtude dos processos e metodologias utilizados no desenvolvimento serem conhecidos 
+ou dominados são considerados como desenvolvimento 
+de engenharia. Estes desenvolvimentos podem resultar 
+em novos produtos. Também podem ser resultado de 
+pesquisas de mercado ou pesquisas que visam conhecer 
+e detectar melhorias nos produtos e processos. Estas atividades não são elegíveis como utilizadoras dos incentivos fiscais da Lei do Bem”.
+
+
+
+
+De acordo com o trecho do Relatório Anual do MCTI (2013) acima apresentado, 
+a diferença essencial entre as atividades elegíveis e as não elegíveis está no risco 
+envolvido. Pode-se inferir que o desenvolvimento experimental envolve risco tecnológico, requer grau substancial de novidade e não exige obtenção de sucesso ao final 
+do projeto.
+Ademais, um evidente aperfeiçoamento tecnológico de produtos existentes também 
+pode ser considerado como resultado decorrente de desenvolvimento experimental, 
+desde que seja demonstrado que o aperfeiçoamento não se tratou simplesmente de 
+uma alteração de layout ou de design e sim de uma efetiva melhoria.
+Já o desenvolvimento sem grau substancial de inovação caracteriza-se por alterações corriqueiras ou rotineiras que não envolvem risco ou novidade substancial em 
+virtude dos processos e metodologias utilizados nos desenvolvimentos já serem conhecidos ou dominados pela empresa.
+Esses desenvolvimentos podem resultar em novos produtos, podem ser resultado 
+isolado de pesquisas de mercado ou pesquisas que visam conhecer e detectar 
+melhorias nos produtos e processos, mas, no entanto, não são elegíveis para os incentivos fiscais da Lei do Bem.
+
+
+
+B.2. Teste em Escala Industrial
+A legislação que norteia a fruição dos incentivos de inovação tecnológica conceitua 
+o desenvolvimento experimental, como relativo a trabalhos sistemáticos delineados
+a partir de conhecimentos preexistentes, visando à comprovação ou demonstração
+da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços
+ou, ainda, um evidente aperfeiçoamento dos já produzidos ou estabelecidos (Fonte:
+alínea c, art. 2º, Decreto 5.798/2006).
+Nesse sentido, os testes são atividades essenciais ao desenvolvimento de um novo/
+melhorado produto, processo, sistema ou serviço, pois permitem a comprovação da viabilidade técnica, caracterizando-se, assim, tipicamente como uma atividade de desenvolvimento experimental.
+Os testes em escala industrial podem ser definidos como ensaios em unidades piloto, 
+equipamento industrial ou unidade industrial para replicar, por meio de uma metodologia definida, os resultados obtidos em etapas anteriores da pesquisa realizada 
+em ambiente de laboratório.
+É comum o uso do termo planta piloto e planta de demonstração de forma intercambiável, entretanto, conceitualmente, uma planta piloto é de menor escala que uma 
+planta de demonstração.
+Dentre uma contextualização prática, testes em planta piloto podem ser descritos da 
+seguinte maneira: Uma planta piloto é um pequeno sistema industrial operado para 
+gerar informações sobre o comportamento do sistema. É utilizada na concepção de 
+instalações de maiores dimensões. Planta piloto é um termo relativo, no sentido de 
+que as plantas são geralmente menores do que as plantas de produção em grande 
+escala, mas são construídas em uma variedade de tamanhos. Algumas plantas são 
+construídas em laboratórios, enquanto outras exigem esforços substanciais de engenharia, têm custo elevado e são montadas e fabricadas a partir de equipamentos de 
+processo, instrumentação e de tubulação.
+As plantas piloto são utilizadas para reduzir o risco associado com a construção de 
+grandes instalações de processo e fazem isso de várias maneiras:
+• Definição de parâmetros de engenharia;
+• Expansão da capacidade de produção;
+• Introdução de novas tecnologias de processo;
+• Introdução de novos produtos.
+
+
+
+B.3. Nacionalização, Tropicalização e Localização
+A nacionalização, tropicalização ou localização de produtos e processos podem ser 
+entendidos como um conjunto de atividades necessárias para adaptar seus requisitos ou características técnicas a um mercado específico, com intuito de atender às 
+condições ambientais, demandas consumeristas e até mesmo exigências legislativas 
+de um país. 
+A Lei do Bem não traz qualquer menção em relação às atividades de nacionalização e localização, sendo que, pelo conceito de inovação tecnológica, 
+podemos entender que essas atividades somente podem ser consideradas 
+para fins dos incentivos fiscais se envolverem adaptações para a localização 
+do produto/processo ao mercado brasileiro, que seja resultado da alteração 
+e/ou incremento de funcionalidades e das características do produto ou 
+processo, somente por meio de atividades de PD&I .
+
+
+De forma prática, a princípio, no caso de nacionalização, tropicalização ou localização, 
+as atividades desenvolvidas não costumam apresentar a necessidade de superação de barreiras tecnológicas, salvo eventualmente, em atividades marginais quando 
+aparecem problemas não conhecidos anteriormente.
+Estas atividades podem resultar em atividades de PD&I, mas o projeto como um todo 
+não deve ser enquadrado como tal. Assim, caso haja atividade com característica de 
+pesquisa tecnológica ou inovação tecnológica, deve-se atentar à caracterização dos 
+desafios e das barreiras tecnológicas encontradas pelas empresas, além de demonstrar o novo conhecimento gerado, a capacitação tecnológica da equipe envolvida etc. 
+Lembrando que esse tipo de atividade requer um maior esforço de justificação para 
+que seja aceita pelo MCTI com a apresentação de documentos e Relatórios Técnicos.
+
+B.4. Projetos Plurianuais
+Muitas empresas possuem em seu portfólio projetos de diferente duração. Projetos 
+plurianuais são aqueles que ocorrem por um período superior a um ano. Tais projetos 
+podem ser tanto de pesquisa básica ou aplicada, quanto desenvolvimento experimental existindo tarefas durante todo o período que podem ou não ser enquadradas 
+em qualquer dos conceitos anteriormente descritos. Como características básicas, 
+projetos plurianuais devem possuir um planejamento de longo prazo, com etapas 
+de execução, acompanhamento, registro de atividades e fluxo de caixa do projeto 
+em questão. Devido às características específicas da legislação vigente (Lei 11.196 de 
+2005, Lei do Bem), poderemos considerar como projetos plurianuais aqueles cujos 
+trabalhos se estendem além de um período fiscal.
+Para melhor evidenciar as evoluções do projeto, recomenda-se:
+• No campo “Metodologia/Métodos utilizados”, recomenda-se que o conteúdo
+seja alterado a cada ano de apresentação do projeto, salientando os trabalhos, 
+dentro do cronograma, que foram desenvolvidos no decorrer do ano base.
+• Aproveitar o campo “Descrição Complementar” para esclarecer qualquer
+alteração com maior detalhe.
+• Se houver alguma alteração significativa de um ano para o outro no desenvolvimento do projeto, é recomendado reescrever o relatório. Caso haja
+alteração do escopo ou do desafio encontrado, deve-se modificar os textos
+correspondentes no relatório. Sugere-se ainda descrever as dificuldades e/
+ou desafios que não foram superados, se a empresa acredita ser possível
+solucionar nos próximos anos ou se, de fato, trata-se de uma barreira insuperável causando o insucesso do projeto.
+• Apresentar ao MCTI o cronograma geral do projeto detalhando os objetivos
+que se pretende atingir em cada ano de desenvolvimento.
+
+
+
+B.5. Terceirização das Atividades de PD&I
+Um dos pontos mais controversos em relação ao benefício fiscal à inovação tecnológica é a identificação dos dispêndios que podem ser considerados como PD&I, 
+principalmente se tratando de serviços prestados por terceiros. De acordo com o 
+inciso I, do artigo 17 da Lei nº 11.196/2005, podem ser beneficiados: “os dispêndios 
+realizados no período de apuração com pesquisa tecnológica e desenvolvimento 
+de inovação tecnológica classificáveis como despesas operacionais pela legislação 
+do Imposto sobre a Renda da Pessoa Jurídica - IRPJ ou como pagamento na forma 
+prevista no § 2º deste artigo”.
+A Lei do Bem não definiu claramente quais tipos de dispêndios poderiam ser beneficiados, mas em relação à contratação de serviços PD&I de terceiros, a lei dispôs 
+a segregação de pagamentos realizados a universidades, instituições de pesquisa, 
+inventor independente (art. 17, §2º Lei nº. 11.196/2005), microempresa e empresa 
+de pequeno porte (art. 18 da Lei nº 11.196/2005), desde que a pessoa jurídica que 
+efetuou o dispêndio fique com a responsabilidade, o risco empresarial, a gestão e o 
+controle da utilização dos resultados gerados.
+Por outro lado, a premissa principal do Art. 2º, I, do Decreto nº. 5798/2006 é que 
+inovação tecnológica trata da 
+
+
+“concepção de novo produto ou processo de fabricação, bem como a agregação de novas funcionalidades 
+ou características ao produto ou processo que implique 
+melhorias incrementais e efetivo ganho de qualidade 
+ou produtividade, resultando maior competitividade no 
+mercado”. 
+
+
+Assim, a empresa deve ser a genitora do projeto, devendo, como já descrito, ficar 
+com a responsabilidade, o risco empresarial, a gestão e o controle da utilização dos 
+resultados gerados. Assim, identifica-se o agente de inovação, principalmente nos 
+casos de desenvolvimento em conjunto, como pode ser entendido a utilização de 
+apoio técnico. Será então um Serviço de Apoio Técnico (item II, alínea e) se o desenvolvimento for de concepção da empresa tomadora do incentivo e outras empresas 
+participaram pontualmente no projeto. Seria terceirização, caso a outra empresa 
+tenha gestão e risco sobre o projeto ou parte dele. 
+Esse entendimento é corroborado pela Instrução Normativa RFB nº 1.187/2011 que 
+dispôs que não é permitido o uso dos incentivos em relação às importâncias empregadas ou transferidas a outra pessoa jurídica para execução de pesquisa tecnológica 
+e desenvolvimento de inovação tecnológica sob encomenda ou contratadas. Esse tipo 
+de atividade, em conjunto, seria permitido somente aos casos expressos referentes 
+aos montantes transferidos às universidades, instituição de pesquisa, inventor independente, microempresa (ME) e empresa de pequeno porte (EPP). Destaca-se, ainda, 
+que a própria Instrução Normativa RFB nº 1.187/2011 em seu artigo 4º esclarece que 
+os dispêndios com a prestação de serviços técnicos, tais como exames laboratoriais, 
+testes, contratados com outra pessoa jurídica podem ser beneficiadas desde que 
+não caracterizem transferência de execução da pesquisa, ainda que parcialmente.
+
+
+Nesse mesmo sentido, a Solução de Consulta nº 277, de 31 de outubro de 2011, 
+esclarece que o previsto no artigo 18 da Lei do Bem não traz impedimento para que 
+dispêndios realizados com empresas de grande porte sejam beneficiados, desde que 
+não haja transferência da execução da pesquisa, ainda que parcialmente.
+
+
+“PESQUISA TECNOLÓGICA E DESENVOLVIMENTO DE 
+INOVAÇÃO TECNOLÓGICA.
+O benefício previsto no artigo 18 da Lei n° 11.196/05 não 
+impede que as despesas com pesquisa tecnológica e desenvolvimento de inovação tecnológica, classificáveis 
+como despesas operacionais pela legislação do Imposto 
+sobre a Renda de Pessoa Jurídica (IRPJ) realizadas com 
+empresas de grande porte sejam levadas em consideração para o aproveitamento do incentivo fiscal, desde que 
+não caracterizem transferência de execução da pesquisa, 
+ainda que parcialmente. Cabe ao Ministério da Ciência e 
+Tecnologia - MCT determinar se os dispêndios efetuados 
+pela pessoa jurídica podem ser considerados como dispêndios vinculados à pesquisa tecnológica e desenvolvimento de inovação tecnológica, para fins de gozo do 
+incentivo fiscal.”
+
+
+
+Diante dos dispositivos acima mencionados, entende-se que as atividades de 
+pesquisa tecnológica e desenvolvimento de inovação tecnológica (pesquisa 
+básica, pesquisa aplicada e desenvolvimento experimental) apenas podem 
+ser beneficiadas para desenvolvimento em conjunto quando encomendadas/
+contratadas para universidades, instituição de pesquisa, inventor independente, microempresa e empresa de pequeno porte, atendidas as condições 
+impostas pela legislação.
+Atualmente é muito comum no desenvolvimento de novos produtos ou processos a 
+prática de inovação aberta (open innovation), ou seja, conforme o livro Open Innovation: The New Imperative for Creating and Profiting from Technology, de Henry Chesbrough, as empresas também recorrem a conhecimentos externos para avançar de 
+forma eficiente nas atividades de PD&I, já que o conhecimento está globalmente distribuído.
+A prática da inovação aberta pode se dar de diversas formas, tais como por meio da 
+internalização de ideias, tecnologias, patentes (ou até mesmo licenciamento delas), 
+protótipos, criação de spin-offs etc. Porém, é claro que, neste modelo, o estabelecimento de parcerias é fundamental.
+No que tange às atividades de PD&I, especificamente, tem sido prática recorrente a formalização de parcerias com universidades, instituições de pesquisa 
+ou empresas com o propósito de desenvolver novos/aprimorados produtos 
+ou processos. As parcerias são constituídas para suprir lacunas internas da 
+empresa. Estas demandas podem ser, por exemplo: carência de habilidades 
+ou especialização; necessidade de desenvolvimento de materiais, peças, 
+componentes, produtos, equipamentos e serviços técnicos complementares; necessidade de focar nas atividades estratégicas de PD&I em detrimento da atuação no desenvolvimento de atividades periféricas, mas essenciais 
+para atingir o objetivo principal.
+Em cada parceria executada, há um propósito específico de execução de projetos 
+de PD&I. Em alguns casos, o objeto de contratação será apenas a execução de 
+encomenda de tecnologia, ou seja, a proposta da contratação é delegar a um terceiro 
+a execução de toda pesquisa. Em outros, a proposta é o desenvolvimento de uma 
+parceria para a realização de um projeto cujo escopo será o surgimento de uma 
+inovação compartilhada (desenvolvimento compartilhado). Há casos também em 
+que haverá apenas prestação de serviços que serão executados de forma a complementar o atingimento do objetivo da inovação - obtenção ou aprimoramento de 
+produtos ou processos. E, por vezes, o escopo da prestação será apenas a qualificação e homologação de tecnologias existentes.
+Embora a formalização de parcerias seja fundamental para as atividades de inovação 
+tecnológica, a Lei do Bem buscou limitar quais os dispêndios com parcerias, que 
+envolvam encomenda/contratação de PD&I, podem ser beneficiados, conforme demonstrado. Nestes casos deve-se verificar o que cabe a cada parte, utilizando-se 
+os incentivos somente às partes desenvolvidas pela empresa beneficiária, evitando 
+ainda a utilização dupla (por empresas diferentes) sobre o mesmo montante. Como 
+indicado anteriormente, serviços de apoio técnico podem ser terceirizados, independentemente do porte da empresa contratada, desde que não caracterize transferência da pesquisa.
+Sem dúvida, os incentivos fiscais destinados às empresas inovadoras representam um marco estratégico importante para o país. Com efeito, as concessões de 
+tais incentivos têm contribuído sobremaneira para despertar, no meio empresarial, 
+em qualquer área de atuação, a necessidade de melhorar a gestão tecnológica, de 
+adotar modelos de mecanismos de cooperação entre empresas, fornecedores, universidades, ICTs, redes de pesquisas setoriais e micro e pequenas empresas, para 
+aumentar a competitividade em seus produtos, processos e serviços e, por consequência, competir em bases mais sólidas, e com produtos de maior valor agregado.
+O ponto aqui é destacar a necessidade de reflexão da empresa sobre o papel dela 
+na pesquisa, buscando identificar nesta análise se o risco, a responsabilidade, gestão 
+e controle do resultado destes dispêndios serão dela ou caberá ao contratado. Se 
+todos estes requisitos couberam à empresa contratante, caberá à mesma utilizar a 
+dedutibilidade dos dispêndios
+
+
+
+APÊNDICE C - Telas da nova versão do 
+FormP&D
+O PREENCHIMENTO DAS TELAS 1 E 2 DEVERÁ SER FEITO PELO RESPONSÁVEL  LEGAL DA EMPRESA
+
+
+
+1.1 identificação da empresa
+1.1.1 Tipo de Organismo
+Privado / Público / Misto
+
+1.1.2 Situação da Empresa
+Em operação / Incorporação por outra empresa / Alteração de CNPJ por motivos distintos dos anteriores / Fusão ou Cisão Total / Cisão parcial
+
+1.1.3
+Nos termos do Art. 26 da lei 11.196/05, A empresa se beneficia dos incentivos fiscais previstos na lei n 8.248/1991 (Relacionada a informática e automação)?
+Não / Sim 
+
+2.1.1 Origem do capital controlador da empresa
+Nacional / Misto / Estrangeiro
+
+2.1.2 Qual a sua relação com o grupo
+Controladora / Coligada / Controlada / Independente
+
+2.1.3 Qual o valor da receita líquida da empresa no ano base
+
+2.1.4 O número total de funcionários com vínculo empregatício com a empresa
+
+2.1.5 A empresa fechou com prejuízo fiscal no ano base
+Não / Sim
+
+3.1 Atividades PD&I
+Observações: a) Descreva abaixo com clareza no que consiste a pesquisa (Pesquisa Básica, pesquisa Aplicada ou Desenvolvimento Experimental) e quais são seus marcos críticos e seus elementos tecnologicamente inovadores, conforme orientações acima; b) projetos com data de início / previsão de término acima de um ano são caracterizados como projetos plurianuais. É necessário a empresa apresentar as evoluções anuais desenvolvidas pelo projeto e evitar a repetição da mesma descrição em todos os anos; c) Projetos desenvolvidos em rede (parcerias entre empresas) é necessário informar no item 3.1.8 Descrição a razão social e CNPJ das empresas participantes. No formulário é necessário a empresa declarar somente o valor gasto de sua parte no projeto.
+
+3.1.1 Nome da atividade de PD&I
+
+3.1.2 Descrição do Projeto
+
+3.1.3 PB, PA ou DE
+
+3.1.4 Área do Projeto
+
+3.1.5 Palavras-chave
+
+3.1.6 Natureza
+produto / Serviço / Processo
+
+3.1.7 Destaque o elemento tecnologicamente novo ou inovador da atividade
+
+3.1.8 Qual a barreira ou desafio tecnológico superável
+
+3.1.9 Qual a metodologia / métodos utilizados
+
+3.1.10 A atividade é contínua (ciclo de vida maior que 1 ano)?
+Não / Sim
+
+3.1.11 Data de início da atividade
+
+3.1.12 previsão de término
+
+3.1.13 Informação Complementar
+
+3.1.14 Objetivo do projeto
+O que a empresa espera com o resultado do projeto?
+
+3.1.14.2 Resultado da Inovação
+
+3.1.15 Serviços de terceiros
+Observações: 1. Em prestador de serviço, incluir inventores independentes, Instituições de Pesquisa, Microempresas e Empresas de Pequeno porte (conforme 1 do art. 3 e art. 7 do Decreto n. 5.798/06), se aplicáveis; 2. Incluir dispêndios efetivados em projeto a ser executado por ICT ou por entidades científicas e tecnológicas privadas, sem fins lucrativos. (conforme art. 19 A da lei 11.196/05); 3. O valor anotado no subitem 2 do item 5.3, serviço de terceiro, deve estar no seu total especificado.
+
+3.1.15.1 Relação dos serviços de terceiros - contratados
+
+3.1.15.1.1 Universidades
+3.1.15.1.1.1 Situação
+3.1.15.1.1.2 CNPJ
+3.1.15.1.1.3 Nome
+3.1.15.1.1.4 Valor Total (R$)
+3.1.15.1.1.5 Caracterizar o Serviço Realizado
+
+3.1.15.1.2 instituição de Pesquisa
+3.1.15.1.2.1 Situação
+3.1.15.1.2.2 CNPJ
+3.1.15.1.2.3 Nome
+3.1.15.1.2.4 Valor Total (R$)
+3.1.15.1.2.5 Caracterizar o Serviço Realizado
+
+3.1.15.1.3 Inventor Independente
+3.1.15.1.3.1 Situação
+3.1.15.1.3.2 CNPJ
+3.1.15.1.3.3 Nome
+3.1.15.1.3.4 Valor Total (R$)
+3.1.15.1.3.5 Caracterizar o Serviço Realizado
+
+
+3.1.15.2 Relação dos serviços de terceiros - valores Transferidos
+3.1.15.2.1 Micro Empresas
+3.1.15.2.1.1 Situação
+3.1.15.2.1.2 CNPJ
+3.1.15.2.1.3 Nome
+3.1.15.2.1.4 Valor Total (R$)
+3.1.15.2.1.5 Caracterizar o Serviço Realizado
+
+3.1.15.2.2 Empresas de Pequeno Porte
+3.1.15.2.2.1 Situação
+3.1.15.2.2.2 CNPJ
+3.1.15.2.2.3 Nome
+3.1.15.2.2.4 Valor Total (R$)
+3.1.15.2.2.5 Caracterizar o Serviço Realizado
+
+3.1.15.2.3 Inventor Independente
+3.1.15.2.3.1 Situação
+3.1.15.2.3.2 CNPJ
+3.1.15.2.3.3 Nome
+3.1.15.2.3.4 Valor Total (R$)
+3.1.15.2.3.5 Caracterizar o Serviço Realizado
+
+3.1.15.2.4 Serviço de apoio Técnico, Tecnologia Idustrial Básica e Viagens
+3.1.15.2.4.1 Situação
+3.1.15.2.4.2 CNPJ
+3.1.15.2.4.3 Nome
+3.1.15.2.4.4 Valor Total (R$)
+3.1.15.2.4.5 Caracterizar o Serviço Realizado
+
+3.1.15.2.5 Micro Empresas
+3.1.15.2.5.1 Situação
+3.1.15.2.5.2 CNPJ
+3.1.15.2.5.3 Nome
+3.1.15.2.5.4 Valor Total (R$)
+3.1.15.2.5.5 Caracterizar o Serviço Realizado
+
+3.1.15.2.6 Relação de Material de Consumo
+3.1.15.2.6.1 Valor (R$)
+3.1.15.2.6.2 Descrição
+
+3.1.15.2.7 Material de Consumo
+3.1.15.2.7.1 Descreva a Vinculação entre os Materiais de Consumo e a Linha de Pesquisa
+
+3.1.15.2.8 Relação de Recursos Humanos
+3.1.15.2.8.1 CPF
+3.1.15.2.8.2 Nome
+3.1.15.2.8.3 Titulação
+3.1.15.2.8.4Total Horas (Anual)
+3.1.15.2.8.5 Dedicação
+3.1.15.2.8.6 Valor (R$)
+
+3.1.15.2.9 Recursos Humanos
+3.1.15.2.9.1 Descreva a Vinculação entre Recursos Humanos e a Linha de Pesquisa
+
+3.1.17 Anexar Arquivo
+Inserir documentação para comprovação das atividades de PD&I realizados no ano base. 
+
+4.1 Patentes e Registros
+4.1.1 Decorrente da utilização dos incentivos, a empresa obteve concessão de planta, registro de cultivar ou outros direitos de propriedade intelectual em escritório de patentes no Brasil ou no exterior ou está pleiteando.
+
+5.1 Dispêndios do programa
+5.1.1 Fontes de Financiamento
+5.1.1.1 Recursos Próprios
+
+5.1.1.2 Fontes de Financiamento
+5.1.1.2.1 Financiamentos
+
+5.1.1.2.2 Fontes de Financiamento
+
+5.2 Bens Intangíveis
+5.2.1 Valor
+5.2.2 Descrição
+5.2.3 Relação dos Projetos
+
+5.3 Equipamentos por projeto de PD&I
+1 Relacionar os equipamentos, máquinas, aparelhos e instrumentos, bem como os acessórios sobressalentes e ferramentas que acompanham esses bens, destinados a Pesquisa e Desenvolvimentos Técnológico. 2 tais equipamentos não devem estar realcionados se estiverem na linha de produção.
+
+5.3.1 Relação de equipamentos nacionais adquiridos noano base
+5.3.1.1 identificação do Equipamento
+5.3.1.2 N da nota fiscal
+5.3.1.3 Valor
+5.3.1.4 Especificação
+5.3.1.5 Relação dos projetos
+
+5.3.2 Relação de equipamentos importados adquiridos no ano base
+5.3.2.1 Identificação do Equipamento
+5.3.2.2 Declarção de importação
+5.3.2.3. Valor
+5.3.2.4 Especificação
+5.3.2.5 Relação dos Projetos
+
+5.4 Pesquisadores com dedicação exclusiva
+5.4.1 Teve pesquisadores contratados em regime de dedicação exclusiva as atividades de P&D no ano base?
+Sim / Não
+
+5.5 Programa de formação ou desenvolvimento de RH
+5.5.1 A empresa possui algum programa de formação ou desenvolvimento de RH destinado as suas atividades de PD&I
+Sim / Não
+
+5.6 Gastos destinados ao registro e a manutenção de marcas, patentes e cultivares, ainda que pagos no exterior
+5.6.1 Especificação
+5.6.2 Valor
+
+6.1 Incentivos fiscais do programa
+6.1.1 Dedução, para efeito de apuração do lucro líquido, da some dos dispêndios de custeior realizados no Ano Base 9art. 3, I) - pesquisadores, Serviços de Terceiro, Apoio Técnico e Material de Consumo.
+
+6.1.2 Deduções adicionais
+6.1.2.1 Dedução, par
+
+
+pág 67. Guia Prático Lei do Bem
+
+
+
+
+
+
+
+
 
 
 
