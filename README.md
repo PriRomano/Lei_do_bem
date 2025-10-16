@@ -2852,3 +2852,1200 @@ Apresentar evidências e documentos que demonstrem o mérito do projeto como P&D
 Apontar os equívocos técnicos ou omissões no parecer;
 
 
+
+
+
+
+
+
+
+
+
+# Guia Prático da Lei do Bem
+
+
+
+Índice
+
+1. Introdução ..............................................................................................................................9
+Parte I – Conceitos e Informações Gerais ........................................................ 11
+2. Por que usar a Lei do Bem? .............................................................................................12
+2.1. Importância e Alcance dos Benefícios: ................................................................12
+2.2. Benefícios concedidos: ............................................................................................12
+2.3. Da Comprovação das Atividades de PD&I:.........................................................13
+2.4. Das Vantagens em realizar Investimentos em PD&I: ......................................13
+3. Legislação .............................................................................................................................14
+4. Informações e orientações complementares .............................................................16
+5. Definições .............................................................................................................................17
+5.1. Inovação Tecnológica ..............................................................................................17
+5.2. Pesquisa Básica Dirigida .........................................................................................17
+5.3. Pesquisa Aplicada .....................................................................................................17
+5.4. Desenvolvimento Experimental ............................................................................17
+5.5. Tecnologia Industrial Básica ...................................................................................17
+5.6. Serviços de Apoio Técnico ......................................................................................18
+5.7. Pesquisador Contratado .........................................................................................18
+6. Atividades de PD&I ............................................................................................................19
+6.1. Descrição do Projeto ...............................................................................................19
+6.2. Elemento Tecnologicamente Novo ou Inovador da Atividade ......................19
+6.3. Barreira ou Desafio Tecnológico Superável .......................................................20
+6.4. Metodologia e Métodos Utilizados ......................................................................21
+6.5. Descritivo Complementar .......................................................................................21
+Parte II – Requisitos para Aplicação e Uso ........................................................ 23
+7. Capítulo III da Lei do Bem .................................................................................................24
+7.1. Da Abrangência .........................................................................................................24
+7.2. Dos Incentivos (Arts. 17, 18, 19, 19-A, 20 e 21) .................................................24
+7.3. Demais artigos (arts. 22, 23, 24, 25 e 26) ...........................................................32
+7.4. Do Ciclo de Uso dos Incentivos .............................................................................33
+   8. Escrituração Contábil Digital (ECD) e Escrituração Contábil Fiscal (ECF) ..............35
+9. Preenchimento do Formulário Eletrônico FormP&D ................................................36
+9.1. Acesso, Preenchimento e Envio ............................................................................36
+9.2. Guia de Utilização do Sistema ...............................................................................37
+10. Avaliação do FormP&D ......................................................................................................38
+11. Perguntas e Respostas ......................................................................................................39
+APÊNDICE A - Contextualização teórica de Inovações de Produto, Processo e 
+Serviço e suas melhorias ..................................................................................................40
+A.1. Produto ........................................................................................................................40
+A.2. Processo ......................................................................................................................41
+A.3. Sistemas .......................................................................................................................43
+A.4. Serviço ..........................................................................................................................44
+APÊNDICE B – Pontos complementares ...............................................................................46
+B.1. Conceito de Engenharia ..........................................................................................46
+B.2. Teste em Escala Industrial .......................................................................................47
+B.3. Nacionalização, Tropicalização e Localização ....................................................48
+B.4. Projetos Plurianuais ..................................................................................................49
+B.5. Terceirização das Atividades de PD&I .................................................................50
+APÊNDICE C - Telas da nova versão do FormP&D ..............................................................53
+APÊNDICE D - Guia de Utilização do Sistema .......................................................................72
+D.1. Como acessar o Forms ............................................................................................72
+D.2. Acessando o FormP&D ............................................................................................75
+D.3. Como preencher o FormP&D ...............................................................................9
+
+
+
+
+
+
+
+
+1. Introdução
+Cada vez mais as organizações buscam soluções para aumentar seu grau de inovação, 
+sua produtividade e sua competitividade. Assim como adotam estratégias planejadas para reduzir custos empresariais, otimizar as etapas de produção e aprimorar 
+processos.
+O investimento das organizações em atividades de Pesquisa e Desenvolvimento 
+(P&D) suportadas por projetos que busquem desvendar os desafios tecnológicos 
+reflete diretamente na geração de empregos especializados e no desenvolvimento e 
+na competitividade do País.
+Em complemento aos investimentos das companhias, os incentivos fiscais que 
+estimulam as atividades de Pesquisa, Desenvolvimento e Inovação tecnológica (PD&I) 
+são instrumentos importantes para promover o desenvolvimento dos setores produtivos, estimulando a inovação e compartilhando o risco tecnológico inerente ao 
+processo de inovar. 
+Nesse contexto, a Lei nº 11.196/2005, conhecida como a Lei do Bem, é considerada 
+o principal instrumento de estímulo às atividades de PD&I nas empresas brasileiras.
+Isso porque oferece a estas, em seu Capítulo III, a possibilidade de uso de alguns incentivos fiscais, abarcando todos os setores da economia e regiões do país. Contribui,
+assim, efetivamente para a inovação, o desenvolvimento da capacidade técnico-produtiva das empresas e o aumento do valor agregado da produção de bens e serviços.
+Visando esclarecer, para as empresas beneficiárias, de maneira prática e objetiva 
+sobre a aplicação deste dispositivo, o Ministério de Ciência, Tecnologia e Inovações, 
+a Associação Nacional de Pesquisa e Desenvolvimento das Empresas Inovadoras – 
+ANPEI e respectiva equipe técnica, investiram esforços na elaboração de guias explicativos. Em 2017 foi editado o primeiro guia e em 2019 a primeira versão do Guia 
+Prático da Lei do Bem, resultado do Grupo de Trabalho (GT) do MCTI instituído para 
+propor o aperfeiçoamento da aplicação do Capítulo III da Lei nº 11.196, de 21 de 
+novembro de 2005. 
+Da mesma forma que no ano anterior, em 2020 foi instituído um novo GT com intuito 
+de dar continuidade ao trabalho de aperfeiçoamento da Lei e na elaboração de uma 
+nova versão do Guia, que contou com a efetiva participação da ANPEI e de seus associados. 
+O resultado está no presente Guia. As informações e orientações contidas neste 
+documento objetivam trazer para os atuais e futuros usuários da Lei do Bem, de 
+forma prática e objetiva, o esclarecimento de dúvidas e o entendimento dos procedimentos necessários à melhor e mais efetiva utilização dos incentivos fiscais tratados 
+na Lei.
+As empresas encontrarão também referências sobre a legislação e outras fontes de 
+consulta relacionadas à Lei do Bem e que tratam de conceitos relativos às atividades 
+de PD&I.
+O MCTI e a ANPEI recomendam o Guia como instrumento gerencial permanente das 
+empresas, garantindo melhor segurança e conforto para o uso da Lei do Bem e, consequentemente, a sua mais ampla utilização como efetivo instrumento de fomento à 
+inovação no país. 
+Assim, mais do que boa leitura, recomendamos um ótimo uso no dia a dia do gestor 
+da inovação nas empresas!
+
+
+
+
+
+Parte I – Conceitos e 
+Informações Gerais 
+
+
+2. Por que usar a Lei do Bem?
+
+2.1. Importância e Alcance dos Benefícios
+Atualmente a Lei do Bem se constitui no principal instrumento de estímulo às atividades de PD&I nas empresas brasileiras, abarcando todos os setores da economia, 
+sendo fundamental para sustentar o desenvolvimento da capacidade técnico-produtiva e o aumento do valor agregado da produção de bens e serviços. Este instrumento alcança todas as empresas estabelecidas no país, sem distinção da origem do 
+capital, de sua área de atuação ou a região onde está localizada, desde que operem 
+no Regime Tributário do Lucro Real.
+A empresa poderá deduzir do lucro líquido, para fins de determinação do lucro real e 
+da base de cálculo da Contribuição Social sobre o Lucro Líquido (CSLL), o valor correspondente à soma dos dispêndios realizados no período de apuração com pesquisa 
+tecnológica e desenvolvimento de inovação tecnológica, classificáveis como:
+• despesas operacionais pela legislação do Imposto sobre a Renda de Pessoa
+Jurídica (IRPJ);
+• pagamento para execução de projetos de PD&I contratados no País com universidade, instituição de pesquisa ou inventor independente de que trata a
+Lei nº 10.973/2004; e
+• as importâncias transferidas a microempresas e empresas de pequeno porte
+de que trata a Lei Complementar nº 123, de 14 de dezembro de 2006, destinadas à execução de atividades de pesquisa tecnológica e de desenvolvimento de inovação tecnológica.
+2.2. Benefícios concedidos:
+Os benefícios concedidos por meio do art. 19 da Lei 11.196/2005 incluem:
+I - Dedução da soma dos dispêndios de custeio nas atividades de Pesquisa, Desenvolvimento e Inovação – PD&I no cálculo do IRPJ e CSLL, nos seguintes percentuais:
+• Até 60%, via exclusão;
+• Mais 10%, na contratação de pesquisadores para PD&I (Incremento inferior
+a 5%);
+• Mais 20%, na contratação de pesquisadores para PD&I (Incremento superior
+a 5%); e
+• Mais até 20%, nos casos de patente concedida ou registro de cultivar.
+II - Redução de 50% do IPI na aquisição de bens destinados à PD&I;
+III - Depreciação Acelerada Integral de bens novos destinados à PD&I;
+IV - Amortização Acelerada de bens intangíveis destinados à PD&I; e
+V - Redução a zero da alíquota do Imposto de Renda Retido na Fonte (IRRF) nas 
+remessas de recursos financeiros para o exterior destinadas ao registro e manutenção de marcas, patentes e cultivares.
+
+
+
+
+2.3. Da Comprovação das Atividades de PD&I:
+A fruição dos benefícios, para realização de atividades PD&I pelas empresas, é autodeclaratória, não sendo necessária uma aprovação prévia. No entanto, a empresa 
+deverá prestar, em meio eletrônico, até 31 de julho do ano subsequente ao ano de 
+fruição, as informações sobre os programas de P&D tecnológico que foram beneficiados.
+Essas informações deverão constar de um projeto de PD&I com controle analítico dos 
+custos e despesas integrantes de cada projeto incentivado e, para tanto, a empresa 
+deverá utilizar critérios uniformes e consistentes ao longo do tempo, registrando de 
+forma detalhada e individualizada os dispêndios, inclusive para: horas dedicadas, 
+trabalhos desenvolvidos e os respectivos custos de cada pesquisador ou funcionário 
+de apoio técnico, por projeto incentivado.
+O MCTI é o órgão responsável pelo recebimento dessas informações e pela análise 
+dos projetos. O Ministério poderá solicitar maiores esclarecimentos, para efeito de 
+enquadramento do projeto na Lei do Bem. Caso o enquadramento não seja justificado por meio das informações apresentadas, competirá ao órgão poderá decidir pela 
+não aprovação, pela aprovação parcial ou integral do projeto, cabendo recurso.
+2.4. Das Vantagens em realizar Investimentos em PD&I:
+Há consenso no meio empresarial que o aumento da competitividade passa, entre 
+outros fatores, pelo aumento da atividade inovadora nas empresas, especialmente 
+na indústria por meio de novos produtos, processos e serviços.
+Está comprovado que as empresas que realizaram investimentos em atividades de 
+PD&I obtiveram aumento na competitividade de seus produtos, processos e serviços, 
+aumento no faturamento e na criação de empregos, e maior facilidade na internacionalização de suas atividades. 
+
+
+
+O benefício alcança as atividades 
+de Pesquisa Básica, Aplicada e 
+Desenvolvimento Experimental. A 
+inovação é o resultado que se 
+espera das empresas que se utilizam da 
+Lei do Bem
+
+
+
+
+3. Legislação
+Há diversos instrumentos legais que disciplinam os assuntos relacionados ao uso 
+dos incentivos fiscais tratados na Lei do Bem. Sendo, principalmente leis, decretos, 
+portarias e instruções normativas.
+Diante disso, esses instrumentos devem ser conhecidos e estudados para melhor 
+entendimento e aplicação do dispostivo, conforme a seguir:
+
+
+Leis:
+LEI No 8.661, DE 2 DE JUNHO DE 1993.
+https://www.planalto.gov.br/ccivil_03/LEIS/L8661.htm
+LEI Nº 10.973, DE 2 DE DEZEMBRO DE 2004
+https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L10.973.htm
+LEI Nº 11.196, DE 21 DE NOVEMBRO DE 2005
+https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196.htm
+LEI Nº 11.487, DE 15 DE JUNHO DE 2007.
+https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11487.htm
+LEI Nº 13.243, DE 11 DE JANEIRO DE 2016.
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13243.htm
+
+Decretos:
+DECRETO Nº 5.798, DE 7 DE JUNHO DE 2006.
+https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5798.htm
+DECRETO Nº 6.260, DE 20 DE NOVEMBRO DE 2007.
+https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6260.htm
+DECRETO Nº 6.909, DE 22 DE JULHO DE 2009.
+https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6909.htm
+
+Portarias:
+Portaria MCT nº 327, de 29.04.2010
+https://antigo.mctic.gov.br/mctic/opencms/legislacao/portarias/migracao/Portaria_MCT_n_327_de_29042010.html
+Portaria MCTI nº 788, de 05.08.2014
+https://antigo.mctic.gov.br/mctic/opencms/legislacao/portarias/migracao/Portaria_MCTI_n_788_de_05082014.html?searchRef=setec&tipoBusca=expressaoExata
+PORTARIA Nº 4.349, DE 4 DE AGOSTO DE 2017
+https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/19218931/do1-2017-08-07-portaria-n-4-349-de-4-de-agosto-de-2017-19218844
+PORTARIA 2.256, DE 18 DE MAIO DE 2020
+https://www.in.gov.br/en/web/dou/-/portaria-2.256-de-18-de-maio-de-2020-257608278
+PORTARIA Nº 2.794, DE 30 DE JUNHO DE 2020
+https://www.in.gov.br/en/web/dou/-/portaria-n-2.794-de-30-de-junho-de-2020-267730723
+
+Instrução Normativa:
+Instrução Normativa RFB nº 1187, de 29 de agosto de 2011
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/16160/visao/multivigente
+
+
+
+O texto abaixo apresenta esses instrumentos listados em ordem cronológica, com a 
+descrição do assunto e informações quanto à vigência
+
+LEI No 8.661, DE 2 DE JUNHO DE 1993. https://www.planalto.gov.br/ccivil_03/LEIS/L8661.htm
+- Dispõe sobre os incentivos fiscais para a capacitação tecnológica  da indústria e da agropecuária e dá outras providências. - Revogada pela: LEI Nº 11.196, DE 21 DE NOVEMBRO DE 2005 https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196.htm
+
+LEI Nº 10.973, DE 2 DE DEZEMBRO DE 2004 https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L10.973.htm - Dispõe sobre incentivos à inovação e à pesquisa científica e 
+tecnológica no ambiente produtivo e dá outras providências. Alterada pela: LEI Nº 13.243, DE 11 DE JANEIRO DE 2016. https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13243.htm
+
+LEI Nº 11.196, DE 21 DE NOVEMBRO DE 2005 (Capítulo III) https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196.htm - Dispõe sobre incentivos fiscais para a inovação tecnológica. Alterada pela Lei: LEI Nº 11.487, DE 15 DE JUNHO DE 2007. https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11487.htm
+
+DECRETO Nº 5.798, DE 7 DE JUNHO DE 2006. https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5798.htm - Regulamenta os incentivos fiscais às atividades de PD&I, de que 
+tratam os arts. 17 a 26 da Lei nº 11.196, de 21.11.2005.  - Alterado pelo: DECRETO Nº 6.909, DE 22 DE JULHO DE 2009. https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6909.htm e pelo: DECRETO Nº 9.947, DE 31 DE JULHO DE 2019 https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Decreto/D9947.htm
+
+LEI Nº 11.487, DE 15 DE JUNHO DE 2007.
+https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11487.htm - Altera a Lei nº 11.196, de 21 de novembro de 2005, para incluir 
+novo incentivo à inovação tecnológica e modificar as regras 
+relativas à amortização acelerada para investimentos vinculados 
+à P&D.  - Vigente
+
+
+DECRETO Nº 6.260, DE 20 DE NOVEMBRO DE 2007.
+https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6260.htm - Dispõe sobre a exclusão do lucro líquido, para efeito de 
+apuração do lucro real e da base de cálculo da CSLL, dos 
+dispêndios efetivados em projeto de pesquisa científica e 
+tecnológica e de inovação tecnológica a ser executado por 
+Instituição Científica e Tecnológica (ICT). - Alterada pelo: DECRETO Nº 6.909, DE 22 DE JULHO DE 2009.
+https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6909.htm
+
+
+DECRETO Nº 6.909, DE 22 DE JULHO DE 2009.
+https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6909.htm - Altera o Decreto nº 5.798, de 7 de junho de 2006, que 
+regulamenta os incentivos fiscais às atividades de pesquisa 
+tecnológica e desenvolvimento de inovação tecnológica, de que 
+tratam os arts. 17 a 26 da Lei nº 11.196, de 21 de novembro 
+de 2005, e o Decreto nº 6.260, de 20 de novembro de 2007, 
+que dispõem sobre a exclusão do lucro líquido, para efeito de 
+apuração do lucro real e da base de cálculo da Contribuição 
+Social sobre o Lucro Líquido - CSLL, dos dispêndios efetivados 
+em projeto de pesquisa científica e tecnológica e de inovação 
+tecnológica a ser executado por ICT.  - Vigente
+
+
+Portaria MCT nº 327, de 29.04.2010
+https://antigo.mctic.gov.br/mctic/opencms/legislacao/portarias/migracao/Portaria_MCT_n_327_de_29042010.html - Aprova o formulário eletrônico para que as pessoas jurídicas 
+beneficiárias dos incentivos fiscais previstos no Capítulo III da 
+Lei nº 11.196, de 2005, regulamentados pelo Decreto nº 5.798, 
+de 2006, prestem ao Ministério da Ciência e Tecnologia (MCT) as 
+informações anuais sobre os seus programas de PD&I.  - Vigente
+
+Instrução Normativa RFB nº 1187, de 29 de agosto de 2011
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/16160/visao/multivigente - Disciplina os incentivos fiscais às atividades de pesquisa 
+tecnológica e desenvolvimento de inovação tecnológica de que 
+tratam os arts. 17 a 26 da Lei nº 11.196, de 21 de novembro de 
+2005.  - Vigente
+
+Portaria MCTI nº 788, de 05.08.2014
+https://antigo.mctic.gov.br/mctic/opencms/legislacao/portarias/migracao/Portaria_MCTI_n_788_de_05082014.html?searchRef=setec&tipoBusca=expressaoExata - Dispõe sobre a criação de Comitês de Auxílio Técnico para 
+auxiliar o Ministério da Ciência, Tecnologia, Inovações e 
+Comunicações em atividade de natureza consultiva relacionadas 
+à política de fomento à inovação tecnológica, disciplinada no 
+Capítulo III da Lei nº 11.196, de 21 de novembro de 2005 (Lei do 
+Bem), regulamentada pelo Decreto nº 5.798, de 7 de junho de 
+2006. - Vigente
+
+LEI Nº 13.243, DE 11 DE JANEIRO DE 2016.
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13243.htm - Dispõe sobre estímulos ao desenvolvimento científico, à 
+pesquisa, à capacitação científica e tecnológica e à inovação 
+e altera a Lei no 10.973, de 2 de dezembro de 2004, a Lei no 
+6.815, de 19 de agosto de 1980, a Lei no 8.666, de 21 de junho 
+de 1993, a Lei no 12.462, de 4 de agosto de 2011, a Lei no 8.745, 
+de 9 de dezembro de 1993, a Lei no 8.958, de 20 de dezembro 
+de 1994, a Lei no 8.010, de 29 de março de 1990, a Lei no 8.032, 
+de 12 de abril de 1990, e a Lei no 12.772, de 28 de dezembro 
+de 2012, nos termos da Emenda Constitucional no 85, de 26 de 
+fevereiro de 2015. - Vigente
+
+
+PORTARIA Nº 4.349, DE 4 DE AGOSTO DE 2017
+https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/19218931/do1-2017-08-07-portaria-n-4-349-de-4-de-agosto-de-2017-19218844 - Dispõe sobre os procedimentos para a prestação de informações 
+ao MCTIC, pelas empresas beneficiárias dos incentivos fiscais 
+de que trata o Capítulo III da Lei nº 11.196, de 21 de novembro
+de 2005 (Lei do Bem), sobre os seus programas de pesquisa 
+tecnológica e desenvolvimento de inovação tecnológica, bem 
+como para a análise dessas informações, e para o oferecimento 
+de contestação e recurso ao resultado da referida análise. - Vigente
+
+
+
+
+
+
+4. Informações e orientações
+complementares
+Além dos instrumentos legais já citados, estão disponíveis publicações de instituições 
+ligadas ao fomento das atividades de PD&I nas empresas, que contribuem com informações e orientações importantes, tais como:
+• Manual de Frascati - 2015 OK
+• Manual PINTEC – 2017
+• Guia da Lei do Bem (Anpei) - 2017 OK
+
+
+
+
+
+5. Definições
+A Lei do Bem tem como principal objetivo incentivar as empresas na busca da 
+inovação tecnológica, por meio da pesquisa tecnológica e do desenvolvimento de 
+inovação tecnológica.
+O Decreto nº 5.798/2006, nos artigos 1º e 2º, trouxe a definição de que a pessoa 
+jurídica poderá utilizar os incentivos fiscais para as atividades de pesquisa tecnológica e desenvolvimento de inovação, conceituando cada uma destas atividades:
+5.1. Inovação Tecnológica
+Em seu inciso I, do art. 2º, o Decreto nº 5.798/2006 define inovação tecnológica como: 
+a concepção de novo produto ou processo de fabricação, bem como a agregação 
+de novas funcionalidades ou características ao produto ou processo que implique 
+melhorias incrementais e efetivo ganho de qualidade ou produtividade, resultando 
+maior competitividade no mercado. 
+5.2. Pesquisa Básica Dirigida
+A pesquisa básica dirigida, tem sua definição na alínea “a”, inciso II, do art. 2º, onde 
+define que os trabalhos executados com o objetivo de adquirir conhecimentos quanto 
+à compreensão de novos fenômenos, com vistas ao desenvolvimento de produtos, 
+processos ou sistemas inovadores.
+5.3. Pesquisa Aplicada
+Para a pesquisa aplicada, sua definição se dá pela alínea “b”, inciso II, do art. 2º: os 
+trabalhos executados com o objetivo de adquirir novos conhecimentos, com vistas 
+ao desenvolvimento ou aprimoramento de produtos, processos e sistemas.
+5.4. Desenvolvimento Experimental
+O desenvolvimento experimental é definido pela alínea “c”, do inciso II, do art. 2º: os 
+trabalhos sistemáticos delineados a partir de conhecimentos preexistentes, visando 
+a comprovação ou demonstração da viabilidade técnica ou funcional de novos 
+produtos, processos, sistemas e serviços ou, ainda, um evidente aperfeiçoamento 
+dos já produzidos ou estabelecidos.
+5.5. Tecnologia Industrial Básica
+Para a tecnologia industrial básica, a definição se dá na alínea “d”, do inciso II, art. 2º: 
+aquelas tais como a aferição e calibração de máquinas e equipamentos, o projeto e a confecção de instrumentos de medida específicos, a certificação de conformidade, 
+inclusive os ensaios correspondentes, a normalização ou a documentação técnica 
+gerada e o patenteamento do produto ou processo desenvolvido.
+5.6. Serviços de Apoio Técnico
+Os serviços de apoio técnico, são definidos na alínea “e”, inciso II, art. 2º, onde: aqueles 
+que sejam indispensáveis à implantação e à manutenção das instalações ou dos equipamentos destinados, exclusivamente, à execução de projetos de pesquisa, desenvolvimento ou inovação tecnológica, bem como à capacitação dos recursos humanos 
+a eles dedicados.
+5.7. Pesquisador Contratado
+O conceito de pesquisador contratado, está definido no inciso III, art. 2º, do Decreto 
+5.798/2006, no qual: o pesquisador graduado, pós-graduado, tecnólogo ou técnico 
+de nível médio, com relação formal de emprego com a pessoa jurídica que atue exclusivamente em atividades de pesquisa tecnológica e desenvolvimento de inovação 
+tecnológica.
+Além dessas definições é importante uma contextualização para cada uma das tipologias de PD&I em Produto, Processo, Sistema e Serviço, conforme consta no 
+APÊNDICE A.
+
+
+
+6. Atividades de PD&I
+Segundo o Manual de Frascati, as atividades de inovação tecnológica são o conjunto 
+de diligências científicas, tecnológicas, organizacionais, financeiras e comerciais, 
+incluindo o investimento em novos conhecimentos, que realizam ou destinam-se à 
+realização de produtos e processos tecnologicamente novos e melhores.
+Os processos de PD&I podem ser realizados em diferentes estágios do processo 
+de inovação, sendo utilizados não apenas como uma fonte de ideias criativas, mas 
+também para resolver os problemas que possam surgir em qualquer etapa do 
+processo, até a sua conclusão. De acordo com o Manual de Frascati, o critério fundamental para distinguir PD&I e as atividades correlatas é a existência de um elemento 
+de novidade, não insignificante, e a dissipação de incerteza científica ou tecnológica. 
+Em outras palavras, há inovação quando a solução de um problema não parece óbvia 
+para alguém que está perfeitamente ciente de todo o conjunto de conhecimento e 
+técnicas básicas comumente utilizadas no setor considerado.
+Para que uma dada atividade possa ser considerada como P&D é necessário satisfazer os cinco critérios de base, sendo eles: inovador, criativo, incerto, sistemático 
+e transferível e/ou reprodutível. Estes cinco critérios têm que ser cumpridos, pelo 
+menos em princípio, cada vez que uma atividade de P&D é executada, quer de forma 
+contínua, quer de forma ocasional. 
+Esse entendimento deve nortear o preenchimento de alguns dos campos do formulário FormP&D para prestação de informações ao MCTI, os quais seguem detalhados 
+abaixo:
+6.1. Descrição do Projeto
+O uso da Lei do Bem exige das empresas beneficiadas a apresentação do detalhamento técnico das atividades de P&D conduzidas em cada projeto reportado ao 
+MCTI, sendo necessário destacar de maneira clara como foi realizada a concepção 
+tecnológica do novo produto, processo ou serviço, apontando o problema tecnológico resolvido, o progresso científico e tecnológico alcançado, e com que abordagem 
+ele foi resolvido, ou seja, se precisou de investigação ou foi resolvido com o repertório de conhecimentos dominado pela equipe da empresa.
+6.2. Elemento Tecnologicamente Novo ou Inovador da 
+Atividade
+Refere-se ao progresso científico ou tecnológico realizado com o objetivo de adquirir 
+uma maior compreensão quanto às atuais bases de conhecimento do assunto em 
+análise, ou seja, quando as tecnologias utilizadas no projeto não são bem conhecidas 
+e de amplo domínio, bem como pela análise da complexidade do problema a ser 
+resolvido. 
+O fluxo experimental dos elementos tecnológicos passa por diferentes estágios de 
+desenvolvimento, que vão desde pesquisas de caráter básico até a sua validação em ambiente operacional, passando pela prova de conceito analítica e experimental, verificação funcional em laboratório e em ambiente relevante, e demonstração 
+de desempenho em ambiente relevante. Em cada um destes estágios, a tecnologia apresenta diferentes graus de incerteza e risco, que devem ser progressivamente reduzidos para que o sistema apresente as funcionalidades e desempenhos, 
+alinhados a níveis de exposição a falhas, acordados com suas partes interessadas.
+Além disto, um parâmetro interessante é a observação de que a solução não é óbvia 
+para alguém com os conhecimentos básicos necessários no setor considerado. 
+Por progresso científico ou tecnológico entende-se:
+• A aquisição de conhecimentos quanto à compreensão de novos fenômenos
+(Pesquisa Básica Dirigida).
+• A aquisição de novos conhecimentos, com vistas ao desenvolvimento ou
+aprimoramento de produtos, processos e sistemas (Pesquisa aplicada).
+• A comprovação ou demonstração da viabilidade técnica ou funcional de
+novos produtos, processos, sistemas e serviços ou um evidente aperfeiçoamento dos já produzidos ou estabelecidos (Desenvolvimento Experimental).
+Trata-se da hipótese que está sendo testada para superação da barreira.
+
+
+
+As atividades realizadas para superar o problema constituem os projetos de 
+PD&I, cujos resultados apresentarão uma solução, ou não, para o problema 
+dado. Eles sempre apresentarão um resultado, mesmo que seja um apontamento no sentido de que a premissa adotada e testada para superação da 
+barreira não deve ser mais seguida, pois não funciona.
+Para a redação do elemento tecnologicamente novo ou inovador da atividade é necessário descrever a tecnologia a ser desenvolvida, suas novas funcionalidades/características e sua aplicação, sendo elementar evidenciar as novidades tecnológicas 
+da nova solução. Além disso, é prudente que a empresa descreva as soluções até 
+então existentes e as suas limitações, assim como os fatores que justifiquem o novo 
+desenvolvimento, ou seja, o que existia antes desse projeto, como era feito e quais 
+eram as limitações das soluções existentes.
+
+
+
+6.3. Barreira ou Desafio Tecnológico Superável
+Projetos de P&D, no geral, visam superar problemas, dificuldades e barreiras tecnológicas enfrentadas durante o processo de desenvolvimento de novos produtos, 
+processos e serviços e/ou melhoria destes. Durante as fases experimentais é comum 
+nos depararmos com a ausência de informações técnicas, tecnologias, comprovações científicas ou profissionais qualificados para uma determinada demanda. 
+Dado este cenário, é possível definir barreira ou desafio tecnológico superável como 
+as etapas ou eventos que podem representar o insucesso de seu projeto de inovação. 
+Neste item as empresas devem focar nas dificuldades encontradas durante o desenvolvimento do projeto, quais adversidades surgiram ou poderiam ter afetado o seguimento e conclusão das etapas da criação. As atividades de PD&I buscam apresentar resultados para um determinado problema ou a dificuldade encontrada para realizar 
+um evidente aperfeiçoamento.
+Os principais pontos a serem declarados no preenchimento deste campo são:
+• Qual é o problema tecnológico a ser resolvido e que impactos ele gerou ao
+projeto?
+• Com que abordagem ele foi resolvido? Quais atividades, estudos, análises,
+testes e resultados foram apurados durante a prototipação da solução?
+• A barreira tecnológica foi superada ou o projeto ainda se encontra em desenvolvimento? Caso não tenha sido solucionado é importante detalhar que
+hipóteses estão sendo testadas e/ou avaliadas.
+
+
+6.4. Metodologia e Métodos Utilizados
+A metodologia é o conjunto de métodos e procedimentos técnicos utilizados pelos 
+atores da inovação na concepção de rotas científicas. Baseado em estudos bibliográficos, testes em bancada, pesquisas científicas, desenvolvimento experimental e 
+utilização de métodos com que a pesquisa adquire cientificidade, uma vez que todo 
+conhecimento científico é construído sobre estes vetores.
+A redação técnica do item metodologia exige da empresa o detalhamento das atividades realizadas e processos utilizados, bem como demonstrar as competências 
+que foram exigidas para implementação do projeto. O campo metodologia consiste 
+no conjunto de técnicas e métodos utilizados para descrever como a barreira/desafio 
+tecnológico poderá ser superado. Ou seja, como se pretende obter a melhoria nos 
+produtos, processos e serviços ou como gerar novos produtos, processos e serviços.
+A empresa deve detalhar a metodologia de pesquisa ou desenvolvimento experimental, e não apenas uma metodologia convencional de desenvolvimento da solução, ou 
+uma metodologia de inovação de forma geral ou vaga, sem especificar os aspectos 
+de pesquisa e desenvolvimento experimental.
+
+
+6.5. Descritivo Complementar
+Este campo permite maior detalhamento do projeto, visando esclarecer pontos não 
+abordados nos itens anteriores. Desta forma, podem ser incluídas informações pertinentes, tais como contexto do projeto, resultados esperados e alcançados até o 
+momento, parcerias envolvidas no desenvolvimento, patentes solicitadas, trabalhos 
+acadêmicos elaborados, outras fontes de financiamento utilizadas, contratações de 
+equipes dedicadas e treinamentos realizados para aquisição de novos conhecimentos.
+Quando da elaboração do relatório técnico é importante detalhar os seguintes 
+elementos: 
+• Justificativa que levou a empresa a desenvolver o projeto de P&D, bem como
+a contextualização da solução.
+• Detalhamento técnico do projeto, sendo relevante informar as novas funcionalidades, características e especificações do trabalho.
+• Informar quais são os saltos tecnológicos pretendidos; quais foram os resultados preliminares alcançados durante a etapa experimental; as vocações
+acadêmicas necessárias para o desenvolvimento dos trabalhos; o número
+de protótipos experimentados e ensaios realizados, bem como os resultados
+alcançados; se houve a necessidade de estabelecer alianças científicas e/ou
+parcerias tecnológicas para a realização do projeto.
+• Apresentar de maneira tangível quais foram/serão os ganhos de qualidade
+e produtividade e/ou a potencial redução de custo que um determinado
+projeto de Pesquisa e Desenvolvimento pode resultar.
+No APÊNDICE B são tratados alguns pontos complementares, incluindo informações 
+sobre temas e conceitos relevantes, contextualizações legais, teóricas e práticas, bem 
+como exemplos e boas práticas que podem ser úteis na aplicação dos incentivos 
+fiscais.
+
+
+
+
+Parte II – Requisitos para 
+Aplicação e Uso
+
+
+
+
+7. Capítulo III da Lei do Bem
+No capítulo III da Lei do Bem (11.196/2005), nos artigos 17, 18, 19, 19-A, 20 e 21, são 
+tratados os incentivos e benefícios oferecidos às empresas que investirem em atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica.
+Já os demais, artigos 22, 23, 24, 25 e 26, não tratam especificamente de incentivos, 
+mas disciplinam sobre as questões envolvendo o uso da Lei do Bem.
+7.1. Da Abrangência
+A Lei do Bem pode ser utilizada por empresas de todas as atividades econômicas, 
+desde que elas atendam aos seguintes requisitos:
+• Realizem gastos e investimentos em atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica (PD&I).
+• Sejam tributadas pelo regime do Lucro Real.
+• Tenham auferido lucro no período que pretendam se utilizar do benefício.
+• Comprovem regularidade fiscal.
+• No caso do incentivo de que trata o art. 19-A da Lei do Bem, tenham
+projeto aprovado pela CAPES, conforme disposições contidas no Decreto nº
+6.260/2007.
+As empresas em Zonas de Processamento de Exportação (ZPE), por meio do inciso 
+V do § 4º do art. 18 da Lei nº 11.508, de 20 de julho de 2007, também podem ser 
+beneficiadas pelos incentivos previstos na Lei do Bem, conforme citado no Art. 17 da 
+Instrução Normativa RFB nº 1.187/2011, desde que observados os requisitos acima.
+7.2. Dos Incentivos (Arts. 17, 18, 19, 19-A, 20 e 21)
+7.2.1. Art. 17
+• Dedução do valor correspondente à soma dos dispêndios com pesquisa
+tecnológica e desenvolvimento de inovação tecnológica, classificáveis como
+despesas operacionais pela legislação do Imposto sobre a Renda da Pessoa
+Jurídica – IRPJ, realizados no período, para fins de apuração do Lucro Líquido
+(Inciso I) e para efeito de apuração da base de cálculo da Contribuição Social
+sobre o Lucro Líquido – CSLL (§ 6º);
+• Redução de 50% (cinquenta por cento) do Imposto sobre Produtos Industrializados - IPI incidente sobre equipamentos, máquinas, aparelhos e instrumentos, bem como os acessórios sobressalentes e ferramentas que acompanhem esses bens, destinados à pesquisa e ao desenvolvimento tecnológico
+(Inciso II).
+
+• Depreciação integral, no próprio ano da aquisição, de máquinas, equipamentos, aparelhos e instrumentos, novos, destinados à utilização nas atividades
+de pesquisa tecnológica e desenvolvimento de inovação tecnológica, para
+efeito de apuração do IRPJ e da CSLL (Inciso III);
+• Amortização acelerada, mediante dedução como custo ou despesa operacional, no período de apuração em que forem efetuados, dos dispêndios
+relativos à aquisição de bens intangíveis, vinculados exclusivamente às atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica,
+classificáveis no ativo diferido do beneficiário, para efeito de apuração do IRPJ
+(Inciso IV);
+• Redução a 0 (zero) da alíquota do imposto de renda retido na fonte nas
+remessas efetuadas para o exterior destinadas ao registro e manutenção de
+marcas, patentes e cultivares (Inciso VI);
+• Dedução do valor correspondente à soma dos dispêndios com pesquisa tecnológica e desenvolvimento de inovação tecnológica, contratados no País
+com universidade, instituição de pesquisa ou inventor independente, de que
+trata o inciso IX do art. 2º da Lei nº 10.973, de 2 de dezembro de 2004, desde
+que a pessoa jurídica que efetuou o dispêndio fique com a responsabilidade,
+o risco empresarial, a gestão e o controle da utilização dos resultados dos
+dispêndios (§ 2º).
+
+
+7.2.2. Art. 18
+• Dedução, para fins de apuração do Lucro Líquido e para efeito de apuração
+da base de cálculo da Contribuição Social sobre o Lucro Líquido – CSLL, do
+valor correspondente:
+• À soma das importâncias transferidas a microempresas e empresas
+de pequeno porte de que trata a Lei no 9.841, de 5 de outubro de
+1999, realizadas no período, destinadas à execução de pesquisa tecnológica e de desenvolvimento de inovação tecnológica, de interesse
+e por conta e ordem da pessoa jurídica que promoveu a transferência, ainda que a pessoa jurídica recebedora dessas importâncias
+venha a ter participação no resultado econômico do produto resultante (caput);
+• À soma das importâncias transferidas a inventor independente de
+que trata o inciso IX do art. 2º da Lei nº 10.973, de 2 de dezembro de
+2004, realizados no período, destinadas à execução de pesquisa tecnológica e de desenvolvimento de inovação tecnológica, de interesse
+e por conta e ordem da pessoa jurídica que promoveu a transferência, ainda que o inventor independente recebedor dessas importâncias venha a ter participação no resultado econômico do produto
+resultante (§ 1º).
+• Dispõe que não constituem receita das microempresas e empresas de
+pequeno porte, nem rendimento do inventor independente, as importâncias recebidas, desde que utilizadas integralmente na realização da pesquisa ou 
+desenvolvimento de inovação tecnológica (§ 2º);
+• Dispêndios efetuados com a execução de pesquisa tecnológica e desenvolvimento de inovação tecnológica, por microempresas e empresas de pequeno
+porte recebedoras dessas transferências, não serão dedutíveis na apuração
+do lucro real e da base de cálculo da CSLL, caso elas apurem o imposto de
+renda com base no lucro real (§ 3º).
+
+
+7.2.3. Art. 19
+Esse artigo prevê uma exclusão adicional ao incentivo fiscal previsto no art. 17, ou 
+seja, além de poder deduzir o valor total correspondente à soma dos dispêndios com 
+pesquisa tecnológica e desenvolvimento de inovação tecnológica, classificáveis como 
+despesas operacionais pela legislação do Imposto sobre a Renda da Pessoa Jurídica 
+– IRPJ, realizados no período, para fins de apuração do Lucro Líquido e para efeito de
+apuração da base de cálculo da Contribuição Social sobre o Lucro Líquido – CSLL, a
+pessoa jurídica poderá excluir adicionalmente, conforme a seguir:
+• Dispõe que a partir do ano-calendário de 2006, a pessoa jurídica poderá
+excluir do lucro líquido, na determinação do lucro real e da base de cálculo
+da CSLL, o valor correspondente a até 60% (sessenta por cento) da soma dos
+dispêndios realizados no período de apuração com pesquisa tecnológica e
+desenvolvimento de inovação tecnológica, classificáveis como despesa pela
+legislação do IRPJ (caput);
+• Dispõe que o percentual de dedução pode chegar a 80% (oitenta por cento)
+dos dispêndios dependendo do número de empregados pesquisadores contratados pela pessoa jurídica, conforme regulamentação a ser definida (§ 1º);
+• Dispõe que, se a pessoa jurídica se dedica exclusivamente à pesquisa e desenvolvimento tecnológico, poderão também ser considerados, na forma do
+regulamento, os sócios que exerçam atividade de pesquisa para que o percentual de dedução chegue a 80% (§ 2º);
+• Dispõe que a pessoa jurídica poderá excluir do lucro líquido, na determinação do lucro real e da base de cálculo da CSLL, o valor correspondente a até
+20% (vinte por cento) da soma dos dispêndios ou pagamentos vinculados à
+pesquisa tecnológica e desenvolvimento de inovação tecnológica, objeto de
+patente concedida ou cultivar registrado (§ 3º) e que, para tanto, os dispêndios e pagamentos serão registrados em livro fiscal de apuração do lucro real
+e excluídos no período de apuração da concessão da patente ou do registro
+do cultivar (§ 4º);
+• Dispõe que a exclusão de que trata o Art. 19 fica limitada ao valor do lucro
+real e da base de cálculo da CSLL antes da própria exclusão, vedado o aproveitamento de eventual excesso, em período de apuração posterior (§ 5º); e
+que essa disposição não se aplica à pessoa jurídica que se dedica exclusivamente à pesquisa e desenvolvimento tecnológico (§ 6º).
+
+
+
+7.2.4. Art. 19-A
+O uso do incentivo previsto neste artigo está regulamentado pelo Decreto nº 
+6.260/2007 o qual dispõe, entre outras, sobre as regras para a submissão do projeto 
+para aprovação.
+O incentivo previsto neste artigo trata da possibilidade de que a pessoa jurídica 
+repasse recursos a uma Instituição Científica e Tecnológica (ICT) ou a uma entidade 
+científica e tecnológica privada, sem fins lucrativos, para que essa instituição ou 
+entidade execute projeto de pesquisa científica e tecnológica e de inovação tecnológica. Esse projeto deve ser previamente aprovado por um comitê permanente de 
+acompanhamento de ações de pesquisa científica e tecnológica e de inovação tecnológica (§ 8º), coordenado pela CAPES (Coordenação de Aperfeiçoamento de Pessoal 
+de Nível Superior, vinculada ao MEC), podendo, a pessoa jurídica, deduzir os dispêndios efetivados pela beneficiária dos recursos, conforme segue:
+• A pessoa jurídica poderá excluir do lucro líquido, para efeito de apuração do
+lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido
+(CSLL), os dispêndios efetivados em projeto de pesquisa científica e tecnológica e de inovação tecnológica a ser executado por Instituição Científica
+e Tecnológica (ICT), a que se refere o inciso V do caput do art. 2º da Lei nº
+10.973, de 2 de dezembro de 2004, ou por entidades científicas e tecnológicas privadas, sem fins lucrativos, conforme regulamento (caput);
+• Dispõe que essa exclusão (§ 1º):
+• Por opção da pessoa jurídica, poderá ser de no mínimo a metade e
+no máximo duas vezes e meia (50% a 250%) o valor dos dispêndios
+efetuados, observado o disposto nos §§ 6º, 7º e 8º deste artigo;
+• Deverá ser realizada no período de apuração em que os recursos
+forem efetivamente despendidos;
+• Fica limitada ao valor do lucro real e da base de cálculo da CSLL antes
+da própria exclusão, vedado o aproveitamento de eventual excesso
+em período de apuração posterior.
+• Somente se aplica às pessoas jurídicas sujeitas ao regime de tributação com
+base no lucro real (§ 2º);
+• Os dispêndios tratados no caput, registrados como despesa ou custo operacional deverão ser adicionados na apuração do lucro real e da base de
+cálculo da CSLL (§ 3º), contudo essas adições deverão ser proporcionais às
+exclusões referidas no § 1º, quando estas forem inferiores a 100% (§ 4º);
+• Os valores dos dispêndios serão creditados em conta corrente bancária
+mantida em instituição financeira oficial federal, aberta diretamente em nome
+da ICT, vinculada à execução do projeto e movimentada para esse único fim
+(§ 5º);
+• A participação da pessoa jurídica na titularidade dos direitos sobre a criação
+e a propriedade industrial e intelectual (confere direitos de propriedade à
+marcas, nomes e patentes, desenhos e modelos industriais, além de indicações geográficas) gerada por um projeto, corresponderá à razão entre 
+a diferença do valor despendido pela pessoa jurídica e do valor do efetivo 
+benefício fiscal utilizado, de um lado, e o valor total do projeto, de outro, 
+cabendo à ICT a parte remanescente (§ 6º); 
+• Somente os projetos apresentados pela ICT e que forem previamente aprovados, por comitê permanente de acompanhamento de ações de
+pesquisa científica e tecnológica e de inovação tecnológica, é que poderão
+receber recursos de pessoa jurídica (§ 8º) e esses recursos constituem receita
+própria da ICT beneficiária, para todos os efeitos legais (§ 9º);
+• Aplica-se ao art. 19-A, no que couber, a Lei nº 10.973, de 2 de dezembro de
+2004, especialmente os seus arts. 6º a 18 (§ 10º) e que o incentivo fiscal não
+pode ser cumulado com o regime de incentivos fiscais, previsto nos arts. 17
+e 19 desta Lei, nem com a dedução a que se refere o inciso II do § 2º do art.
+13 da Lei no 9.249, de 26 de dezembro de 1995, relativamente a projetos
+desenvolvidos pela ICT com recursos despendidos na forma do caput deste
+artigo (§ 11º).
+
+
+
+7.2.5. Art. 20
+Esse artigo trata da possibilidade de que o saldo não depreciado ou amortizado seja 
+excluído na determinação do lucro real, conforme segue:
+• Os valores relativos aos dispêndios incorridos em instalações fixas e na
+aquisição de aparelhos, máquinas e equipamentos, destinados à utilização
+em projetos de pesquisa e desenvolvimento tecnológico, metrologia, normalização técnica e avaliação da conformidade, aplicáveis a produtos, processos,
+sistemas e pessoal, procedimentos de autorização de registros, licenças, homologações e suas formas correlatas, bem como relativos a procedimentos
+de proteção de propriedade intelectual, poderão ser depreciados ou amortizados na forma da legislação vigente, podendo o saldo não depreciado ou
+não amortizado ser excluído na determinação do lucro real, no período de
+apuração em que for concluída sua utilização (caput);
+• O valor do saldo excluído deverá ser controlado em livro fiscal de apuração do
+lucro real e será adicionado, na determinação do lucro real, em cada período
+de apuração posterior, pelo valor da depreciação ou amortização normal que
+venha a ser contabilizada como despesa operacional (§ 1º);
+• A pessoa jurídica beneficiária de depreciação ou amortização acelerada nos
+termos dos incisos III e IV do caput do art. 17 da Lei do Bem não poderá
+utilizar-se do benefício de que trata o caput deste artigo relativamente aos
+mesmos ativos (§ 2º);
+• A depreciação ou amortização acelerada de que tratam os incisos III e IV do
+caput do art. 17 desta Lei, bem como a exclusão do saldo não depreciado ou
+não amortizado na forma do caput deste artigo, não se aplicam para efeito
+de apuração da base de cálculo da CSLL (§ 3º).
+
+
+
+7.2.6. Art. 21
+Esse artigo trata da subvenção por parte da União, nos seguintes termos:
+• A União, por intermédio das agências de fomento (são as instituições com o
+objetivo de financiar capital fixo e de giro para empreendimentos previstos
+em programas de desenvolvimento, na unidade da Federação onde estiver)
+de ciência e tecnologia, poderá subvencionar o valor da remuneração de pesquisadores, titulados como mestres ou doutores, empregados em atividades
+de inovação tecnológica em empresas localizadas no território brasileiro, na
+forma do regulamento (caput), subvenção essa que poderá ser de até 60%
+para as pessoas jurídicas nas áreas de atuação das extintas Sudene e Sudam
+e de até 40%, nas demais regiões (§ único).
+
+
+
+7.2.7. Artigos dos demais instrumentos legais que tratam 
+dos incentivos
+Os incentivos abordados nos artigos do item anterior também são tratados por 
+artigos de outros instrumentos legais (Leis, Decretos, Portarias, Instruções Normativas etc.), que complementam e regulamentam a Lei do Bem.
+De forma a proporcionar uma visão macro da relação entre os artigos dos diversos 
+instrumentos legais que fazem referência aos incentivos da Lei do Bem, foi construída uma tabela que destaca, em cada instrumento legal, os artigos que estão relacionados a um mesmo incentivo.
+O conteúdo dessa tabela tem por objetivo orientar a consulta e facilitar a compreensão geral dos incentivos, mas não esgota o entendimento, sendo necessária a 
+leitura de todos os instrumentos legais na íntegra, visto que há artigos que tratam de 
+conteúdos gerais e orientações comuns a todos os incentivos.
+
+
+
+
+7.3. Demais artigos (arts. 22, 23, 24, 25 e 26)
+7.3.1. Art. 22
+Os dispêndios e pagamentos de que tratam os arts. 17 a 20 da Lei do Bem serão 
+controlados contabilmente em contas específicas e somente poderão ser deduzidos 
+se pagos a pessoas físicas ou jurídicas residentes e domiciliadas no País.
+7.3.2. Art. 23
+O gozo dos benefícios fiscais e da subvenção de que tratam os arts. 17 a 21 da Lei 
+do Bem fica condicionado à comprovação da regularidade fiscal da pessoa jurídica.
+7.3.3. Art. 24
+O descumprimento de qualquer obrigação assumida para obtenção dos incentivos 
+de que tratam os arts. 17 a 22 da Lei do Bem, bem como a utilização indevida dos 
+incentivos fiscais neles referidos, implicam perda do direito aos incentivos ainda não 
+utilizados e o recolhimento do valor correspondente aos tributos não pagos em decorrência dos incentivos já utilizados, acrescidos de juros e multa, de mora ou de 
+ofício, previstos na legislação tributária, sem prejuízo das sanções penais cabíveis.
+7.3.4. Art. 25
+Os Programas de Desenvolvimento Tecnológico Industrial – PDTI, Programas de Desenvolvimento Tecnológico Agropecuário - PDTA e os projetos aprovados até 31 de 
+dezembro de 2005 ficarão regidos pela legislação em vigor na data da publicação 
+da Medida Provisória nº 252, de 15 de junho de 2005, autorizada a migração para o 
+regime previsto nesta Lei, conforme disciplinado em regulamento.
+7.3.5. Art. 26
+Os incentivos tratados no capítulo III da Lei do Bem não se aplicam às pessoas jurídicas 
+que utilizarem os benefícios de que tratam as Leis n.º 8.248, de 23 de outubro de 
+1991, 8.387, de 30 de dezembro de 1991, e 10.176, de 11 de janeiro de 2001. Abaixo, 
+são apresentados os parágrafos tratados pelo referido artigo.
+• § 1º A pessoa jurídica de que trata o caput deste artigo, relativamente às atividades de informática e automação, poderá deduzir, para efeito de apuração
+do lucro real e da base de cálculo da CSLL, o valor correspondente a até
+160% (cento e sessenta por cento) dos dispêndios realizados no período de
+apuração com pesquisa tecnológica e desenvolvimento de inovação tecnológica.
+• § 2º A dedução de que trata o § 1º deste artigo poderá chegar a até 180%
+(cento e oitenta por cento) dos dispêndios em função do número de empregados pesquisadores contratados pela pessoa jurídica, na forma a ser
+definida em regulamento.
+• § 3º A partir do período de apuração em que ocorrer a dedução de que trata
+o § 1º deste artigo, o valor da depreciação ou amortização relativo aos dispêndios, conforme o caso, registrado na escrituração comercial deverá ser
+adicionado ao lucro líquido para efeito de determinação do lucro real.
+• § 4º A pessoa jurídica de que trata o caput deste artigo que exercer outras atividades além daquelas que geraram os benefícios ali referidos poderá usufruir,
+em relação a essas atividades, os benefícios de que trata este Capítulo.
+
+
+
+7.4. Do Ciclo de Uso dos Incentivos
+A Lei do Bem, bem como os outros instrumentos legais que a regulamentam e complementam, não traz uma definição do fluxo de processos que deva ser adotado 
+pelas empresas que venham a se beneficiar dos incentivos. No entanto, conforme 
+citado no item anterior, são necessários alguns requisitos que devem ser cumpridos, 
+a cada ciclo, caso as empresas queiram se beneficiar dos incentivos.
+Uma vez cumpridos tais requisitos, não é necessário autorização prévia ou aprovação 
+de projeto (exceto no caso do art. 19-A), embora a Instrução Normativa RFB nº 
+1.187/2011, traz em seu art. 3º:
+Art. 3º Para a utilização dos incentivos de que trata esta Instrução 
+Normativa, a pessoa jurídica deverá elaborar projeto de pesquisa 
+tecnológica e desenvolvimento de inovação tecnológica, com 
+controle analítico dos custos e despesas integrantes para cada 
+projeto incentivado.”
+Tendo em vista este contexto, é desejável que as empresas que pretendam se beneficiar dos incentivos da Lei do Bem criem um fluxo que norteie todo o processo e 
+iniciem, o quanto antes, a estruturação do projeto para garantir a correta análise das 
+informações e a segurança jurídica, visando as boas práticas e a atenção que se deve 
+ter com os controles internos.
+Por meio de um fluxo, a empresa conseguirá mapear todas as etapas a serem 
+cumpridas e ter a gestão de todas as informações necessárias e que deverão ser 
+apresentadas à Receita Federal do Brasil e ao MCTI, por meio do preenchimento do 
+FormP&D.
+Com base nisso, abaixo estão relacionados alguns pontos que devem ser observados 
+pela empresa na construção de um fluxo, visando facilitar e orientar o processo:
+1º Com base no Art. 3º da IN RFB 1.187/2011, elaborar projeto de pesquisa tecnológica e desenvolvimento de inovação tecnológica, com controle analítico 
+dos custos e das despesas;
+
+2º Avaliar se há a necessidade de capacitação do pessoal envolvido com o 
+projeto (preparação, ensino, conhecimento dados aos profissionais envolvidos nas atividades especializadas dos projetos);
+3º Identificar qual ou quais incentivos serão utilizados para que sejam observadas as obrigações e ações pertinentes, de acordo com o projeto elaborado, 
+como por exemplo:
+a) Cumprir o disposto no Decreto nº 6.260/2007 no caso do incentivo previsto
+no Art. 19-A;
+b) Se for redução do Imposto sobre Produtos Industrializados (IPI), ao adquirir
+máquinas e equipamentos exclusivos para PD&I, informar ao fornecedor
+quanto ao uso da Lei do Bem, para que ele destaque na nota fiscal (NF) de
+compra ou declaração de importação (DI) a redução de 50% da alíquota
+referente ao imposto e informações quanto à finalidade do produto
+adquirido, sua destinação e o ato legal que concedeu o benefício
+4º Prever, no fluxo, o controle das atividades dos projetos de PD&I em cada 
+período (ano-base), incluindo:
+c) Controle contábil em conta específica;
+c) Controle de horas (timesheet) por projeto de PD&I de cada pesquisador e
+empregados de apoio técnico (se for o caso);
+d) Controle analítico dos custos e despesas individualizados por projeto e/ou
+atividades de PD&I.
+5º Avaliar, quando necessário, a reestruturação de alguns processos financeiros 
+e/ou da área que realiza as atividades de PD&I para atender a essas exigências de controle;
+6º Ao final de cada ano-calendário, a empresa deverá:
+e) Segundo calendário definido anualmente, prestar à Receita Federal as informações necessárias;
+f) Até 31 de julho do ano subsequente ao ano-calendário (ano de uso do
+incentivo), prestar ao MCTI as informações sobre os seus programas de
+pesquisa tecnológica e desenvolvimento de inovação tecnológica, por meio
+do preenchimento do formulário eletrônico – FormP&D;
+7º Para o cumprimento do item anterior, a empresa deve estar atenta às informações solicitadas, principalmente em relação à descrição do projeto, que 
+deve ser bem detalhada para que não restem dúvidas de que possui todos 
+os requisitos necessários a um projeto de pesquisa tecnológica e desenvolvimento de inovação tecnológica
+Feito isso e cumprido este primeiro ciclo, a empresa deve revisitar o projeto para os 
+ajustes devidos e iniciar novo controle das informações referentes aos dispêndios do 
+novo ano-calendário, para que, ao final do período, estejam atualizadas todas as informações necessárias ao cumprimento das obrigações previstas no item 6º, acima
+
+
+
+
+8. Escrituração Contábil Digital (ECD) e
+Escrituração Contábil Fiscal (ECF)
+
+A escrituração contábil e a apresentação das informações à Receita Federal (RF) já 
+fazem parte da rotina de qualquer empresa e, em relação à Lei do Bem, a Receita 
+Federal prevê campos específicos nos formulários de Escrituração Contábil Digital 
+(ECD) e da Escrituração Contábil Fiscal (ECF) para a apresentação das informações 
+referentes ao uso dos incentivos previstos no Capítulo III da Lei do Bem.
+A Instrução Normativa RFB nº 1.187/2011, disciplina os incentivos fiscais de acordo 
+com o entendimento da RF e apresenta algumas orientações quanto à forma de 
+controle e apresentação dos dispêndios com pesquisa tecnológica e desenvolvimento de inovação tecnológica.
+É importante também conhecer e acompanhar a atualização da Instrução Normativa 
+da RFB nº 1.700, de 14 de março de 2017, que dispõe sobre a determinação e o 
+pagamento do IRPJ e da CSLL das pessoas jurídicas, entre outras atribuições.
+Essa IN apresenta as tabelas de adição e exclusão do lucro líquido as quais citam os 
+incentivos da Lei do Bem, orientando quanto à correta escrituração.
+Na página do Sistema Público de Escrituração Digital – Sped (http://sped.rfb.gov.br/
+pasta/show/1644), é possível baixar o Manual da ECF atualizado, às Tabelas Dinâmicas 
+e Planos de Contas Referenciais que orientam quanto ao preenchimento das informações. De forma similar, é possível baixar o Manual da ECD atualizado no sítio: 
+http://sped.rfb.gov.br/pasta/show/1569.
+Outra fonte para pesquisa é a seção de Soluções de Consultas e de Divergências 
+do site da Receita Federal (https://receita.economia.gov.br/acesso-rapido/legislacao/
+solucoes-de-consultas-e-de-divergencias), onde o usuário tem acesso a um acervo 
+com cerca de 1.100.000 atos decisórios e de 10.200 atos relacionados a legislação da 
+Receita Federal.
+
+
+9. Preenchimento do Formulário Eletrônico
+FormP&D
+A pessoa jurídica beneficiária de algum dos incentivos de que trata o Capítulo III da 
+Lei do Bem deve utilizar o sistema FORMS – Formulários Dinâmicos do Ministério da 
+Ciência, Tecnologia e Inovações para apresentação das informações sobre os seus 
+programas e projetos de pesquisa tecnológica e desenvolvimento de inovação tecnológica e investimentos em atividades de PD&I.
+Esse sistema permite o acesso ao Formulário Eletrônico (FormP&D), que consolida as 
+informações necessárias sobre as atividades de PD&I desenvolvidas.
+Para melhorar a qualidade das informações prestadas pelos usuários, foi desenvolvida em 2019 uma nova versão do FormP&D (APÊNDICE C), que substitui a versão 
+anterior, trazendo mais segurança ao cadastro e agregando novas funcionalidades, 
+dentre elas, a integração com a base de dados da Receita Federal.
+O formulário facilita a criação de relatórios setoriais sobre os beneficiários da Lei, por 
+região do País, Estado, atividade econômica, entre outros.
+Os procedimentos que envolvem o preenchimento do formulário eletrônico FormP&D 
+estão regulamentados pela Portaria MCTI nº 2.794/2020.
+
+
+
+9.1. Acesso, Preenchimento e Envio
+O formulário está disponível no link https://forms.mctic.gov.br, sendo que o primeiro 
+acesso deve, necessariamente, ser feito por um representante legal da empresa que 
+pode designar outros usuários para o acesso ao sistema, após a confirmação dos 
+dados.
+O responsável pelo preenchimento do formulário eletrônico deve ser o gestor do 
+projeto de PD&I ou pessoa por ele indicada, que tenha conhecimento técnico do 
+projeto e esteja habilitada a preencher as informações sobre as atividades de PD&I 
+desenvolvidas, de forma correta e objetiva, eliminando possíveis dúvidas quanto ao 
+enquadramento do projeto em pesquisa tecnológica e desenvolvimento de inovação 
+tecnológica1
+ durante a fase de avaliação realizada pelo MCTI.
+Para o preenchimento das demais informações, esse responsável poderá solicitar 
+auxílio à área detentora das demais informações necessárias (Contabilidade, Recursos 
+Humanos etc.), conforme a organização da empresa.
+Pela regulamentação da Lei do Bem, as empresas devem concluir o preenchimento 
+e enviar o formulário até o dia 31 de julho do exercício subsequente ao do uso do (s) 
+benefício (s) da Lei do bem, salvo em casos em que haja comunicação expressa, por 
+meio de nova portaria.
+
+
+9.2. Guia de Utilização do Sistema
+Para auxiliar o usuário foi criado o Guia de Utilização do Sistema, que pode ser 
+acessado por meio do link: https://uno.mctic.gov.br/cas/login?service=https://forms.
+mctic.gov.br.
+O objetivo desse Guia de Utilização é orientar o usuário na navegação e no uso eficaz 
+das funcionalidades do sistema FORMS para apresentação das informações sobre 
+as atividades de PD&I, executadas no ano-base a que se refere o preenchimento, no 
+âmbito do Capítulo III da lei nº11.196/2005 – Lei do Bem.
+Para facilitar mais ainda o entendimento das orientações quanto ao uso do sistema 
+e preenchimento do formulário eletrônico, segue no APÊNDICE D uma versão mais 
+interativa do Guia de Utilização do Sistema.
+As dúvidas ou solicitação de esclarecimentos adicionais sobre o acesso ao sistema 
+ou preenchimento do formulário poderão ser atendidos por meio de abertura de 
+chamado através do seguinte endereço: https://suportetecnico.mctic.gov.br/.
+
+
+
+10. Avaliação do FormP&D
+Encerrado o prazo para o envio dos formulários eletrônicos preenchidos pelas 
+empresas que declararam o uso da Lei do Bem, inicia-se a fase de avaliação dessas 
+informações. O conteúdo do formulário é avaliado por um Grupo de Auxílio Técnico, 
+composto por servidores públicos especialistas nas diversas áreas do conhecimento, que têm a função de emitir um diagnóstico opinativo que vai auxiliar o MCTI na 
+análise técnica das informações prestadas pelas empresas beneficiárias da Lei do 
+Bem. Esse Grupo agrega competência técnica especializada na análise, que tem por 
+objetivo principal verificar a conformidade das informações dos programas e projetos 
+de PD&I, apresentados pela pessoa jurídica, diante das atividades incentivadas pela 
+legislação. É importante comentar que esse Grupo de Auxílio Técnico foi instituído 
+pela Portaria MCTI nº 4.977 de 20 de setembro de 2020.
+Após as análises, a Secretaria de Empreendedorismo e Inovação (SEMPI) do MCTI 
+emite um parecer técnico validando as atividades de pesquisa e desenvolvimento 
+tecnológico e inovação tecnológica. As empresas que não tiverem suas informações 
+aprovadas podem apresentar recurso e encaminhar suas justificativas e, nesse caso, 
+nova avaliação será realizada.
+• Esse processo é regulamentado pela Portaria MCTI nº 2.794 de 30 de junho
+de 2020, que “Dispõe sobre os procedimentos para a prestação de informações ao MCTI, pelas empresas beneficiárias dos incentivos fiscais de que
+trata o Capítulo III da Lei nº 11.196, de 21 de novembro de 2005 (Lei do
+Bem), referentes aos seus programas e projetos de pesquisa tecnológica e
+desenvolvimento de inovação tecnológica, bem como os procedimentos para
+a análise das informações e para a apresentação de contestação e recurso
+do resultado da análise”. Segue abaixo o fluxograma do processo:
+
+
+
+
+Figura 1 – Fluxograma Portaria MCTI nº 2.794 de 30 de junho de 2020
+- Abertura do prazo de preenchimento FORMP&D COIDI/CGIT/DEEMI/SEMPI
+- Preenchimento FORMP&D EMPRESA (ATÉ 31 DE JULHO)
+- Convocação Apoio Técnico (AT) Diagnóstico Opinativo COIDI/CGIT/DEEMI/SEMPI
+- Parecer Inicial COIDI/CGIT/DEEMI/SEMPI
+- Notificação da EMPRESA COIDI/CGIT/DEEMI/SEMPI
+- Pedido de Reconsideração EMPRESA (30 DIAS)
+- Convocação Apoio Técnico (AT) Diagnóstico Opinativo COIDI/CGIT/DEEMI/SEMPI
+- Parecer Complementar Parecer Inicial COIDI/CGIT/DEEMI/SEMPI
+- Notificação da EMPRESA COIDI/CGIT/DEEMI/SEMPI
+- Pedido de Reconsideração EMPRESA (10 DIAS)
+- Parecer Recurso Administrativo COIDI/CGIT/DEEMI/SEMPI
+- DE ACORDO ou NOVO PARECER SEMPI
+- Notificação da EMPRESA COIDI/CGIT/DEEMI/SEMPI
+- EXAURIDAS AS INSTÂNCIAS ADMINISTRATIVAS
+- Relatório Anual, Remessa à RFB COIDI/CGIT/DEEMI/SEMPI
+
+
+11. Perguntas e Respostas
+O trabalho de análise das informações constantes dos formulários eletrônicos e a 
+interação com os diversos atores (internos e externos) envolvidos com a Lei do Bem 
+permitiram observar os pontos que mais geram dúvidas por parte dos usuários e 
+interessados em usufruir dos incentivos desta Lei. 
+Essa observação resultou na criação de uma área específica no site do MCTI, que 
+pode ser consultada por meio de acesso ao link http://antigo.mctic.gov.br/mctic/
+opencms/tecnologia/Lei_do_bem/pages/textogeral/perguntas_respostas.html sendo 
+possível encontrar respostas e esclarecimentos para as dúvidas mais comuns.
+
+
+
+
+APÊNDICE A - Contextualização teórica de 
+Inovações de Produto, Processo e Serviço e 
+suas melhorias
+
+
+As orientações aqui apresentadas são de caráter geral e não obrigatórias. O enquadramento de cada projeto apresentado está sujeito à avaliação individualizada pelo 
+MCTI, contudo é importante entender esses princípios bem com a contextualização 
+para o usufruto da Lei do Bem
+
+
+
+
+A.1. Produto
+Aquilo que foi fabricado de forma natural ou artificialmente, ou resultado de um 
+trabalho ou operação. Sob este escopo, um produto pode abranger qualquer âmbito 
+ou setor, desde algo físico (uma mesa) a algo intangível (software/serviço). Apesar da 
+grande abrangência, focaremos neste ponto no âmbito industrial, sendo os outros 
+casos tratados na sequência. 
+A atividade de PD&I de produto pode resultar em artigos novos nos quais a 
+utilização prevista, as características de desempenho, os atributos, as propriedades da concepção, os serviços acrescidos ou a utilização de materiais e 
+componentes difiram significativamente dos fabricados anteriormente.
+Estas inovações podem implicar em tecnologias radicalmente novas ou na associação de tecnologias existentes para novas utilizações. Por exemplo, os primeiros microcomputadores e gravadores de fita magnética foram inovações de produto de 
+tipo radical. Por outro lado, os primeiros “walkmans” de fita cassete associaram as 
+técnicas do gravador de fita magnética com as dos minis fones de ouvido, ou seja, 
+inovação de produto do segundo tipo. Nos dois casos, o produto não existia anteriormente.
+A atividade de PD&I de produto pode ser também progressiva, traduzindo-se no 
+aumento ou aperfeiçoamento sensível do desempenho de um produto preexistente. Em primeiro lugar, um simples produto pode ser aperfeiçoado em termos de 
+desempenho ou de redução de custo por meio, respectivamente, da utilização de 
+novos componentes ou de novos materiais que apresentem melhor desempenho ou 
+redução de custo.
+É importante destacar também que um produto complexo formado por diversos 
+subsistemas técnicos integrados, pode ser aperfeiçoado por meio de modificações 
+parciais feitas em um dos seus subsistemas. As inovações progressivas de produto 
+podem apresentar consequências importantes, maiores ou menores, para a empresa.
+A substituição do metal por material plástico no equipamento ou no mobiliário de 
+cozinha é um exemplo da primeira forma de inovação progressiva de produto. A introdução do freio ABS ou de outros aperfeiçoamentos de subsistemas nos automóveis é um exemplo da segunda forma de inovação progressiva de produto.
+Vale comentar que se a natureza do projeto for industrial e para a execução do 
+projeto for necessário a realização de prototipagem para identificar a efetividade da 
+melhoria, estas atividades podem ser elegíveis
+
+
+
+A.2. Processo
+Um processo é um conjunto de ações ou atividades sistematizadas que tem uma finalidade específica. Novos métodos, fluxos e soluções envolvidos na criação de valor 
+para o cliente. Sob este escopo, um processo pode abranger qualquer âmbito ou 
+setor, desde um modelo organizacional, até equipamentos e/ou softwares associados (a uma operação específica ou ao conjunto) e mesmo serviços. Geralmente, a 
+melhoria em processos busca aumentar a produtividade, reduzir custos, aumentar a 
+qualidade, diminuir impactos das atividades no meio ambiente, entre outros.
+A inovação de processo pode ser associada a uma sequência de atividades 
+que têm por objetivo gerar resultados através dos processos rotineiros. De 
+acordo com o Manual de Oslo, inovação tecnológica de processo é a adoção 
+de métodos de produção novos ou significativamente melhorados, incluindo 
+métodos de entrega dos produtos. Tais métodos podem envolver mudanças 
+no equipamento ou na organização da produção, ou uma combinação dessas 
+mudanças, e podem derivar do uso de novo conhecimento. Os métodos 
+podem ter por objetivo produzir ou entregar produtos tecnologicamente 
+novos ou aprimorados, que não possam ser produzidos ou entregues com os 
+métodos convencionais de produção, ou pretender aumentar a produção ou 
+eficiência na entrega de produtos existentes.
+Geralmente, a melhoria em processos busca aumentar a produtividade, reduzir 
+custos, aumentar a qualidade, diminuir impactos das atividades no meio ambiente, 
+entre outros. Pode haver dificuldade das empresas em identificar que tipos de 
+projetos de melhorias são elegíveis para a Lei do Bem. A seleção destes projetos 
+parte justamente da identificação das atividades de PD&I neles contidas e como elas 
+influenciaram nos resultados dos projetos, neste caso nas melhorias de processos.
+Nesse sentido, o quadro abaixo retirado do Manual de Frascati, parte 2.3.4, apresenta 
+alguns casos ilustrativos da fronteira entre o P&D e outras atividades industriais:
+
+
+- Protótipos, Incluir, Sempre que o objetivo principal seja a realização de melhorias
+- Planta Piloto, Incluir, Se o objetivo principal for PD&I 
+- Desenho Industrial Eletrônico, Subdividir, Incluir os trabalhos agregados de PD&I 
+- Engenharia Industrial e Ferramentaria, Subdividir, Incluir os trabalhos agregados de PD&I. Excluir os desenhos de processo  de produção quando não atrelados ao processo de melhoria
+- Produção Experimental, Subdividir, Incluir se a produção implicar em experimentos em escala real e,  em função dos resultados, em novos estudos de planejamento e de  engenharia e de reengenharia. Excluir todas as outras atividades conexas.
+- Pós-Venda e Manutenção, Excluir, Exceto PD&I suplementar
+- Testes de Rotina, Excluir, Mesmo se realizados por pessoal ligado à PD&
+
+
+
+Além desses casos podemos ainda identificar atividades que podem ser elegíveis 
+como:
+• Problemas Pré-Produção: Dificuldades na partida da produção podem, ocasionalmente, implicar em trabalhos complementares de PD&I. Porém, mais
+frequentemente, serão os problemas nas máquinas e processos de produção
+a origem dessas dificuldades, cuja resolução implica apenas em modificações
+menores nas máquinas e processos padronizados adotados. Consequentemente, esses trabalhos não devem ser computados como PD&I;
+• PD&I suplementar no lançamento de produção: Quando um novo produto
+ou novo processo é lançado na produção, ainda podem persistir problemas
+técnicos que necessitem de trabalhos de PD&I suplementares. Estes podem
+ser incluídos na mensuração das atividades de PD&I.
+• Projetos Industriais: No campo industrial, a maior parte dos trabalhos de
+concepção se concentra nos processos de produção e, como tal, não devem
+ser classificados como PD&I. Entretanto, alguns dos elementos do projeto
+industrial podem ser classificados como PD&I, como os projetos de produto,
+especificações de processo e as próprias especificações técnicas gerais. Por
+exemplo, no caso de produtos que incorporem componentes usinados, tratamento térmico e/ou operações de galvanoplastia, a definição das características requeridas para a rugosidade superficial, para o processo de tratamento térmico ou para o processo de galvanoplastia, bem como a coleta de
+dados referente, incorporada ou constituindo-se como documentação em
+separado dos projetos, podem ser considerados como atividade de PD&I ;
+• Ferramentaria e Industrialização: Na maior parte dos casos, as fases de ferramentaria e industrialização são componentes do processo de produção.
+Podem ser identificadas três fases na ferramentaria, a saber:
+• A utilização dos componentes pela primeira vez, incluindo o uso de componentes advindos dos trabalhos das atividades de PD&I;
+• O ajuste inicial do ferramental ou do maquinário de produção seriada;
+• A instalação de equipamentos relacionados ao desenvolvimento da produção
+seriada.
+Apesar de ser parte do processo produtivo, se a fase de ferramentaria ainda necessitar do desenvolvimento de novos trabalhos de PD&I, eles podem ser considerados 
+elegíveis. A título de exemplo, atividades como o desenvolvimento de máquinas e ferramentas de produção, modificações de procedimentos de produção e de controle 
+de qualidade ou o desenvolvimento de novos métodos e padrões, podem ser consideradas como PD&I.
+A fabricação de um veículo, geralmente, realiza-se pela integração de determinado 
+número de diferentes subconjuntos e componentes, cujas tecnologias são conhecidas. No entanto, se surgirem problemas no processo de integração e se for necessária a realização de P&D para produzir um produto aceitável, estas atividades associadas com o processo de ferramentaria podem ser classificadas como PD&I. 
+
+Como outro exemplo, se a fabricação de um protótipo for realizada por soldagem e 
+a produção final for um processo complexo de fundição, os trabalhos envolvidos no 
+planejamento e otimização dos moldes, no desenvolvimento de seus sistemas de 
+alimentação ou na criação de procedimentos de inspeção radiográfica com níveis de 
+tolerância aceitáveis, podem ser considerados. Assim, atividades suplementares de 
+P&D resultantes da fase de ferramentaria podem ser consideradas como PD&I.
+A.3. Sistemas
+Um sistema é um módulo ordenado de elementos interligados e que interagem entre 
+si mesmos. Sob este escopo, um sistema pode abranger qualquer âmbito ou setor, 
+desde um conjunto de componentes ou elementos físicos que componham um 
+produto, até uma interligação de elementos intangíveis que interagem para atender 
+uma demanda específica. 
+Inovações tecnológicas na área de sistemas podem estar relacionadas: às 
+mudanças nas plataformas tecnológicas dos produtos; à introdução de novas 
+tecnologias, como um novo software ou ferramentas; e às inovações funcionais ou sistêmicas, relacionadas à introdução de novas funcionalidades 
+realizadas por meio de novas programações ou reprogramações do sistema, 
+não exigindo a inclusão de um novo software ou hardware.
+Muito do desenvolvimento em atividades de informática advém de uma evolução incremental, e alguns casos de evolução disruptiva. É por isso que a transição para uma 
+versão mais poderosa, a adição ou modificação de um programa ou de um sistema 
+existente podem ser classificadas como PD&I, se incorporam os progressos científicos e/ou tecnológicos que levam a um enriquecimento do conhecimento. 
+Determinados projetos, quando observados individualmente, podem não parecer 
+como enquadráveis nos conceitos de PD&I, pois não se consegue enxergar durante 
+o desenvolvimento do sistema o uso de novas tecnologias ou riscos tecnológicos
+suficientes que impliquem sua caracterização como tal. Mas, dentro de um contexto
+global, quando analisada a interligação do sistema com outros sistemas coligados,
+podem ser identificadas propriedades que permitam a categorização como PD&I.
+Assim, por exemplo, certas modificações na estrutura de dados e nas interfaces com
+o usuário em um processador de linguagem de quarta geração podem tornar-se
+necessárias devido à introdução de uma tecnologia relacional. Essas modificações ou
+adaptações podem não ser consideradas como PD&I quando vistas isoladamente,
+mas o projeto de adaptação, no seu conjunto, pode gerar uma solução para uma
+incerteza científica ou técnica e, por conseguinte, poder receber a classificação como
+PD&I.
+Assim, os trabalhos para o desenvolvimento de um software “simples”, utilizando 
+ferramentas e tecnologias corriqueiras, que a priori não teria enquadramento nos 
+conceitos de PD&I, poderiam ser enquadrados nos casos de integração com outros 
+softwares e tecnologias que fazem parte de um sistema único, sempre que tal integração e adaptação apresente desafio tecnológico.
+
+
+O desenvolvimento de um novo software, os sistemas de melhoria sensíveis 
+de sistemas, programas de aplicação, dentre outros, são próprios de desenvolvimento experimental. Assim, no desenvolvimento inicial do programa, 
+a concepção detalhada e integração de sistemas podem atender ao desenvolvimento experimental. Essa integração usualmente inclui os testes, que 
+podem estar na fase de desenvolvimento experimental. Se o programa de 
+modernização deve completar todos os passos listados, é provável que as 
+melhorias substanciais seguidas a este trabalho possam ser consideradas 
+como de desenvolvimento experimental. No caso em que o programa de modernização seja dessa natureza, fases de design do sistema e integração do 
+sistema também poderiam ser consideradas como desenvolvimento experimental.
+
+
+
+A.4. Serviço
+Ideia de servir, atender demandas sem envolver mercadorias, como transporte, 
+educação, refeições, serviços de telefonia, de bancos, seguros, hospitais etc. É importante destacar que, em relação a empresas de serviços, a tarefa de identificar 
+projetos de melhorias que possam ser usados na Lei do Bem pode ser ainda mais 
+complexa, pois as fronteiras de PD&I em projetos de serviços são ainda mais difíceis 
+de se identificar. Devido à diversidade existente no setor serviços, conclui-se que este 
+está envolto em múltiplas transformações que transcendem uma simples definição 
+de categorias, e, além disso, dentro de cada segmento há normalmente múltiplos 
+sistemas de inovação sobrepostos. 
+No caso da área bancária, por exemplo, um projeto para melhorar a experiência 
+e segurança do serviço de home banking pode exigir o desenvolvimento de um 
+hardware específico para chave de criptografia, uma arquitetura de software em 
+nuvem com especificidades tecnológicas para garantir a segurança dos dados, além 
+de mudanças substanciais no processo de autoatendimento para promover engajamento dos usuários no uso do serviço. Neste caso, é importante considerar a possibilidade da análise quanto às atividades de PD&I de forma separada, conforme sugere 
+o Manual de Frascati.
+O Manual de Frascati reconhece que o setor de serviço foi sempre desconsiderado 
+em prol da PD&I básica nas áreas das ciências exatas, naturais e de engenharia. A 
+área de serviços começa a ser apresentada a partir do manual de 2002. Suas aplicações nos serviços apresentam, por consequência, problemas específicos. Estas atividades comportam muitas vezes aplicações de software e trabalhos de pesquisa em 
+ciências sociais. 
+Além disso, os produtos oferecidos na forma de serviço têm se sofisticado nas últimas 
+décadas. Isso levou a inovações imateriais nas atividades de serviços e de produtos, 
+já que o setor de serviços cada vez mais contribui de maneira crescente para os 
+trabalhos do setor empresarial.
+É mais difícil identificar PD&I no setor de serviços do que na indústria manufatureira por não apresentar necessariamente uma característica “especializada”. No entanto, pode incluir áreas como PD&I relacionada à tecnologia, em ciências sociais e humanas, incluindo PD&I relativa ao conhecimento 
+de comportamentos e organizações. Este último conceito já está integrado 
+no ensaio do “conhecimento do homem, cultura e sociedade”, mas é particularmente importante no caso de atividades de serviço. Como esses tipos 
+diferentes de PD&I podem ser combinados em um determinado projeto, é 
+importante delinear com clareza as diferentes formas que toma a PD&I considerada. Se a análise se limita a trabalhos de PD&I relacionados com a tecnologia, por exemplo, há um risco de subestimar o conteúdo de PD&I.
+
+
+Os projetos desenvolvidos na área de serviços incluem os setores de gestão administrativa, bancos, seguros e outros setores onde podem existir produtos ou processos 
+imateriais, com problemas específicos de identificação de PD&I nas suas atividades.
+É difícil definir os limites de PD&I nas atividades de serviços por dois motivos essenciais: em primeiro lugar, é difícil identificar projetos que envolvam P&D e, segundo, 
+porque a linha entre P&D e outras atividades inovadoras que não são parte de P&D 
+é muito tênue. Entre os muitos projetos inovadores no domínio de serviços, aqueles 
+que constituem PD&I conduzem a novos conhecimentos ou utilizam conhecimentos 
+para desenvolver novas aplicações.
+Além disso, em empresas de serviços, P&D não é sempre organizada formalmente como em empresas manufatureiras (ou seja, com um serviço dedicado a P&D e 
+emprego de pesquisadores ou engenheiros de pesquisa identificados como tal na 
+tabela de efetivos etc.). O conceito de P&D em serviços permanece menos preciso, 
+por vezes passando despercebido dentro dessas empresas. 
+À medida que se acumula experiência em matéria de levantamentos sobre P&D 
+nos serviços, os critérios para a identificação de P&D e exemplos de P&D ligados a 
+serviços podem exigir refinamento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
