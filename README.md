@@ -4491,6 +4491,7 @@ Sim / Não
 
 
 6.1.3 Reduções do IPI
+6.1.3.1 50% do IPI incidente sobre equipamentos, máquinas, aparelhos e instrumentos nacionais destinados 
 
 
 
