@@ -4477,10 +4477,24 @@ Sim / Não
 6.1.1 Dedução, para efeito de apuração do lucro líquido, da some dos dispêndios de custeior realizados no Ano Base 9art. 3, I) - pesquisadores, Serviços de Terceiro, Apoio Técnico e Material de Consumo.
 
 6.1.2 Deduções adicionais
-6.1.2.1 Dedução, par
+6.1.2.1 Dedução, parra efeito de apuração do lucro líquido e da base de cálculo da CSLL, de até 60% da soma dos dispêndios realizados no Ano Base (art 8 ou art 16 - caso de atividade de informática e automação). Decreto n 5.798 de 07 de Junho de 2006.
+
+6.1.2.2 Mais 20% no caso de incremento do número de pesquisadores contratados com dedicação exclusiva no ano-base acima de 5%, em relação a média dos pesquisadores com contrato no ano anterior (inciso I do art 8 ou art 16 - caso de atividade de Informática e automação) - se aplicável Decreto n 5.798 de 07 de Junho de 2008.
+
+6.1.2.3 Mais 10% no caso de incremento do número de pesquisadores contratados com dedicação exclusiva no ano-base em até 5%, em relação a média dos pesquisadores com contrato no ano anterior (inciso II do art 8 o art 16 - caso de atividade de Informática e automação) - se aplicável. Decreto n 5.798 de 07 de Junho de 2006.
+
+6.1.2.4 Sem prejuízo das dedução adicionais anteriores, o valor de até vinte por cento da soma dos dispêndios ou pagementos vinculados a pesquisa tecnológica e desenvolvimento de inovação objeto de patente concedida ou cultivar registrado (4 do art 8 - Decreto n 5.798 de 07 de Junho de 2006) - se aplicavel.
+
+6.1.2.5 De 50% a 250% dos dispêndios efetivados em projeto de pesquisa e tecnológica executada por ICT (Inciso I do art. 19-A, da lei n 11.196/05)
+
+6.1.2.6 Total das deduções
 
 
-pág 67. Guia Prático Lei do Bem
+6.1.3 Reduções do IPI
+
+
+
+pág 68. Guia Prático Lei do Bem
 
 
 
