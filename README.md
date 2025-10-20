@@ -3,7 +3,7 @@
  
 Texto da Lei do bem
 - [LEI Nº 11.196, DE 21 DE NOVEMBRO DE 2005](#lei-do-bem)
-- [MEDIDA PROVISÓRIA Nº 1.318, DE 17 DE SETEMBRO DE 2025](#medida-provisoria-n-1318-de-17-de-setembro-de-2025)
+- [MEDIDA PROVISÓRIA Nº 1.318, DE 17 DE SETEMBRO DE 2025](#medida-provisória-n-1318-de-17-de-setembro-de-2025)
 - [LEI Nº 11.487, DE 15 DE JUNHO DE 2007](#lei-nº-11487-de-15-de-junho-de-2007)
 - [DECRETO Nº 5.798, DE 7 DE JUNHO DE 2006](#decreto-nº-5798-de-7-de-junho-de-2006)
 - [DECRETO Nº 6.260, DE 20 DE NOVEMBRO DE 2007](#decreto-nº-6260-de-20-de-novembro-de-2007)
