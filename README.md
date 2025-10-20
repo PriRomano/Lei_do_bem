@@ -1,8 +1,11 @@
 # Índice
-- [Guias](#guias)
-- Lei do bem
+- [Guias PDFs](#guias)
+- 
+Texto da Lei do bem
 - [LEI Nº 11.196, DE 21 DE NOVEMBRO DE 2005](#lei-do-bem)
 - [MEDIDA PROVISÓRIA Nº 1.318, DE 17 DE SETEMBRO DE 2025](#medida-provisoria-n-1.318,-de-17-de-setembro-de-2025)
+
+Guias em texto
 - [Guia Prático da Lei do Bem MCTI 2020](#guia-pr%C3%A1tico-da-lei-do-bem)
 - 
 
