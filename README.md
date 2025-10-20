@@ -4491,49 +4491,41 @@ Sim / Não
 
 
 6.1.3 Reduções do IPI
-6.1.3.1 50% do IPI incidente sobre equipamentos, máquinas, aparelhos e instrumentos nacionais destinados 
+6.1.3.1 50% do IPI incidente sobre equipamentos, máquinas, aparelhos e instrumentos nacionais destinados A PD&I (inciso II do art 3, do Decreto n 5 de 07 de Junho de 2006).
+
+6.1.3.2 50% do IPI incidente sobre equipamentos, máquinas, aparelhos e instrumentos importados a PD&I (inciso II do art 3, do Decreto n 5.798 de 07 de Junho de 2006)
+
+6.1.3.3 Total das reduções
+
+6.1.4 DEPRECIAÇÃO ACELERADA
+6.1.5.1 Integral dos equipamentos, maquinas, aparelhos e instrumentos novos adquiridos no ano-base e destinados a PD&I (inciso III do art 3, decreto 5.798 de 07 de Junho de 2006)
+
+6.1.5.2 Dedução do saldo não depreciado em instalações fixas, equipamentos, maquinas, aparelhos e instrumentos destinados a PD&I, no ano em que for concluída a sua utilização (art 9, do Decreto n 5.798 de 07 de Junho de 2006).
+
+6.1.5.3 Total da depreciação acelerada incentivada
+
+6.1.6 AMORTIZAÇÃO ACELERADA
+6.1.6.1 Dedução dos dispendios relativos a aquisição de bens intangiveis destinados a PD&I, no Ano Base (inciso IV do art 3, do Decreto n 5.798 de 07 de Junho de 2006).
+
+6.1.6.2 Dedução do saldo não amortizado dos dispendios relativos a aquisição de bens intangiveis destinados a PD&I, no ano em que for concluída a sua utilização (art 9, do Decreto n 5.798 de 07 de Junho de 2006).
+
+6.1.6.3 Total da amortização acelerada
+
+6.1.7 Total dos incentivos
+
+6.1.8 Total do diferimento
 
 
+7.1 OUTRAS INFORMAÇÕES
+Explicitar outras informações julgadas relevantes ou quaisquer sugestões voltadas para o aperfeiçoamento do sistema de concessão desses incentivos fiscais.
 
-pág 68. Guia Prático Lei do Bem
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+8.1 Dispêndio com ICT
+8.1.1 Dispêndio com ICT pública ou privada sem fins lucrativos (Art. 19 A da lei n 11.196/05)
+Não 
+Sim
 
 
 
 
-
-
-
-
-
+Fim do Guia Prático Lei do Bem
 
