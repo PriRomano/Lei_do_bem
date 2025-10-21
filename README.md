@@ -3578,705 +3578,196 @@ Fim do Guia Prático Lei do Bem
 
 # Guia da Lei do Bem ANPEI
 
-Os dados estatísticos mais recentes levantados pelo Ministério da Ciência, Tecnologia, 
-Inovações e Comunicações (MCTIC) e analisados pela Associação Nacional de Pesquisa e 
-Desenvolvimento das Empresas Inovadoras 
-(Anpei) revelam que as 1.206 empresas que 
-declararam o uso dos incentivos fiscais da Lei 
-do Bem em 2014 investiram um total bruto 
-de R$ 9,25 bilhões em atividades de pesquisa, desenvolvimento e inovação (PD&I). 
-A renúncia fiscal decorrente totalizou R$ 1,71 
-bilhão no mesmo período, em valores reais. 
-Assim, é possível verificar que o efeito multiplicador da Lei do Bem foi de 1 para 4,4. Ou seja, 
-a cada R$ 1 incentivado, as empresas participantes investiram mais R$ 4,41 em 2014. 
-Ao analisar os investimentos feitos pelas 
-empresas em projetos de PD&I, verificamos 
-que as empresas beneficiárias, nos nove 
-anos de utilização da Lei do Bem, investiram 
-mais de R$ 60 bilhões em despesas de capital e de custeio, correspondendo a uma renúncia fiscal do Governo Federal em torno 
-de R$ 11,5 bilhões, o que representa aproximadamente 19% do total investido em PD&I, 
-confirmando esse efeito multiplicador. 
-Além disso, nos últimos cinco anos, a Lei 
-do Bem viabilizou a implementação de 15 
-novos centros de pesquisa e desenvolvimento no Brasil, propiciando o surgimento
-de mais de 20 mil novos produtos ou 
-inovações incrementais.
-No entanto, apenas pouco mais de mil empresas no Brasil, das 17 milhões ativas, estão aproveitando hoje este incentivo, o que 
-corresponde a 0,007% das empresas registradas no país. O dado mais alarmante é 
-registrado quando analisamos o índice de 
-empresas com perfil inovador que se utilizam deste benefício, que chega a 2,5%. 
-Ou seja, apenas uma em cada 40 empresas 
-com potencial se utiliza deste benefício. 
-Com o objetivo de orientar as empresas beneficiárias da Lei sobre as regras e formas 
-de avaliação técnica, a publicação pretende
-uniformizar conceitos e conferir maior 
-segurança jurídica aos envolvidos.
+Os dados estatísticos mais recentes levantados pelo Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC) e analisados pela Associação Nacional de Pesquisa e Desenvolvimento das Empresas Inovadoras (Anpei) revelam que as 1.206 empresas que declararam o uso dos incentivos fiscais da Lei do Bem em 2014 investiram um total bruto de R$ 9,25 bilhões em atividades de pesquisa, desenvolvimento e inovação (PD&I). A renúncia fiscal decorrente totalizou R$ 1,71 bilhão no mesmo período, em valores reais. Assim, é possível verificar que o efeito multiplicador da Lei do Bem foi de 1 para 4,4. Ou seja, a cada R$ 1 incentivado, as empresas participantes investiram mais R$ 4,41 em 2014. Ao analisar os investimentos feitos pelas empresas em projetos de PD&I, verificamos que as empresas beneficiárias, nos nove anos de utilização da Lei do Bem, investiram mais de R$ 60 bilhões em despesas de capital e de custeio, correspondendo a uma renúncia fiscal do Governo Federal em torno de R$ 11,5 bilhões, o que representa aproximadamente 19% do total investido em PD&I, confirmando esse efeito multiplicador. Além disso, nos últimos cinco anos, a Lei do Bem viabilizou a implementação de 15 novos centros de pesquisa e desenvolvimento no Brasil, propiciando o surgimento de mais de 20 mil novos produtos ou inovações incrementais.No entanto, apenas pouco mais de mil empresas no Brasil, das 17 milhões ativas, estão aproveitando hoje este incentivo, o que corresponde a 0,007% das empresas registradas no país. O dado mais alarmante é registrado quando analisamos o índice de empresas com perfil inovador que se utilizam deste benefício, que chega a 2,5%. Ou seja, apenas uma em cada 40 empresas com potencial se utiliza deste benefício. Com o objetivo de orientar as empresas beneficiárias da Lei sobre as regras e formas de avaliação técnica, a publicação pretendeuniformizar conceitos e conferir maior segurança jurídica aos envolvidos.
 
 
-A iniciativa também tem o propósito de 
-aumentar a confiança e a previsibilidade 
-no processo de utilização da Lei do Bem. 
-Assim, o Guia Lei do Bem apresenta os principais conceitos utilizados na área de PD&I, 
-exemplos, boas práticas adotadas pelas empresas e orientações para preenchimento 
-do FORMP&D – formulário para informações 
-sobre as atividades de pesquisa tecnológica 
-e desenvolvimento de inovação tecnológica 
-nas empresas.
-Diante dos desafios e regras em torno da 
-utilização dos incentivos à inovação tecnológica previstos na Lei do Bem, esta é uma iniciativa de grande responsabilidade que visa 
-ampliar o uso dos benefícios por um maior 
-número de empresas.
-Este trabalho foi elaborado pela Anpei em 
-parceria com o MCTIC e contou com a colaboração coletiva de representantes de 
-empresas de diferentes portes, consultorias, 
-agências de fomento e órgãos do governo.
+A iniciativa também tem o propósito de aumentar a confiança e a previsibilidade no processo de utilização da Lei do Bem. Assim, o Guia Lei do Bem apresenta os principais conceitos utilizados na área de PD&I, exemplos, boas práticas adotadas pelas empresas e orientações para preenchimento do FORMP&D – formulário para informações sobre as atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica nas empresas.Diante dos desafios e regras em torno da utilização dos incentivos à inovação tecnológica previstos na Lei do Bem, esta é uma iniciativa de grande responsabilidade que visa ampliar o uso dos benefícios por um maior número de empresas. Este trabalho foi elaborado pela Anpei em parceria com o MCTIC e contou com a colaboração coletiva de representantes de empresas de diferentes portes, consultorias, agências de fomento e órgãos do governo.
 
 
-1. Conceito
-de Inovação
-Tecnológica
+1. Conceitode InovaçãoTecnológica
 
 a. Contextualização Legal
-Os incentivos fiscais à inovação tecnológica
-estão previstos no Capítulo III da Lei nº 
-11.196/2005, também conhecida como Lei do 
-Bem. A referida Lei conceitua inovação tecnológica no artigo 17, § 1º, conforme a seguir: 
-“...considera-se inovação tecnológica a concepção de novo produto ou 
-processo de fabricação, bem como a 
-agregação de novas funcionalidades ou 
-características ao produto ou processo
-que implique melhorias incrementais e efetivo ganho de qualidade 
-ou produtividade, resultando maior 
-competitividade no mercado”.
-No mesmo sentido, o Decreto nº 5.798/06, 
-que regulamenta a fruição dos incentivos 
-fiscais da Lei do Bem (Capítulo III), bem 
-como a Instrução Normativa RFB nº 1.187,
-de 2011, que disciplina os incentivos fiscais às atividades de pesquisa tecnológica 
-e desenvolvimento de inovação tecnológica, repetiram a redação do conceito de 
-inovação tecnológica estabelecido pela 
-própria Lei do Bem.
-Em leitura do texto de lei referente ao 
-Decreto nº 5.798/06, constata-se, em seu 
-artigo 2º, inc. II, que se considera pesquisa 
-tecnológica e desenvolvimento de inovação tecnológica todas as atividades relativas a:
+Os incentivos fiscais à inovação tecnológicaestão previstos no Capítulo III da Lei nº 11.196/2005, também conhecida como Lei do Bem. A referida Lei conceitua inovação tecnológica no artigo 17, § 1º, conforme a seguir: 
+“...considera-se inovação tecnológica a concepção de novo produto ou processo de fabricação, bem como a agregação de novas funcionalidades ou características ao produto ou processo que implique melhorias incrementais e efetivo ganho de qualidade ou produtividade, resultando maior competitividade no mercado”.
+
+No mesmo sentido, o Decreto nº 5.798/06, que regulamenta a fruição dos incentivos fiscais da Lei do Bem (Capítulo III), bem como a Instrução Normativa RFB nº 1.187,de 2011, que disciplina os incentivos fiscais às atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica, repetiram a redação do conceito de inovação tecnológica estabelecido pela própria Lei do Bem.
+
+Em leitura do texto de lei referente ao Decreto nº 5.798/06, constata-se, em seu artigo 2º, inc. II, que se considera pesquisa 
+tecnológica e desenvolvimento de inovação tecnológica todas as atividades relativas a:
 (i) pesquisa básica dirigida;
 (ii) pesquisa aplicada; 
 (iii) desenvolvimento experimental;
 (iv) tecnologia industrial básica;
 (v) serviços de apoio técnico.
-A recém sancionada Lei nº 13.243 de 2016, 
-que revisou o conceito e alterou o artigo 
-2º da Lei 10.973 de 2004 (Lei de Inovação), 
-no inciso IV determina, que inovação é a introdução de novidade ou aperfeiçoamento 
-no ambiente produtivo e social que resulte
-em novos produtos, serviços ou processos ou que, compreenda a agregação de 
-novas funcionalidades ou características a 
-produto, serviço ou processo já existente 
-que possa resultar em melhorias e em efetivo ganho de qualidade ou desempenho
 
-
+A recém sancionada Lei nº 13.243 de 2016, que revisou o conceito e alterou o artigo 2º da Lei 10.973 de 2004 (Lei de Inovação), no inciso IV determina, que inovação é a introdução de novidade ou aperfeiçoamento no ambiente produtivo e social que resulte em novos produtos, serviços ou processos ou que, compreenda a agregação de novas funcionalidades ou características a produto, serviço ou processo já existente que possa resultar em melhorias e em efetivo ganho de qualidade ou desempenho.
 
 b. Contextualização Teórica
-No século XX, Joseph Schumpeter desenvolveu a teoria do desenvolvimento econômico 
-e destacou o papel da empresa e dos empreendedores. 
+No século XX, Joseph Schumpeter desenvolveu a teoria do desenvolvimento econômico e destacou o papel da empresa e dos empreendedores. 
+
 Para Schumpeter, o conceito de inovação envolve as seguintes hipóteses:
-a) a introdução de um novo produto, que pode ser novo para os consumidores, ou uma nova 
-qualidade de um produto já existente;
-b) introdução de um novo método de produção, ainda não testado pelo setor em que a empresa está inserida, não sendo necessariamente uma descoberta científica;
+a) a introdução de um novo produto, que pode ser novo para os consumidores, ou uma nova qualidade de um produto já existente;
+b) introdução de um novo método de produção, ainda não testado pelo setor em que a empresa está inserida, não sendo necessariamente uma descoberta científica;
 c) a conquista de uma nova fonte de insumos; 
-A OCDE (1997) define que “inovações tecnológicas de produto e de processo (TPP) compreendem 
-a implementação de produtos e de processos tecnologicamente novos e a realização de melhoramentos tecnológicos significativos em produtos e processos. Uma inovação TPP foi implementada
-se ela foi introduzida no mercado (inovação de produto) ou usada em um processo de produção 
-(inovação de processo)”.
-Na mesma linha, segundo o Manual de Instruções de Preenchimento da PINTEC1
- , uma inovação 
-tecnológica é definida pela introdução no mercado de um produto (bem ou serviço) ou processo 
-tecnologicamente novo ou substancialmente aprimorado para a empresa, não sendo, necessariamente, novo para o mercado de atuação. 
-A inovação pode resultar de pesquisas e desenvolvimentos tecnológicos realizados no interior das empresas, de novas combinações de tecnologias existentes, da aplicação de 
-tecnologias existentes em novos usos ou da utilização de novos conhecimentos adquiridos 
+A OCDE (1997) define que “inovações tecnológicas de produto e de processo (TPP) compreendem a implementação de produtos e de processos tecnologicamente novos e a realização de melhoramentos tecnológicos significativos em produtos e processos. Uma inovação TPP foi implementada se ela foi introduzida no mercado (inovação de produto) ou usada em um processo de produção (inovação de processo)”.Na mesma linha, segundo o Manual de Instruções de Preenchimento da PINTEC1 , uma inovação 
+tecnológica é definida pela introdução no mercado de um produto (bem ou serviço) ou processo tecnologicamente novo ou substancialmente aprimorado para a empresa, não sendo, necessariamente, novo para o mercado de atuação. A inovação pode resultar de pesquisas e desenvolvimentos tecnológicos realizados no interior das empresas, de novas combinações de tecnologias existentes, da aplicação de tecnologias existentes em novos usos ou da utilização de novos conhecimentos adquiridos 
 pela empresa.
 
+As inovações de produto e processo são diferenciadas de acordo com o seu grau de novidade:
+• inovação para a empresa, mas já existente no mercado/setor;
+• inovação para a empresa e para o mercado/setor.
+O Manual de Frascati dispõe que as atividades de inovação tecnológica são um conjunto de diligências científicas, tecnológicas, organizacionais, financeiras e comerciais,incluindo o investimento em novos conhecimentos, que realizam ou destinam-se a levar à realização de produtos e processos tecnologicamente novos e melhores. Importante destacar que as teorias e definições tratadas anteriormente abrangem diversos tipos de inovação, porém a política de incentivos fiscais à PD&I do Brasil, conforme demonstrado na contextualização legal, por meio do Marco Legal de Ciência, Tecnologia e Inovação, definiu:
+inovação tecnológica como a “introdução de novidade ou aperfeiçoamento no ambiente produtivo e social que resulte em novos produtos, serviços ou processos ou que compreenda a agregação de novas funcionalidades ou características a produto, serviço ou processo já existente que possa resultar em melhorias e em efetivo 
+ganho de qualidade ou desempenho”. Neste sentido, importante reforçar que a Lei do Bem e o Decreto nº 5.798/2006, que a regulamentou, não considerava serviço como atividade PD&I, sendo oficializado com a aprovação da Lei nº 13.243/2016.
 
-
-As inovações de produto e processo são 
-diferenciadas de acordo com o seu grau 
-de novidade:
-• inovação para a empresa, mas já existente no mercado/setor;
-• inovação para a empresa e para o mercado/setor.
-O Manual de Frascati2
- dispõe que as atividades de inovação tecnológica são um
-conjunto de diligências científicas, tecnológicas, organizacionais, financeiras e comerciais,
-incluindo o investimento em novos conhecimentos, que realizam ou destinam-se a 
-levar à realização de produtos e processos 
-tecnologicamente novos e melhores.
-Importante destacar que as teorias e definições tratadas anteriormente abrangem 
-diversos tipos de inovação, porém a política 
-de incentivos fiscais à PD&I do Brasil, 
-conforme demonstrado na contextualização legal, por meio do Marco Legal de Ciência, Tecnologia e Inovação, definiu:
-inovação tecnológica como a “introdução de novidade ou aperfeiçoamento no ambiente produtivo e social que 
-resulte em novos produtos, serviços 
-ou processos ou que compreenda a 
-agregação de novas funcionalidades 
-ou características a produto, serviço
-ou processo já existente que possa 
-resultar em melhorias e em efetivo 
-ganho de qualidade ou desempenho”.
-Neste sentido, importante reforçar que a Lei 
-do Bem e o Decreto nº 5.798/2006, que a regulamentou, não considerava serviço como 
-atividade PD&I, sendo oficializado com a 
-aprovação da Lei nº 13.243/2016.
-
-
-
-Assim, diante dos conceitos acima, vale 
-mencionarquea Lei do Bem apoia apenas
-as inovações em produtos, processos e 
-serviços (inovações tecnológicas), não 
-estando assim contempladas inovações 
-organizacionais, comerciais e de marketing, por exemplo. 
-Quanto ao impacto das inovações, podem 
-ser contempladas nos benefícios tanto 
-as inovações radicais (novos produtos, processos ou serviços), quanto 
-as incrementais (agregação de novas 
-funcionalidades dos produtos, processos ou serviços existentes).
-Por fim, quanto à abrangência das inovações, podem ser beneficiadas pelos incentivos da Lei do Bem, uma novidade para 
-a empresa, setor, mercado nacional 
-ou internacional, desde que a empresa 
-tenha executado, no Brasil, as atividades 
-de pesquisa tecnológica e desenvolvimento 
-de inovação tecnológica (PD&I) em suas instalações próprias e/ou em terceiros conforme 
-previsto na Lei
-
-
+Assim, diante dos conceitos acima, vale mencionarquea Lei do Bem apoia apenas as inovações em produtos, processos e serviços (inovações tecnológicas), não 
+estando assim contempladas inovações organizacionais, comerciais e de marketing, por exemplo. Quanto ao impacto das inovações, podem ser contempladas nos benefícios tanto as inovações radicais (novos produtos, processos ou serviços), quanto as incrementais (agregação de novas funcionalidades dos produtos, processos ou serviços existentes).Por fim, quanto à abrangência das inovações, podem ser beneficiadas pelos incentivos da Lei do Bem, uma novidade para 
+a empresa, setor, mercado nacional ou internacional, desde que a empresa tenha executado, no Brasil, as atividades de pesquisa tecnológica e desenvolvimento 
+de inovação tecnológica (PD&I) em suas instalações próprias e/ou em terceiros conforme previsto na Lei
 
 
 c. Contextualização Prática
-De acordo com pronunciamentos do 
-Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC), o uso 
-isolado da expressão inovação tecnológica, como sendo passível de benefício
-fiscal, tem causado dissonância no entendimento quanto aos objetivos do
-Capítulo III da Lei do Bem. 
-Importante ressaltar que não é a inovação 
-em si o objeto dos benefícios fiscais previstos na referida Lei. O incentivo recai sobre 
-os dispêndios realizados com as atividades 
-de pesquisa tecnológica e desenvolvimento 
-de inovação tecnológica (PD&I), compreendidas as etapas de pesquisa básica dirigida,
-pesquisa aplicada e desenvolvimento experimental, ou seja, atividades que buscam
-adquirir novos conhecimentos e sobre as 
-quais incidem os riscos tecnológicos que
-o Estado se propõe a compartilhar, mediante a concessão do incentivo fiscal.
-Infere-se dessa lógica de aplicação que não é objeto do incentivo a simples aquisição 
-de tecnologia nem o desenvolvimento de tecnologia sem diferencial significativo 
-em relação às tecnologias existentes.
-O benefício é concedido para a realização da inovação tecnológica, que se faz
-por meio das atividades de PD&I. Importante destacar que o resultado dessas atividades pode até mesmo não ser alcançado, mas precisa ser efetivamente buscado e essa busca deve ser claramente 
-demonstrada durante o período de fruição 
-do benefício fiscal.
-Importa ainda ressaltar que o conceito de 
-inovação tecnológica para a fruição da 
-Lei do Bem não pressupõe a introdução 
-efetiva de um novo produto ou processo no mercado, através de sua produção 
-e comercialização, contemplando, ainda, 
-inovações que ocorram no ambiente interno 
-das empresas e que não necessariamente
-são lançadas ao mercado.
-É importante destacar que o MCTIC adota o 
-Manual de Frascati como literatura de referência conceitual para a análise dos projetos 
-submetidos no Formulário para informações sobre as atividades de 
-pesquisa tecnológica e desenvolvimento de inovação tecnológica nas 
-empresas (FORMP&D).
-Antes de tratar especificamente das características de cada uma das atividades de 
-pesquisa tecnológica e desenvolvimento de 
-inovação tecnológica, é importante abordar 
-brevemente os conceitos de inovação de 
-produtos, inovação de processos e inovação 
-de serviços.
+De acordo com pronunciamentos do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC), o uso isolado da expressão inovação tecnológica, como sendo passível de benefíciofiscal, tem causado dissonância no entendimento quanto aos objetivos do Capítulo III da Lei do Bem. Importante ressaltar que não é a inovação em si o objeto dos benefícios fiscais previstos na referida Lei. O incentivo recai sobre os dispêndios realizados com as atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica (PD&I), compreendidas as etapas de pesquisa básica dirigida, pesquisa aplicada e desenvolvimento experimental, ou seja, atividades que buscamadquirir novos conhecimentos e sobre as quais incidem os riscos tecnológicos que o Estado se propõe a compartilhar, mediante a concessão do incentivo fiscal. Infere-se dessa lógica de aplicação que não é objeto do incentivo a simples aquisição de tecnologia nem o desenvolvimento de tecnologia sem diferencial significativo em relação às tecnologias existentes. O benefício é concedido para a realização da inovação tecnológica, que se faz por meio das atividades de PD&I. Importante destacar que o resultado dessas atividades pode até mesmo não ser alcançado, mas precisa ser efetivamente buscado e essa busca deve ser claramente demonstrada durante o período de fruição do benefício fiscal. Importa ainda ressaltar que o conceito de 
+inovação tecnológica para a fruição da Lei do Bem não pressupõe a introdução efetiva de um novo produto ou processo no mercado, através de sua produção 
+e comercialização, contemplando, ainda, inovações que ocorram no ambiente interno das empresas e que não necessariamente são lançadas ao mercado.
 
+É importante destacar que o MCTIC adota o Manual de Frascati como literatura de referência conceitual para a análise dos projetos submetidos no Formulário para informações sobre as atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica nas empresas (FORMP&D). Antes de tratar especificamente das características de cada uma das atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica, é importante abordar brevemente os conceitos de inovação de produtos, inovação de processos e inovação de serviços.
 
 
 1.1. Inovação Tecnológica de Produto
 
-Para o conceito de “produto”, é possível a
-compreensão tanto para bens, como para 
-serviços. Vale ressaltar que o objeto deste 
-manual é a aplicação dos conceitos ao Marco Legal brasileiro, ou seja, atividades de 
-PD&I que geram inovação tecnológica serão 
-tratados em tópicos separados. 
-Considerando produto para bens, muito 
-mais ligado a processos industriais e serviços 
-como atividades de prestação de serviços, 
-conforme orientação de Frascati. 
-Sendo assim, a inovação tecnológica de 
+Para o conceito de “produto”, é possível a compreensão tanto para bens, como para serviços. Vale ressaltar que o objeto deste manual é a aplicação dos conceitos ao Marco Legal brasileiro, ou seja, atividades de PD&I que geram inovação tecnológica serão tratados em tópicos separados. Considerando produto para bens, muito 
+mais ligado a processos industriais e serviços como atividades de prestação de serviços, conforme orientação de Frascati. Sendo assim, a inovação tecnológica de 
 produto pode assumir duas formas: 
 • Produto tecnologicamente novo;
 • Produto tecnologicamente aprimorado.
-Tais inovações podem envolver tecnologias 
-radicalmente novas, podem basear-se na 
-combinação de tecnologias existentes em 
-novos usos ou aplicações, ou podem ser 
-derivadas do uso de novo conhecimento.
-Esse impacto é observável pela identificação
-de um produto tecnologicamente novo ou 
-aprimorado, como aquele com que o desempenho tenha sido significativamente 
-aperfeiçoado ou melhorado. Um produto 
-pode ser aprimorado em termos de melhor 
-performance ou de menor custo do processo de fabricação, através da concepção de 
-novas tecnologias. 
-Como exemplo, podemos citar o caso de 
-reformulação dos produtos de uma linha 
-cosmética, com desenvolvimento de novas 
-fórmulas para melhoria de desempenho
-dos produtos de linha (óleos, cremes hidratantes e perfume) e aumento na 
-quantidade de ativos e óleos essenciais 
-utilizados, trazendo maior hidratação, perfumação e/ou sensorial diferenciado.
-Outro exemplo que se pode citar é o referente ao desenvolvimento de novas famílias 
-de compressores de alta capacidade e maior 
-eficiência energética com diminuição do ruído em até 10%, aplicando novas tecnologias 
-e/ou materiais a um produto já existente no 
-mercado, mas tornando-o mais competitivo 
-e/ou de melhor qualidade.
-Para além desses, pode-se apresentar um 
-exemplo ao nível do desenvolvimento de 
-um novo pacote de aditivos para gasolina que 
-contém detergente-dispersante e modificador de atrito (friction modifier) na formulação. 
-O primeiro atua no sistema de alimentação 
-de combustível, evitando o acúmulo de depósitos no motor, reduzindo as emissões 
-de gases e espaçando as manutenções 
-do veículo.
-O segundo tem a função de reduzir o atrito 
-entre as partes móveis do motor, principalmente na região do 1º e 2º anel de segmento, 
-contribuindo para um melhor desempenho.
-Não obstante os exemplos mencionados 
-acima, outros serão apresentados em maior 
-profundidade nos seus respectivos capítulos, 
-conforme os temas em que se enquadram.
 
+Tais inovações podem envolver tecnologias radicalmente novas, podem basear-se na combinação de tecnologias existentes em novos usos ou aplicações, ou podem ser 
+derivadas do uso de novo conhecimento. Esse impacto é observável pela identificação de um produto tecnologicamente novo ou aprimorado, como aquele com que o desempenho tenha sido significativamente aperfeiçoado ou melhorado. Um produto pode ser aprimorado em termos de melhor performance ou de menor custo do processo de fabricação, através da concepção de novas tecnologias. 
 
+Como exemplo, podemos citar o caso de reformulação dos produtos de uma linha cosmética, com desenvolvimento de novas fórmulas para melhoria de desempenho dos produtos de linha (óleos, cremes hidratantes e perfume) e aumento na quantidade de ativos e óleos essenciais utilizados, trazendo maior hidratação, perfumação e/ou sensorial diferenciado. Outro exemplo que se pode citar é o referente ao desenvolvimento de novas famílias de compressores de alta capacidade e maior 
+eficiência energética com diminuição do ruído em até 10%, aplicando novas tecnologias e/ou materiais a um produto já existente no mercado, mas tornando-o mais competitivo e/ou de melhor qualidade. Para além desses, pode-se apresentar um exemplo ao nível do desenvolvimento de um novo pacote de aditivos para gasolina que contém detergente-dispersante e modificador de atrito (friction modifier) na formulação. 
+
+O primeiro atua no sistema de alimentação de combustível, evitando o acúmulo de depósitos no motor, reduzindo as emissões de gases e espaçando as manutenções 
+do veículo. O segundo tem a função de reduzir o atrito entre as partes móveis do motor, principalmente na região do 1º e 2º anel de segmento, contribuindo para um melhor desempenho. Não obstante os exemplos mencionados acima, outros serão apresentados em maior profundidade nos seus respectivos capítulos, conforme os temas em que se enquadram.
 
 1.2. Inovação Tecnológica de Processo
 
-O conceito de inovação de processo
-pode ser caracterizado como o desenvolvimento de um processo novo ou 
-significativamente aprimorado. Esse 
-deverá ter como base a concepção de 
-uma nova tecnologia de produção, como 
-também de equipamentos associados à 
-mesma, ou até de softwares novos com impacto nas atividades de suporte à produção.
-O objetivo desta inovação é a sua relação 
-com o ganho de competividade das organizações, na forma com que elas empregam 
-seus esforços para gerar riqueza por meio 
-das atividades de criação e produção de 
-bens, ou na prestação de serviços de forma 
-mais eficiente.
-Ao contrário das atividades industriais, no 
-setor de serviços as inovações tecnológicas de 
-processo podem ser de difícil identificação.
-Na indústria, inovações em processos vêm 
-no sentido de conseguir melhorar o processo produtivo ou mesmo na possibilidade 
-de produzir um novo produto; no caso do 
-setor de serviços, inovações em processos 
-vão gerar a possibilidade de prestação de 
-atividade humana e/ou automatizada mais 
-eficiente, a ser usufruída por clientes.
-Em outras palavras e de forma bastante objetiva, são processos internos às organizações 
-que possibilitam a prestação de serviços
-a clientes. Por exemplo, as inovações de 
-processo em serviços de telecomunicação 
-a partir da introdução de redes inteligentes permitiram uma intensa diversificação 
-dos serviços ofertados ao mercado – como 
-a espera e visualização de chamadas, os 
-serviços de caixa postal e, mais tarde, o acesso à internet por meio de aparelhos móveis.
-Outro exemplo que pode ser apresentado é 
-o desenvolvimento de um inibidor de formação de parafina nos poços. Essa tecnologia 
-contribuiu para reduzir pela metade a frequência de passagem dos PIGs (dispositivo 
-utilizado tradicionalmente para a limpeza) 
-nos poços e para diminuir a perda de óleo 
-gerada pelo espaçamento da passagem 
-dos PIGs. 
-O inibidor, desenvolvido a partir de técnicas de arquitetura molecular, é derivado da 
-casca de laranja e não traz riscos ao meio 
-ambiente ou aos operadores.
-Deste modo, é possível observar, ao mesmo 
-tempo, a introdução de inovações tecnológicas de produto e inovações tecnológicas 
-de processo.
-
+O conceito de inovação de processo pode ser caracterizado como o desenvolvimento de um processo novo ou significativamente aprimorado. Esse deverá ter como base a concepção de uma nova tecnologia de produção, como também de equipamentos associados à mesma, ou até de softwares novos com impacto nas atividades de suporte à produção. O objetivo desta inovação é a sua relação com o ganho de competividade das organizações, na forma com que elas empregam seus esforços para gerar riqueza por meio das atividades de criação e produção de bens, ou na prestação de serviços de forma mais eficiente.
+Ao contrário das atividades industriais, no setor de serviços as inovações tecnológicas de processo podem ser de difícil identificação. Na indústria, inovações em processos vêm no sentido de conseguir melhorar o processo produtivo ou mesmo na possibilidade de produzir um novo produto; no caso do setor de serviços, inovações em processos vão gerar a possibilidade de prestação de atividade humana e/ou automatizada mais eficiente, a ser usufruída por clientes. Em outras palavras e de forma bastante objetiva, são processos internos às organizações que possibilitam a prestação de serviços a clientes. Por exemplo, as inovações de 
+processo em serviços de telecomunicação a partir da introdução de redes inteligentes permitiram uma intensa diversificação 
+dos serviços ofertados ao mercado – como a espera e visualização de chamadas, os serviços de caixa postal e, mais tarde, o acesso à internet por meio de aparelhos móveis. Outro exemplo que pode ser apresentado é o desenvolvimento de um inibidor de formação de parafina nos poços. Essa tecnologia contribuiu para reduzir pela metade a frequência de passagem dos PIGs (dispositivo utilizado tradicionalmente para a limpeza) nos poços e para diminuir a perda de óleo 
+gerada pelo espaçamento da passagem dos PIGs. O inibidor, desenvolvido a partir de técnicas de arquitetura molecular, é derivado da casca de laranja e não traz riscos ao meio ambiente ou aos operadores.Deste modo, é possível observar, ao mesmo tempo, a introdução de inovações tecnológicas de produto e inovações tecnológicas de processo.
 
 1.3. Inovação Tecnológica de Serviços
 
-O interesse deste documento em tentar 
-conceituar a inovação tecnológica em serviços gira em torno da complexidade em 
-identificar as fronteiras das atividades de 
-PD&I deste setor, diferente do setor industrial, que possui maior clareza de até onde 
-vai o PD&I e onde começam as demais atividades de produção de bens.
-Um dos principais conceitos inerentes à inovação no setor de serviços é a 
-caracterização do comportamento de 
-determinado grupo de usuários.
-Porém, uma questão impõe-se: como coletar 
-os dados necessários para tal caracterização; como tê-los de forma confiável, uma 
-vez que serão informados pelo próprio usuário; como tratá-los adequadamente; como 
-compilá-los etc.
-No setor de serviços incluiem-se empresas desenvolvedoras de software, 
-conforme a classificação da PINTEC (2011): 
-Desenvolvimento de software sob encomenda; Desenvolvimento de software 
-customizável; Desenvolvimento de software 
-não customizável; Desenvolvimento de outros serviços de tecnologia da informação, 
-que envolvam riscos tecnológicos. 
-As inovações produzidas por emprsas de 
-desenvolvimento de software são relacionadascom melhorias no processo de 
-desenvolvimento de software ou no desenvolvimento de software novo ou aprimorado.
-No caso de empresas desenvolvedoras de 
-software, podemos citar como exemplo o 
-desenvolvimento de aplicações para as plataformas de mobilidade.
-Atualmente, as três maiores plataformas 
-são Android, IOS e Windows Phone, sendo 
-que cada uma destas utiliza sua tecnologia 
-específica de desenvolvimento. 
-As três tecnologias são incompatíveis entre 
-si, o que força as equipes a repetirem esforços de desenvolvimento de uma mesma 
-aplicação, caso pretendam atingir mais de 
-uma plataforma. 
-A criação de uma plataforma/arquitetura híbrida permitiu o desenvolvimento de aplicações compatíveis com as três plataformas, 
-aumentando a produtividade e reduzindo 
-consideravelmente o esforço e o custo
+O interesse deste documento em tentar conceituar a inovação tecnológica em serviços gira em torno da complexidade em identificar as fronteiras das atividades de PD&I deste setor, diferente do setor industrial, que possui maior clareza de até onde vai o PD&I e onde começam as demais atividades de produção de bens.Um dos principais conceitos inerentes à inovação no setor de serviços é a caracterização do comportamento de determinado grupo de usuários.
+Porém, uma questão impõe-se: como coletar os dados necessários para tal caracterização; como tê-los de forma confiável, uma vez que serão informados pelo próprio usuário; como tratá-los adequadamente; como compilá-los etc. No setor de serviços incluiem-se empresas desenvolvedoras de software, conforme a classificação da PINTEC (2011): 
 
+Desenvolvimento de software sob encomenda; Desenvolvimento de software customizável; Desenvolvimento de software não customizável; Desenvolvimento de outros serviços de tecnologia da informação, que envolvam riscos tecnológicos. As inovações produzidas por emprsas de desenvolvimento de software são relacionadascom melhorias no processo de desenvolvimento de software ou no desenvolvimento de software novo ou aprimorado. No caso de empresas desenvolvedoras de 
+software, podemos citar como exemplo o desenvolvimento de aplicações para as plataformas de mobilidade.
+Atualmente, as três maiores plataformas são Android, IOS e Windows Phone, sendo que cada uma destas utiliza sua tecnologia específica de desenvolvimento. As três tecnologias são incompatíveis entre si, o que força as equipes a repetirem esforços de desenvolvimento de uma mesma aplicação, caso pretendam atingir mais de 
+uma plataforma. 
+A criação de uma plataforma/arquitetura híbrida permitiu o desenvolvimento de aplicações compatíveis com as três plataformas, 
+aumentando a produtividade e reduzindo consideravelmente o esforço e o custo
 
 d. Boas Práticas
 
-Conforme mencionado ao longo deste capítulo, a Lei do Bem busca incentivar as 
-atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica 
-por meio da concepção de novos produtos, serviços ou processos, bem como 
-agregação de novas funcionalidades ou 
-características aos já existentes. 
-Como ponto de partida, normalmente é importante que a empresa identifique 
-quais os projetos a serem avaliados 
-para fins dos incentivos fiscais de inovação tecnológica, sendo necessário o 
-entendimento do objetivo e contexto dos 
-mesmos (qual era a situação anterior e o 
-que se busca como resultados a partir do 
-desenvolvimento de cada projeto). 
-Em seguida, é recomendável entender 
-qual o cronograma previsto de atividades, 
-bem como qual o fluxo de desenvolvimento de projetos da empresa, isto porque, 
-mais à frente, ficará claro que as atividades
-realizadas no ano base de análise devem 
-ser levantadas e detalhadas a fim de se 
-observar se há atividades de PD&I sendo 
-realizadas no escopo dos projetos.
-Após contextualização de cada projeto, é importante analisar qual é a sua 
-novidade e abrangência, ou seja, se o 
-projeto representa uma novidade para a 
-empresa, setor, mercado nacional ou internacional e, ainda, se foi concebido pela 
-empresa (situações beneficiadas pela Lei 
-do Bem), ou se representa uma mera 
-aquisição de máquinas/equipamentos, ou 
-modernização de ambientes produtivos 
-ou Centro de PD&I, situações não beneficiadas pela Lei do Bem. 
-Neste momento, para a identificação inicial do potencial de enquadramento de 
-cada projeto como inovação tecnológica, 
-é imprescindível que a empresa identifique qual o esforço tecnológico associado 
-ao desenvolvimento.
+Conforme mencionado ao longo deste capítulo, a Lei do Bem busca incentivar as atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica 
+por meio da concepção de novos produtos, serviços ou processos, bem como agregação de novas funcionalidades ou características aos já existentes. 
+Como ponto de partida, normalmente é importante que a empresa identifique quais os projetos a serem avaliados para fins dos incentivos fiscais de inovação tecnológica, sendo necessário o entendimento do objetivo e contexto dos mesmos (qual era a situação anterior e o que se busca como resultados a partir do 
+desenvolvimento de cada projeto). Em seguida, é recomendável entender qual o cronograma previsto de atividades, bem como qual o fluxo de desenvolvimento de projetos da empresa, isto porque, mais à frente, ficará claro que as atividades realizadas no ano base de análise devem ser levantadas e detalhadas a fim de se 
+observar se há atividades de PD&I sendo realizadas no escopo dos projetos.
 
+Após contextualização de cada projeto, é importante analisar qual é a sua novidade e abrangência, ou seja, se o projeto representa uma novidade para a 
+empresa, setor, mercado nacional ou internacional e, ainda, se foi concebido pela empresa (situações beneficiadas pela Lei do Bem), ou se representa uma mera 
+aquisição de máquinas/equipamentos, ou modernização de ambientes produtivos ou Centro de PD&I, situações não beneficiadas pela Lei do Bem. Neste momento, para a identificação inicial do potencial de enquadramento de cada projeto como inovação tecnológica, é imprescindível que a empresa identifique qual o esforço tecnológico associado ao desenvolvimento.
 
+A Lei do Bem busca incentivar as atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica (PD&I ) por meio da concepção de novos produtos, serviços ou processos, bem como agregação de novas funcionalidades ou características aos já existentes.
 
-A Lei do Bem busca incentivar as atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica (PD&I ) 
-por meio da concepção de novos produtos, serviços ou processos, bem como agregação de novas funcionalidades ou 
-características aos já existentes.
-
-Em linha com a figura acima, identificado
-o projeto com potencial de enquadramento como inovação tecnológica, será 
-necessário avaliar quais os novos conhecimentos e/ou riscos tecnológicos 
-decorrentes das atividades de PD&I, sendo 
-que em um primeiro momento, conforme
-disposto no Manual de Frascati, algumas 
-perguntas devem ser respondidas, sendo:
+Em linha com a figura acima, identificado o projeto com potencial de enquadramento como inovação tecnológica, será necessário avaliar quais os novos conhecimentos e/ou riscos tecnológicos decorrentes das atividades de PD&I, sendo que em um primeiro momento, conforme disposto no Manual de Frascati, algumas perguntas devem ser respondidas, sendo:
 • Quais são os objetivos do projeto?
 • Existe um elemento novo ou inovador neste projeto? 
 • Qual é o tipo de inovação (produto, processo ou serviço)?
 • Qual o risco tecnológico do projeto?
 • Quais são os métodos utilizados?
-• Qual a qualificação e dedicação do pessoal 
-envolvido na execução projeto? 
-Por fim, respondidas as perguntas acima, 
-o próximo passo será a avaliação das atividades de PD&I do projeto, a fim de se 
-identificar se esse possui potencial de ser 
-beneficiado pela Lei do Bem. A seguir, serão 
-detalhados os conceitos das atividades de 
-PD&I que devem ser observados para o enquadramento do projeto nos benefícios da 
-Lei do Bem.
-Este esforço de mapear as inovações e 
-barreiras tecnológicas desde a concepção e durante a execução do projeto 
-evita a necessidade de realização de uma 
-“arqueologia documental” no momento de
-evidenciar, no formulário da Lei do Bem 
-ou na prestação de contas de linhas de 
-fomento à inovação, o resultado que as 
-atividades de pesquisa e desenvolvimento 
-propiciaram ao longo do tempo.
+• Qual a qualificação e dedicação do pessoal envolvido na execução projeto? 
+
+Por fim, respondidas as perguntas acima, o próximo passo será a avaliação das atividades de PD&I do projeto, a fim de se identificar se esse possui potencial de ser beneficiado pela Lei do Bem. A seguir, serão detalhados os conceitos das atividades de PD&I que devem ser observados para o enquadramento do projeto nos benefícios da Lei do Bem.
+Este esforço de mapear as inovações e barreiras tecnológicas desde a concepção e durante a execução do projeto evita a necessidade de realização de uma “arqueologia documental” no momento de evidenciar, no formulário da Lei do Bem ou na prestação de contas de linhas de fomento à inovação, o resultado que as 
+atividades de pesquisa e desenvolvimento propiciaram ao longo do tempo.
 
 
 
+2. Atividades de Pesquisa Tecnológica e Desenvolvimentode InovaçãoTecnológica (PD&I)
 
-2. Atividades de 
-Pesquisa Tecnológica 
-e Desenvolvimento
-de Inovação
-Tecnológica (PD&I)
-
-
-Além do conceito de inovação tecnológica, apresentado anteriormente, é necessário compreender o conceito de pesquisa tecnológica e 
-desenvolvimento de inovação tecnológica (PD&I), visto que a Lei do Bem busca incentivar as atividades de PD&I que levam a um novo ou 
-aprimorado produto, processo ou serviço.
-A seguir, serão detalhadas a atividade de PD&I: pesquisa básica dirigida, pesquisa aplicada, desenvolvimento experimental, tecnologia industrial 
+Além do conceito de inovação tecnológica, apresentado anteriormente, é necessário compreender o conceito de pesquisa tecnológica e desenvolvimento de inovação tecnológica (PD&I), visto que a Lei do Bem busca incentivar as atividades de PD&I que levam a um novo ou aprimorado produto, processo ou serviço. A seguir, serão detalhadas a atividade de PD&I: pesquisa básica dirigida, pesquisa aplicada, desenvolvimento experimental, tecnologia industrial 
 básica e serviço de apoio técnico:
 
 
 2.1. Pesquisa Básica Dirigida
 a. Contextualização Legal
 O Decreto nº 5.798, de 2006, que regulamenta a Lei do Bem, traz, em seu artigo 2º uma definição sobre a pesquisa básica dirigida: 
-“Pesquisa básica dirigida – os trabalhos executados com o objetivo de adquirir conhecimentos quanto à compreensão de novos 
-fenômenos, com vistas ao desenvolvimento de produtos, processos ou sistemas inovadores”.
-
-
+“Pesquisa básica dirigida – os trabalhos executados com o objetivo de adquirir conhecimentos quanto à compreensão de novos fenômenos, com vistas ao desenvolvimento de produtos, processos ou sistemas inovadores”.
 
 b. Contextualização Teórica
-
-
-A fim de demonstrar brevemente a evolução 
-do conceito, cumpre informar que, segundo 
-o Manual de Frascati, a pesquisa básica 
-consiste em trabalhos experimentais ou 
-teóricos desenvolvidos principalmente com a finalidade de adquirir novos 
-conhecimentos sobre os fundamentos 
-de fenômenos e fatos observáveis, sem 
-considerar uma aplicação ou uso particular. Na área da pesquisa básica, os 
-cientistas têm flexibilidade para definir 
-seus próprios objetivos.
-No entanto, a pesquisa básica só pode ser 
-orientada ou direcionada para grandes 
-áreas de interesse geral, com o objetivo 
-explícito de desencadear em uma ampla 
-gama de aplicações. Essa lógica faz surgir o conceito de pesquisa básica dirigida (ou 
-pesquisa básica orientada, nos termos do 
-Manual de Frascati).
-Assim, temos que pesquisa básica dirigida é 
-aquela realizada com a expectativa de que 
-ela conduzirá à criação de uma ampla base 
-de conhecimento que permita resolver problemas e perceber as oportunidades que se 
-apresentam atualmente ou possam vir a se 
-apresentar em um momento posterior.
-Em síntese, pesquisa básica dirigida 
-pode ser entendida como os trabalhos 
-executados com o objetivo de adquirir 
-conhecimentos quanto à compreensão 
-de novos fenômenos, com vistas ao desenvolvimento de produtos, processos 
-ou sistemas inovadores.
-
-
+A fim de demonstrar brevemente a evolução do conceito, cumpre informar que, segundo o Manual de Frascati, a pesquisa básica consiste em trabalhos experimentais ou teóricos desenvolvidos principalmente com a finalidade de adquirir novos conhecimentos sobre os fundamentos de fenômenos e fatos observáveis, sem considerar uma aplicação ou uso particular. Na área da pesquisa básica, os cientistas têm flexibilidade para definir seus próprios objetivos. No entanto, a pesquisa básica só pode ser orientada ou direcionada para grandes áreas de interesse geral, com o objetivo explícito de desencadear em uma ampla gama de aplicações. Essa lógica faz surgir o conceito de pesquisa básica dirigida (ou pesquisa básica orientada, nos termos do Manual de Frascati). Assim, temos que pesquisa básica dirigida é 
+aquela realizada com a expectativa de que ela conduzirá à criação de uma ampla base de conhecimento que permita resolver problemas e perceber as oportunidades que se apresentam atualmente ou possam vir a se apresentar em um momento posterior.Em síntese, pesquisa básica dirigida pode ser entendida como os trabalhos 
+executados com o objetivo de adquirir conhecimentos quanto à compreensão de novos fenômenos, com vistas ao desenvolvimento de produtos, processos ou sistemas inovadores.
 
 c. Contextualização Prática
 
-Uma maneira de deixar mais claro o objetivo 
-de um projeto científico de pesquisa básica ou 
-aplicada é através da apresentação de uma 
-breve introdução sobre o tema da pesquisa, as etapas dos estudos, testes envolvidos 
-e as competências técnicas necessárias para 
-a pesquisa em questão. Desta maneira, os 
-avaliadores terão uma contextualização melhor no momento da análise dos projetos. 
-O conceito de pesquisa básica dirigida no 
-contexto de utilização da Lei do Bem pode 
-ser compreendido como os trabalhos de 
-busca executados com o objetivo de adquirir conhecimentos quanto à compreensão 
-de novos fenômenos, com vistas ao desenvolvimento de projetos que visam resultar 
-em produtos, processos ou sistemas inovadores. Envolve a análise de propriedades, 
-teorias, leis, estruturas e conexões para formular e/ou comprovar hipóteses. 
-A pesquisa básica dirigida, em geral, 
-busca verificar respostas para solução 
-de problemas identificados com vistas à 
-elaboração e execução de projetos específicos. Em geral, se identifica essa fase 
-da P&D como as premissas sob as quais 
-deve trabalhar inicialmente a equipe 
-envolvida no desenvolvimento, visando 
-chegar a um resultado que atenda aos 
-requisitos preliminares do projeto.
-Assim, temos que, no âmbito de aplicação 
-e utilização da Lei do Bem, o conceito de 
-pesquisa básica dirigida pode ser compreendido como a investigação de novos fenômenos, estrategicamente orientada para a 
-criação de novos ou aprimorados, produtos, 
-processos e serviços no âmbito de um projeto específico. Trata-se, portanto, de atividades de pesquisa básica voltada especificamente a um objetivo ou um determinado 
-propósito prático.
+Uma maneira de deixar mais claro o objetivo de um projeto científico de pesquisa básica ou aplicada é através da apresentação de uma breve introdução sobre o tema da pesquisa, as etapas dos estudos, testes envolvidos e as competências técnicas necessárias para a pesquisa em questão. Desta maneira, os avaliadores terão uma contextualização melhor no momento da análise dos projetos. O conceito de pesquisa básica dirigida no contexto de utilização da Lei do Bem pode ser compreendido como os trabalhos de busca executados com o objetivo de adquirir conhecimentos quanto à compreensão de novos fenômenos, com vistas ao desenvolvimento de projetos que visam resultar em produtos, processos ou sistemas inovadores. Envolve a análise de propriedades, teorias, leis, estruturas e conexões para formular e/ou comprovar hipóteses. A pesquisa básica dirigida, em geral, busca verificar respostas para solução de problemas identificados com vistas à elaboração e execução de projetos específicos. Em geral, se identifica essa fase da P&D como as premissas sob as quais deve trabalhar inicialmente a equipe envolvida no desenvolvimento, visando chegar a um resultado que atenda aos requisitos preliminares do projeto. Assim, temos que, no âmbito de aplicação e utilização da Lei do Bem, o conceito de pesquisa básica dirigida pode ser compreendido como a investigação de novos fenômenos, estrategicamente orientada para a criação de novos ou aprimorados, produtos, processos e serviços no âmbito de um projeto específico. Trata-se, portanto, de atividades de pesquisa básica voltada especificamente a um objetivo ou um determinado propósito prático.
 
-Pontuamos abaixo alguns aspectos 
-práticos sobre o conceito de pesquisa 
-básica dirigida:
-• Objetiva gerar conhecimentos novos 
-úteis para o avanço do projeto, mantendo os resultados almejados 
-em perspectiva.
-• É realizada com o objetivo de aumentar o conhecimento sobre algum 
-assunto, procurando identificar na 
-pesquisa uma aplicação específica 
-ao projeto.
-• Busca o conhecimento voltado à 
-sua aplicação.
-• Busca a difusão do conhecimento gerado no respectivo setor de atuação 
-deste no respectivo setor de atuação.
-
-
+Pontuamos abaixo alguns aspectos práticos sobre o conceito de pesquisa básica dirigida:
+• Objetiva gerar conhecimentos novos úteis para o avanço do projeto, mantendo os resultados almejados em perspectiva.
+• É realizada com o objetivo de aumentar o conhecimento sobre algum assunto, procurando identificar na pesquisa uma aplicação específica ao projeto.
+• Busca o conhecimento voltado à sua aplicação.
+• Busca a difusão do conhecimento gerado no respectivo setor de atuação deste no respectivo setor de atuação.
 
 d. Exemplos
 
-O desenvolvimento da mecânica quântica, 
-no início do século XX, foi classificado essencialmente como pesquisa básica. Mais tarde, 
-nos anos 1950, esse mesmo conhecimento 
-foi usado de forma aplicada para desenvolver o início da microeletrônica. 
-Nos anos 2000, esses conhecimentos adquiridos passaram a ser utilizados, na forma 
-de pesquisa básica dirigida, no desenvolvimento de um dispositivo eletrônico (chip) 
-para implantação subcutânea em humanos 
-para uso médico, que ficou conhecido como 
-VeriChip, com o objetivo de armazenar informações médicas sobre o portador do 
-dispositivo, tais como o grupo sanguíneo,
-alergias, ou doenças crônicas, além de fornecer o histórico de medicamentos do paciente.
-Em 2014, a empresa Applied Digital Solutions 
-(ADS) foi autorizada pela Food and Drug Administration (FDA), entidade regulatória do 
-setor de saúde nos Estados Unidos, a utilizar o VeriChip para armazenar informações 
-médicas sobre o portador do dispositivo. 
-Sugere-se explorar com clareza de detalhes 
-o que levou a empresa a seguir com aquela
-linha da pesquisa. Em geral, a pesquisa 
-básica dirigida nas empresas surge pela 
-identificação de um problema ou oportunidade que se apresenta como potencial para 
-aumento de qualidade ou competitividade 
-dos seus produtos, processos ou serviços.
-Assim, o foco principal da pesquisa básica 
-dirigida é a procura por novos elementos/
-conhecimentos que resultem na criação de novos conceitos e ofereçam 
-uma possível solução em relação à 
-necessidade identificada.
-É interessante descrever esse cenário, 
-demonstrando que a pesquisa básica dirigida tem por objetivo buscar possíveis 
-conceitos, conhecimentos, soluções e 
-formas de transformá-las em novo produto, processo ou serviço no mercado de atuação, ou até mesmo identificar 
-determinada oportunidade.
-
+O desenvolvimento da mecânica quântica, no início do século XX, foi classificado essencialmente como pesquisa básica. Mais tarde, nos anos 1950, esse mesmo conhecimento foi usado de forma aplicada para desenvolver o início da microeletrônica. Nos anos 2000, esses conhecimentos adquiridos passaram a ser utilizados, na forma de pesquisa básica dirigida, no desenvolvimento de um dispositivo eletrônico (chip) para implantação subcutânea em humanos para uso médico, que ficou conhecido como VeriChip, com o objetivo de armazenar informações médicas sobre o portador do dispositivo, tais como o grupo sanguíneo, alergias, ou doenças crônicas, além de fornecer o histórico de medicamentos do paciente.Em 2014, a empresa Applied Digital Solutions (ADS) foi autorizada pela Food and Drug Administration (FDA), entidade regulatória do setor de saúde nos Estados Unidos, a utilizar o VeriChip para armazenar informações médicas sobre o portador do dispositivo. Sugere-se explorar com clareza de detalhes o que levou a empresa a seguir com aquelalinha da pesquisa. Em geral, a pesquisa básica dirigida nas empresas surge pela identificação de um problema ou oportunidade que se apresenta como potencial para aumento de qualidade ou competitividade dos seus produtos, processos ou serviços. Assim, o foco principal da pesquisa básica dirigida é a procura por novos elementos/conhecimentos que resultem na criação de novos conceitos e ofereçam uma possível solução em relação à necessidade identificada. É interessante descrever esse cenário, demonstrando que a pesquisa básica dirigida tem por objetivo buscar possíveis conceitos, conhecimentos, soluções e formas de transformá-las em novo produto, processo ou serviço no mercado de atuação, ou até mesmo identificar determinada oportunidade.
 
 e. Boas Práticas
-Dentre as atividades de PD&I, a pesquisa básica dirigida talvez seja a que possua 
-características mais peculiares quanto à sua gestão devido à sua natureza.
+Dentre as atividades de PD&I, a pesquisa básica dirigida talvez seja a que possua características mais peculiares quanto à sua gestão devido à sua natureza.
 
-A primeira a ser destacada é o próprio 
-escopo de um projeto deste tipo. Por se 
-tratar de pesquisa básica, mesmo que 
-orientada, é possível que não se tenha 
-clareza dos resultados que se buacam. 
-Neste caso, seguindo os exemplos de Instituições de Ciência, Tecnologia e Inovação
-(ICTs), uma orientação seria a de criar linhas 
-de pesquisas com foco em diversas amplitudes de conhecimento que a empresa 
-necessita aprimorar, como se fossem um 
-programa, que, dependendo do avanço destas atividades, podem derivar ao longo do
-tempo em projetos, cujos escopos poderão
-ser definidos à medida que os conceitos 
-forem descobertos.
-A segunda característica é quanto à 
-evidência dos resultados: investir em 
-pesquisa básica significa que a empresa 
-está disposta a correr riscos para se posicionar na fronteira tecnológica. Quando se 
-trata deste tipo de pesquisa, a possibilidade do esforço provar que não é possível o 
-desenvolvimento de determinada tecnologia é bastante elevada. Por isso, é 
-importante evidenciar tanto os resultados 
-positivos, quanto negativos por meio 
-de documentação técnica e financeira. 
-Tal procedimento ajudará na prestação de 
-contas e no preenchimento do formulário 
-da Lei do Bem.
-A terceira particularidade está relacionada à contratação de ICTs para realização 
-da pesquisa ou parte dela. Por se tratar de 
-pesquisa básica dirigida, é importante salientar que, para o dispêndio ser considerado
- na Lei do Bem, o risco tecnológico deve ser 
-da empresa que está realizando o dispêndio. Desta forma, é de suma importância 
-a atenção na hora de firmar o contrato de 
-prestação de serviço.
+A primeira a ser destacada é o próprio escopo de um projeto deste tipo. Por se tratar de pesquisa básica, mesmo que orientada, é possível que não se tenha clareza dos resultados que se buacam. Neste caso, seguindo os exemplos de Instituições de Ciência, Tecnologia e Inovação (ICTs), uma orientação seria a de criar linhas de pesquisas com foco em diversas amplitudes de conhecimento que a empresa necessita aprimorar, como se fossem um programa, que, dependendo do avanço destas atividades, podem derivar ao longo do tempo em projetos, cujos escopos poderão ser definidos à medida que os conceitos forem descobertos.
+A segunda característica é quanto à evidência dos resultados: investir em pesquisa básica significa que a empresa está disposta a correr riscos para se posicionar na fronteira tecnológica. Quando se trata deste tipo de pesquisa, a possibilidade do esforço provar que não é possível o desenvolvimento de determinada tecnologia é bastante elevada. Por isso, é importante evidenciar tanto os resultados positivos, quanto negativos por meio de documentação técnica e financeira. Tal procedimento ajudará na prestação de contas e no preenchimento do formulário da Lei do Bem.A terceira particularidade está relacionada à contratação de ICTs para realização da pesquisa ou parte dela. Por se tratar de pesquisa básica dirigida, é importante salientar que, para o dispêndio ser considerado na Lei do Bem, o risco tecnológico deve ser da empresa que está realizando o dispêndio. Desta forma, é de suma importância a atenção na hora de firmar o contrato de prestação de serviço.
 
 
 
 2.2. Pesquisa Aplicada
+
 a. Contextualização Legal
 O Decreto nº 5.798, de 2006, que regulamenta a Lei do Bem, traz, em seu artigo 2º, uma definição sobre a pesquisa aplicada: 
-“Pesquisa aplicada – os trabalhos executados com o objetivo de adquirir novos conhecimentos, com vistas ao desenvolvimento ou 
-aprimoramento de produtos, processos e sistemas”.
+“Pesquisa aplicada – os trabalhos executados com o objetivo de adquirir novos conhecimentos, com vistas ao desenvolvimento ou aprimoramento de produtos, processos e sistemas”.
 
 b. Contextualização Teórica
-A pesquisa aplicada é realizada para 
-determinar as possíveis utilizações dos 
-resultados da pesquisa básica, para estabelecer métodos ou novas maneiras de 
-alcançar objetivos determinados. 
-Trata-se de considerar os conhecimentos 
-existentes e aprofundá-los com a finalidade 
-de resolver problemas específicos. Tais conceitos estão definidos no Manual de Frascati,
-que preceitua:
-“Pesquisa aplicada consiste em trabalhos originais empreendidos com a 
-finalidade de adquirir conhecimentos 
-novos. No entanto, ela é dirigida pricipalmente a um objetivo específico ou 
-um determinado propósito prático. A pesquisa aplicada é realizada 
-para determinar as possíveis utilizações dos resultados da pesquisa básica, para estabelecer métodos ou novas maneiras de alcançar objetivos 
-determinados. Trata-se de considerar 
-os conhecimentos existentes e aprofundá-los com a finalidade de resolver 
-problemas específicos”.
-
-
+A pesquisa aplicada é realizada para determinar as possíveis utilizações dos resultados da pesquisa básica, para estabelecer métodos ou novas maneiras de alcançar objetivos determinados. Trata-se de considerar os conhecimentos existentes e aprofundá-los com a finalidade de resolver problemas específicos. Tais conceitos estão definidos no Manual de Frascati,que preceitua:“Pesquisa aplicada consiste em trabalhos originaisempreendidos com a finalidade de adquirir conhecimentos novos. No entanto, ela é dirigida pricipalmente a um objetivo específico ou um determinado propósito prático. A pesquisa aplicada é realizada para determinar as possíveis utilizações dos resultados da pesquisa básica, para estabelecer métodos ou novas maneiras de alcançar objetivos determinados. Trata-se de considerar os conhecimentos existentes e aprofundá-los com a finalidade de resolver problemas específicos”.
 
 c. Contextualização Prática
-Enquadram-se no conceito de pesquisa 
-aplicada as atividades executadas com o 
-objetivo de adquirir novos conhecimentos, aplicando propriedades, teorias, leis, 
-estruturas e conexões com vistas ao 
-desenvolvimento ou aprimoramento de 
-produtos, processos e sistemas. Além 
-de determinar os possíveis usos para 
-as descobertas da pesquisa básica dirigida ou novos métodos e maneiras de 
-alcançar um determinado objetivo específico, envolve o conhecimento disponível e sua 
-aplicação na busca da solução para os desafios propostos nos respectivos projetos. 
-A pesquisa aplicada se apresenta 
-como prática e é designada para gerar 
-conhecimento numa esfera de atuação 
-específica, na ciência, na indústria e no 
-setor de serviços, voltada para sua aplicação a um projeto particular em execução, 
-com potencial impacto econômico.
-Outro aspecto a ser considerado no conceito é a constatação de que ,na pesquisa 
-aplicada, se identificam atividades em que 
-conhecimentos previamente adquiridos 
-são utilizados para coletar, selecionar e processar fatos e dados, a fim de se obter e
-confirmar resultados, e gerar impacto efetivo visando a um determinado objetivo.
-Percebe-se, não raramente, que o resultado da pesquisa aplicada pode garantir
-ao seu titular a possibilidade de registro
-de pedidos de privilégios quanto a Direito
-de Propriedade Intelectual junto ao Instituto Nacional de Propriedade 
-Industrial (INPI).
-Em suma, podemos considerar que a pesquisa aplicada e a pesquisa básica dirigida podem estar contidas em quadros
-de referência comuns e uma pode alimentar a outra, sendo certo dizer que, em 
-regra, a pesquisa aplicada, em função do 
-resultado a que visa atingir, impõe maior 
-rigor na definição do problema, no desenho, na metodologia adotada e na análise 
-dos resultados.
+Enquadram-se no conceito de pesquisa aplicada as atividades executadas com o objetivo de adquirir novos conhecimentos, aplicando propriedades, teorias, leis, estruturas e conexões com vistas ao desenvolvimento ou aprimoramento de produtos, processos e sistemas. Além de determinar os possíveis usos para 
+as descobertas da pesquisa básica dirigida ou novos métodos e maneiras de alcançar um determinado objetivo específico, envolve o conhecimento disponível e sua 
+aplicação na busca da solução para os desafios propostos nos respectivos projetos. A pesquisa aplicada se apresenta como prática e é designada para gerar 
+conhecimento numa esfera de atuação específica, na ciência, na indústria e no setor de serviços, voltada para sua aplicação a um projeto particular em execução, 
+com potencial impacto econômico. Outro aspecto a ser considerado no conceito é a constatação de que ,na pesquisa 
+aplicada, se identificam atividades em que conhecimentos previamente adquiridos são utilizados para coletar, selecionar e processar fatos e dados, a fim de se obter econfirmar resultados, e gerar impacto efetivo visando a um determinado objetivo. Percebe-se, não raramente, que o resultado da pesquisa aplicada pode garantirao seu titular a possibilidade de registrode pedidos de privilégios quanto a Direitode Propriedade Intelectual junto ao Instituto Nacional de Propriedade 
+Industrial (INPI). Em suma, podemos considerar que a pesquisa aplicada e a pesquisa básica dirigida podem estar contidas em quadros de referência comuns e uma pode alimentar a outra, sendo certo dizer que, em regra, a pesquisa aplicada, em função do resultado a que visa atingir, impõe maior rigor na definição do problema, no desenho, na metodologia adotada e na análise dos resultados.
 
 
-
-
-Descrevemos abaixo alguns aspectos práticos acerca do conceito de 
-pesquisa aplicada: 
+Descrevemos abaixo alguns aspectos práticos acerca do conceito de pesquisa aplicada: 
 • Objetiva gerar conhecimentos para aplicação prática dirigida à solução de problemas ou objetivos específicos.
 • É realizada com o objetivo de obter conhecimento que será usado a curto ou médio prazo.
 • É uma investigação original concebida pelo interesse em aplicar novos conhecimentos.
-• É realizada para determinar os possíveis usos para as descobertas da pesquisa básica dirigida ou para definir novos métodos ou maneiras de alcançar um certo objetivo
-específico e pré-determinado.
+• É realizada para determinar os possíveis usos para as descobertas da pesquisa básica dirigida ou para definir novos métodos ou maneiras de alcançar um certo objetivoespecífico e pré-determinado.
 • Envolve conhecimento disponível e sua ampliação.
 • Aplica o conhecimento visando utilidade econômica e social.
 • Busca o conhecimento pela apropriação do “know how” e/ou patentes.
 
 
-
 d. Exemplos
-Uma empresa atuante no setor agrícola 
-deseja disponibilizar ao setor um novo trator capaz de cumprir simultaneamente as 
+Uma empresa atuante no setor agrícola deseja disponibilizar ao setor um novo trator capaz de cumprir simultaneamente as 
 funções de plantadora e adubadora com o 
 objetivo de reduzir o tempo e otimizar as 
 operações de plantio. Como resultado da 
