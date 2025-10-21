@@ -4929,80 +4929,28 @@ Desenvolvimento sistêmico e realização de
 testes de performance técnica e funcional
 
 
-
-
 - Elemento Tecnologicamente Novo ou Inovador
-Desenvolvimento experimental de sistema autônomo de veículos leves, com 
-aplicação de algoritmos baseados em 
-inteligência artificial para simulação de 
-diversas situações de riscos de trânsito 
-eminentes, tais como: aproximação de 
-outro veículo/obstáculo, sinal fechado, 
-via bloqueada, etc. O problema tecnológico está no fato da empresa não 
-deter conhecimentos aprofundados nos 
-conceitos e tecnologias disponíveis, e em 
-sua aplicação em veículos autônomos.
-- Tipo? Produto, serviço  ou sistema?
-Sistema
+Desenvolvimento experimental de sistema autônomo de veículos leves, com aplicação de algoritmos baseados em inteligência artificial para simulação de diversas situações de riscos de trânsito eminentes, tais como: aproximação de outro veículo/obstáculo, sinal fechado, via bloqueada, etc. O problema tecnológico está no fato da empresa não deter conhecimentos aprofundados nos conceitos e tecnologias disponíveis, e em sua aplicação em veículos autônomos.
+
+- Tipo? Produto, serviço  ou sistema?Sistema
+
 - Barreira ou Desafio Tecnológicoó
-Reproduzir em ambiente de simulação o 
-comportamento de um condutor humano 
-na direção de um veículo, por meio de um 
-sistema autônomo, que integrará um conjunto 
-de tecnologias para sensoreamento, controle 
-e atuação, determinando autonomamente as 
-melhores ações a serem tomadas de forma 
-segura e confiável
-- Metodologia/ Métodos Utilizados
-Definição do conceito do projeto; pesquisas sobre o comportamento do condutor 
-humano; detalhamento das principais 
-rotas tecnológicas possíveis; modelagem 
-matemática e simulações virtuais exaustivas do funcionamento de cada sistema, 
-sub-sistema e funções individualmente, 
-bem como de sua integração no veículo. 
-Neste primeiro momento serão realizadas 
-apenas simulações computacionais, sendo 
-uma segunda fase do projeto a construção 
-de protótipos físicos para testes do funcionamento real da solução proposta.
+Reproduzir em ambiente de simulação o comportamento de um condutor humano na direção de um veículo, por meio de um sistema autônomo, que integrará um conjunto de tecnologias para sensoreamento, controle e atuação, determinando autonomamente as melhores ações a serem tomadas de forma segura e confiável
 
+- Metodologia/ Métodos UtilizadosDefinição do conceito do projeto; pesquisas sobre o comportamento do condutor humano; detalhamento das principais rotas tecnológicas possíveis; modelagem matemática e simulações virtuais exaustivas do funcionamento de cada sistema, sub-sistema e funções individualmente, bem como de sua integração no veículo. Neste primeiro momento serão realizadas apenas simulações computacionais, sendo uma segunda fase do projeto a construção de protótipos físicos para testes do funcionamento real da solução proposta.
 
+- Elemento Tecnologicamente Novo ou Inovador Desenvolvimento de arquitetura de sistema para guarda de assinatura digital, 
+que atenda aos requisitos de espaço, desempenho e manutenção da validade jurídica deste tipo de assinatura. Foi gerado um novo produto "guarda de assinatura digital" (patente em processo), com um ganho estimado de aproximadamente 50% de redução no espaço de armazenamento de documentação assinada digitalmente,resolvendo o problema atual do crescimento da base de dados que guarda essas assinaturas ao longo dos anos.
 
+- Tipo? Produto, serviço  ou sistema?Sistema
 
+- Barreira ou Desafio Tecnológico
+Elaboração de arquitetura de sistema para guarda de assinatura digital de longa duração, considerando a criticidade nos requisitos de 
+espaço digital, desempenho, recuperação de documentos e manutenção da validade jurídca; Grande risco de desenvolvimento de uma solução complexa cujos principais métodos de armazenamento não se mostrariam eficazes; 
 
-- Elemento Tecnologicamente Novo ou Inovador
-Desenvolvimento de arquitetura de sistema para guarda de assinatura digital, 
-que atenda aos requisitos de espaço, 
-desempenho e manutenção da validade 
-jurídica deste tipo de assinatura. Foi 
-gerado um novo produto "guarda de 
-assinatura digital" (patente em processo), com um ganho estimado de aproximadamente 50% de redução no espaço 
-de armazenamento de documentação 
-assinada digitalmente, resolvendo o 
-problema atual do crescimento da base 
-de dados que guarda essas assinaturas 
-ao longo dos anos.
-- Tipo? Produto, serviço  ou sistema?
-Sistema
-- Barreira ou Desafio Tecnológicoó
-Elaboração de arquitetura de sistema para 
-guarda de assinatura digital de longa duração, 
-considerando a criticidade nos requisitos de 
-espaço digital, desempenho, recuperação de 
-documentos e manutenção da validade jurídica; Grande risco de desenvolvimento de uma 
-solução complexa cujos principais métodos de 
-armazenamento não se mostrariam eficazes; 
-3-Dificuldade de desmembrar os dados de uma 
-assinatura digital e reconstituí-la perfeitamente, 
-sem replicar as informações já armazenadas.
-- Metodologia/ Métodos Utilizados
-Identificação dos requisitos técnicos (armazenamento e manutenção de assinatura 
-digital); Pesquisa detalhada da estrutura da 
-assinatura digital; Desenvolvimento de modelagem para guarda de assinatura digital 
-(quebra e reestruturação de dados); Desenvolvimento de webservice para guarda e 
-recuperação de documentos assinados digitalmente, utilizando a linguagem Java e base 
-de dados mySQL; Testes de desempenho em 
-laboratório, com resultados positivos
-e perfeito funcionamento do sistema
+3-Dificuldade de desmembrar os dados de uma assinatura digital e reconstituí-la perfeitamente, sem replicar as informações já armazenadas.
+- Metodologia/ Métodos UtilizadosIdentificação dos requisitos técnicos (armazenamento e manutenção de assinatura digital); Pesquisa detalhada da estrutura da 
+assinatura digital; Desenvolvimento de modelagem para guarda de assinatura digital (quebra e reestruturação de dados); Desenvolvimento de webservice para guarda e recuperação de documentos assinados digitalmente, utilizando a linguagem Java e base de dados mySQL; Testes de desempenho em laboratório, com resultados positivose perfeito funcionamento do sistema.
 
 
 
