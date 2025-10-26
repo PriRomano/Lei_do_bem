@@ -3767,312 +3767,69 @@ Descrevemos abaixo alguns aspectos práticos acerca do conceito de pesquisa apli
 
 
 d. Exemplos
-Uma empresa atuante no setor agrícola deseja disponibilizar ao setor um novo trator capaz de cumprir simultaneamente as 
-funções de plantadora e adubadora com o 
-objetivo de reduzir o tempo e otimizar as 
-operações de plantio. Como resultado da 
-etapa de pesquisa aplicada, a equipe técnica 
-concluiu ser necessário aplicar conhecimentos existentes e desenvolver primeiramente 
-o equipamento para plantio de um determinado grão, para posteriormente adaptar 
-para outras culturas. 
-Para tanto, foram necessários dados de 
-pesquisa agronômica apontando características técnicas fundamentais que estabeleceram 
-os parâmetros: necessidade de espaçamento 
-entre linhas para plantio e a capacidade dos 
-reservatórios de sementes inseridos no implemento. Tais características combinadas com 
-outras levaram à determinação das dimensões mínimas do novo trator.
-A pesquisa aplicada se destinou ainda a dimensionar outras características do chassi, 
-rodados e reservatórios de combustível,
-bem como mapear os componentes hidráulicos, pneumáticos e elétricos
-
+Uma empresa atuante no setor agrícola deseja disponibilizar ao setor um novo trator capaz de cumprir simultaneamente as funções de plantadora e adubadora com o 
+objetivo de reduzir o tempo e otimizar as operações de plantio. Como resultado da etapa de pesquisa aplicada, a equipe técnica concluiu ser necessário aplicar conhecimentos existentes e desenvolver primeiramente o equipamento para plantio de um determinado grão, para posteriormente adaptar para outras culturas. Para tanto, foram necessários dados de pesquisa agronômica apontando características técnicas fundamentais que estabeleceram os parâmetros: necessidade de espaçamento entre linhas para plantio e a capacidade dos reservatórios de sementes inseridos no implemento. Tais características combinadas com outras levaram à determinação das dimensões mínimas do novo trator. A pesquisa aplicada se destinou ainda a dimensionar outras características do chassi, rodados e reservatórios de combustível, bem como mapear os componentes hidráulicos, pneumáticos e elétricos
 
 e. Boas Práticas
-Sugerimos descrever as etapas de aplicação 
-das diferentes técnicas, consideradas as distintas áreas do conhecimento incidentes na 
-solução, durante o desenvolvimento desta 
-fase do projeto.
-É importante abordar a formatação 
-operacional das ideias, métodos e sistemas que foram utilizados e aplicados, 
-bem como o encadeamento entre esses 
-elementos, que contribuiu para o resultado alcançado nesta fase da pesquisa 
-e desenvolvimento.
-Este tipo de pesquisa é mais comum nas 
-empresas, por ser tratar da geração de 
-conhecimento diretamente aplicado ao 
-desenvolvimento de inovações. Segundo o 
-Manual de Frascati, a pesquisa aplicada procura verificar se os conhecimentos gerados 
-pela pesquisa básica são aplicados ao desenvolvimento. Por isso, a importância do 
-conhecimento da pesquisa básica dirigida 
-estar devidamente documentado, para que 
-possa ser referenciado nos resultados da 
-pesquisa aplicada.
-Para um melhor controle das atividades 
-envolvidas, recomenda-se que os resultados da pesquisa aplicada sejam também 
-documentados, de forma que possam ser 
-facilmente rastreados para uma mais fácil 
-transição para atividades de desenvolvimento experimental. Para além desse fator 
-interno, também será importante esse controle para um melhor aproveitamento da 
-Lei do Bem, este ao nível técnico e também 
-financeiro, ou seja, FormP&D e prestação 
-de contas. 
-Geralmente, os resultados da pesquisa aplicada se desdobram em provas de conceitos 
-e experimentos. 
-É importante refletir sobre a importância de 
-registrar até mesmo os casos de insucessos, 
-pois estes podem ajudar a explicar o porquê 
-de algumas decisões futuras da empresa 
-quanto às inovações em questão. Do ponto 
-de vista da Lei do Bem, os projetos de insucesso também podem ser considerados. 
-Desse modo, não se deve descaracterizar 
-e retirar a importância da documentação 
-quando a empresa está efetuando a tratativa desse tipo de projeto.
-
-
+Sugerimos descrever as etapas de aplicação das diferentes técnicas, consideradas as distintas áreas do conhecimento incidentes na solução, durante o desenvolvimento desta fase do projeto. É importante abordar a formatação operacional das ideias, métodos e sistemas que foram utilizados e aplicados, bem como o encadeamento entre esses elementos, que contribuiu para o resultado alcançado nesta fase da pesquisa e desenvolvimento.Este tipo de pesquisa é mais comum nas empresas, por ser tratar da geração de conhecimento diretamente aplicado ao desenvolvimento de inovações. Segundo o Manual de Frascati, a pesquisa aplicada procura verificar se os conhecimentos gerados pela pesquisa básica são aplicados ao desenvolvimento. Por isso, a importância do conhecimento da pesquisa básica dirigida estar devidamente documentado, para que possa ser referenciado nos resultados da pesquisa aplicada. Para um melhor controle das atividades envolvidas, recomenda-se que os resultados da pesquisa aplicada sejam também documentados, de forma que possam ser facilmente rastreados para uma mais fácil transição para atividades de desenvolvimento experimental. Para além desse fator interno, também será importante esse controle para um melhor aproveitamento da Lei do Bem, este ao nível técnico e também financeiro, ou seja, FormP&D e prestação de contas. Geralmente, os resultados da pesquisa aplicada se desdobram em provas de conceitos 
+e experimentos. É importante refletir sobre a importância de registrar até mesmo os casos de insucessos, pois estes podem ajudar a explicar o porquê de algumas decisões futuras da empresa quanto às inovações em questão. Do ponto de vista da Lei do Bem, os projetos de insucesso também podem ser considerados. Desse modo, não se deve descaracterizar e retirar a importância da documentação quando a empresa está efetuando a tratativa desse tipo de projeto.
 
 2.3. Desenvolvimento Experimental
 a. Contextualização Legal
-O Decreto nº 5.798, de 2006, que regulamenta a Lei do Bem, traz, em seu artigo 2º, uma definição sobre a desenvolvimento experimental: 
-“Desenvolvimento experimental – os trabalhos sistemáticos delineados a partir de conhecimentos pré-existentes, visando 
-a comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, 
-ainda, um evidente aperfeiçoamento dos já produzidos ou estabelecidos”
+O Decreto nº 5.798, de 2006, que regulamenta a Lei do Bem, traz, em seu artigo 2º, uma definição sobre a desenvolvimento experimental: “Desenvolvimento experimental – os trabalhos sistemáticos delineados a partir de conhecimentos pré-existentes, visando a comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, ainda, um evidente aperfeiçoamento dos já produzidos ou estabelecidos”
 
 b. Contextualização Teórica
-No Manual de Frascati, o desenvolvimento
-experimental consiste na realização de
-trabalhos sistemáticos, baseados em conhecimentos preexistentes, obtidos por
-meio de pesquisa e/ou experiência prática, com a finalidade de produção de
-novos materiais, produtos ou dispositivos; 
-a implantação de novos processos, sistemas e serviços; ou o aperfeiçoamento 
-considerável dos preexistentes.
-Neste item, podemos notar a complementariedade conceitual entre a Legislação e o 
-Manual de Frascati. 
-A legislação apresenta conhecimentos 
-preexistentes como prerrogativa para definição do desenvolvimento experimental, e o 
-Manual de Frascati apresenta, além de conhecimentos pré-existentes, a pesquisa e/
-ou a experiência prática.
-A seguir, seguem as duas definições 
-para análise:
-A Legislação diz:
-“desenvolvimento experimental: os trabalhos 
-sistemáticos delineados a partir de conhecimentos pré-existentes...”
-O Manual de Frascati diz:
-“O desenvolvimento experimental consiste
-na realização de trabalhos sistemáticos, 
-baseados em conhecimentos preexistentes, obtidos por meio de pesquisa e/ou 
-experiência prática...”
-Esse Guia define, com maior clareza, a origem do conhecimento utilizado para que a 
-atividade de desenvolvimento experimental 
-possa ser executada. 
-Notadamente temos aqui o entendimento 
-de que as atividades de desenvolvimento 
-experimental nas organizações não decorrem de uma ação linear da PD&I, ou seja, 
-não existe a necessidade de passarmos pela 
-pesquisa básica dirigida e aplicada para que 
-a atividade de desenvolvimento experimental possa ser classificada como inovadora, o 
-que permite concluir que o conhecimento é 
-adquirido através da experiência prática.
+No Manual de Frascati, o desenvolvimento experimental consiste na realização de trabalhos sistemáticos, baseados em conhecimentos preexistentes, obtidos pormeio de pesquisa e/ou experiência prática, com a finalidade de produção de novos materiais, produtos ou dispositivos; a implantação de novos processos, sistemas e serviços; ou o aperfeiçoamento considerável dos preexistentes. Neste item, podemos notar a complementariedade conceitual entre a Legislação e o Manual de Frascati. A legislação apresenta conhecimentos preexistentes como prerrogativa para definição do desenvolvimento experimental, e o Manual de Frascati apresenta, além de conhecimentos pré-existentes, a pesquisa e/ou a experiência prática. A seguir, seguem as duas definições para análise:
 
+
+A Legislação diz:
+“desenvolvimento experimental: os trabalhos sistemáticos delineados a partir de conhecimentos pré-existentes...”
+O Manual de Frascati diz:
+“O desenvolvimento experimental consiste na realização de trabalhos sistemáticos, baseados em conhecimentos preexistentes, obtidos por meio de pesquisa e/ou 
+experiência prática...”
+
+
+Esse Guia define, com maior clareza, a origem do conhecimento utilizado para que a atividade de desenvolvimento experimental possa ser executada. Notadamente temos aqui o entendimento de que as atividades de desenvolvimento experimental nas organizações não decorrem de uma ação linear da PD&I, ou seja, não existe a necessidade de passarmos pela pesquisa básica dirigida e aplicada para que a atividade de desenvolvimento experimental possa ser classificada como inovadora, o 
+que permite concluir que o conhecimento é adquirido através da experiência prática.
 
 
 c. Contextualização Prática
-A alteração ou criação de um produto pode 
-ser classificada como pesquisa e desenvolvimento experimental desde que a empresa consiga apresentar o risco tecnológico 
-envolvido nas atividades. 
-O conceito de desenvolvimento experimental da Lei do Bem está relacionado com trabalhos sistemáticos, delineados a partir de 
-conhecimentos preexistentes, visando à 
-comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, 
-processos, sistemas e serviços ou, ainda, um 
-evidente aperfeiçoamento dos já produzidos ou estabelecidos. 
-Esta atividade envolve risco tecnológico, 
-haja vista que não necessariamente esses 
-desenvolvimentos apresentarão sucesso. 
-Um evidente aperfeiçoamento de produtos já produzidos também pode ser 
-considerado nessa classificação, desde 
-que seja demonstrado que não foi simplesmente uma alteração de layout ou 
-de design e sim um aperfeiçoamento. 
-Estes desenvolvimentos podem resultar 
-em novos produtos.
-O critério fundamental que permite distinguir entre PD&I e as atividades correlatas é 
-a existência de um elemento de novidade, 
-não insignificante, e a dissipação de incerteza científica ou tecnológica, em outras 
-palavras, quando a solução de um problema não parece óbvia para alguém que está 
-perfeitamente ciente de todo o conjunto de 
-conhecimento e técnicas básicas comumente utilizadas no setor considerado. 
-
+A alteração ou criação de um produto pode ser classificada como pesquisa e desenvolvimento experimental desde que a empresa consiga apresentar o risco tecnológico envolvido nas atividades. O conceito de desenvolvimento experimental da Lei do Bem está relacionado com trabalhos sistemáticos, delineados a partir de conhecimentos preexistentes, visando à comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, ainda, um evidente aperfeiçoamento dos já produzidos ou estabelecidos. Esta atividade envolve risco tecnológico, haja vista que não necessariamente esses 
+desenvolvimentos apresentarão sucesso. Um evidente aperfeiçoamento de produtos já produzidos também pode ser considerado nessa classificação, desde que seja demonstrado que não foi simplesmente uma alteração de layout ou de design e sim um aperfeiçoamento. Estes desenvolvimentos podem resultar em novos produtos. O critério fundamental que permite distinguir entre PD&I e as atividades correlatas é a existência de um elemento de novidade, não insignificante, e a dissipação de incerteza científica ou tecnológica, em outras palavras, quando a solução de um problema não parece óbvia para alguém que está perfeitamente ciente de todo o conjunto de conhecimento e técnicas básicas comumente utilizadas no setor considerado. 
 
 
 A seguir alguns trechos adaptados do Manual de Frascati que ilustram esta questão:
-• O estudo de determinadas reações de 
-polimerização sob diversas condições, 
-dos seus produtos resultantes e das 
-suas propriedades físicas e químicas é 
-considerado como pesquisa básica. A 
-tentativa de otimizar uma das reações 
-para a obtenção de um polímero dotado 
-de determinadas propriedades físicas 
-ou mecânicas, que lhe confiram alguma utilidade particular, é considerada 
-como pesquisa aplicada. Realizar este 
-processo otimizado em laboratório em 
-maior escala, pesquisando e avaliando 
-métodos possíveis para a sua produção 
-comercial e, eventualmente, pesquisando e avaliando produtos que possam ser realizados com este polímero, 
-é considerado como desenvolvimento.
-• O estudo da absorção da radiação eletromagnética por um cristal para a 
-obtenção de informações sobre sua estrutura eletrônica é considerado como 
-pesquisa básica. O estudo da absorção
-da radiação eletromagnética pelo mesmo material sob variadas condições 
-experimentais, tais como temperatura,
-impureza, concentração etc., para 
-obter algumas propriedades de detecção da radiação, verificando-se a 
-sensibilidade, rapidez de resposta etc., 
-é considerada como pesquisa aplicada. A criação de algum dispositivo 
-que melhore detectores de radiação 
-em determinada gama espectral, com 
-base neste material, é considerada 
-como desenvolvimento.
-• A determinação da cadeia de aminoácidos na molécula de um dado anticorpo 
-é considerada como pesquisa básica. 
-O mesmo trabalho realizado com fins 
-de obter a diferenciação de anticorpos correspondentes às diversas moléstias é considerado como pesquisa 
-aplicada. Encontrar um método para a 
-síntese do anticorpo de uma determinada moléstia, com base no 
-conhecimento de sua estrutura e 
-no procedimento de ensaios clínicos, 
-verificando a sua eficácia de síntese em 
-doentes que tenham concordado em 
-se submeter experimentalmente a 
-tratamento avançado ou de ponta, é 
-considerado como desenvolvimento.
+• O estudo de determinadas reações de polimerização sob diversas condições, dos seus produtos resultantes e das suas propriedades físicas e químicas é considerado como pesquisa básica. A tentativa de otimizar uma das reações para a obtenção de um polímero dotado de determinadas propriedades físicas ou mecânicas, que lhe confiram alguma utilidade particular, é considerada como pesquisa aplicada. Realizar este processo otimizado em laboratório em maior escala, pesquisando e avaliando métodos possíveis para a sua produção comercial e, eventualmente, pesquisando e avaliando produtos que possam ser realizados com este polímero, é considerado como desenvolvimento.
 
+• O estudo da absorção da radiação eletromagnética por um cristal para a obtenção de informações sobre sua estrutura eletrônica é considerado como pesquisa básica. O estudo da absorçãoda radiação eletromagnética pelo mesmo material sob variadas condições experimentais, tais como temperatura,impureza, concentração etc., para obter algumas propriedades de detecção da radiação, verificando-se a sensibilidade, rapidez de resposta etc., é considerada como pesquisa aplicada. A criação de algum dispositivo que melhore detectores de radiação em determinada gama espectral, com base neste material, é considerada como desenvolvimento.
+
+• A determinação da cadeia de aminoácidos na molécula de um dado anticorpo é considerada como pesquisa básica. O mesmo trabalho realizado com fins de obter a diferenciação de anticorpos correspondentes às diversas moléstias é considerado como pesquisa aplicada. Encontrar um método para a síntese do anticorpo de uma determinada moléstia, com base no conhecimento de sua estrutura e no procedimento de ensaios clínicos, verificando a sua eficácia de síntese em 
+doentes que tenham concordado em se submeter experimentalmente a tratamento avançado ou de ponta, é considerado como desenvolvimento.
 
 
 d. Exemplos
-Para o Manual de Frascati, as atividades de 
-PD&I executadas na área industrial apresentam, frequentemente, estreita relação com o 
-que se chama usualmente de “estudos e projetos”. Geralmente, numerosas indústrias de 
-pequeno e médio porte não possuem departamentos específicos de PD&I, de forma que 
-estas atividades acabam por ser executadas 
-sob o título geral de “estudos e projetos”. Se 
-os cálculos, estudos, projetos e procedimentos operacionais forem realizados para a 
-implantação e operação de instalações piloto e/ou protótipos, devem ser considerados 
-como PD&I. Entretanto, se estes trabalhos 
-forem realizados para a preparação, execução e manutenção de produção em série 
-(desenvolvimento de gabaritos, máquinasferramenta etc.), ou, ainda, para a promoção de vendas de produtos (confecção de 
-folhetos de ofertas, brochuras, catálogos de 
-peças de reposição etc.), devem ser excluídos da mensuração da PD&I.
-Nesta tipologia de análise é importante salientar que existem atividades que, apesar 
-de importantes para a prossecução do projeto, não devem ser consideradas elegíveis 
-para o Incentivo Fiscal da Lei do Bem. Dentro dessas atividades, realçam-se os gastos 
-com execução de pesquisas de mercado ou 
-pesquisas para conhecer e detectar melhorias nos produtos e nos processos
-
+Para o Manual de Frascati, as atividades de PD&I executadas na área industrial apresentam, frequentemente, estreita relação com o que se chama usualmente de “estudos e projetos”. Geralmente, numerosas indústrias de pequeno e médio porte não possuem departamentos específicos de PD&I, de forma que estas atividades acabam por ser executadas sob o título geral de “estudos e projetos”. Se os cálculos, estudos, projetos e procedimentos operacionais forem realizados para a 
+implantação e operação de instalações piloto e/ou protótipos, devem ser considerados como PD&I. Entretanto, se estes trabalhos forem realizados para a preparação, execução e manutenção de produção em série (desenvolvimento de gabaritos, máquinasferramenta etc.), ou, ainda, para a promoção de vendas de produtos (confecção de folhetos de ofertas, brochuras, catálogos de peças de reposição etc.), devem ser excluídos da mensuração da PD&I. Nesta tipologia de análise é importante salientar que existem atividades que, apesar de importantes para a prossecução do projeto, não devem ser consideradas elegíveis para o Incentivo Fiscal da Lei do Bem. Dentro dessas atividades, realçam-se os gastos com execução de pesquisas de mercado ou pesquisas para conhecer e detectar melhorias nos produtos e nos processos.
 
 
 e. Boas Práticas
-Para algumas empresas a diferença entre 
-engenharia e atividades de PD&I pode ser de 
-difícil segregação, principalmente se analisarmos o fato de que, no Brasil, diversas empresas não possuem setores distintos para 
-executar estas duas atividades. Nota-se,
-com isso, problemas por parte das empresas em relação à seleção dos projetos 
-que serão incentivados pela Lei do Bem e 
-à avaliação conceitual que o MCTIC faz destes projetos. Sendo assim, sugere-se que a 
-empresa faça uma profunda reflexão do 
-desafio tecnológico superado com as 
-atividades de PD&I do projeto, ou seja, 
-quais foram as barreiras tecnológicas 
-transpassadas e também como estas 
-barreiras foram superadas, em outras 
-palavras, qual foi a metodologia ou o caminho encontrado pela empresa para resolver 
-o problema e, com isso, alcançar a inovação 
-tecnológica do projeto.
-Algumas empresas possuem distinta áreas específicas de PD&I, que em muitos 
-casos são segregadas das plantas operacionais e com sua gestão de projetos 
-independente. Este cenário facilita a seleção 
-de projetos de inovação. Porém, essa não é 
-a realidade para todas as empresas. Neste 
-caso os projetos de PD&I são geridos em 
-um portfólio estratégico com projetos de 
-outras caraterísticas como de evolução organizacional, ampliação de mercado, marketing entre outros.
-Este cenário exige da empresa uma gestão 
-diferenciada para projetos de PD&I, permitindo que os recursos sejam “blindados” 
-para contemplar a característica de risco 
-presentes nos projetos desta natureza. Uma 
-boa prática é a segregação dos projetos de 
-PD&I no portfólio, desta forma, é possível 
-dar visibilidade ao investimento em PD&I 
-realizado pela organização de forma prática.
-Outro ponto a ser considerado é a inserção nas metodologias de gestão de projetos e portfólio das etapas relacionadas 
-ao apontamento de esforço e verificação 
-dos dispêndios, para que estes estejam 
-contabilizados conforme a exigência da lei. 
-Outras etapas, como verificação das barreiras tecnológicas e documentação, podem 
-ajudar no momento de submeter o formulário da Lei do Bem.
-Sob o aspecto cultural da inovação da empresa, inserir periodicamente a discussão sobre 
-os avanços tecnológicos e inovações que foram desenvolvidas pelas equipes de PD&I e 
-áreas de apoio à inovação deve ajudar na geração de alternativas tecnológicas e reconhecimento das inovações no momento de gerar 
-a documentação de projetos de PD&I. 
-As empresas de serviço e de desenvolvimento de software enfrentam a dificuldade de 
-reconhecer as atividades de PD&I em suas 
-inovações, devido às características já mencionadas neste Guia. Por isso, a gestão de 
-projetos torna-se uma ferramenta importante nesse reconhecimento.
-
+Para algumas empresas a diferença entre engenharia e atividades de PD&I pode ser de difícil segregação, principalmente se analisarmos o fato de que, no Brasil, diversas empresas não possuem setores distintos para executar estas duas atividades. Nota-se, com isso, problemas por parte das empresas em relação à seleção dos projetos que serão incentivados pela Lei do Bem e à avaliação conceitual que o MCTIC faz destes projetos. Sendo assim, sugere-se que a empresa faça uma profunda reflexão do desafio tecnológico superado com as atividades de PD&I do projeto, ou seja, quais foram as barreiras tecnológicas transpassadas e também como estas 
+barreiras foram superadas, em outras palavras, qual foi a metodologia ou o caminho encontrado pela empresa para resolver o problema e, com isso, alcançar a inovação tecnológica do projeto. Algumas empresas possuem distinta áreas específicas de PD&I, que em muitos casos são segregadas das plantas operacionais e com sua gestão de projetos independente. Este cenário facilita a seleção de projetos de inovação. Porém, essa não é a realidade para todas as empresas. Neste 
+caso os projetos de PD&I são geridos em um portfólio estratégico com projetos de outras caraterísticas como de evolução organizacional, ampliação de mercado, marketing entre outros.Este cenário exige da empresa uma gestão diferenciada para projetos de PD&I, permitindo que os recursos sejam “blindados” para contemplar a característica de risco presentes nos projetos desta natureza. Uma boa prática é a segregação dos projetos de PD&I no portfólio, desta forma, é possível dar visibilidade ao investimento em PD&I realizado pela organização de forma prática. Outro ponto a ser considerado é a inserção nas metodologias de gestão de projetos e portfólio das etapas relacionadas ao apontamento de esforço e verificação dos dispêndios, para que estes estejam contabilizados conforme a exigência da lei. Outras etapas, como verificação das barreiras tecnológicas e documentação, podem ajudar no momento de submeter o formulário da Lei do Bem. Sob o aspecto cultural da inovação da empresa, inserir periodicamente a discussão sobre os avanços tecnológicos e inovações que foram desenvolvidas pelas equipes de PD&I e áreas de apoio à inovação deve ajudar na geração de alternativas tecnológicas e reconhecimento das inovações no momento de gerar a documentação de projetos de PD&I. As empresas de serviço e de desenvolvimento de software enfrentam a dificuldade de reconhecer as atividades de PD&I em suas inovações, devido às características já mencionadas neste Guia. Por isso, a gestão de projetos torna-se uma ferramenta importante nesse reconhecimento.
 
 
 2.4. Tecnologia Industrial Básica
 a. Contextualização Legal
 
-O Decreto nº 5.798, de 2006, que regulamenta a Lei do Bem, traz, em seu artigo 2º, uma definição sobre a Tecnologia industrial básica: 
-“Tecnologia industrial básica – aquelas tais como a aferição e calibração de máquinas e equipamentos, o projeto e a confecção 
-de instrumentos de medida específicos, a certificação de conformidade, inclusive os ensaios correspondentes, a normalização 
-ou a documentação técnica gerada e o patenteamento do produto ou processo desenvolvido”.
-
+O Decreto nº 5.798, de 2006, que regulamenta a Lei do Bem, traz, em seu artigo 2º, uma definição sobre a Tecnologia industrial básica: “Tecnologia industrial básica – aquelas tais como a aferição e calibração de máquinas e equipamentos, o projeto e a confecção de instrumentos de medida específicos, a certificação de conformidade, inclusive os ensaios correspondentes, a normalização ou a documentação técnica gerada e o patenteamento do produto ou processo desenvolvido”.
 
 
 b. Contextualização Teórica
-O termo Tecnologia Industrial Básica (TIB) 
-foi concebido pela extinta Secretaria de Tecnologia Industrial (STI), do antigo Ministério 
-da Indústria e do Comércio (MIC), no fim da 
-década de 70, com o objetivo de expressar, 
-em um conceito único, as funções básicas 
-do Sistema Nacional de Metrologia, Normalização e Qualidade Industrial (SINMETRO). 
-Posteriormente, agregou-se a essas funções a Gestão da Qualidade. Os alemães 
-denominaram a TIB de MNPQ (Messen, 
-Normen, Prüfen, Qualität) – explicitando o 
-encadeamento das funções relativas a Medidas, Normas, Ensaios e Qualidade. Nos 
-EUA adota-se o termo Infrastructural Technologies. A expressão MSTQ (Metrology, 
-Standardization, Testing and Quality) é 
-também comumente utilizada.
-O SINMETRO foi instituído pela Lei nº 5.966, 
-de 11 de dezembro de 1973, e é constituído por organizações públicas e privadas 
-que exercem atividades relacionadas à metrologia, normalização, qualidade industrial 
-e certificação da conformidade como elemento importante de apoio ao Programa 
-Brasileiro de Qualidade e Produtividade 
-(PBQP), programa voltado para a melhoria
-da qualidade de produtos, processos e serviços 
-na indústria, comércio e administração federal.
-TIB compreende as áreas de metrologia, 
-normalização, regulamentação técnica 
-e avaliação de conformidade (acreditação, inspeção, ensaios, certificação e suas 
-funções correlatas). Inclui também a questão da propriedade intelectual e informação 
-tecnológica, associadas a estas áreas.
-As obras (i) Programa Tecnologia Industrial 
-Básica e Serviços Tecnológicos para a Inovação e Competitividade, publicada em 2001 
-pelo MCT e (ii) Tecnologia Industrial Básica 
-– Trajetória, Tendências e Desafios no Brasil, 
-publicada em 2005 pelo MCT, CNE, SENAI e 
-IEL, apresentam conceitos importantes que 
-podem auxiliar no entendimento e aderência com as definições da Lei do Bem
+O termo Tecnologia Industrial Básica (TIB) foi concebido pela extinta Secretaria de Tecnologia Industrial (STI), do antigo Ministério da Indústria e do Comércio (MIC), no fim da década de 70, com o objetivo de expressar, em um conceito único, as funções básicas do Sistema Nacional de Metrologia, Normalização e Qualidade Industrial (SINMETRO). Posteriormente, agregou-se a essas funções a Gestão da Qualidade. Os alemães denominaram a TIB de MNPQ (Messen, Normen, Prüfen, Qualität) – explicitando o encadeamento das funções relativas a Medidas, Normas, Ensaios e Qualidade. Nos EUA adota-se o termo Infrastructural Technologies. A expressão MSTQ (Metrology, Standardization, Testing and Quality) é também comumente utilizada.O SINMETRO foi instituído pela Lei nº 5.966, de 11 de dezembro de 1973, e é constituído por organizações públicas e privadas que exercem atividades relacionadas à metrologia, normalização, qualidade industrial e certificação da conformidade como elemento importante de apoio ao Programa Brasileiro de Qualidade e Produtividade (PBQP), programa voltado para a melhoriada qualidade de produtos, processos e serviços na indústria, comércio e administração federal. TIB compreende as áreas de metrologia, normalização, regulamentação técnica 
+e avaliação de conformidade (acreditação, inspeção, ensaios, certificação e suas funções correlatas). Inclui também a questão da propriedade intelectual e informação tecnológica, associadas a estas áreas. As obras (i) Programa Tecnologia Industrial Básica e Serviços Tecnológicos para a Inovação e Competitividade, publicada em 2001 pelo MCT e (ii) Tecnologia Industrial Básica – Trajetória, Tendências e Desafios no Brasil, publicada em 2005 pelo MCT, CNE, SENAI e IEL, apresentam conceitos importantes que podem auxiliar no entendimento e aderência com as definições da Lei do Bem
 
 
-
-
-O Programa TIB proposto na obra 
-(i) compreende 6 itens: Metrologia 
-(Científica, Industrial e Legal), Normalização
-e Regulamentação Técnica, Avaliação da 
-Conformidade (Inspeção, Ensaios, Certificação e Procedimentos de Autorização),
-Tecnologias de Gestão, Propriedade 
-Intelectual e Informação Tecnológica, 
+O Programa TIB proposto na obra (i) compreende 6 itens: Metrologia (Científica, Industrial e Legal), Normalização e Regulamentação Técnica, Avaliação da Conformidade (Inspeção, Ensaios, Certificação e Procedimentos de Autorização),Tecnologias de Gestão, Propriedade Intelectual e Informação Tecnológica, 
 conforme quadro:
 Metrologia
 Normalização
@@ -4088,68 +3845,28 @@ Topografia
 Figura 2 – Programa TIB.
 
 
-Os mesmos itens/atividades são também 
-citados na obra (ii). As atividades relacionadas com TIB são: “metrologia, normalização 
-e regulamentação técnica, avaliação da conformidade, informação tecnológica, gestão 
-e propriedade intelectual”. Além disso, ela 
-apresenta que “a metrologia se torna cada 
-vez mais necessária em estágios cada vez 
-mais precoces no processo de desenvolvimento tecnológico e de inovação já que medições e ensaios de materiais, partes e componentes são necessários para verificação 
-da adequação de características e respostas 
-ao uso pretendido ou para estudo dos efeitos das modificações introduzidas, mesmo 
-antes da etapa intermediária caracterizada 
-por ensaios de protótipos e de corridas experimentais de processos.”
-Percebemos, no texto da obra, o destaque dado às atividades de patenteamento, 
-também relacionadas com a TIB, “outros 
-serviços TIB também são fundamentais à 
-inovação, devendo ser destacados aqueles
-relativos à propriedade intelectual, seja para 
-patenteamento da inovação seja para negociação de direitos quando da transferência 
-de tecnologia”.
+Os mesmos itens/atividades são também citados na obra (ii). As atividades relacionadas com TIB são: “metrologia, normalização e regulamentação técnica, avaliação da conformidade, informação tecnológica, gestão e propriedade intelectual”. Além disso, ela apresenta que “a metrologia se torna cada vez mais necessária em estágios cada vez mais precoces no processo de desenvolvimento tecnológico e de inovação já que medições e ensaios de materiais, partes e componentes são necessários para verificação da adequação de características e respostas ao uso pretendido ou para estudo dos efeitos das modificações introduzidas, mesmo 
+antes da etapa intermediária caracterizada por ensaios de protótipos e de corridas experimentais de processos.” Percebemos, no texto da obra, o destaque dado às atividades de patenteamento, também relacionadas com a TIB, “outros serviços TIB também são fundamentais à inovação, devendo ser destacados aquelesrelativos à propriedade intelectual, seja para patenteamento da inovação seja para negociação de direitos quando da transferência de tecnologia”.
 
 
 
 c. Exemplos
 
 Metrologia:
-Para a pesquisa e desenvolvimento de determinado produto, foi necessário a compra 
-de um dinamômetro para motor de ciclo 
-Otto. Tal equipamento requer um serviço 
-de aferição e calibração para assegurar com 
-exatidão as medidas de potência e torque. 
-Foi igualmente necessário a confecção de 
-alguns instrumentos específicos de medição 
-que serão acoplados ao dinamômetro.
+Para a pesquisa e desenvolvimento de determinado produto, foi necessário a compra de um dinamômetro para motor de ciclo Otto. Tal equipamento requer um serviço de aferição e calibração para assegurar com exatidão as medidas de potência e torque. Foi igualmente necessário a confecção de alguns instrumentos específicos de medição que serão acoplados ao dinamômetro. 
+
 Normalização/Conformidade:
-Desenvolvimento de um sistema inédito para 
-agropecuária de precisão que necessitou
-realizar testes sistemáticos em protótipos e produtos finais de modo a obter 
-certificação Anatel devido aos sistemas 
-eletrônicos de RF usados para comunicação 
-de dados e certificação Inmetro para assegurar a precisão nas medidas realizadas 
+Desenvolvimento de um sistema inédito para agropecuária de precisão que necessitou realizar testes sistemáticos em protótipos e produtos finais de modo a obter 
+certificação Anatel devido aos sistemas eletrônicos de RF usados para comunicação de dados e certificação Inmetro para asegurar a precisão nas medidas realizadas 
 no rebanho. 
+
 Propriedade Intelectual:
-O mesmo projeto acima, dado o seu ineditismo no mercado mundial, acabou gerando, 
-durante o seu desenvolvimento, oito depósitos de pedidos de patente, tanto junto ao 
-INPI, como também junto a diversos outros 
-escritórios de patente em outros países
+O mesmo projeto acima, dado o seu ineditismo no mercado mundial, acabou gerando, durante o seu desenvolvimento, oito depósitos de pedidos de patente, tanto junto ao INPI, como também junto a diversos outros escritórios de patente em outros países
 
 
 d. Boas Práticas
-Como boas práticas, para um projeto que 
-apresente atividades desta natureza, seguem algumas orientações. Tais atividades 
-devem necessariamente estar relacionadas 
-com as atividades de PD&I desenvolvidas 
-pela empresa, seja para produto, processo 
-ou serviço. O entendimento é que, essas 
-atividades, apresentadas de forma isolada, 
-não estando ligadas a projetos identificados 
-dentro do escopo e conceito de PD&I, não 
-devem fazer parte do cômputo das atividades e dispêndios de pesquisa e desenvolvimento da inovação tecnológica a serem 
-apresentadas pela empresa para usufruto 
-dos incentivos fiscais da Lei do Bem. Desse 
-modo, pode-se identificar estas atividades 
-como correlatas e de apoio à atividade objeto da PD&I.
+Como boas práticas, para um projeto que apresente atividades desta natureza, seguem algumas orientações. Tais atividades devem necessariamente estar relacionadas 
+com as atividades de PD&I desenvolvidas pela empresa, seja para produto, processo ou serviço. O entendimento é que, essas atividades, apresentadas de forma isolada, não estando ligadas a projetos identificados dentro do escopo e conceito de PD&I, não devem fazer parte do cômputo das atividades e dispêndios de pesquisa e desenvolvimento da inovação tecnológica a serem apresentadas pela empresa para usufruto dos incentivos fiscais da Lei do Bem. Desse modo, pode-se identificar estas atividades como correlatas e de apoio à atividade objeto da PD&I.
 
 Metrologia
 Normalização
@@ -4167,38 +3884,16 @@ Figura 3 – Programa TIB, contextualização com Lei do Bem
 
 i. METROLOGIA: 
 É a ciência que abrange todos os aspectos 
-teóricos e práticos relativos a medições. As 
-atividades da metrologia científica e industrial compreendem o desenvolvimento, realização, reprodução, guarda e disseminação 
-dos padrões de medidas, materiais de referência certificados e medidas rastreadas. 
-Portanto as atividades de “aferição e calibração de máquinas e equipamentos, o projeto 
-e a confecção de instrumentos de medida 
-específicos” previstas na lei certamente estão contempladas dentro deste tópico.
-ii. NORMALIZAÇÃO:
-Englobam-se sob este título a normalização técnica e a regulamentação técnica, a 
-certificação de produtos, processos e serviços, os laboratórios de ensaios, os serviços 
-de inspeção e outros meios para a demonstração da conformidade de produtos e serviços com requisitos especificados em normas técnicas ou em regulamentos técnicos.
-Esta atividade também está contemplada na lei, que diz: “aquelas (atividades) tais 
-como... a normalização ou a documentação 
-técnica gerada”.
-iii. AVALIAÇÃO DA CONFORMIDADE:
-Consiste na atividade de examinar sistematicamente a conformidade de um produto, 
-processo ou serviço em relação a requisitos especificados. Igualmente contemplada 
-na lei, no trecho: “aquelas (atividades) tais 
-como... a certificação de conformidade”.
-iv. PROPRIEDADE INTELECTUAL: 
-A Propriedade Intelectual trata de todas as 
-criações do gênio humano, englobando, 
-além daquelas de caráter técnico e comercial (invenções, desenho industrial, marcas e 
-indicações geográficas, por exemplo), objetos da Propriedade Industrial, as de caráter 
-artístico como pintura, música, escultura, 
-literatura, e novos segmentos como os ligados à informática. 
-O Programa TIB, por suas próprias características, tem como fundamento a Propriedade Industrial, devido aos aspectos 
-tecnológicos desta. 
-E isto está traduzido dentro do âmbito legal 
-no trecho da lei que diz: “aquelas (atividades) 
-tais como... o patenteamento do produto ou 
-processo desenvolvido”.
+teóricos e práticos relativos a medições. As atividades da metrologia científica e industrial compreendem o desenvolvimento, realização, reprodução, guarda e disseminação dos padrões de medidas, materiais de referência certificados e medidas rastreadas. Portanto as atividades de “aferição e calibração de máquinas e equipamentos, o projeto e a confecção de instrumentos de medida específicos” previstas na lei certamente estão contempladas dentro deste tópico.
 
+ii. NORMALIZAÇÃO:
+Englobam-se sob este título a normalização técnica e a regulamentação técnica, a certificação de produtos, processos e serviços, os laboratórios de ensaios, os serviços de inspeção e outros meios para a demonstração da conformidade de produtos e serviços com requisitos especificados em normas técnicas ou em regulamentos técnicos.Esta atividade também está contemplada na lei, que diz: “aquelas (atividades) tais como... a normalização ou a documentação técnica gerada”.
+
+iii. AVALIAÇÃO DA CONFORMIDADE:
+Consiste na atividade de examinar sistematicamente a conformidade de um produto, processo ou serviço em relação a requisitos especificados. Igualmente contemplada na lei, no trecho: “aquelas (atividades) tais como... a certificação de conformidade”.
+
+iv. PROPRIEDADE INTELECTUAL: 
+A Propriedade Intelectual trata de todas as criações do gênio humano, englobando, além daquelas de caráter técnico e comercial (invenções, desenho industrial, marcas e indicações geográficas, por exemplo), objetos da Propriedade Industrial, as de caráter artístico como pintura, música, escultura, literatura, e novos segmentos como os ligados à informática. O Programa TIB, por suas próprias características, tem como fundamento a Propriedade Industrial, devido aos aspectos tecnológicos desta. E isto está traduzido dentro do âmbito legal no trecho da lei que diz: “aquelas (atividades) tais como... o patenteamento do produto ou processo desenvolvido”.
 
 
 
@@ -4211,535 +3906,182 @@ capacitação dos recursos humanos a eles dedicados”.
 
 
 b. Contextualização Teórica
-O Manual de Frascati aborda uma série de 
-atividades de apoio indireto que não constituem, propriamente falando, atividades
-de PD&I, mas as apoiam. 
-Por convenção, os dados sobre o quadro de 
-funcionários de PD&I incluem a atividade PD&I 
-propriamente dita, mas excluem as chamadas atividades de apoio indireto, enquanto
-elas são levadas em conta nas despesas de 
-P&ID por seus executores de despesas gerais. As atividades de transporte, de arma
-zenamento, de limpeza, de reparação, de 
-manutenção e de segurança fornecem 
-tipos de exemplos a este respeito. As atividades administrativas e os trabalhos de 
-escritório que não são realizados exclusivamente para efeitos de PD&I, incluindo as 
-atividades dos serviços centrais de finanças 
-e do quadro de pessoal, fazem parte também deste tópico.
-Algumas atividades, como as de uma biblioteca, contábil, jurídica ou serviços de 
-computação, fazem parte de PD&I propriamente dita se forem exclusivamente 
-destinadas a ela, porém tornam-se atividades de apoio indireto quando são 
-efetuadas pelos serviços centrais para as 
-necessidades das atividades de PD&I. 
-Nessa mesma situação se caracterizam
-igualmente as atividades de gestão e administração e os trabalhos em escritório. 
-Os trabalhos relativos a patentes, engenharia
-do produto final ou design, manifestações,
-coleta de dados, testes e estudos de 
-viabilidade podem ser parte de um projeto de P&D como uma obra de apoio do 
+O Manual de Frascati aborda uma série de atividades de apoio indireto que não constituem, propriamente falando, atividades de PD&I, mas as apoiam. Por convenção, os dados sobre o quadro de funcionários de PD&I incluem a atividade PD&I propriamente dita, mas excluem as chamadas atividades de apoio indireto, enquanto
+elas são levadas em conta nas despesas de P&ID por seus executores de despesas gerais. As atividades de transporte, de armazenamento, de limpeza, de reparação, de manutenção e de segurança fornecem tipos de exemplos a este respeito. As atividades administrativas e os trabalhos de escritório que não são realizados exclusivamente para efeitos de PD&I, incluindo as atividades dos serviços centrais de finanças e do quadro de pessoal, fazem parte também deste tópico.Algumas atividades, como as de uma biblioteca, contábil, jurídica ou serviços de computação, fazem parte de PD&I propriamente dita se forem exclusivamente destinadas a ela, porém tornam-se atividades de apoio indireto quando são efetuadas pelos serviços centrais para as necessidades das atividades de PD&I. Nessa mesma situação se caracterizam igualmente as atividades de gestão e administração e os trabalhos em escritório. Os trabalhos relativos a patentes, engenharia do produto final ou design, manifestações,coleta de dados, testes e estudos de viabilidade podem ser parte de um projeto de P&D como uma obra de apoio do 
 projeto principal.
 
 
-
 c. Contextualização Prática
-Essa tipologia de serviços é extremamente importante para a continuidade 
-da PD&I, pois, por vezes, as empresas
-não têm estrutura de apoio para a execução de atividades específicas e, devido
-a essa situação, é obrigatória a contratação de serviços de terceiros com 
-o objetivo de realizar um suporte ao 
-projeto da empresa.
-Pode-se identificar e exemplificar, desde já, 
-algumas dessas situações, nomeadamente: 
-serviços de armazenamento de produtos 
-(o não armazenamento em condições adequadas pode comprometer o resultado da 
-pesquisa), desenvolvimento de sistemas (que 
-servirão de insumo para a pesquisa desenvolvida), movimentação e transporte de cargas, 
-serviços de geoprocessamento, bodyshop de 
-software, metalografia, entre outros. 
-Tais atividades servem de apoio à PD&I. 
-Neste Guia, os dados sobre recursos 
-humanos atuantes diretamente nas atividades de PD&I incluem-se naturalmente no 
-seu cômputo. 
-Todavia, por convenção, devem ser excluídas todas as atividades de apoio indireto. 
-Exemplos típicos de apoio indireto são as 
-atividades de transporte, armazenamento, 
-limpeza, reparo, manutenção e segurança, 
-como ilustrados no Manual de Frascati.
-Adicionalmente, as atividades administrativas e os trabalhos burocráticos, mesmo que 
-realizados exclusivamente com finalidades 
-de apoio à PD&I e, principalmente, quando
-realizadas nos serviços centrais encarregados de finanças e de pessoal de PD&I,
-não devem ser computadas como 
-PD&I propriamente dita.
-A rubrica “Outros/Serviços de apoio técnico” costuma receber muitos lançamentos 
-que não se caracterizam como “Apoio técnico”, como é estritamente requerido no 
-FORMP&D. A consequência é que muitas 
-contratações cujo escopo não cabe como 
-Apoio Técnico são lançadas nessa rubrica. 
-Por exemplo, a contratação e transferência 
-da execução da pesquisa e do desenvolvimento por empresas de grande porte, ou 
-as terceirizações de clara atividade técnica 
-essencial ao projeto e que obriga a um risco 
-tecnológico não da contratante, mas sim, da 
-contratada. Tais situações constituem alocações indevidas e, portanto, foram consideradas como “problemas com dispêndios de 
-natureza grave3
-”.
-
-
+Essa tipologia de serviços é extremamente importante para a continuidade da PD&I, pois, por vezes, as empresas não têm estrutura de apoio para a execução de atividades específicas e, devido a essa situação, é obrigatória a contratação de serviços de terceiros com o objetivo de realizar um suporte ao projeto da empresa. Pode-se identificar e exemplificar, desde já, algumas dessas situações, nomeadamente: 
+serviços de armazenamento de produtos (o não armazenamento em condições adequadas pode comprometer o resultado da pesquisa), desenvolvimento de sistemas (que 
+servirão de insumo para a pesquisa desenvolvida), movimentação e transporte de cargas, serviços de geoprocessamento, bodyshop de software, metalografia, entre outros. Tais atividades servem de apoio à PD&I. Neste Guia, os dados sobre recursos humanos atuantes diretamente nas atividades de PD&I incluem-se naturalmente no seu cômputo. Todavia, por convenção, devem ser excluídas todas as atividades de apoio indireto. Exemplos típicos de apoio indireto são as atividades de transporte, armazenamento, limpeza, reparo, manutenção e segurança, como ilustrados no Manual de Frascati. Adicionalmente, as atividades administrativas e os trabalhos burocráticos, mesmo que realizados exclusivamente com finalidades de apoio à PD&I e, principalmente, quando realizadas nos serviços centrais encarregados de finanças e de pessoal de PD&I, não devem ser computadas como PD&I propriamente dita. A rubrica “Outros/Serviços de apoio técnico” costuma receber muitos lançamentos que não se caracterizam como “Apoio técnico”, como é estritamente requerido no FORMP&D. A consequência é que muitas contratações cujo escopo não cabe como Apoio Técnico são lançadas nessa rubrica. Por exemplo, a contratação e transferência da execução da pesquisa e do desenvolvimento por empresas de grande porte, ou as terceirizações de clara atividade técnica essencial ao projeto e que obriga a um risco tecnológico não da contratante, mas sim, da contratada. Tais situações constituem alocações indevidas e, portanto, foram consideradas como “problemas com dispêndios de natureza grave3”.
 
 
 d. Exemplos
-Seguem alguns serviços de apoio que, segundo o exposto em contextos anteriores, 
-poderiam ser classificados como elegíveis 
-para objeto da Lei do Bem:
-• Manutenção corretiva e preventiva de sistemas de instrumentação e automação do 
-processo laboratorial, em relação à estrutura de PD&I;
-• Testes para avaliação da qualidade de novos produtos ou processos (consequência 
-de trabalho de PD&I);
-• Pintura industrial de manutenção de estrutura de PD&I;
-• Serviços vários necessários para fabricação 
-de partes, componentes e ferramentais, 
-correspondentes a produtos ou processos 
-consequência de trabalhos de PD&I, tais 
-como usinagem, calderaria, recuperação 
-de peças ou ajustamento mecânico. Apoio 
-na prototipação de produtos e instrumental relacionado a projetos de PD&I;
-• Serviço técnico de desenho industrial, relacionados a atividades de PD&I;
-• Relacionado ao desenvolvimento de software, trabalhos de Bodyshop, Outsourcing 
-e Software Houses, podem se enquadrar 
-como serviço de apoio, sempre relacionados a tarefas para digitação e codificação 
-de solução desenvolvida pela empresa, 
-que precisa de empresa especializada na 
-linguagem objeto para poder construir a 
+Seguem alguns serviços de apoio que, segundo o exposto em contextos anteriores, poderiam ser classificados como elegíveis para objeto da Lei do Bem:
+• Manutenção corretiva e preventiva de sistemas de instrumentação e automação do processo laboratorial, em relação à estrutura de PD&I;
+• Testes para avaliação da qualidade de novos produtos ou processos (consequência de trabalho de PD&I);
+• Pintura industrial de manutenção de estrutura de PD&I;
+• Serviços vários necessários para fabricação de partes, componentes e ferramentais, correspondentes a produtos ou processos consequência de trabalhos de PD&I, tais como usinagem, calderaria, recuperação de peças ou ajustamento mecânico. Apoio na prototipação de produtos e instrumental relacionado a projetos de PD&I;
+• Serviço técnico de desenho industrial, relacionados a atividades de PD&I;
+• Relacionado ao desenvolvimento de software, trabalhos de Bodyshop, Outsourcing e Software Houses, podem se enquadrar como serviço de apoio, sempre relacionados a tarefas para digitação e codificação de solução desenvolvida pela empresa, que precisa de empresa especializada na linguagem objeto para poder construir a 
 idealização definida; 
-• Serviços de armazenamento, transporte e 
-limpeza relacionados a atividades de PD&I.
-
+• Serviços de armazenamento, transporte e limpeza relacionados a atividades de PD&I.
 
 
 
 e. Boas Práticas
 
-Assim como a tecnologia industrial básica, entende-se que as atividades de serviços 
-de apoio técnico somente poderiam ser incentivadas na Lei do Bem se puderem apresentar relação direta com os projetos de PD&I desenvolvidos pela empresa.
-Os gastos efetuados com pessoal contratado pela empresa para prestar serviços de 
-apoio técnico de modo não exclusivo, registrados de forma detalhada e individualizada em sua contabilidade, estão contemplados pelos benefícios fiscais previstos nos arts. 
-17 e 19 da Lei nº 11.196, de 2005, desde que se configurem indispensáveis à implantação
-e à manutenção das instalações ou dos equipamentos destinados, exclusivamente, à execução 
-de projetos de pesquisa, desenvolvimento ou inovação tecnológica, bem como à capacitação 
-dos recursos humanos a eles dedicados. 
-Conforme Solução de Consulta nº 4 de 24/jan/2013, publicada pela SRF - http://normas.receita.
-fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=40548
-Art. 5º Para fins do disposto no art. 4º, poderão ser considerados os seguintes dispêndios:
-• os salários e os encargos sociais e trabalhistas de pesquisadores e de pessoal de prestação 
-de serviço de apoio técnico de que tratam a alínea “e” do inciso II e o inciso III do art. 2º;
-• a capacitação de pesquisadores e de pessoal de prestação de serviços de apoio técnico de 
-que tratam a alínea “e” do inciso II e o inciso III do art. 2º. (IN 1187 a RFB de 29/ago/2011- http://
-normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=16160&visao=anotado)
-Relativamente à contratação desses serviços, salienta-se que o entendimento de elegibilidade 
-desses dispêndios pressupõe que não seja transferida a execução da pesquisa, ainda que
+Assim como a tecnologia industrial básica, entende-se que as atividades de serviços de apoio técnico somente poderiam ser incentivadas na Lei do Bem se puderem apresentar relação direta com os projetos de PD&I desenvolvidos pela empresa. Os gastos efetuados com pessoal contratado pela empresa para prestar serviços de 
+apoio técnico de modo não exclusivo, registrados de forma detalhada e individualizada em sua contabilidade, estão contemplados pelos benefícios fiscais previstos nos arts. 17 e 19 da Lei nº 11.196, de 2005, desde que se configurem indispensáveis à implantação e à manutenção das instalações ou dos equipamentos destinados, exclusivamente, à execução de projetos de pesquisa, desenvolvimento ou inovação tecnológica, bem como à capacitação 
+dos recursos humanos a eles dedicados. Conforme Solução de Consulta nº 4 de 24/jan/2013, publicada pela SRF - http://normas.receita.
+fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=40548 Art. 5º Para fins do disposto no art. 4º, poderão ser considerados os seguintes dispêndios:
 
-parcial, para as empresas contratadas de 
-médio e grande porte. Tal tem subsistência 
-na Solução de Consulta nº 277, de 31 de outubro de 2011, que dispõe:
-“Pesquisa Tecnológica e Desenvolvimento de 
-Inovação Tecnológica. O benefício previsto 
-no artigo 18 da Lei n° 11.196/05 não impede que as despesas com pesquisa tecnológica 
-e desenvolvimento de inovação tecnológica, 
-classificáveis como despesas operacionais pela 
-legislação do Imposto sobre a Renda de Pessoa Jurídica (IRPJ) realizadas com empresas 
-de grande porte sejam levadas em consideração para o aproveitamento do incentivo fiscal, 
-desde que não caracterizem transferência de 
-execução da pesquisa, ainda que parcialmente. Cabe ao Ministério da Ciência e Tecnologia 
-- MCT determinar se os dispêndios efetuados 
-pela pessoa jurídica podem ser considerados 
-como dispêndios vinculados à pesquisa tecnológica e desenvolvimento de inovação tecnológica, para fins de gozo do incentivo fiscal”
-Diferente do caso das empresas de peque
--
-no porte (EPP) e microempresas (ME), cujas 
-importâncias recebidas, independente
--
-mente de existir participação no resultado 
-econômico do produto resultante, podem 
-ser deduzidas por parte da contratante, 
-conforme indicado no art. 4º da Instrução 
-Normativa 1.187 de 29 de agosto de 2011: 
-“§ 3 º Poderão ser também deduzidas como 
-despesas operacionais, na forma do caput, as 
-importâncias transferidas a microempresas 
-e empresas de pequeno porte de que trata a 
-Lei Complementar n º 123, de 14 de dezembro 
-de 2006, destinadas à execução de pesquisa tecnológica e de desenvolvimento de inovação 
-tecnológica de interesse e por conta e ordem da 
-pessoa jurídica que promoveu a transferência, 
-ainda que a pessoa jurídica recebedora dessas 
-importâncias venha a ter participação no re
--
-sultado econômico do produto resultante”
+• os salários e os encargos sociais e trabalhistas de pesquisadores e de pessoal de prestação de serviço de apoio técnico de que tratam a alínea “e” do inciso II e o inciso III do art. 2º;
+• a capacitação de pesquisadores e de pessoal de prestação de serviços de apoio técnico de que tratam a alínea “e” do inciso II e o inciso III do art. 2º. (IN 1187 a RFB de 29/ago/2011- http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=16160&visao=anotado)
+Relativamente à contratação desses serviços, salienta-se que o entendimento de elegibilidade desses dispêndios pressupõe que não seja transferida a execução da pesquisa, ainda que
+
+parcial, para as empresas contratadas de médio e grande porte. Tal tem subsistência na Solução de Consulta nº 277, de 31 de outubro de 2011, que dispõe:
+“Pesquisa Tecnológica e Desenvolvimento de Inovação Tecnológica. O benefício previsto no artigo 18 da Lei n° 11.196/05 não impede que as despesas com pesquisa tecnológica e desenvolvimento de inovação tecnológica, classificáveis como despesas operacionais pela legislação do Imposto sobre a Renda de Pessoa Jurídica (IRPJ) realizadas com empresas de grande porte sejam levadas em consideração para o aproveitamento do incentivo fiscal, desde que não caracterizem transferência de execução da pesquisa, ainda que parcialmente. Cabe ao Ministério da Ciência e Tecnologia 
+- MCT determinar se os dispêndios efetuados pela pessoa jurídica podem ser considerados como dispêndios vinculados à pesquisa tecnológica e desenvolvimento de inovação tecnológica, para fins de gozo do incentivo fiscal” Diferente do caso das empresas de pequeno porte (EPP) e microempresas (ME), cujas importâncias recebidas, independentemente de existir participação no resultado econômico do produto resultante, podem ser deduzidas por parte da contratante, conforme indicado no art. 4º da Instrução Normativa 1.187 de 29 de agosto de 2011: “§ 3 º Poderão ser também deduzidas como despesas operacionais, na forma do caput, as importâncias transferidas a microempresas e empresas de pequeno porte de que trata a Lei Complementar n º 123, de 14 de dezembro de 2006, destinadas à execução de pesquisa tecnológica e de desenvolvimento de inovação tecnológica de interesse e por conta e ordem da pessoa jurídica que promoveu a transferência, ainda que a pessoa jurídica recebedora dessas importâncias venha a ter participação no resultado econômico do produto resultante”
 
 
 
+3. OUTROS CONCEITOS UTILIZADOS PELO MCTIC
 
 
-3. OUTROS 
-CONCEITOS 
-UTILIZADOS 
-PELO MCTIC
+Apresentaremos alguns conceitos utilizados pelo MCTIC via pareceres técnicos de avaliação dos projetos de inovação tecnológica e formulário para informação sobre as atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica nas empresas (FORMP&D). Basicamente, além das informações de 
+cunho estatístico quanto ao desenvolvimento de PD&I no país, o FORMP&D requer detalhamento sobre: 
+(i) a fase em que se encontra a pesquisa (básica, aplicada ou desenvolvimento experimental); 
+(ii) elemento tecnologicamente novo ou inovador; 
+(iii) barreira ou desafio tecnológico superável; 
+(iv) metodologia/métodos utilizados; 
+(v) data de início/previsão de término. 
 
-
-Apresentaremos alguns conceitos utilizados pelo MCTIC via pareceres técnicos de 
-avaliação dos projetos de inovação tecnológica e formulário para informação sobre 
-as atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica nas 
-empresas (FORMP&D). 
-Basicamente, além das informações de 
-cunho estatístico quanto ao desenvolvimento de PD&I no país, o FORMP&D requer detalhamento sobre: (i) a fase em que 
-se encontra a pesquisa (básica, aplicada ou 
-desenvolvimento experimental); (ii) elemento tecnologicamente novo ou inovador; (iii) 
-barreira ou desafio tecnológico superável; 
-(iv) metodologia/métodos utilizados; (v) data 
-de início/previsão de término. 
-Os itens abordados (elemento tecnologicamente novo ou inovador, barreira ou desafio tecnológico superável e metodologia/
-métodos utilizados) são aqui descritos por 
-serem parte fundamental do formulário para 
-apresentação de informações ao MCTIC e ponto de partida para a avaliação das atividades 
-de pesquisa tecnológica e desenvolvimento 
-de inovação tecnológica de pessoas jurídicas 
-beneficiárias dos incentivos fiscais, previstos 
-no capítulo III da Lei nº 11.196, de 2005.
-O Decreto nº 5.798 de 2006, que regulamentou o Capítulo III da Lei 11.196 de 2005, não 
-trouxe nenhum conceito objetivo do que caracterizaria um elemento tecnologicamente
-novo ou inovador, barreira tecnológica 
-ou metodologia.
-É importante destacar que as informações quanto ao elemento tecnologicamente novo ou inovador, barreira ou 
-desafio tecnológico superável e metodologia/métodos utilizados, são os 
-itens que mais geram questionamentos por parte do MCTIC às empresas. 
-Isto se deve, provavelmente, ao caráter subjetivo que envolve os conceitos. 
-A seguir, serão destacados estes tópicos, 
-com o intuito de dirimir dúvidas e construir 
-um conceito geral para avaliação dos projetos elegíveis para fins de Lei do Bem e apresentação ao MCTIC. Ao fim, para contextualizar como estes componentes poderiam ser 
-descritos de forma conjunta, inserimos uma 
-seção com exemplos de projetos e suas informações necessárias.
-
-
-
+Os itens abordados (elemento tecnologicamente novo ou inovador, barreira ou desafio tecnológico superável e metodologia/métodos utilizados) são aqui descritos por serem parte fundamental do formulário para apresentação de informações ao MCTIC e ponto de partida para a avaliação das atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica de pessoas jurídicas beneficiárias dos incentivos fiscais, previstos no capítulo III da Lei nº 11.196, de 2005.
+O Decreto nº 5.798 de 2006, que regulamentou o Capítulo III da Lei 11.196 de 2005, não trouxe nenhum conceito objetivo do que caracterizaria um elemento tecnologicamente novo ou inovador, barreira tecnológica ou metodologia.É importante destacar que as informações quanto ao elemento tecnologicamente novo ou inovador, barreira ou desafio tecnológico superável e metodologia/métodos utilizados, são os itens que mais geram questionamentos por parte do MCTIC às empresas. 
+Isto se deve, provavelmente, ao caráter subjetivo que envolve os conceitos. A seguir, serão destacados estes tópicos, com o intuito de dirimir dúvidas e construir um conceito geral para avaliação dos projetos elegíveis para fins de Lei do Bem e apresentação ao MCTIC. Ao fim, para contextualizar como estes componentes poderiam ser descritos de forma conjunta, inserimos uma seção com exemplos de projetos e suas informações necessárias.
 
 
 
 3.1. Elemento Tecnologicamente Novo ou Inovador
 a. Contextualização Legal
-O Decreto nº 5.798 de 2006, que regulamentou o Capítulo III da Lei 11.196 de 2005, não trouxe nenhum conceito objetivo do que caracterizaria 
-um elemento tecnologicamente novo ou inovador; porém, ao definir o que é inovação tecnológica em seu art. 2º, traz algumas orientações quanto ao que deve ser observado para identificar a existência de um elemento inovador.
-“Inovação tecnológica: a concepção de novo produto ou processo de fabricação, bem como a agregação de novas funcionalidades ou características ao produto ou processo que implique melhorias incrementais e efetivo ganho de qualidade ou 
-produtividade, resultando maior competitividade no mercado”
-
-
-
+O Decreto nº 5.798 de 2006, que regulamentou o Capítulo III da Lei 11.196 de 2005, não trouxe nenhum conceito objetivo do que caracterizaria um elemento tecnologicamente novo ou inovador; porém, ao definir o que é inovação tecnológica em seu art. 2º, traz algumas orientações quanto ao que deve ser observado para identificar a existência de um elemento inovador. “Inovação tecnológica: a concepção de novo produto ou processo de fabricação, bem como a agregação de novas funcionalidades ou características ao produto ou processo que implique melhorias incrementais e efetivo ganho de qualidade ou produtividade, resultando maior competitividade no mercado”
 
 
 b. Contextualização Teórica
 
 Segundo o Manual de Frascati, as 
-atividades de inovação tecnológica 
-são o conjunto de diligências científicas, tecnológicas, organizacionais, 
-financeiras e comerciais, incluindo o 
-investimento em novos conhecimentos, que realizam ou destinam-se à 
-realização de produtos e processos 
-tecnologicamente novos e melhores. 
-PD&I é apenas uma dessas atividades e 
-pode ser realizada em diferentes estágios 
-do processo de inovação, sendo usada não 
-apenas como uma fonte de ideias inventivas, 
-mas também para resolver os problemas 
-que possam surgir em qualquer etapa do 
-processo, até a sua conclusão. Ainda no Manual de Frascati, o critério fundamental que 
-permite distinguir entre PD&I e as atividades 
-correlatas é a existência de um elemento de 
-novidade, não insignificante, e a dissipação 
-de incerteza científica ou tecnológica, em 
-outras palavras, quando a solução de um 
-problema não parece óbvia para alguém que 
-está perfeitamente ciente de todo o conjunto 
-de conhecimento e técnicas básicas comumente utilizadas no setor considerado.
-De acordo com a pesquisa da PINTEC, as 
-inovações realizadas pelo setor produtivo 
-brasileiro estão intimamente vinculadas às 
-inovações de processo – majoritariamente 
-na aquisição de tecnologias em máquinas 
-e equipamentos ou em inovações adaptativas (o conceito de inovação adotado pela 
-PINTEC é mais abrangente). No caso da Lei 
-do Bem, o conceito de “inovação” é mais 
-restrito e trata-se de “inovação tecnológica” 
-(vinculado ao Manual de Frascati). Esta particularidade acaba concorrendo para que os 
-resultados sejam menos expressivos do que 
-aqueles computados na pesquisa PINTEC.
-Segundo o Manual de Oslo, guia aceito mundialmente que visa orientar na realização de 
-medições e estudos de atividades científicas 
-e tecnológicas, “Inovação é a implementação 
-de um produto (bem ou serviço) ou processo novo ou com um alto grau de melhoria, 
-ou um método de comercialização ou organizativo novo aplicado às práticas de negócio, ao lugar de trabalho ou às relações externas”. De todas as definições, a inovação 
-puramente tecnológica é aquela relacionada 
-com o produto ou processo. A necessidade 
-de suprimir o termo tecnológica na definição dada é devida à incorporação das inovações de marketing e organizativas. Existindo 
-controvérsia na hora de diferenciar as inovações de processo e as organizacionais, este 
-Manual definiu que: inovações de processo 
-lidam sobretudo com a implementação de 
-novos equipamentos, softwares, técnicas 
-ou procedimentos, enquanto as inovações 
-organizacionais lidam primordialmente com 
-pessoas e a organização do trabalho. Se a 
-inovação envolve métodos de produção
-ou de abastecimento novos ou significativamente melhorados que visam reduzir custos 
-unitários ou aumentar a qualidade do produto, trata-se de uma inovação de processo.
-O elemento tecnologicamente novo 
-deve representar um progresso científico ou tecnológico. Trata-se da hipótese 
-que está sendo testada para superação 
-da barreira4
-. Assim, o projeto deve resultar 
-em uma nova compreensão (mais ampla e 
-aprofundada) dos fenômenos, das relações 
-ou dos princípios de tratamento suscetíveis 
-de interessar a mais de uma organização, 
-como descrito no Manual de Frascati.
-Considera-se como elemento tecnologicamente novo ou inovador o diferencial do 
-novo produto/processo/serviço, incluindo uma 
-grande variedade de possibilidades, como:
-• Uma nova metodologia científica de análises 
-e testes.
-• Uma nova tecnologia em matéria-prima, 
-embalagem com design funcional inovador, formulação, estruturas nano, entre 
-outros, que irão compor um produto já 
-existente ou um novo produto, resultando em uma melhoria de desempenho, 
-redução de impacto ambiental, ampliação de uso e outros fatores que irão 
-trazer diferenciação e maior competitividade para a empresa.
+atividades de inovação tecnológica são o conjunto de diligências científicas, tecnológicas, organizacionais, financeiras e comerciais, incluindo o investimento em novos conhecimentos, que realizam ou destinam-se à realização de produtos e processos tecnologicamente novos e melhores. PD&I é apenas uma dessas atividades e pode ser realizada em diferentes estágios do processo de inovação, sendo usada não apenas como uma fonte de ideias inventivas, mas também para resolver os problemas que possam surgir em qualquer etapa do processo, até a sua conclusão. Ainda no Manual de Frascati, o critério fundamental que permite distinguir entre PD&I e as atividades correlatas é a existência de um elemento de novidade, não insignificante, e a dissipação de incerteza científica ou tecnológica, em outras palavras, quando a solução de um problema não parece óbvia para alguém que está perfeitamente ciente de todo o conjunto de conhecimento e técnicas básicas comumente utilizadas no setor considerado. De acordo com a pesquisa da PINTEC, as inovações realizadas pelo setor produtivo brasileiro estão intimamente vinculadas às inovações de processo – majoritariamente na aquisição de tecnologias em máquinas e equipamentos ou em inovações adaptativas (o conceito de inovação adotado pela PINTEC é mais abrangente). No caso da Lei do Bem, o conceito de “inovação” é mais restrito e trata-se de “inovação tecnológica” 
+(vinculado ao Manual de Frascati). Esta particularidade acaba concorrendo para que os resultados sejam menos expressivos do que aqueles computados na pesquisa PINTEC. Segundo o Manual de Oslo, guia aceito mundialmente que visa orientar na realização de medições e estudos de atividades científicas e tecnológicas, “Inovação é a implementação de um produto (bem ou serviço) ou processo novo ou com um alto grau de melhoria, ou um método de comercialização ou organizativo novo aplicado às práticas de negócio, ao lugar de trabalho ou às relações externas”. De todas as definições, a inovação puramente tecnológica é aquela relacionada com o produto ou processo. A necessidade de suprimir o termo tecnológica na definição dada é devida à incorporação das inovações de marketing e organizativas. Existindo controvérsia na hora de diferenciar as inovações de processo e as organizacionais, este Manual definiu que: inovações de processo lidam sobretudo com a implementação de novos equipamentos, softwares, técnicas ou procedimentos, enquanto as inovações organizacionais lidam primordialmente com 
+pessoas e a organização do trabalho. Se a inovação envolve métodos de produção ou de abastecimento novos ou significativamente melhorados que visam reduzir custos unitários ou aumentar a qualidade do produto, trata-se de uma inovação de processo. O elemento tecnologicamente novo deve representar um progresso científico ou tecnológico. Trata-se da hipótese que está sendo testada para superação da barreira. Assim, o projeto deve resultar em uma nova compreensão (mais ampla e aprofundada) dos fenômenos, das relações ou dos princípios de tratamento suscetíveis de interessar a mais de uma organização, como descrito no Manual de Frascati. 
+
+Considera-se como elemento tecnologicamente novo ou inovador o diferencial do 
+novo produto/processo/serviço, incluindo uma grande variedade de possibilidades, como:
+• Uma nova metodologia científica de análises e testes.
+• Uma nova tecnologia em matéria-prima, embalagem com design funcional inovador, formulação, estruturas nano, entre outros, que irão compor um produto já 
+existente ou um novo produto, resultando em uma melhoria de desempenho, redução de impacto ambiental, ampliação de uso e outros fatores que irão trazer diferenciação e maior competitividade para a empresa.
 • Novos processos e novas rotas tecnológicas.
 • Desenvolvimento de um novo software.
 • Novos serviços.
 • Novos modelos geológicos.
-Salientando que o elemento inovador 
-que a Lei do Bem incentiva não precisa 
-trazer novidade para o mercado, é suficiente com que traça aprimoramento 
-substancial para a empresa, como indicado no próprio site do MCTIC (http://www.
-mctic.gov.br/mctic/opencms/tecnologia/
-incentivo_desenvolvimento/lei_bem/_bem/
-Lei_do_Bem.html): “Vale ressaltar, que a 
-inovação tecnológica, para os fins de obtenção destes incentivos, pode se dar em 
-relação à empresa, e não necessariamente 
-ao mercado”
-
+Salientando que o elemento inovador que a Lei do Bem incentiva não precisa trazer novidade para o mercado, é suficiente com que traça aprimoramento 
+substancial para a empresa, como indicado no próprio site do MCTIC (http://www.mctic.gov.br/mctic/opencms/tecnologia/
+incentivo_desenvolvimento/lei_bem/_bem/Lei_do_Bem.html): “Vale ressaltar, que a inovação tecnológica, para os fins de obtenção destes incentivos, pode se dar em 
+relação à empresa, e não necessariamente ao mercado”
 
 
 c. Contextualização Prática
 
-Espera-se que, neste item, sejam apresentadas informações que identifiquem a 
-novidade gerada pelo projeto de pesquisa. 
-O elemento tecnologicamente novo deve 
-representar um progresso científico ou tecnológico. Por progresso científico ou tecnológico entende-se:
-• A aquisição de conhecimentos quanto à 
-compreensão de novos fenômenos (Pesquisa Básica Dirigida);
-• A aquisição de novos conhecimentos, com 
-vistas ao desenvolvimento ou aprimoramento de produtos, processos e sistemas 
-(Pesquisa aplicada);
-• A comprovação ou demonstração da viabilidade técnica ou funcional de novos 
-produtos, processos, sistemas e serviços 
-ou um evidente aperfeiçoamento dos já 
-produzidos ou estabelecidos (Desenvolvimento Experimental) - trata-se da hipótese
-que está sendo testada para superação 
-da barreira.
-As atividades realizadas para superar o 
-problema constituem os projetos de PD&I, 
-cujos resultados apresentarão uma solução, ou não, para o problema dado. 
-Eles sempre apresentarão um resultado, 
-mesmo que seja um apontamento que a 
-premissa adotada e testada para superação 
-da barreira não deve ser mais seguida, pois 
-não funciona.
-
+Espera-se que, neste item, sejam apresentadas informações que identifiquem a novidade gerada pelo projeto de pesquisa. 
+O elemento tecnologicamente novo deve representar um progresso científico ou tecnológico. Por progresso científico ou tecnológico entende-se:
+• A aquisição de conhecimentos quanto à compreensão de novos fenômenos (Pesquisa Básica Dirigida);
+• A aquisição de novos conhecimentos, com vistas ao desenvolvimento ou aprimoramento de produtos, processos e sistemas (Pesquisa aplicada);
+• A comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou um evidente aperfeiçoamento dos já 
+produzidos ou estabelecidos (Desenvolvimento Experimental) - trata-se da hipótese que está sendo testada para superação da barreira. As atividades realizadas para superar o problema constituem os projetos de PD&I, cujos resultados apresentarão uma solução, ou não, para o problema dado. Eles sempre apresentarão um resultado, mesmo que seja um apontamento que a premissa adotada e testada para superação da barreira não deve ser mais seguida, pois não funciona.
 
 
 d. Exemplos
-· Desenvolvimento de um novo método científico de análise de segurança via cromatografia em 
-substituição a um método que faz uso de animais.
-· Desenvolvimento de um novo shampoo para cabelos que faz uso de um novo óleo essencial da 
-biodiversidade brasileira com atividade alisadora.
-· Desenvolvimento de uma nova formulação com nanotecnologia para produção de tintas e revestimentos mais brilhantes e que evitem a corrosão.
-· Desenvolvimento de biologia sintética para programar células-tronco para se comportarem como 
-células que foram perdidas em função de doenças que ocorrem naturalmente, como diabetes
-· Desenvolvimento de um novo catalisador para o processo de craqueamento catalítico de forma a 
-aumentar a octanagem da gasolina.
-· Utilização de algas marinhas para a detecção de poluentes marinhos e sua remoção pela captação 
-do dióxido de carbono, em casos de desastres naturais
+· Desenvolvimento de um novo método científico de análise de segurança via cromatografia em substituição a um método que faz uso de animais.
+· Desenvolvimento de um novo shampoo para cabelos que faz uso de um novo óleo essencial da biodiversidade brasileira com atividade alisadora.
+· Desenvolvimento de uma nova formulação com nanotecnologia para produção de tintas e revestimentos mais brilhantes e que evitem a corrosão.
+· Desenvolvimento de biologia sintética para programar células-tronco para se comportarem como células que foram perdidas em função de doenças que ocorrem naturalmente, como diabetes
+· Desenvolvimento de um novo catalisador para o processo de craqueamento catalítico de forma a aumentar a octanagem da gasolina.
+· Utilização de algas marinhas para a detecção de poluentes marinhos e sua remoção pela captação do dióxido de carbono, em casos de desastres naturais
 · Desenvolvimento de plataforma de Gestão do Capital humano em arquitetura escalável em nuvem.
-· Desenvolvimento de equipamentos e utilização de big data para otimizar a correção de solo, o processo de plantio, necessidade hídrica e identificação de pragas na agricultura de precisão.
-· Pesquisa e aplicação no processo de acabamento para metais sanitários de novos compostos 
-químicos para evitar a corrosão do metal.
-· Desenvolvimento de materiais supercondutores para transmissão de energia elétrica e de tecnologias e sistemas de transmissão de energia em longas distâncias.
-
-
+· Desenvolvimento de equipamentos e utilização de big data para otimizar a correção de solo, o processo de plantio, necessidade hídrica e identificação de pragas na agricultura de precisão.
+· Pesquisa e aplicação no processo de acabamento para metais sanitários de novos compostos químicos para evitar a corrosão do metal.
+· Desenvolvimento de materiais supercondutores para transmissão de energia elétrica e de tecnologias e sistemas de transmissão de energia em longas distâncias.
 
 
 e. Boas Práticas
-É importante entender que nem toda melhoria ou projetos intitulados como PD&I 
-pela empresa podem ser considerados 
-como elegíveis para fins de utilização de 
-incentivos fiscais, mesmo que venha a 
-trazer ganho para a empresa. É necessário avaliar o que é esta “inovação” e qual 
-é o seu impacto para a companhia. 
-A “inovação” não deve ser afirmada de 
-maneira absoluta, sem menção a um benchmarking ou outra forma de comparação 
-que justifique a qualificação de inovação 
-tecnológica. O critério para distinguir se há, 
-ou não, um elemento novo ou inovador está 
-em sua essência em identificar:
-• Qual é o produto, processo ou 
-serviço novo?
-• Qual é a nova funcionalidade ou característica agregada ao produto ou processo ou 
-serviço ou sistemas?
-• Qual é o ganho significativo trazido com a 
-solução proposta? Seguem abaixo alguns 
-exemplos de ganho para análise da existência de elemento de inovação:
-a) Melhoria de performance dos equipamentos utilizados na produção;
+É importante entender que nem toda melhoria ou projetos intitulados como PD&I pela empresa podem ser considerados como elegíveis para fins de utilização de incentivos fiscais, mesmo que venha a trazer ganho para a empresa. É necessário avaliar o que é esta “inovação” e qual é o seu impacto para a companhia. A “inovação” não deve ser afirmada de maneira absoluta, sem menção a um benchmarking ou outra forma de comparação que justifique a qualificação de inovação 
+tecnológica. O critério para distinguir se há, ou não, um elemento novo ou inovador está em sua essência em identificar:
+• Qual é o produto, processo ou serviço novo?
+• Qual é a nova funcionalidade ou característica agregada ao produto ou processo ou serviço ou sistemas?
+• Qual é o ganho significativo trazido com a solução proposta? Seguem abaixo alguns exemplos de ganho para análise da existência de elemento de inovação:
+a) Melhoria de performance dos equipamentos utilizados na produção;
 b) Redução de custo;
 c) Postergação de investimentos;
 d) Otimização de processo;
 e) Ganho de qualidade;
 f) Ganho de produtividade;
 g) Redução de reclamações com os clientes;
-h) Melhoria nas ferramentas de gestão dos 
-projetos;
-i) Inclusão de novos insumos, produtos ou 
-equipamentos no processo atual após 
-homologação/qualificação de tecnologias;
-j) Obtenção de conhecimentos e detecção 
-de melhorias nos produtos e processos;
+h) Melhoria nas ferramentas de gestão dos projetos;
+i) Inclusão de novos insumos, produtos ou equipamentos no processo atual após homologação/qualificação de tecnologias;
+j) Obtenção de conhecimentos e detecção de melhorias nos produtos e processos;
 k) Redução de impactos ambientais.
-
-
 
 
 3.2. Barreira ou Desafio Tecnológico Superável
 a. Contextualização Legal
-O Decreto nº 5.798 de 2006, que regulamentou o Capítulo III da Lei 11.196 de 2005, não trouxe nenhum conceito objetivo do que caracterizaria 
-Barreira ou Desafio Tecnológico Superável.
+O Decreto nº 5.798 de 2006, que regulamentou o Capítulo III da Lei 11.196 de 2005, não trouxe nenhum conceito objetivo do que caracterizaria Barreira ou Desafio Tecnológico Superável.
 
+b. Contextualização Teórica 
+Entende-se como barreira ou desafio tecnológico superável as etapas ou eventos que podem representar o insucesso de seu projeto de inovação. É comum nos depararmos com fases de um projeto de inovação em que encontramos uma ausência de tecnologia/informação ou profissional técnico qualificado, necessários para dar continuidade ao projeto. Outro fato comum é a não comprovação de uma hipótese em testes empíricos. Há, ainda, casos em que a barreira é o elevado custo de 
+desenvolvimento de uma nova tecnologia, inviabilizando a comercialização da mesma ou dos produtos que a possuirão. A barreira pode ou não ser superável, o que resultará no sucesso ou insucesso do projeto.
 
-
-
-b. Contextualização Teórica
-Entende-se como barreira ou desafio 
-tecnológico superável as etapas ou 
-eventos que podem representar o insucesso de seu projeto de inovação. 
-É comum nos depararmos com fases de um 
-projeto de inovação em que encontramos 
-uma ausência de tecnologia/informação ou 
-profissional técnico qualificado, necessários 
-para dar continuidade ao projeto. Outro 
-fato comum é a não comprovação de uma 
-hipótese em testes empíricos. Há, ainda, casos em que a barreira é o elevado custo de 
-desenvolvimento de uma nova tecnologia, 
-inviabilizando a comercialização da mesma 
-ou dos produtos que a possuirão. A barreira 
-pode ou não ser superável, o que resultará 
-no sucesso ou insucesso do projeto.
 c. Contextualização Prática
-Neste item as empresas devem focar nas 
-dificuldades encontradas durante o desenvolvimento do projeto, quais adversidades 
-surgiram ou poderiam ter afetado o seguimento e conclusão das etapas da criação. 
-As atividades de PD&I buscam apresentar 
-resultados para um determinado problema 
-ou a dificuldade encontrada para realizar 
-um evidente aperfeiçoamento. 
-Mais detalhadamente, espera-se que a
-empresa informe:
+Neste item as empresas devem focar nas dificuldades encontradas durante o desenvolvimento do projeto, quais adversidades surgiram ou poderiam ter afetado o seguimento e conclusão das etapas da criação. As atividades de PD&I buscam apresentar resultados para um determinado problema ou a dificuldade encontrada para realizar um evidente aperfeiçoamento. Mais detalhadamente, espera-se que a empresa informe:
 • Qual o problema tecnológico resolvido;
 • Com que abordagem ele foi resolvido;
-• Se houve necessidade de investigação ou 
-foi resolvido com o repertório de conhecimentos dominado.
-
-
-
-
+• Se houve necessidade de investigação ou foi resolvido com o repertório de conhecimentos dominado.
 
 d. Exemplos
 · Desequilíbrio químico em uma formulação contendo novos insumos químicos, resultando na precipitação e formação de corpo de fundo.
-· Integração, análise e simulação em regime permanente e dinâmico de sistemas com a presença de fontes alternativas (eólica, solar, biomassa, 
-etc.) e dispositivos conversores de Smart Grid no sistema elétrico
+· Integração, análise e simulação em regime permanente e dinâmico de sistemas com a presença de fontes alternativas (eólica, solar, biomassa, etc.) e dispositivos conversores de Smart Grid no sistema elétrico
 · Ausência de miscibilidade de ingredientes que compõe uma nova matéria-prima a ser utilizada em um novo óleo hidratante de banho.
-· Uso de biologia sintética para desenvolvimento de novos tipos de biocombustíveis de segunda geração, a base de cana-de-açúcar, por meio da 
-fotossíntese induzida artificialmente
-· Combinação de técnicas distintas em computação quântica, como a abordagem de “quantum annealing” com a estrutura de “gates” 
- (portões) quânticos.
+· Uso de biologia sintética para desenvolvimento de novos tipos de biocombustíveis de segunda geração, a base de cana-de-açúcar, por meio da fotossíntese induzida artificialmente
+· Combinação de técnicas distintas em computação quântica, como a abordagem de “quantum annealing” com a estrutura de “gates” (portões) quânticos.
 · Dificuldade em atender, com uma única arquitetura, modelos distintos on-premise (local) e nuvem (remoto) com armazenamento multitenant, 
 para garantir a integridade e segurança dos dados.
-· Confecção de soluções estruturais pré-fabricadas e modulares que facilitem a instalação, promovendo praticidade sem comprometer solicitações mecânico-estruturais.
-· Aplicação de materiais alternativos, melhorando características funcionais, mas sem comprometer parâmetros de durabilidade e resistência 
-em embalagens de alimentos.
+· Confecção de soluções estruturais pré-fabricadas e modulares que facilitem a instalação, promovendo praticidade sem comprometer solicitações mecânico estruturais.
+· Aplicação de materiais alternativos, melhorando características funcionais, mas sem comprometer parâmetros de durabilidade e resistência em embalagens de alimentos.
 · Uso de hidrogéis nanoestruturados para encapsulamento de esferóides de células para aplicações em medicina regenerativa.
 · Incorporação de novos materiais e reforços em pneus para reduzir a massa dos produtos, com ganhos ambientais e sociais.
-· Atender a requisitos mecânicos definidos, desenvolvendo modelo contrutivo com base em desenho modular, de forma a facilitar o transporte 
-(não precisando de veículos especiais).
-
-
-
+· Atender a requisitos mecânicos definidos, desenvolvendo modelo contrutivo com base em desenho modular, de forma a facilitar o transporte (não precisando de veículos especiais).
 
 e. Boas Práticas
-Quando da descrição da barreira ou desafio tecnológico superados na execução do projeto a empresa deverá abordar alguns dos seguintes 
-pontos de forma clara e sucinta:
+Quando da descrição da barreira ou desafio tecnológico superados na execução do projeto a empresa deverá abordar alguns dos seguintes pontos de forma clara e sucinta:
 • Dar exemplos de problemas observados durante o desenvolvimento do projeto;
 • Explicar tecnicamente o problema, e evidenciar as consequências de não se encontrar uma solução;
 • Se o problema também ocorre no mercado, descrever um pouco se há estudos ou proposta de solução fora e se a empresa que está desenvolvendo a pesquisa está indo na mesma linha ou está buscando outras alternativas;
 • Evidenciar caso os conhecimentos adquiridos até o momento pela empresa não resolvem o problema;
 • Refletir se o desafio do projeto é tecnológicoou mercadológico
 
-
-
-
 3.3. Metodologia/Métodos Utilizados 
 a. Contextualização Legal
-O Decreto nº 5.798 de 2006, que regulamentou o Capítulo III da Lei 11.196 de 2005, não trouxe nenhum conceito objetivo do que caracterizaria 
-Metodologia/Métodos Utilizados. 
-
-
-
-
+O Decreto nº 5.798 de 2006, que regulamentou o Capítulo III da Lei 11.196 de 2005, não trouxe nenhum conceito objetivo do que caracterizaria Metodologia/Métodos Utilizados. 
 
 b. Contextualização Teórica
-O termo Metodologia, define, semanticamente, o conjunto de métodos e 
-procedimentos técnicos que dirige um processo de pesquisa. É através do método que 
-a pesquisa adquire cientificidade, uma vez 
-que todo conhecimento científico é construído sobre um método. A metodologia, por 
-conseguinte, é um instrumento de procedimento técnico do conhecimento5
-. 
-Consiste no conjunto de técnicas e 
-métodos utilizados para descrever 
-como a barreira/desafio tecnológico 
-poderá ser superado. Ou seja, como 
-se pretende obter a melhoria nos produtos, processos e serviços ou como 
-gerar novos produtos, processos 
-e serviços.
-Para descrever com clareza, a empresa deve, 
-resumidamente, descrever as atividades 
-executadas, o processo utilizado, bem como 
-demonstrar as competências que foram 
-exigidas para implementação do projeto. 
-A empresa deve detalhar a metodologia de 
-pesquisa ou desenvolvimento experimental, 
-e não apenas uma metodologia convencional
-de desenvolvimento da solução, ou 
-uma metodologia de inovação (de forma vaga) de uma forma mais geral, 
-sem especificar aspectos de pesquisa e 
-desenvolvimento experimental4
-.
+O termo Metodologia, define, semanticamente, o conjunto de métodos e procedimentos técnicos que dirige um processo de pesquisa. É através do método que 
+a pesquisa adquire cientificidade, uma vez que todo conhecimento científico é construído sobre um método. A metodologia, por conseguinte, é um instrumento de procedimento técnico do conhecimento. 
 
-
+Consiste no conjunto de técnicas e métodos utilizados para descrever como a barreira/desafio tecnológico poderá ser superado. Ou seja, como se pretende obter a melhoria nos produtos, processos e serviços ou como gerar novos produtos, processos e serviços. Para descrever com clareza, a empresa deve, resumidamente, descrever as atividades executadas, o processo utilizado, bem como demonstrar as competências que foram exigidas para implementação do projeto. A empresa deve detalhar a metodologia de pesquisa ou desenvolvimento experimental, e não apenas uma metodologia convencional de desenvolvimento da solução, ou uma metodologia de inovação (de forma vaga) de uma forma mais geral, sem especificar aspectos de pesquisa e desenvolvimento experimental.
 
 
 c. Contextualização Prática
-A metodologia a ser apresentada não deve ser extensa, recomenda-se descrever com clareza 
-as etapas/atividades executadas. Para este item, as informações a serem apresentadas devem 
-ser suficientes para que haja compreensão do que foi feito no ciclo de desenvolvimento do 
-projeto e de onde podem ter surgido as barreiras e dificuldades citadas no item anterior.
-
-
-
+A metodologia a ser apresentada não deve ser extensa, recomenda-se descrever com clareza as etapas/atividades executadas. Para este item, as informações a serem apresentadas devem ser suficientes para que haja compreensão do que foi feito no ciclo de desenvolvimento do projeto e de onde podem ter surgido as barreiras e dificuldades citadas no item anterior.
 
 
 d. Exemplos
@@ -4752,182 +4094,73 @@ d. Exemplos
 • Estudo de características físico-química das amostras.
 
 
-
-
-
 e. Boas Práticas
-A metodologia é responsável pela transparência e pela objetividade da pesquisa ou 
-projeto. Significa, portanto, que ela traduz a 
-forma por meio da qual o pesquisador está 
-avançando na busca pelos seus resultados, 
-possibilitando, inclusive, que outros sigam 
-os mesmos passos, o mesmo caminho utilizado pelo proponente. 
-A metodologia a ser apresentada ao MCTIC deve ser concisa e direta, focando nas 
-etapas que compõe o desenvolvimento do 
-projeto e seus diferenciais frente aos projetos tradicionais. Para projetos que focam no 
-desenvolvimento de novos produtos, recomenda-se uma descrição do passo a passo 
-das etapas do projeto, focando nas principais etapas de um desenvolvimento do produto, processo ou serviço. 
-Uma maneira de deixar mais claro o objetivo 
-de um projeto de pesquisa básica, aplicada 
-ou desenvolvimento experimental é através 
-da apresentação de uma breve introdução 
-sobre o tema da pesquisa, as etapas dos 
-estudos, testes envolvidos e as competências técnicas necessárias para a pesquisa 
-em questão. Desta maneira os avaliadores 
-terão uma contextualização melhor no momento da análise dos projetos. 
-Em suma, o ideal seria descrever quais são 
-as técnicas, métodos ou atividades que estão sendo utilizados para atingir o objetivo 
-da pesquisa. Ou seja, como serão testadas 
-as hipóteses para solução do problema.
-Esta descrição permitiria compreender
-a linha de raciocínio proposta pela empresa 
-para o desenvolvimento da pesquisa. 
-Destacam-se algumas práticas operacionais6
-:
-• Identificação de um problema ou oportunidade: esse é um questionamento, uma 
-indagação, ou seja, aquela curiosidade/necessidade que o levou a pesquisar;
-• Indicação de uma hipótese: é uma resposta a priori ao problema destacado. É muito 
-importante descrever as hipóteses que foram abordadas para resolver o problema;
-• Coleta de dados: busca de dados que venham auxiliar na solução do problema e 
-confirmar a hipótese;
-• Descrever os testes, ensaios e técnicas utilizadas para validar ou não as hipóteses;
-• Análise da resposta: verificação da viabilidade da hipótese encontrada;
-• Descrever as hipóteses abandonadas, o 
-motivo de sua não utilização e também 
-a explicação pela escolha da abordagem 
-que teoricamente resolve o problema;
-• Não apresentar metodologia padronizada 
-associada a uma ferramenta de controle 
-gerencial do desenvolvimento
+A metodologia é responsável pela transparência e pela objetividade da pesquisa ou projeto. Significa, portanto, que ela traduz a forma por meio da qual o pesquisador está avançando na busca pelos seus resultados, possibilitando, inclusive, que outros sigam os mesmos passos, o mesmo caminho utilizado pelo proponente. A metodologia a ser apresentada ao MCTIC deve ser concisa e direta, focando nas etapas que compõe o desenvolvimento do projeto e seus diferenciais frente aos projetos tradicionais. Para projetos que focam no desenvolvimento de novos produtos, recomenda-se uma descrição do passo a passo das etapas do projeto, focando nas principais etapas de um desenvolvimento do produto, processo ou serviço. Uma maneira de deixar mais claro o objetivo de um projeto de pesquisa básica, aplicada ou desenvolvimento experimental é através da apresentação de uma breve introdução sobre o tema da pesquisa, as etapas dos  estudos, testes envolvidos e as competências técnicas necessárias para a pesquisa em questão. Desta maneira os avaliadores terão uma contextualização melhor no momento da análise dos projetos. Em suma, o ideal seria descrever quais são as técnicas, métodos ou atividades que estão sendo utilizados para atingir o objetivo 
+da pesquisa. Ou seja, como serão testadas as hipóteses para solução do problema. Esta descrição permitiria compreender a linha de raciocínio proposta pela empresa para o desenvolvimento da pesquisa. 
 
-
-
+Destacam-se algumas práticas operacionais:
+• Identificação de um problema ou oportunidade: esse é um questionamento, uma indagação, ou seja, aquela curiosidade/necessidade que o levou a pesquisar;
+• Indicação de uma hipótese: é uma resposta a priori ao problema destacado. É muito importante descrever as hipóteses que foram abordadas para resolver o problema;
+• Coleta de dados: busca de dados que venham auxiliar na solução do problema e confirmar a hipótese;
+• Descrever os testes, ensaios e técnicas utilizadas para validar ou não as hipóteses;
+• Análise da resposta: verificação da viabilidade da hipótese encontrada;
+• Descrever as hipóteses abandonadas, o motivo de sua não utilização e também a explicação pela escolha da abordagem que teoricamente resolve o problema;
+• Não apresentar metodologia padronizada associada a uma ferramenta de controle gerencial do desenvolvimento
 
 3.4. Exemplos de Projetos e suas Informações necessária
 
 - Elemento Tecnologicamente Novo ou Inovador
 Desenvolver um produto químico multifuncional (único produto com várias funções), que será adicionado ao petróleo  com o objetivo de solucionar ou minimizar as barreiras de escoamento (deposição de parafinas, asfaltenos, hidratos,  incrustrações salinas, emulsões dentro  dos dutos) dos campos do pré-sal que  comprometem a produção de petróleo.
 - Tipo? Produto, serviço  ou sistema?
-Produto
+- Produto
 - Barreira ou Desafio Tecnológicoó
 Inexistência de produto químico no mercado  mundial que resolva os problemas de escoamento ao mesmo tempo. Estes depósitos indesejáveis acarretam perdas na produção (tanto  pela menor passagem de óleo ocasionada pela formação dos depósitos, quanto pela necessidade de parada de produção para a passagem do PIG (dispositivo cilíndrico ou esférico concebido e utilizado inicialmente com a finalidade  de limpar o interior de dutos).
 - Metodologia/ Métodos Utilizados
-Métodos experimentais de síntese orgânica (Rota vapor, absorção atômica).
-
-
+Métodos experimentais de síntese orgânica (Rota vapor, absorção atômica).
 
 - Elemento Tecnologicamente Novo ou Inovador
-Desenvolvimento de um novo shampoo para cabelos com formulação que 
-faz uso de um novo óleo essencial da 
-biodiversidade brasileira com atividade 
-alisadora comprovada cientificamente.
+Desenvolvimento de um novo shampoo para cabelos com formulação que faz uso de um novo óleo essencial da biodiversidade brasileira com atividade alisadora comprovada cientificamente.
 - Tipo? Produto, serviço  ou sistema?
 Produto
 - Barreira ou Desafio Tecnológicoó
-Desequilíbrio químico na formulação por 
-conter novos insumos químicos, resultando na 
-precipitação e formação de corpo de fundo. 
-Ausência de miscibilidade de ingredientes que 
-compõe uma nova matéria-prima.
+Desequilíbrio químico na formulação por conter novos insumos químicos, resultando na precipitação e formação de corpo de fundo. Ausência de miscibilidade de ingredientes que compõe uma nova matéria-prima.
 - Metodologia/ Métodos Utilizados
-O desenvolvimento do projeto contempla: 
-Definições dos procedimentos a serem 
-adotados para validação da pesquisa; Realização de ensaios experimentais; Testes 
-em escala laboratorial e piloto; Realização 
-de medições de desempenho; Estudo de 
-características físico-química das amostras;
-
+O desenvolvimento do projeto contempla:
+Definições dos procedimentos a serem adotados para validação da pesquisa; Realização de ensaios experimentais; Testes em escala laboratorial e piloto; Realização 
+de medições de desempenho; Estudo de características físico-química das amostras;
 
 - Elemento Tecnologicamente Novo ou Inovador
-Desenvolvimento de um simulador de 
-operação ferroviária 3D de realidade 
-virtual com aplicação para multiusuários, 
-com a inclusão do sistema de despacho, 
-painel mimico e multi-equipamentos, 
-permitindo simulações de manobras do 
-trem, permitindo realizar provas interativas de manutenção no ramo ferroviário
+Desenvolvimento de um simulador de operação ferroviária 3D de realidade virtual com aplicação para multiusuários, com a inclusão do sistema de despacho, painel mimico e multi-equipamentos, permitindo simulações de manobras do trem, permitindo realizar provas interativas de manutenção no ramo ferroviário
 - Tipo? Produto, serviço  ou sistema?
 Processo
 - Barreira ou Desafio Tecnológicoó
-Desenvolvimento de processo de simulação 
-de grande complexidade, com inserção de 
-algoritmo de formulações físicas do processo 
-dependente de vários parâmetros. Envolve 
-alto risco tecnológico uma vez que deve 
-permitir a simulação de manobras e gerar 
-cenários automáticos a partir da inserção dos 
-dados da via férrea.
+Desenvolvimento de processo de simulação de grande complexidade, com inserção de algoritmo de formulações físicas do processo dependente de vários parâmetros. Envolve alto risco tecnológico uma vez que deve permitir a simulação de manobras e gerar cenários automáticos a partir da inserção dos dados da via férrea.
 - Metodologia/ Métodos Utilizados
-Complexificação do modelo matemático 
-para que o simulador possa servir para treinamento e análise de engenharia. Desenvolvimento do módulo de análise de acidentes 
-com modelo matemático totalmente novo. 
-Desenvolvimento da simulação dos módulos 
-de manobra ferroviária e dinâmica veicular
-
-
+Complexificação do modelo matemático para que o simulador possa servir para treinamento e análise de engenharia. Desenvolvimento do módulo de análise de acidentes com modelo matemático totalmente novo. Desenvolvimento da simulação dos módulos de manobra ferroviária e dinâmica veicular
 
 - Elemento Tecnologicamente Novo ou Inovador
-Desenvolvimento de solução otimizada 
-de remoção de CS2 (compostos sulfurados), que garanta a especificação do 
-produto final e a excelência operacional, 
-levando ao menor impacto no resultado 
-econômico da unidade. O projeto de 
-desenvolvimento trará o domínio do 
-processo de remoção CS2 em 
-correntes da planta de isopreno. O 
-domínio tecnológico do processo está 
-restrito a outros fabricantes de isopreno 
-que não possuem interesse em divulgar 
-ou licenciar a tecnologia.
+Desenvolvimento de solução otimizada de remoção de CS2 (compostos sulfurados), que garanta a especificação do produto final e a excelência operacional, 
+levando ao menor impacto no resultado econômico da unidade. O projeto de desenvolvimento trará o domínio do processo de remoção CS2 em correntes da planta de isopreno. O domínio tecnológico do processo está restrito a outros fabricantes de isopreno que não possuem interesse em divulgar ou licenciar a tecnologia.
 - Tipo? Produto, serviço  ou sistema?
 Processo
 - Barreira ou Desafio Tecnológicoó
-1-Rota resina troca iônica: efetividade do processo a diferentes concentrações de CS2 na 
-carga; estabilidade da resina a alta reatividade 
-das correntes contendo di-olefinas (restringe 
-os processos de remoção de CS2); seleção da 
-solução compatível com a frequente variação 
-da margem do negócio de isopreno. 2-Agente 
-sequestrante: eficiência do agente sequestrante; efeito corrosivo aos equipamentos da 
-unidade dos produtos de reação; separação 
-do produto formado e excesso do 
-agente sequestrante
+1-Rota resina troca iônica: efetividade do processo a diferentes concentrações de CS2 na carga; estabilidade da resina a alta reatividade das correntes contendo di-olefinas (restringe os processos de remoção de CS2); seleção da solução compatível com a frequente variação da margem do negócio de isopreno.
+2-Agente sequestrante: eficiência do agente sequestrante; efeito corrosivo aos equipamentos da unidade dos produtos de reação; separação do produto formado e excesso do agente sequestrante
 - Metodologia/ Métodos Utilizados
-1-Revisão bibliográfica; 2-Seleção de 
-agentes sequestrantes ou adsorventes 
-comerciais específicos; 3-Seleção do ponto 
-de tratamento (menor impacto à unidade); 
-4-Teste em planta de pequena escala de 
-laboratório (planejamento experimental); 
-5-Identificação/caracterização dos produtos formados (solubilidade, corrosividade, 
-estabilidade química etc.). A partir dos dados de laboratório, definir o processo com 
-melhor relação custo/benefício e robustez 
-à variação da concentração de CS2 nafta
-
+1-Revisão bibliográfica;
+2-Seleção de agentes sequestrantes ou adsorventes comerciais específicos;
+3-Seleção do ponto de tratamento (menor impacto à unidade); 
+4-Teste em planta de pequena escala de laboratório (planejamento experimental); 
+5-Identificação/caracterização dos produtos formados (solubilidade, corrosividade, estabilidade química etc.). A partir dos dados de laboratório, definir o processo com melhor relação custo/benefício e robustez à variação da concentração de CS2 nafta
 
 - Elemento Tecnologicamente Novo ou Inovador
-Desenvolvimento de solução de inteligência fiscal para aferição de cupons fiscais emitidos em transações de vend
+Desenvolvimento de solução de inteligência fiscal para aferição de cupons fiscais emitidos em transações de vendA
 - Tipo? Produto, serviço  ou sistema?
 Produto / Serviço
 - Barreira ou Desafio Tecnológicoó
-Desenvolver uma plataforma de inteligência 
-capaz de integrar e analisar dados, através 
-de ferramentas de ontologia. A escassez de 
-mão-de-obra especializada e bibliografias 
-sobre ontologia sistêmica foi uma das barreiras desse desenvolvimento, sendo necessária 
-a criação de soluções de software alternativas 
-que simulassem as ações de ontologia, visando processar um alto volume de informações 
-em tempo real em sincronia.
+Desenvolver uma plataforma de inteligência capaz de integrar e analisar dados, através de ferramentas de ontologia. A escassez de mão-de-obra especializada e bibliografias sobre ontologia sistêmica foi uma das barreiras desse desenvolvimento, sendo necessária a criação de soluções de software alternativas que simulassem as ações de ontologia, visando processar um alto volume de informações em tempo real em sincronia.
 - Metodologia/ Métodos Utilizados
-Realizadas pesquisas bibliográficas nos 
-campos de ontologia e inteligência artificias 
-(redes neurais artificiais) e de tecnologias 
-de desenvolvimento que findassem em 
-uma solução altamente performática e segura e, realizar o processamento de dados 
-em tempo real das transações ocorridas. 
-Desenvolvimento sistêmico e realização de 
-testes de performance técnica e funcional
-
+Realizadas pesquisas bibliográficas nos campos de ontologia e inteligência artificias (redes neurais artificiais) e de tecnologias de desenvolvimento que findassem em uma solução altamente performática e segura e, realizar o processamento de dados em tempo real das transações ocorridas. Desenvolvimento sistêmico e realização de testes de performance técnica e funcional
 
 - Elemento Tecnologicamente Novo ou Inovador
 Desenvolvimento experimental de sistema autônomo de veículos leves, com aplicação de algoritmos baseados em inteligência artificial para simulação de diversas situações de riscos de trânsito eminentes, tais como: aproximação de outro veículo/obstáculo, sinal fechado, via bloqueada, etc. O problema tecnológico está no fato da empresa não deter conhecimentos aprofundados nos conceitos e tecnologias disponíveis, e em sua aplicação em veículos autônomos.
