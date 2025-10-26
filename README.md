@@ -4192,4 +4192,326 @@ assinatura digital; Desenvolvimento de modelagem para guarda de assinatura digit
 4 PONTOS  COMPLEMENTARES
 
 
+4.1 Conceito de Engenharia
+a. Contextualização Legal
+
+A regulamentação da Lei do bem (Lei nº 11.196/2005, Capítulo III), que decorre do Decreto nº 5.798, de 7 de junho de 2006, define os conceitos de 
+atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica para fins de utilização de incentivos fiscais, que compreende a pesquisa 
+básica dirigida, pesquisa aplicada, desenvolvimento experimental, tecnologia industrial básica e serviços de apoio técnico.
+
+Os benefícios fiscais estabelecidos na Lei nº 11.196/2005, Capítulo III, não alcançam desenvolvimento de engenharia.
+
+Como vimos no item Conceito de Inovação Tecnológica do presente Guia, o §1º do art. 17 da Lei 11.196/2005 conceituou apenas o que seria 
+inovação tecnológica, ou seja, “a concepção de novo produto ou processo de fabricação, bem como a agregação de novas funcionalidades ou características ao produto ou processo que implique em melhorias incrementais e efetivo ganho de qualidade ou produtividade, resultando maior 
+competitividade no mercado”.
+
+
+
+
+Dentre as atividades de PD&I 
+beneficiadas pela Lei do Bem, a atividade de desenvolvimento experimental é a mais encontrada nas empresas 
+inovadoras brasileiras e, em face da 
+imprecisão do conceito de “desenvolvimento experimental”, em algumas 
+situações, faz-se necessário distinguir 
+esta atividade do desenvolvimento de 
+engenharia, principalmente quando as 
+atividades de inovação não envolvam 
+soluções de problemas complexos e 
+com riscos tecnológicos inerentes.
+
+
+Importante relembrar que o Decreto nº 
+5.798/2006 conceitua desenvolvimento 
+experimental como sendo “os trabalhos 
+sistemáticos delineados a partir de conhecimentos pré-existentes, visando a comprovação ou demonstração da viabilidade 
+técnica ou funcional de novos produtos, 
+processos, sistemas e serviços ou, ainda, um 
+evidente aperfeiçoamento dos já produzidos 
+ou estabelecidos.” 
+
+
+
+Como mencionado, o “desenvolvimento de 
+engenharia” ou “técnicas de engenharia” ou 
+“engenharia” não apresenta uma conceituação na legislação e/ou nos regulamentos disciplinadores dos incentivos fiscais às atividades de PD&I. Ainda, por meio de um exame 
+de diretrizes internacionais à inovação, não 
+foi identificado conceito ou características 
+que marquem os termos “desenvolvimento 
+de engenharia” ou “técnicas de engenharia”, 
+incluindo no Manual de Frascati.
+
+
+b. Contextualização Teórica
+
+O cientista Albert Einstein definiu que: “Os 
+cientistas investigam o que já existe; engenheiros criam o que nunca existiu” (“Scientists investigate that which already is; 
+Engineers create that which has never 
+been”- Albert Einstein – Livre tradução).
+Para o Comitê de Certificação de Engenharia e Tecnologia dos Estados Unidos (1982) 
+“engenharia é profissão na qual o conhecimento das ciências matemáticas e naturais, obtido através do estudo, experiência 
+e prática, é aplicado com julgamento no 
+desenvolvimento de novos meios de 
+utilizar, economicamente, os materiais 
+e forças da Natureza para o benefício 
+da humanidade7
+” .
+Na mesma linha, o sítio americano “What 
+is engineering?”, definiu: “Engenharia é
+a aplicação de conhecimento científico para 
+solução de problemas do mundo real.
+Enquanto a ciência (física, química, biologia, etc.), nos permite o ganho de um 
+conhecimento do mundo e universo, a engenharia permite que este conhecimento
+ seja aplicado na vida real, por meio 
+da solução de problemas, designing e 
+construção de coisas.
+Engenheiros se distinguem dos outros profissionais pela habilidade que possuem para 
+resolver problemas complexos e implantar 
+soluções de forma rentável e prática.
+Portanto, diante dos conceitos acima, podemos concluir que a engenharia é a aplicação de conceitos científicos para a 
+solução de problemas reais e a implantação de soluções práticas que sejam 
+viáveis técnica e financeiramente.
+
+
+
+c. Contextualização Prática
+
+Trazendo este conceito para o âmbito da Lei 
+do Bem, considerando-se principalmente as 
+atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica previstas 
+no Decreto 5.798/2006, podem ser consideradas para fins de incentivos fiscais, 
+apenas as atividades de engenharia que 
+estejam relacionadas ao desenvolvimento de novos produtos ou processos ou ao 
+aprimoramento dos mesmos, desde que 
+exista risco tecnológico para tal. Isso 
+significa que as atividades de engenharia devem envolver aquelas relativas ao 
+desenvolvimento tecnológico e solução 
+de problemas cujas chances de sucesso 
+sejam incertas e/ou em que haja um risco tecnológico que não seja alcançado.
+Essa assertiva decorre do Relatório Anual de Atividades de PD&I (2013), publicado 
+pelo MCTIC, que buscou em uma parte significativa do trabalho pontuar as diferenças 
+entre as atividades de desenvolvimento de 
+engenharia e as atividades de desenvolvimento experimental (esta última beneficiada
+ pela Lei do Bem):
+“Muitas empresas descreveram projetos de 
+engenharia enquadrando como projeto de 
+pesquisa. A alteração ou criação de um produto pode ser classificada como pesquisa e 
+desenvolvimento experimental ou como um 
+desenvolvimento de engenharia. A Lei do 
+Bem só prevê incentivos fiscais para o primeiro caso. A diferença entre as duas classificações está no risco envolvido nas 
+atividades. O conceito de desenvolvimento 
+experimental da Lei do Bem está relacionado com trabalhos sistemáticos delineados 
+a partir de conhecimentos pré-existentes, 
+visando à comprovação ou demonstração 
+da viabilidade técnica ou funcional de novos 
+produtos, processos, sistemas e serviços ou, 
+ainda, um evidente aperfeiçoamento dos já 
+produzidos ou estabelecidos. Esta atividade envolve risco tecnológico, haja vista 
+que não necessariamente esses desenvolvimentos apresentarão sucesso. Um 
+evidente aperfeiçoamento dos já produzidos também pode ser considerado 
+nessa classificação, desde que seja demonstrado que não foi simplesmente 
+uma alteração de layout ou de design 
+e sim um aperfeiçoamento. Alterações 
+corriqueiras ou rotineiras que não envolvem 
+risco em virtude dos processos e metodologias utilizados no desenvolvimento serem 
+conhecidos ou dominados são considerados 
+como desenvolvimento de engenharia. Estes 
+desenvolvimentos podem resultar em novos 
+produtos. Também podem ser resultado de 
+pesquisas de mercado ou pesquisas que visam conhecer e detectar melhorias nos produtos e processos. Estas atividades não são 
+elegíveis como utilizadoras dos incentivos fiscais da Lei do Bem”.
+De acordo com o trecho do Relatório Anual do MCTIC (2013) acima apresentado
+
+
+a diferença essencial entre as duas atividades (desenvolvimento experimental e 
+desenvolvimento de engenharia) estaria no 
+risco envolvido. 
+Por basear ou mensurar as diferenças entre 
+“desenvolvimento experimental” e “desenvolvimento de engenharia” nas incertezas e/ou 
+riscos em incorrer-se no empreendimento 
+tecnológico, o conceito de “risco envolvido” é 
+subjetivo e pode atrelar-se ao nível de contribuição intelectual mínimo que o resultado da 
+PD&I traz ao mercado. Ou seja, quanto maior 
+a inventividade da proposta e dos objetivos 
+da PD&I maior o risco tecnológico. 
+Para complementar o entendimento acerca
+das atividades de engenharia, bem como a
+assertiva pela qual o risco técnico envolvido
+é o elemento que distingue o desenvolvimento experimental do desenvolvimento
+de engenharia, seguem abaixo trechos extraídos de pareceres emitidos pela CGIT/SETEC/
+MCTIC - FORMP&D ano base 2014:
+“Tornam-se necessário esclarecimentos sobre o que de fato foi realizado em termos de 
+pesquisa experimental e o que é atividade 
+cotidiana de engenharia, visto que o projeto é bastante amplo e aplicações deste tipo 
+não são incomuns. Torna-se necessário 
+caracterizar os desafios técnicos que não 
+são resolvidos pela simples aplicação do 
+conhecimento geral da área. Falta também
+um detalhamento dos riscos tecnológicos envolvidos e da diferenciação da 
+plataforma desenvolvida em relação a outras existentes no mercado”.
+Importante destacar, que os CATs (Comitês de Auxílio Técnico) foram regulamentados pela Portaria nº 788, de 05/08/2014 
+do MCTIC, cujo §1º determinou que os 
+CATs serão criados com o objetivo de 
+prestar auxílio técnico à equipe da SETEC 
+(Secretaria de Desenvolvimento Tecnológico
+e Inovação) na elaboração de diagnóstico 
+opinativo, nas suas respectivas áreas de 
+competência técnica, sobre as informações 
+relativas aos programas de pesquisa tecnológica e desenvolvimento de inovação 
+tecnológica enviadas ao MCTIC pelas empresas beneficiárias da Lei do Bem.
+Pelos trechos extraídos do Relatório Anual de Atividades de PD&I (2013) e dos pareceres técnicos CGIT/SETEC/MCTIC, ano 
+base 2014, pode-se inferir que o desenvolvimento experimental envolve risco 
+tecnológico e não exige obtenção de 
+sucesso ao final do projeto.
+Ademais, um evidente aperfeiçoamento 
+tecnológico de produtos existentes também pode ser considerado como resultado 
+decorrente de desenvolvimento experimental, desde que seja demonstrado que o 
+aperfeiçoamento não se tratou simplesmente de uma alteração de layout ou de design 
+e sim de uma efetiva melhoria
+
+Já o desenvolvimento de engenharia caracteriza-se por alterações corriqueiras 
+ou rotineiras que não envolvem risco 
+em virtude dos processos e metodologias utilizados no desenvolvimento
+já serem conhecidos ou dominados 
+pela empresa.
+Estes desenvolvimentos podem resultar em 
+novos produtos, podem ser resultado de 
+pesquisas de mercado ou pesquisas que 
+visam conhecer e detectar melhorias nos 
+produtos e processos, mas, no entanto, não 
+são elegíveis para os incentivos fiscais 
+da Lei do Bem.
+
+
+
+d. Exemplos
+
+Um exemplo de projeto de engenharia, 
+dentro da concepção das autoridades governamentais, seria o desenvolvimento de 
+veículos com foco em redução de custos 
+que envolvem a utilização de conhecimentos 
+pré-existentes na empresa, sem evidente
+ risco tecnológico atrelado, com atividades 
+de design do veículo, redesenho/supressão/
+comunicação ou mudança de materiais de 
+componentes/peças do veículo para ganhos de custos, nacionalização de peças 
+com fornecedores locais. 
+Este tipo de desenvolvimento de produto 
+geralmente segue uma metodologia conhecida pela empresa, caracterizada pela 
+existência de procedimentos já dominados 
+para a implementação de determinados 
+produtos. Também envolve os ensaios, simulações numéricas e testes de montagem 
+e rodagem para a validação das características e funcionalidades implementadas 
+no novo veículo. O projeto nem sempre 
+agrega novos conhecimentos à equipe e à 
+empresa, sendo implementado com o 
+suporte de fornecedores e recursos das 
+áreas de engenharia interna.
+Por outro lado, caso o projeto possua 
+fases como, por exemplo, o desenvolvimento de sistemas alternativos para a 
+redução do consumo de combustíveis, novas formas de propulsão alternativas ao uso 
+de gasolina e/ou diesel (biocombustíveis, 
+desenvolvimento de novos sistemas para 
+alcance da relação de consumo entre etanol 
+e gasolina), e para tanto sejam agregados 
+conhecimentos à equipe, bem como
+sejam evidenciados os riscos tecnológicos inerentes, a perspectiva de 
+alcançar resultados tecnológicos inventivos com significativo grau de 
+contribuição intelectual, o projeto ou 
+parte dele poderão ser classificados 
+como desenvolvimento experimental. 
+Os protótipos desenvolvidos neste caso geralmente são utilizados em experimentos 
+de investigação da viabilidade técnica ou 
+funcional, não sendo apenas protótipos para 
+testes de produção ou avaliação de mercado. 
+O resultado do desenvolvimento experimental é a comprovação prática da viabilidade 
+técnica ou funcional de um novo produto, 
+processo ou sistema, sendo implementado 
+por áreas de inovação, engenharia e com 
+suporte de universidades, centros de pesquisas, laboratórios de testes e fornecedores especializados e que objetivam alcançar 
+resultados inventivos ou compostos por alto 
+grau de contribuição técnica como as invenções tecnológicas. Geralmente são projetos
+que envolvem treinamentos específicos 
+e podem gerar conteúdos interessantes 
+para possíveis patentes, bem como teses 
+de mestrado e doutorado
+
+
+e. Boas Práticas
+
+Como boas práticas, para que um projeto que apresenta atividade de desenvolvimento experimental não seja caracterizado 
+como sendo de engenharia, torna-se imprescindível evidenciar os riscos tecnológicos 
+envolvidos e a diferenciação do produto/processo desenvolvido em relação a outros já 
+existentes no mercado.
+A seguir, algumas questões orientadoras 
+que podem auxiliar a caracterização do 
+risco tecnológico:
+• Realizar a busca de patente e obter o 
+Relatório do Resultado da busca de 
+viabilidade de patentear o resultado 
+do desenvolvimento;
+• Apresentar o Relatório de Mapeamento
+Tecnológico (TMR) e identificação da 
+tecnologia a ser desenvolvida face aos 
+conhecimentos já existentes;
+• Identificar no projeto de PD&I a contribuição 
+mínima da tecnologia a ser investida e obtida;
+• Comparar com o estado da arte ou com 
+a situação atual dos desenvolvimentos já 
+existentes na empresa, a fim de mostrar 
+o progresso tecnológico que o Projeto de 
+P,D&I trará;
+• Identificar o que pode impedir ou dificultar 
+a aplicação da tecnologia no mercado;
+• Verificar quais são as incertezas tecnológicas 
+presentes no processo de desenvolvimento 
+do projeto;
+• Verificar se os desafios encontrados no 
+projeto são de fácil solução para as pessoas que já possuem conhecimento do 
+assunto; 
+• Esclarecer há quanto tempo está sendo estudada uma solução para tais problemas.
+Além disso, importante caracterizar os desafios técnicos e tecnológicos que não 
+são resolvidos pela simples aplicação do 
+conhecimento geral da área/departamento e 
+despender-se um tempo maior para preenchimento, de forma adequada e consistente, 
+do item “3.1 - Atividades de PD&I” do FORMP&D, descrevendo-se com clareza o elemento
+tecnologicamente novo ou inovador, a barreira ou desafio tecnológico superável, as 
+metodologias e métodos superados.
+De todo o exposto, podemos concluir que 
+a Lei do Bem beneficia o desenvolvimento
+experimental e não conceitua desenvolvimento de engenharia. Além disso, de acordo com o trecho do Relatório Anual do 
+MCTIC (2013), a grande diferença entre as 
+duas atividades estaria no risco tecnológico 
+(na possibilidade de insucesso) envolvido, já 
+que o desenvolvimento experimental envolve risco tecnológico e o desenvolvimento 
+de engenharia se caracteriza por alterações corriqueiras ou rotineiras que não 
+envolvem riscos (processos e metodologias já conhecidas e dominadas 
+pela empresa).
+
+
+4.2 Teste em Escala Industrial
+a. Contextualização Legal
+
+A legislação que norteia a fruição dos incentivos de inovação tecnológica conceitua o desenvolvimento experimental, como relativo a trabalhos sistemáticos delineados a partir de conhecimentos pré-existentes, visando à comprovação ou demonstração da viabilidade técnica ou funcional de novos produtos, processos, sistemas e serviços ou, ainda, um evidente aperfeiçoamento dos já produzidos ou estabelecidos (Fonte: alínea c, art. 2º, Decreto 5.798/2006).
+
+Nesse sentido, os testes são atividades essenciais ao desenvolvimento de um novo/melhorado produto, processos, sistemas e serviços, pois permitem a comprovação da viabilidade técnica, caracterizando-se, assim, como uma atividade de desenvolvimento experimental
+
+
+b. Contextualização Teórica
+
+A viabilidade técnica de uma tecnologia é entendida como um procedimento de transferência dos resultados da pesquisa (básica e aplicada) realizada em ambiente de laboratório para a fase de desenvolvimento e na sequência para produção, após a realização de testes, de conformidade, de qualidade, de viabilidade, etc. Os testes em escala industrial podem ser definidos como ensaios em unidades piloto, equipamento industrial ou unidade industrial para replicar, através de uma metodologia definida, os resultados obtidos em etapas anteriores da pesquisa realizada em ambiente de laboratório. Testes e avaliações compreendem os ensaios de produtos e de processos novos ou significativamente melhorados. No que diz respeito à indústria de transformação, incluem-se nessa categoria a produção para ensaios e as plantas piloto. A produção experimental insere-se no PD&I se ela implicar em testes de escala.O ponto de partida é a tecnologia testada e validada em ambiente de laboratório e o resultado é a tecnologia validada e especificada para implantação em escala de produção. Considerando a escala de maturidade de tecnologia (Technology Readiness Level=TRL), os testes em escala industrial podem ser executados como atividades dos projetos desde o estágio de desenvolvimento (TRL 5) até o estágio de disponibilização de uma a tecnologia (TRL 8). A escala de maturidade de tecnologia (TRL) é a escala desenvolvida para permitir a avaliação da maturidade de uma determinada tecnologia e a comparação consistente de maturidade entre os diferentes tipos de tecnologias em desenvolvimento, ou seja, é uma escala utilizada para dar suporte à tomada de decisão.
+
+As fases iniciais do TRL (1 a 4) correspondem às etapas de pesquisa básica e de validação da tecnologia em escala de laboratório. A partir do TRL 5, inicia-se a etapa de desenvolvimento da tecnologia, considerando:
+
+a) Testes e prototipagem da tecnologia em ambiente de aplicação - Piloto (TRL 5): A tecnologia é preparada e testada em ambiente de produção simulado. 
+
+b)Pré-produção ou pré-utilização da tecnologia, incluindo demonstração da tecnologia em ambiente de aplicação - Protótipo (TRL 6): a tecnologia é integrada em um ambiente industrial de escala reduzida, para que sejam refinadas as especificações e definidos os 
+fatores para escalonamento através de PD&I adicional. Classificam-se como PD&I, a construção e o teste de um protótipo, sendo uma fase das mais importantes do desenvolvimento experimental de uma inovação. Um protótipo é um modelo original (ou uma situação de teste) que inclui todas as características técnicas e as funções do novo produto ou processo. A aceitação de um protótipo significa frequentemente o término da fase de desenvolvimento experimental e o início de uma nova fase do processo de inovação.
+
+c)Produção piloto em baixa escala ou planejamento da tecnologia para demonstração em ambiente operacional (TRL 7): A tecnologia passa a ser testada em ambiente industrial de escala reduzida e especificada para ser produzida ou utilizada em escala real. Trata-se de um passo significativo que requer demonstração no espaço definido para utilização. O protótipo deve estar próximo do caso real ou à escala do sistema operacional planejado e a demonstração tem que ser realizada no ambiente previsto.
+
+d) Tecnologia e processos de produção disponibilizados e qualificados (TRL 8): A tecnologia e os sistemas produtivos estão adaptados, considerando todas as necessidades para a sua implantação, para a escala real de produção industrial. Teste piloto em escala próxima da escala de campo, mas ainda não em escala de disponibilização para o mercado
+
+
+
+
 
