@@ -4520,10 +4520,155 @@ Se o objetivo principal dos trabalhos for a introdução de novos aperfeiçoamen
 
 
 
+c. Contextualização Prática
+Em função dos conceitos tratados em Lei, será realizada uma contextualização para cada uma das tipologias de melhoria referidas: Produto, Processo, Sistema e Serviço..
 
 
-pagina 107
 
+4.1.1 Melhorias em Produt
+Como definido na contextualização teórica, um produto é algo produzido de forma natural ou artificialmente, ou resultado de um trabalho ou operação. Sob este escopo, um produto pode abranger qualquer âmbito ou 
+setor, desde algo físico (uma mesa) a algo intangível (software/serviço). Apesar da grande abrangência, o texto a seguir vai estar focado mais no âmbito industrial, pois o software e o serviço terão tratamento diferenciado nos capítulos “Melhorias em Sistema” e “Melhoria de Serviço”, respectivamente.
+
+A atividade de PD&I de produto pode resultar em artigos novos nos quais a utilização prevista, as características de desempenho, os atributos, as propriedades da concepção, os serviços acrescidos ou autilização de materiais e componentes difiram significativamente dos fabricados anteriormente.
+
+
+Estas inovações podem implicar em tecnologias radicalmente novas ou na associação de tecnologias existentes para novas utilizações. Por exemplo, os primeiros microcomputadores e gravadores de fita magnética foram inovações de produto de tipo radical. Por outro lado, os primeiros “walkman” de fita cassete associaram as técnicas do gravador de fita magnética com as dos mini fones de ouvido, ou seja, inovação de produto do segundo tipo. Nos dois casos, o produto final não existia anteriormente
+
+A atividade de PD&I de produto pode ser também progressiva, traduzindo-se no aumento ou aperfeiçoamento sensível do desempenho de um produto preexistente. Em primeiro lugar, um simples produto pode ser aperfeiçoado em termos de desempenho ou de redução de custo por meio, respectivamente, da utilização de novos componentes ou de novos materiais que apresentem melhor desempenho ou redução de custo.
+
+Em segundo lugar, um produto complexo formado por diversos subsistemas técnicos integrados, pode ser aperfeiçoado por meio de modificações parciais feitas em um dos seus subsistemas.
+
+As inovações progressivas de produto podem apresentar consequências importantes, maiores ou menores, para a empresa. 
+
+A substituição do metal por material plástico no equipamento ou no mobiliário de cozinha é um exemplo da primeira forma de inovação progressiva de produto. A introdução do freio ABS ou de outros aperfeiçoamentos de subsistemas nos automóveis é um exemplo da segunda forma de inovação progressiva de produto.
+
+Apesar da clareza do texto do NSF salientado na contextualização teórica, essa definição pode ser de difícil aplicação em alguns ramos de atividade industrial, pois nem sempre será fácil determinar a existência de elementos 
+apreciáveis de inovação ou verificar se o produto já está substancialmente definido.
+
+Desta forma, se a natureza do projeto for industrial e para a execução do projeto for necessário a realização de prototipagem para identificar a efetividade da melhoria, estas atividades podem ser elegíveis
+
+
+4.1.2 Melhorias em Processo
+Como definido na contextualização teórica, um processo é um conjunto de ações ou atividades sistematizadas que tem uma finalidade específica. Novos métodos, fluxos e soluções envolvidos na criação de valor para o cliente. Sob este escopo, um processo pode abranger qualquer âmbito ou setor, desde um modelo organizacional, até equipamentos e/ou softwares associados (a uma operação específica ou ao conjunto) e mesmo serviços
+
+A inovação de processo pode ser associada a uma sequência de atividades que têm por objetivo gerar resultados através dos processos rotineiros
+. De acordo com o Manual de Oslo, Inovação tecnológica de processo é a adoção de métodos de produção novos ou significativamente melhorados, incluindo métodos de entrega dos produtos. Tais métodos podem envolver mudanças no equipamento ou na organização da produção, ou uma combinação dessas mudanças, e podem derivar do uso de novo conhecimento. Os métodos podem ter por objetivo produzir ou entregar produtos tecnologicamente novos ou aprimorados, que não possam ser produzidos ou entregues com os métodos convencionais de produção, ou pretender aumentar a produção ou eficiência na entrega de produtos existentes.
+
+Geralmente, a melhoria em processos busca aumentar a produtividade, reduzir custos, aumentar a qualidade, diminuir impactos das atividades no meio ambiente, entre outros. 
+
+Apesar da grande abrangência, o texto a seguir focará mais no âmbito industrial, pois o software e o serviço terão tratamento diferenciado em capítulos posteriores
+
+É bastante comum que muitas inovações em processos sejam decorrentes de melhorias de processos existentes, mas para que tais projetos sejam elegíveis à Lei do Bem, é necessário que atividades de PD&I estejam neles contidas e que seja possível identificar a barreira tecnológica a ser superada. 
+
+
+
+Nesse sentido, o quadro abaixo retirado do Manual de Frascati, parte 2.3.4, apresenta alguns casos ilustrativos da fronteira entre o P&D e outras atividades industrial:
+
+Casos 									Tratamento 				Notas
+.Protótipos								Incluir					Sempre que o objetivo principal seja a realização de melhorias.
+.Planta piloto							Incluir					Se o objetivo principal for P&D
+.Desenho Industrial e técico			Suvdividir				Incluir os trabalhos agregados de P&D
+.Engenharia industrial e ferramentaria	Subdividir				Incluir os trabalhos agregados de P&D. Excluir desenhos de processo de produção quando não atrelados ao processo de melhoria.
+.Produção experimental					Subdividir				Incluir se a produção implicar em experimentos em escala real e, em função dos resultados, em novos estudos de planejamento e de engenharia. Excluir todas as outras atividades conexas
+.Pós-venda e manutenção					Excluir					Exceto PD&I suplementar
+.Testes de Rotina						Excluir					Mesmo se realizados por pessoal ligado à P&D
+
+
+
+Pode haver dificuldade das empresas em identificar que tipos de projetos de melhorias são elegíveis para a Lei do Bem. 
+
+A seleção destes projetos parte justamenteda identificação das atividades de PD&I neles contidas e como elas influenciaram nos resultados dos projetos, neste caso nas melhorias de processos.
+
+Muitas vezes, para esclarecer eventuais dúvidas, é interessante identificar atividades que promovem a inovação por 
+meio de melhorias e que não são consideradas atividades de P&D e, consequentemente, não elegíveis para a Lei 
+do Bem. Dentre elas, o Manual de Frascati destaca:
+
+“compra de tecnologias (incorporadas nos produtos ou não), ferramentas e engenharia industrial, concepção industrial (não especificada, aliás), outras aquisições de capitais, a fabricação e a comercialização de produtos novos ou melhorados”
+
+Salvo em casos em que estes estejam atrelados ao novo processo ou à sua melhoria significativa, podem sim ser considerados como elegíveis, pois possibilitam ganho de conhecimento e agregação de valor.
+
+
+• Problemas Pré-Produção: Dificuldades na partida da produção podem, ocasionalmente, implicar em trabalhos complementares de PD&I. Porém, mais frequentemente, serão os problemas nas máquinas e processos de produção a origem dessas dificuldades, cuja resolução implica apenas em modificações menores nas máquinas e processos padronizados adotados. Consequentemente, esses trabalhos não devem ser computados como PD&I.
+
+• PD&I suplementar no lançamento de produção: Quando um novo produto ou novo processo é lançado na produção, ainda podem persistir problemas técnicos que necessitem de trabalhos de PD&I suplementares. Estes devem ser incluídos na mensuração das atividades de PD&I.
+
+• Projetos Industriais: No campo industrial, a maior parte dos trabalhos de concepção se concentra nos processos de produção e, como tal, não devem ser classificados como PD&I. Entretanto, alguns dos elementos do projeto industrial podem ser classificados como PD&I, como os projetos de produto, especificações de processo e as próprias especificações técnicas gerais. Por exemplo, no caso de produtos que incorporem componentes usinados, tratamento térmico e/ou operações de galvanoplastia, a definição das características requeridas para a rugosidade superficial, para o processo de tratamento térmico ou para o processo de galvanoplastia, bem como a coleta de dados referente, incorporada ou constituindo-se como documentação em separado dos projetos, devem ser considerados como atividade de PD&I.
+
+• Ferramentaria e Industrialização: Na maior parte dos casos, as fases de ferramentaria e industrialização são componentes do processo de produção. Podem ser identificadas três fases na ferramentaria, a saber:
+
+• A utilização dos componentes pela primeira vez, incluindo o uso de componentes advindos dos trabalhos das atividades de PD&I;
+
+• O ajuste inicial do ferramental ou do maquinário de produção seriada; 
+
+• A instalação de equipamentos relacionados ao desenvolvimento da produção seriad
+
+Apesar de ser parte do processo produtivo, se a fase de ferramentaria ainda necessitar do desenvolvimento de novos trabalhos de PD&I, eles podem devem ser classificados como P&D
+
+A título de exemplo, atividades como o desenvolvimento de máquinas e ferramentas de produção, modificações de procedimentos de produção e de controle de qualidade ou o desenvolvimento de novos métodos e padrões, devem ser consideradas como PD&I
+
+A fabricação de um veículo, geralmente, realiza-se pela integração de determinado número de diferentes subconjuntos e componentes, cujas tecnologias são conhecidas. 
+
+Contudo, se surgirem problemas no processo de integração e se for necessária a realização de P&D para produzir um produto aceitável, estas atividades associadas com o processo de ferramentaria devem ser classificadas como PD&I.
+
+Como outro exemplo, se a fabricação de um protótipo for realizada por soldagem e a produção final for um processo complexo de fundição, os trabalhos envolvidos no planejamento e otimização dos moldes, no desenvolvimento de seus sistemas de alimentação ou na criação de procedimentos de inspeção radiográfica com níveis de tolerância aceitáveis, devem ser considerados como P&D.
+
+Assim, atividades suplementares de P&D resultantes da fase de ferramentaria podem ser consideradas como PD&I
+
+
+
+4.1.3 Melhorias em Sistema
+Como definido na contextualização teórica, sistema é um módulo ordenado de elementos interligados e que interagem entre eles mesmos. Sob este escopo, um sistema pode abranger qualquer âmbito ou setor, desde um conjunto de componentes ou elementos físicos que componham um produto, até uma interligação de elementos intangíveis que interagem para atender uma demanda específica.
+
+Assim, como já existem capítulos específicos citados anteriormente relacionados à parte de produto ou processo, onde já é incluído o conceito de sistema associado a eles, o texto a seguir está focado ao sistema como um intangível, especificamente, ao relacionado a softwares.
+
+“Inovação é a implementação de um produto (bem ou serviço) ou processo novo ou com um alto grau de melhoria, ou um método de comercialização ou organizativo novo aplicado às práticas de negócio, ao lugar de trabalho ou às relações externas”, segundo o Manual de Oslo, de todas as definições, a inovação puramente tecnológica é aquela 
+relacionada com o produto ou processo. Assim, “as inovações de processo também abarcam técnicas, equipamentos e softwares novos ou substancialmente melhoradas em atividades auxiliares de suporte, como compras, contabilidade, computação e manutenção. A implementação de tecnologias da informação e da comunicação (TIC) novas ou significativamente melhoradas é considerada uma inovação de processo se ela visa melhorar a eficiência e/ou a qualidade de uma atividade auxiliar de suporte9”
+
+Inovações tecnológicas nessa área estão mais relacionadas às mudanças nas plataformas tecnológicas dos produtos ou à introdução de novas tecnologias, como um novo software ou ferramentas; e as funcionais ou sistêmicas, relacionadas à introdução de novas funcionalidades realizadas por meio de novas programações ou reprogramações do 
+sistema, não exigindo a inclusão de um novo software ou hardware.
+
+O Manual de Frascati considera o desenvolvimento de software como PD&I apenas quando se dá a resolução de uma incerteza científica e tecnológica sobre bases sistemáticas. Esta determinação exclui atividades como conversão e/ou tradução de linguagem de computação, adaptação de sistemas existentes e outros, ações típicas 
+do desenvolvimento de inovação incremental, características das empresas nacionais de base tecnológica, mais especificamente das desenvolvedoras de software de gestão integrada.
+
+O aspecto destes projetos ligados ao desenvolvimento de softwares pode ser classificado em P&D se ele resulta em um progresso no campo de softwares. 
+
+Destas melhorias, normalmente, procede uma evolução em vez de uma revolução. 
+
+É por isso que a transição para uma versão mais poderosa, uma adição ou uma modificação de um programa ou de um sistema existente podem ser classificadas como P&D, se elas incorporam os progressos científicos e/ou tecnológicos que levam a um enriquecimento do conhecimento
+
+Um progresso científico e/ou tecnológico é possível em matéria de software e pode ser realizado mesmo se um projeto não é concluído no prazo. 
+
+Na verdade, uma falha pode aumentar os conhecimentos que temos da tecnologia de software, ao mostrar que uma abordagem especial não dará resultado.
+
+Determinados projetos, quando observados individualmente, podem não parecer como enquadráveis nos conceitos 
+de PD&I, pois não se consegue enxergar durante o desenvolvimento do sistema o uso de novas tecnologias ou riscos 
+tecnológicos suficientes que impliquem sua caracterização como tal. Mas, dentro de um contexto global, quando 
+analisada a interligação do sistema com outros sistemas coligados, podem ser identificadas propriedades que permitam a categorização como PD&I
+
+Assim, por exemplo, certas modificações na estrutura de dados e nas interfaces com o usuário em um processador de linguagem de quarta geração podem tornar-se necessárias devido à introdução de uma tecnologia relacional. Essas modificações ou adaptações podem não ser consideradas como PD&I quando vistas isoladamente, mas o projeto de adaptação, no seu conjunto, pode gerar uma solução para uma incerteza científica ou técnica e, por conseguinte, merecer a classificação como PD&I.
+
+Ou seja, os trabalhos para o desenvolvimento de um software “simples”, utilizando ferramentas e tecnologias corriqueiras, que a priori não teria enquadramento nos conceitos de PD&I, poderiam se enquadrar em casos de integração com outros softwares e tecnologias que fazem parte de um sistema único, sempre que tal integração e adaptação apresente desafio tecnológico.
+
+
+O desenvolvimento de um novo software, os sistemas de melhoria sensíveis de sistemas, programas de aplicação, dentre outros, são próprios de desenvolvimento experimental
+
+Assim, no desenvolvimento inicial do programa, a concepção detalhada e integração de sistemas parecem atender o desenvolvimento experimental. De fato, essa integração inclui o teste, e estes estão bem na fase de desenvolvimento experimental. Se o programa de modernização deve completar todos os passos listados, é provável que 
+as melhorias substanciais seguidas a este trabalho possam ser consideradas como de desenvolvimento experimental. No caso em que o programa de modernização seja dessa natureza, fases de design do sistema e integração do sistema também seriam consideradas como desenvolvimento experimental.
+
+
+
+4.1.4 Melhoria em Serviços
+
+Em relação a empresas de serviços, a tarefa de identificar projetos de melhorias que possam ser usados na Lei do Bem pode ser ainda mais complexa, pois as fronteiras de PD&I em projetos de serviços são ainda mais difíceis de se identificar. 
+
+Devido à diversidade existente no setor serviços, concluí-se que este está envolto em múltiplas transformações que transcendem uma simples definição de categorias, e, além disso, dentro de cada segmento há normalmente múltiplos sistemas de inovação sobrepostos. Assim, os autores optam por analisar a performance inovativa dos 
+diferentes agentes, reveladas dentro de cada subsetor
+
+No caso da área bancária, por exemplo, um projeto para melhorar a experiência e segurança do serviço de home banking pode exigir o desenvolvimento de um hardware específico para chave de criptografia, uma arquitetura de software em nuvem com especificidades tecnológicas para garantir a segurança dos dados, além de mudanças substancias no processo de autoatendimento para promover engajamento dos usuários no uso do serviço; neste caso, é importante considerar a possibilidade da análise quanto às atividades de PD&I de forma separada, conforme sugere o Manual de Frascati que exemplifica tipologias de projeto enquadráveis, destacadas a seguir:
+
+
+
+página 118
 
 
 
