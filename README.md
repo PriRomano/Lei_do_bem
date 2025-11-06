@@ -3097,7 +3097,7 @@ emite um parecer técnico validando as atividades de pesquisa e desenvolvimento 
 aprovadas podem apresentar recurso e encaminhar suas justificativas e, nesse caso, nova avaliação será realizada.
 • Esse processo é regulamentado pela Portaria MCTI nº 2.794 de 30 de junho de 2020, que “Dispõe sobre os procedimentos para a prestação de informações ao MCTI, pelas empresas beneficiárias dos incentivos fiscais de que trata o Capítulo III da Lei nº 11.196, de 21 de novembro de 2005 (Lei do Bem), referentes aos seus programas e projetos de pesquisa tecnológica e desenvolvimento de inovação tecnológica, bem como os procedimentos para a análise das informações e para a apresentação de contestação e recurso do resultado da análise”. Segue abaixo o fluxograma do processo:
 
-
+![Fluxograma Portaria MCTI nº 2.794 de 30 de junho de 2020](https://github.com/PriRomano/Lei_do_bem/blob/main/Figura%201.png)
 
 Figura 1 – Fluxograma Portaria MCTI nº 2.794 de 30 de junho de 2020
 - Abertura do prazo de preenchimento FORMP&D COIDI/CGIT/DEEMI/SEMPI
