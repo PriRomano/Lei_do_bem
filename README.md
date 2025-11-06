@@ -4674,22 +4674,252 @@ No caso da área bancária, por exemplo, um projeto para melhorar a experiência
 
 
 
-página 118
+• Pesquisa matemática relacionada à análise de risco financeiro.
+• Desenvolvimento de modelos de riscos para elaborar uma política de crédito.
+• Desenvolvimento experimental de um novo software para as operações bancárias feitas em casa.
+• Desenvolvimento de técnicas para o estudo do comportamento dos consumidores para criar  novos tipos de contas e serviços bancários.
+• Pesquisa com a finalidade de identificar novos riscos ou novas características de risco a serem 
+levados em consideração nos contratos de seguro.
+• Pesquisa sobre os fenômenos da sociedade que têm um impacto sobre as novas formas de  seguro (saúde, aposentadoria etc.), como a cobertura para não fumante.
+• PD&I relacionada com bancos e seguros por via eletrônica. Serviços relacionados com a Internet e aplicações de comércio eletrônico.
+• PD&I relacionada a serviços financeiros novos ou consideravelmente melhores (novas contas,  empréstimos, seguros conceitos e de instrumentos de poupança)
+
+
+É mais difícil identificar PD&I no setor  de serviços do que na indústria manufatureira porque este não revela necessariamente uma característica “especializada”, mas inclui várias áreas: PD&I relacionada à tecnologia, em ciências sociais e humanas, incluindo PD&I relativa ao conhecimento de comportamentos e organizações. Este último conceito já está integrado no ensaio do “conhecimento do homem, cultura e sociedade”, mas é particularmente importante no caso de atividades de serviço. Como esses tipos diferentes de PD&I podem ser combinados em um dado determinado projeto, é importante delinear com clareza as diferentes formas que toma a PD&I considerada. Se a análise se limita a trabalhos de PD&I relacionados com a tecnologia, por exemplo, há um risco de subestimar o conteúdo de PD&I.
+
+O Manual de Frascati reconhece que o setor de serviço foi sempre desconsiderado em virtude da PD&I básica nas áreas das ciências exatas,  naturais e de engenharia. Essa área, a partir do manual de 2002, começa a ser apresentada
+
+Suas aplicações nos serviços apresentam, por consequência, problemas específicos. Estas atividades comportam muitas vezes aplicações de software e trabalhos de pesquisa em ciências sociais. No segundo capítulo, uma nova seção (2.4) foi adicionada para examinar tais problemas.
+
+Além disso os produtos oferecidos na forma de serviço nas últimas décadas têm se sofisticado
+
+Isso levou a inovações imateriais nas atividades de serviços e de produtos, já que o setor de serviços cada vez mais contribui de maneira crescente para os trabalhos do setor empresarial.
+
+
+
+Os projetos desenvolvidos nessa área de serviços incluem os setores de gestão administrava, bancos, seguros e outros setores onde há um produto ou processo imaterial com problemas específicos de identificação de PD&I nas suas atividades:
+
+É difícil definir os limites de PD&I nas atividades de serviços por dois motivos essenciais: em primeiro lugar, é difícil identificar projetos que envolvam P&D e, segundo, porque a linha entre P&D e outras atividades inovadoras que não são parte de P&D é muito tênue. 
+
+Entre os muitos projetos inovadores no domínio de serviços, aqueles que constituem PD&I conduzem a novos conhecimentos ou utilizam conhecimentos para desenvolver novas aplicações, de acordo com a definição dada no primeiro parágrafo do presente capítulo. 
+
+Além disso, em empresas de serviços, P&D não é sempre organizada formalmente em empresas manufatureiras (ou seja, com um serviço dedicado a P&D e emprego de pesquisadores ou engenheiros de pesquisa identificados como tal na tabela de efetivos etc.). O conceito de P&D em serviços permanece menos preciso, por vezes passando despercebido dentro dessas empresas. À medida que se acumula experiência em matéria de levantamentos sobre P&D nos serviços, os critérios para a identificação de P&D e exemplos de P&D ligados a serviços podem exigir refinamento.
+
+
+d. Exemplos para melhorias em produto, processo, sistema e serviços
+
+Além dos exemplos citados no decorrer do  texto, podemos apresentar mais alguns casos que podem corroborar no entendimento de que há a necessidade de PD&I na melhoria substancial de produtos, processos, sistemas e serviços. 
+
+Em relação à melhoria de produtos, um exemplo bastante claro da necessidade de PD&I é o desenvolvimento de roupas autolimpantes. A incorporação de um composto químico junto às fibras do algodão possibilitou tornar a ligação entre elas resistente ao ponto de suportar situações adversas e, principalmente, um grande número de lavagens e ainda, quando exposta à luz, é capaz de liquidar bactérias que estejam infestando e produzindo odores
+
+Como melhoria de processos, podemos citar a utilização de código de barras nos hipermercados. Não houve nenhuma alteração em relação as características básicas do serviço, porém introduziu melhorias significativas em relação ao tempo de processamento da conta do cliente e permitiu maior controle 
+dos produtos expostos e em estoque. Também podemos citar como exemplos a implementação de um novo equipamento de automação em uma linha de produção ou a implementação de um design assistido por computador para desenvolvimento de produtos.
+
+A introdução de mecanismos de monitorização GPS para serviços de transporte e a implementação de um novo sistema de reserva em uma agência de viagens são também exemplos de melhorias de processo.
+
+Um exemplo de melhoria em sistemas é a transformação de uma aplicação desktop para web ou para dispositivos móveis. Para ser considerada uma atividade de PD&I é preciso que a empresa demonstre que suas especificidades não são bem tratadas pela tecnologia e conhecimento vigentes. E para isso existem algumas questões que podem ser feitas para embasar o entendimento da empresa: o que a equipe aprendeu ao executar o projeto/atividade configura um conhecimento útil não disponível largamente no corpo de conhecimento 
+da área? Esse conhecimento seria de grande valia para uma outra empresa do mercado?
+
+Geraria uma novidade para os profissionais da área? Muitas vezes, a experimentação de uma tecnologia/metodologia nova e ainda instável no mercado pode gerar uma série de lições aprendidas que poderia configurar o avanço científico/tecnológico.
+
+Com relação à melhoria em serviços, um exemplo seria a necessidade de desenvolvimento de um novo modelo econométrico (um conjunto de ferramentas estatísticas com o objetivo de entender a relação entre 
+variáveis econômicas através da aplicação de um modelo matemático) para avaliação de riscos de um grupo específico. A solução contemplou a criação de um método de coleta que possibilitasse a aquisição de dados 
+de comportamento real do próprio usuário, eliminando a utilização de modelos teóricos. 
+
+A partir de tal coleta, foi necessária a realização de modelagens estatísticas para a identificação dos padrões comportamentais e segmentação de usuários dentro do mesmo grupo.
+
+A partir disso foram, elaboradas estratégias de indução de comportamento através do oferecimento de vantagens financeiras. Nesse momento, outras questões impõem-se: quais vantagens surtiriam o efeito 
+desejado; em qual grau tais vantagens deveriam ser concedidas etc. 
+
+Para uma correta definição de tais estratégias, há necessidade de serem considerados outros aspectos comportamentais que deverão ser caracterizados a partir de outros trabalhos de coleta de dados. As 
+incertezas para realização das tarefas de identificação de padrões e segmentação podem ser resumidas em: a estabilidade de um modelo estatístico é prejudicada em função do aumento do número de variáveis (princípio da parcimônia), o que restringe a coleta de informações muitas vezes importantes para uma correta caracterização; dimensionamento adequado das métricas de coleta levando em conta as necessidades de modelagem e a capacidade de coletae processamento dos dados via sistemas móveis; defeito de sobredispersão devido à heterogeneidades de indivíduos
+
+
+
+Segue uma lista de outros exemplos de PD&I em serviços:
+• Desenvolvimento de modelos econométricos para entender a relação entre variáveis econômicas através da aplicação de um modelo matemático para avaliação de riscos de um grupo específico.
+• Análise dos efeitos da evolução econômica e social sobre o consumo e atividades de lazer.
+• O desenvolvimento de novos métodos para medir as expectativas e as preferências dos consumidores.
+• Desenvolvimento de novas abordagens e novos instrumentos de pesquisa.
+• Elaboração de procedimentos para localização e controle (logística).
+• Pesquisa de novos conceitos em viagens e férias.
+• Lançamento de serviços protótipos e lojas piloto
+
+
+
+e. Boas Práticas
+
+As empresas costumam descrever o que o produto, processo, sistema ou serviço desenvolvido tem, isto é, suas funcionalidades. Não é a prática usual descrever claramente os seguintes pontos: o problema tecnológico resolvido, com que abordagem ele foi resolvido, se precisou de investigação ou se foi resolvido com o repertório de conhecimentos dominado. 
+
+Esta é a informação que deve ser contextualizada. Deve-se evitar afirmar a “inovação” de maneira absoluta, sem menção a um benchmarking ou a outra forma de comparação que justifique a qualificação de inovação tecnológica.
+
+
+
+4.5 Projetos Plurianuais
+Muitas empresas possuem em seu portfólio projetos de diferente duração. Projetos plurianuais são aqueles que ocorrem por um período superior a um ano. Tais projetos podem ser tanto de pesquisa básica ou aplicada, quanto desenvolvimento experimental existindo tarefas durante todo o período que podem ou não enquadradas em qualquer dos conceitos anteriormente descritos. Como características básicas, projetos 
+plurianuais devem possuir um planejamento de longo prazo, com etapas de execução, acompanhamento, registro de atividades e fluxo de caixa do projeto em questão.
+
+Devido às características específicas da legislação vigente (Lei 11.196 de 2005, Lei do Bem), poderemos considerar como projetos plurianuais aqueles cujos trabalhos se estendem além de um período fiscal, para o caso do Brasil, com trabalhos executados em 
+
+
+a. Contextualização Legal
+Não existe na legislação nenhuma relação direta que trate conceitualmente deste assunto. Em relação a período, a legislação discorre de maneira objetiva com o olhar tributário, ou seja, o fechamento em ano calendário. Nos tópicos abaixo, abordaremos como reportar projetos plurianuais de acordo com a Lei do Bem
+
+b. Contextualização Teórica
+
+A pesquisa básica (PB) consiste em trabalhos experimentais ou teóricos desenvolvidos principalmente com a finalidade de adquirir novos conhecimentos sobre os fundamentos de fenômenos e fatos observáveis, sem 
+considerar uma aplicação ou uso particular. 
+
+A pesquisa aplicada (PA) consiste igualmente em trabalhos originais empreendidos com o objetivo de adquirir novos conhecimentos. No entanto, ela é principalmente direcionada a um objetivo prático determinado. O desenvolvimento experimental (DE) consiste em trabalhos sistemáticos com base 
+em conhecimentos existentes obtidos pela pesquisa ou experiência prática, para lançar a fabricação de novos materiais, produtos ou dispositivos, para estabelecer novos procedimentos, sistemas e serviços ou para melhorar os já existentes em P&D. 
+
+Inclui tanto a P&D formal quanto a P&D informal ou ocasionalmente outras unidades.
+
+As informações indicadas no parágrafo anterior são novamente lembradas para melhor entendimento da fundamentação explicitada a seguir, pois é importante salientar que, nas três definições indicadas (PB, PA e DE) o conceito “trabalhos” é totalmente abrangente, pelo que podemos interpretar que as atividades que agreguem valor ao projeto de P&D, permitindo atingir o objetivo deste, podem ser consideradas dentro do âmbito da P&D.
+
+
+
+Para melhor esclarecer esta interpretação dada, seguem algumas dicas indicadas no próprio Manual de Frascati, no qual fica evidenciado que algumas tarefas, não sendo consideradas individualmente como de Pesquisa ou Desenvolvimento, se fazem parte de um projeto de P&D (como parte deste, agregando valor, não como atividade indireta), podem ser consideradas como atividade de P&D. Todas as informações a seguir foram extraídas do Manual de Frascati, capítulo 2.2, Atividades excluídas de P&D:
+
+• As atividades especializadas tais como atividades de coleta, indexação, classificação, difusão, tradução, análise e avaliação, deverão ser excluídas, salvo quando levarem exclusivamente ou 
+principalmente ao apoio de sustentação de P&D (por exemplo, a preparação de relatório original sobre os resultados de P&D será incluída nas atividades de P&D
+
+• Ainda que a coleta de dados de interesse geral (atividade desenvolvida habitualmente por organismos públicos) seja considerada como excluída da P&D, a coleta de dados efetuada exclusivamente ou principalmente no quadro de processos de P&D está inclusa nas atividades de P&D (dados sobre as trajetórias e características particulares no interior de reatores nucleares, por exemplo). Este raciocínio se aplica igualmente no tratamento e interpretação de dados.
+
+• Em relação aos estudos de viabilidade, é comentado que o estudo de projetos da engenharia de acordo com as técnicas existentes, com a finalidade de fornecer informações adicionais antes de tomar qualquer decisão de implementação, não faz parte de P&D. Nas ciências sociais, estudos de viabilidade consistem em examinar as características socioeconômicas e as consequências das situações determinadas (por exemplo, um estudo sobre a possibilidade de implantar um complexo petroquímico em uma determinada área). No entanto, estudos de viabilidade em projetos de pesquisa são parte de P&D.
+
+Existem diversos exemplos adicionais no Manual de Frascati que esclarecem o posicionamento das entidades e organismos participantes deste em relação a esta tipologia de atividades. 
+
+O escopo destas informações é o de salientar que não em toda fase ou trabalho de um projeto de P&D existe 
+um risco tecnológico associado, e essa atividade continua sendo passível do incentivo por se tratar de uma atividade de P&D, salientando sempre que este trabalho tem que ser necessário para o andamento do projeto e não se trate de uma atividade auxiliar indireta (como atividades de controle de custos, por exemplo).
+
+Na contextualização prática será colocado um exemplo para melhor entendimento desta interpretação
+
+
+
+c. Contextualização Prática
+
+Desenvolvimento de novo equipamento de grande tamanho com os diferenciais a seguir: 
+• menor tamanho, devido à realização de desenho mais compacto; 
+• maior eficiência, devido à aplicação de novo circuito eletrônico; 
+• menor peso, devido à utilização de materiais alternativos em alguns componentes.
+
+
+
+[Cronograma Macro] (https://github.com/PriRomano/Lei_do_bem/blob/main/cronograma%20macro.png)
+
+
+Analisando três das etapas do projeto, podemos  evidenciar que:
+
+• Desenho mecânico: existe risco tecnológico, pois está sendo definido um novo desenho mais compacto e que implica no uso de materiais alternativos, visto que um desenho inapropriado pode trazer falhas de: resistência mecânica, por usar materiais alternativos e chapas de menor espessura (risco de quebra, dobra, resistência a alta temperatura, etc.); funcionamento ineficiente, pois um produto mais compacto pode limitar as funcionalidades do equipamento; entre outros.
+
+• Teste laboratorial: análise física. São testes com tipologia padrão e podem ser destrutivos ou não destrutivos (dureza, desgaste, tração, compressão, friabilidade, etc.). Não existe risco tecnológico associado a esta atividade, pois são procedimentos padronizados para testar um conceito definido 
+previamente.
+
+• Preparação para lançamento e venda do produto: se trata de atividade sem risco tecnológico, voltada para a ações de mercado e melhor definição de estratégia para a venda do novo produto desenvolvido.
+
+Podemos observar, nestas três atividades:
+• Desenho mecânico, que cumpre todos os requisitos de forma evidente para ser tratada como atividade de P&D passível de incentivo, pois existe risco tecnológico associado a ela.
+
+• Teste laboratorial, na qual não existe risco tecnológico, mas se trata de uma atividade necessária para o correto andamento do projeto, agregando valor ao resultado final do desenvolvimento. É, portanto, uma atividade passível de se enquadrar como de P&D.
+
+• Preparação para lançamento e venda do produto: não existe risco tecnológico nem é etapa necessária para o andamento do projeto. Portanto, não é trabalho passível de se enquadrar como P&D.
+
+
+Não é necessário que toda a atividade de P&D tenha um risco tecnológico associado. O risco tecnológico está associado ao projeto como um todo.
+
+Seguindo o exemplo sugerido, em 2019, não haveriam atividades de risco tecnológico, seriam atividades vinculadas ao teste e validação do conceito ideado. Não haveria necessidade de modificar a descrição da inovação e do desafio associado (exceto no caso de observação de falhas que não tinham sido planejadas), e sim de evidenciar, de forma específica, os trabalhos desenvolvidos durante o ano.
+
+
+d. Boas Práticas
+
+
+Ainda que um projeto seja plurianual, na avaliação de um Programa Anual, da qual esse projeto faça parte, a proposta do projeto será analisada considerando sua duração total. No entanto, na aprovação do Programa Anual serão considerados somente os custos do projeto referentes ao ciclo em questão. 
+
+A continuidade do projeto plurianual deverá fazer parte do(s) Programa(s) do(s) ciclo(s) seguinte(s) ao inicial, nos quais deverão ser considerados os respectivos custos de execução do projeto, de acordo com o 
+cronograma aprovado.
+
+Na continuidade de um projeto plurianual, poderá ser necessário alterar a execução de etapas previstas na proposta inicial. Essas alterações deverão ser identificadas no relatório anual apresentado ao MCTIC para 
+cada ciclo em que será avaliado o projeto. 
+
+O MCTIC solicita que sejam atualizadas as informações no decorrer dos anos do projeto, incluindo aquelas relacionadas à barreira tecnológica. Como demostrado no contexto teórico e prático, não tem por que existir motivo para alteração em relação ao risco tecnológico, exceto se encontrada alguma dificuldade adicional não planejada que seja importante destacar.
+
+Também vale ressaltar que, na descrição de projetos plurianuais, devem ser descritas quais atividades foram realizadas em cada ano. Não se deve repetir a descrição dos anos anteriores, não indicando
+evoluções nos desenvolvimentos, o que não é adequado e pode gerar questionamentos por parte dos avaliadores.
 
 
 
 
+Para melhor evidenciar as evoluções do projeto, recomenda-se:
+
+• No campo “Metodologia/Métodos utilizados”, recomenda-se que o conteúdo seja alterado a cada ano de apresentação do projeto, salientando os trabalhos, dentro do cronograma, que foram desenvolvidos no decorrer do ano base.
+
+• Aproveitar o campo “Descrição Complementar” para esclarecer qualquer alteração com maior detalhe. 
+
+• Se houver alguma alteração significativa de um ano para o outro no desenvolvimento do projeto, é recomendo reescrever o relatório. Caso houver alteração do escopo ou do desafio encontrado, modificar os textos correspondentes no relatório. Sugere-se ainda descrever as dificuldades e/ou desafios que não foram superados, se a empresa acredita ser possível solucionar nos próximos anos ou se, de fato, trata-se de uma barreira insuperável causando o insucesso do projeto.
+
+Recomenda-se apresentar ao MCTIC um documento anexo contendo o cronograma geral do 
+projeto detalhando os objetivos que se pretende atingir em cada ano de desenvolvimento.
+
+
+
+4.6. Terceirização das Atividades de P&D
+a. Contextualização Legal
+
+Um dos pontos mais controversos em relação ao benefício fiscal à inovação tecnológica é a identificação dos dispêndios que podem ser considerados como PD&I, principalmente se tratando de serviços prestados 
+por terceiros.
+
+De acordo com o inciso I, do artigo 17 da Lei nº 11.196/2005, podem ser beneficiados: 
+“os dispêndios realizados no período de apuração com pesquisa tecnológica e desenvolvimento de inovação tecnológica classificáveis como despesas operacionais pela legislação do Imposto sobre a Renda da Pessoa Jurídica - IRPJ ou como pagamento na forma prevista no § 2º deste artigo”.
+
+A Lei do Bem não definiu claramente quais tipos de dispêndios poderiam ser beneficiados, mas em relação à contratação de serviços PD&I de terceiros, a Lei dispôs expressamente que poderão ser beneficiados os 
+pagamentos realizados a universidades, instituição de pesquisa, inventor independente (art. 17, §2º Lei nº. 11.196/2005), microempresa e empresa de pequeno porte (art. 18 da Lei nº 11.196/2005), desde que a pessoa jurídica que efetuou o dispêndio fique com a responsabilidade, o risco empresarial, a gestão e o controle da utilização dos resultados gerados.
+
+A Lei nº 11.196/2005 não se pronunciou acerca da possibilidade de beneficiamento dos valores pagos às médias e grandes empresas. No entanto, a Instrução Normativa RFB nº 1.187/2011 dispôs que não é 
+permitido o uso dos incentivos em relação às importâncias empregadas ou transferidas a outra pessoa jurídica para execução de pesquisa tecnológica e desenvolvimento de inovação tecnológica sob encomenda 
+ou contratadas, salvo as permissões legais (universidades, instituição de pesquisa, inventor independente, microempresa (ME) e empresa de pequeno porte (EPP)).
+
+Destaca-se, ainda, que a própria Instrução Normativa RFB nº 1.187/2011 em seu artigo 4º esclarece que os dispêndios com a prestação de serviços técnicos, tais como exames laboratoriais, testes, contratados 
+com outra pessoa jurídica podem ser beneficiadas desde que não caracterizem transferência de execução da pesquisa, ainda que parcialmente.
+
+Nesse mesmo sentido, a Solução de Consulta nº 277, de 31 de outubro de 2011, esclarece que o previsto no artigo 18 da Lei do Bem não traz impedimento para que dispêndios realizados com empresas de grande porte sejam beneficiados, desde que não haja transferência da execução da pesquisa, ainda que parcialmente
+
+
+
+“PESQUISA TECNOLÓGICA E DESENVOLVIMENTO DE INOVAÇÃO TECNOLÓGICA. 
+
+
+O benefício previsto no artigo 18 da Lei n° 11.196/05 não impede que as despesas com 
+pesquisa tecnológica e desenvolvimento de inovação tecnológica, classificáveis como despesas operacionais pela legislação do Imposto sobre a Renda de Pessoa Jurídica (IRPJ) realizadas com empresas de grande porte sejam levadasem consideração para o aproveitamento do incentivo fiscal, desde que não caracterizem 
+transferência de execução da pesquisa, ainda que parcialmente. Cabe ao Ministério da Ciência e Tecnologia - MCT determinar se os dispêndios efetuados pela pessoa jurídica podem ser considerados como dispêndios vinculados à pesquisa tecnológica e desenvolvimento de inovação tecnológica, para fins de gozo do incentivo fiscal. ”
+
+
+Diante dos dispositivos acima mencionados, entende-se que as atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica (pesquisa básica, pesquisa aplicada e desenvolvimento experimental) apenas podem ser beneficiadas quandoencomendadas/contratadas para universidades, instituição de pesquisa, inventor independente, microempresa e empresa de pequeno porte, atendidas 
+as condições impostas pela legislação.
+
+Já serviços de apoio técnico, tais como exames laboratoriais ou testes, e a tecnologia industrial básica (ver campos correspondentes do Guia), podem ser terceirizadas, independentemente do porte da empresa contratada, desde que não caracterize transferência da pesquisa.
 
 
 
 
+b. Contextualização Teórica
+
+Atualmente é muito comum no desenvolvimento de novos produtos ou processos a prática de inovação aberta (open innovation), ou seja, conforme o livro Open Innovation: The New Imperative for Creating and Profiting from Technology, de Henry Chesbrough, as empresas também recorrem a conhecimentos externos para 
+avançar de forma eficiente nas atividades de PD&I, já que o conhecimento esta globalmente distribuído.
+
+A prática da inovação aberta pode se dar de diversas formas, tais como por meio da internalização de ideias, tecnologias, patentes (ou até mesmo licenciamento das mesmas), protótipos, criação de spin-offs, etc. Porém, é claro que, neste modelo, o estabelecimento de parcerias é fundamental. 
+
+No que tange as atividades de PD&I, especificamente, tem sido prática recorrente a formalização de parcerias com universidades, instituições de pesquisa ou empresas com o propósito de desenvolver novos/aprimorados produtos ou processos. As parcerias são constituídas para suprir lacunas internas 
+da empresa. Estas demandas podem ser, por exemplo: carência de habilidades ou especialização; necessidade de desenvolvimento de materiais, peças, componentes, produtos, equipamentos e serviços técnicos complementares; necessidade de focar nas atividades estratégicas de PD&I em detrimento da atuação no desenvolvimento de atividades periféricas, mas essenciais para atingir o objetivo principal.
+
+Em cada parceria executada, há um propósito específico de execução de projetos de PD&I. Em alguns casos, o objeto de contratação será apenas a execução de encomenda de tecnologia, ou seja, a proposta da contratação é delegar a um terceiro a execução de toda pesquisa
+
+Em outros, a proposta é o desenvolvimento de uma parceria para a realização de um projeto cujo escopo será o surgimento de uma inovação compartilhada (desenvolvimento compartilhado). Há casos também em que haverá apenas prestação de serviços que serão executados de forma a complementar o atingimento do objetivo da inovação - obtenção ou aprimoramento de produtos ou processos. E, por vezes, o escopo da prestação será apenas a qualificação e homologação de tecnologias existentes.
 
 
 
 
-
-
-
+136
 
 
 
